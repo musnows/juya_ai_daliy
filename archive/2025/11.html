@@ -3,76 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI早报 - 每日AI资讯精选</title>
-    <link rel="icon" type="image/jpeg" href="static/favicon.jpeg">
-    <link rel="stylesheet" href="static/css/style.css">
+    <title>2025年11月AI早报归档 - AI早报</title>
+    <link rel="icon" type="image/jpeg" href="../static/favicon.jpeg">
+    <link rel="stylesheet" href="../static/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <meta name="description" content="每日AI资讯精选，把握技术前沿动态">
-    <meta name="keywords" content="AI,人工智能,科技资讯,技术前沿,早报">
-    <style>
-    /* 加载更多按钮样式 - 与页面风格一致 */
-    .load-more-container {
-        text-align: center;
-        margin: var(--spacing-xl) 0;
-        padding: 0 var(--spacing-lg);
-    }
-
-    .btn-load-more {
-        background: var(--primary-brown);
-        color: var(--paper-white);
-        border: none;
-        padding: var(--spacing-sm) var(--spacing-lg);
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
-        font-size: 16px;
-        font-weight: 600;
-        cursor: pointer;
-        transition: all 0.3s ease;
-        display: inline-flex;
-        align-items: center;
-        gap: var(--spacing-xs);
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
-        position: relative;
-        overflow: hidden;
-        border-radius: 8px;
-        min-width: 160px;
-        justify-content: center;
-    }
-
-    .btn-load-more::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: -100%;
-        width: 100%;
-        height: 100%;
-        background: var(--accent-orange);
-        transition: left 0.3s ease;
-        z-index: 0;
-    }
-
-    .btn-load-more:hover::before {
-        left: 0;
-    }
-
-    .btn-load-more:hover {
-        transform: translateY(-2px);
-        box-shadow: var(--shadow-medium);
-    }
-
-    .btn-load-more i,
-    .btn-load-more span {
-        position: relative;
-        z-index: 1;
-    }
-
-    .btn-load-more:active {
-        transform: translateY(0);
-        box-shadow: var(--shadow-subtle);
-    }
-
-    /* 注意：CSS变量已在主CSS文件中定义，此处不再重复 */
-    </style>
 </head>
 <body>
     <div class="container">
@@ -83,38 +17,25 @@
                     <i class="fas fa-newspaper"></i>
                     AI早报
                 </h1>
-                <p class="subtitle">每日AI资讯精选，把握技术前沿动态</p>
-                <div class="source-info">
-                    <p class="source-text">
-                        <i class="fas fa-info-circle"></i>
-                        所有AI早报整理自
-                        <a href="https://space.bilibili.com/285286947" target="_blank" class="bilibili-link">
-                            <i class="fab fa-bilibili"></i>
-                            B站@橘鸦Juya
-                        </a>
-                    </p>
-                </div>
+                <p class="subtitle">2025年11月AI早报归档</p>
             </div>
         </header>
 
         <!-- 主要内容区域 -->
         <main class="main">
-            <!-- 列表视图 -->
-            <div id="list-view" class="list-view">
-                <div class="toolbar">
-                    <button class="btn-refresh" onclick="window.location.reload()">
-                        <i class="fas fa-sync-alt"></i>
-                        刷新
-                    </button>
-                    <div class="stats">
-                        <span id="total-count">共 23 条早报</span>
-                    </div>
+            <div class="toolbar">
+                <button class="btn-refresh" onclick="window.location.href='../index.html'">
+                    <i class="fas fa-arrow-left"></i>
+                    返回首页
+                </button>
+                <div class="stats">
+                    <span>共 23 条早报</span>
                 </div>
+            </div>
 
-                <!-- 早报列表 -->
-                <div id="newspapers-list" class="newspapers-list">
-                    
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-23.html'">
+            <div class="newspapers-list">
+                
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-23.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Qwen Coder 网页版上线【AI 早报 2025-11-23】</h3>
                 <div class="newspaper-meta">
@@ -146,7 +67,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-22.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-22.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">腾讯开源HunyuanVideo-1.5视频模型；小米发布跨具身基础模型MiMo-Embodied【AI 早报 2025-11-22】</h3>
                 <div class="newspaper-meta">
@@ -178,7 +99,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-21.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-21.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google发布Gemini 3 Pro Image模型（Nano Banana Pro）【AI 早报 2025-11-21】</h3>
                 <div class="newspaper-meta">
@@ -209,7 +130,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-20.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-20.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI发布 GPT-5.1-Codex-Max、上线GPT-5.1 Pro；xAI发布 Grok 4.1 Fast【AI 早报 2025-11-20】</h3>
                 <div class="newspaper-meta">
@@ -240,7 +161,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-19.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-19.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google 发布 Gemini 3 Pro【AI 早报 2025-11-19】</h3>
                 <div class="newspaper-meta">
@@ -272,7 +193,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-18.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-18.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">xAI 发布 Grok 4.1 模型【AI 早报 2025-11-18】</h3>
                 <div class="newspaper-meta">
@@ -304,7 +225,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-17.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-17.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google将发Nano Banana Pro【AI 早报 2025-11-17】</h3>
                 <div class="newspaper-meta">
@@ -333,7 +254,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-16.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-16.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenRouter 上线 Sherlock 系列测试模型【AI 早报 2025-11-16】</h3>
                 <div class="newspaper-meta">
@@ -364,7 +285,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-15.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-15.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">有望下周发布！Gemini3.0能碾压GPT-5.1吗！【AI 早报 2025-11-15】</h3>
                 <div class="newspaper-meta">
@@ -396,7 +317,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-14.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-14.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Gemini 3 现身 Gemini APP 的 Canvas 功能 【AI 早报 2025-11-14】</h3>
                 <div class="newspaper-meta">
@@ -428,7 +349,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-13.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-13.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI发布GPT-5.1系列模型【AI 早报 2025-11-13】</h3>
                 <div class="newspaper-meta">
@@ -459,7 +380,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-12.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-12.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">通通降价！编程套餐大乱斗；字节跳动发布豆包编程模型Doubao-Seed-Code【AI 早报 2025-11-12】</h3>
                 <div class="newspaper-meta">
@@ -491,7 +412,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-11.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-11.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">美团发布AI IDE产品CatPaw公测版【AI 早报 2025-11-11】</h3>
                 <div class="newspaper-meta">
@@ -523,7 +444,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-10.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-10.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">xAI API上线MCP支持；TRAE SOLO 即将正式发布【AI 早报 2025-11-10】</h3>
                 <div class="newspaper-meta">
@@ -554,7 +475,7 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-09.html'">
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-09.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google发布Gemini多光谱数据分析方法【AI 早报 2025-11-09】</h3>
                 <div class="newspaper-meta">
@@ -586,28 +507,261 @@
                 </div>
             </div>
         </div>
-                </div>
-
-                <!-- 查看更多按钮 -->
-                <div class="load-more-container"><button class="btn-load-more" onclick="loadMore()"><i class="fas fa-plus-circle"></i> <span>加载更多</span></button></div>
-            </div>
-
-            <!-- 详情视图 -->
-            <div id="detail-view" class="detail-view hidden">
-                <div class="detail-header">
-                    <button class="btn-back" onclick="showListView()">
-                        返回列表
-                    </button>
-                    <div class="detail-actions">
-                        <button class="btn-refresh-detail" onclick="window.location.reload()">
-                            刷新
-                        </button>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-08.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">狙击谷歌，OpenAI发布GPT-5-Codex-Mini模型及Codex服务升级【AI 早报 2025-11-08】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-08</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1FB1UBDEct</span>
                     </div>
                 </div>
-
-                <div id="detail-content" class="detail-content">
-                    <!-- 动态生成内容 -->
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI发布GPT-5-Codex-Mini及Codex升级
+2. 🔧 MiniMax公布M2模型API计费与编程套餐
+3. 🔧 腾讯开源Hunyuan World 1.1训练代码
+4. 🚀 StepFun开源Step-Audio-EditX音频编辑模型
+5. 🚀 Cursor推出co...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    12 条资讯
                 </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:36:56
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-07.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">硅谷地震！Kimi K2 Thinking 炸裂登场；GPT 5.1吗？OpenRouter上线Polaris Alpha【AI 早报 2025-11-07】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-07</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1PP2MB1EPN</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 月之暗面发布Kimi K2 Thinking模型
+2. 🚀 OpenRouter上线Polaris Alpha隐身模型
+3. 🚀 科大讯飞发布讯飞星火X1.5及AI产品
+4. 🚀 inceptionlabs发布下一代扩散模型Mercury
+5. 🔧 Gemini API发布文件搜索工具
+6...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    14 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:37:24
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-06.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Gemini 3 实锤现身，部分网友在用，GPT-5.1也要来袭，大模型全都&quot;卷&quot;疯了！【AI 早报 2025-11-06】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-06</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV14U1bBGEoQ</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🔧 OpenAI推出ChatGPT查询中断续传功能
+2. 🚀 谷歌Gemini 3预览模型ID现身Vertex AI
+3. 🔧 Kimi K2 Reasoning模型代码并入VLLM项目
+4. 🔧 谷歌Gemini API增强结构化输出与JSON Schema支持
+5. 🔧 Gemini CL...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    19 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:37:53
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-05.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">字节跳动Trae不再可用Claude系列模型【AI 早报 2025-11-05】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-05</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1jd1nBvEcJ</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 📈 TRAE停止提供Claude模型
+2. 🚀 Sora 2安卓版多地上线
+3. 📈 OpenAI将发布系列新模型
+4. 🚀 Claude推出Code限时促销
+5. 🔧 Cognition发布Windsurf Codemaps
+6. 🔧 Google AI Studio新增URL预填充
+7. ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    20 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:38:24
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-04.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Gemini CLI引入实验性Todo功能【AI 早报 2025-11-04】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-04</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1zN1rBFEyV</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🔧 Gemini CLI新增实验性Todo功能
+2. 🚀 百度网盘发布MCP服务器
+3. 🚀 通义千问发布Qwen3-Max-Thinking预览版
+4. 🔧 GitHub上线AI工具预算追踪功能
+5. 🔧 Gemini Docs MCP Server发布
+6. 📈 AWS与OpenAI达成多...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    8 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:38:39
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-03.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Qwen3-Max-Thinking上线【AI 早报 2025-11-03】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-03</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1kU1wB4EZC</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Qwen-3 Max上线thinking功能
+2. 🚀 MiniMax预告M2.1模型并推进开源
+3. 🔧 谷歌实验性AI模式登陆欧洲部分国家
+4. 📈 Codex因计费错误超额收费并退款
+5. 🔧 Google AI Studio新增Markdown导出功能
+6. 📈 苹果拟用定制Gem...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    6 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:38:52
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-02.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Cursor新模型被指基于中国模型构建【AI 早报 2025-11-02】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-02</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1tPyRBLEZY</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🔧 Codex CLI v0.53发布实验性沙盒功能
+2. 🔧 Qwen3-VL获llama.cpp全面支持
+3. 📈 英特尔拟50亿美元收购SambaNova
+4. 📈 Cursor Composer-1模型疑基于中文模型微调
+5. 📈 AI艺人Xania Monet首登Billboard电...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    5 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:39:04
+                </div>
+            </div>
+        </div>
+        <div class="newspaper-card" onclick="window.location.href='../detail/2025-11-01.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Google紧急下架，AI Studio这系列模型将不可用！【AI 早报 2025-11-01】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-01</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1Yt1VB6Eh8</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 美团发布Flash-Omni多模态模型
+2. 🚀 MiniMax发布Music2.0模型
+3. 🚀 字节跳动发布Ouro系列循环语言模型
+4. 🔧 Claude发布原生安装程序
+5. 🔧 Google更新Gemini命令行工具
+6. 📈 Google关闭AI Studio的Gemma入口
+...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    18 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-22 20:39:28
+                </div>
+            </div>
+        </div>
             </div>
         </main>
 
@@ -616,143 +770,5 @@
             <p>&copy; 2025 AI早报 - <a href="https://github.com/musnows/juya_agent" target="_blank">musnows/juya_agent</a> - 整理自橘鸦AI早报</p>
         </footer>
     </div>
-
-    <!-- 错误提示 -->
-    <div id="error-toast" class="toast error hidden">
-        <i class="fas fa-exclamation-circle"></i>
-        <span id="error-message"></span>
-    </div>
-
-    <!-- 成功提示 -->
-    <div id="success-toast" class="toast success hidden">
-        <i class="fas fa-check-circle"></i>
-        <span id="success-message"></span>
-    </div>
-
-    <script>
-        let currentPage = 1;
-        let pageSize = 15;
-        let totalCount = 23;
-        let isLoading = false;
-
-        // 工具函数
-        function escapeHtml(text) {
-            if (!text) return '';
-            const div = document.createElement('div');
-            div.textContent = text;
-            return div.innerHTML;
-        }
-
-        function formatDate(dateStr) {
-            if (!dateStr) return '';
-            try {
-                const date = new Date(dateStr);
-                return date.toLocaleString('zh-CN', {
-                    year: 'numeric',
-                    month: '2-digit',
-                    day: '2-digit',
-                    hour: '2-digit',
-                    minute: '2-digit'
-                });
-            } catch (e) {
-                return dateStr;
-            }
-        }
-
-        async function loadMore() {
-            if (isLoading) return;
-
-            isLoading = true;
-            const loadMoreBtn = document.querySelector('.btn-load-more');
-            if (loadMoreBtn) {
-                loadMoreBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> <span>加载中...</span>';
-                loadMoreBtn.disabled = true;
-            }
-
-            try {
-                currentPage++;
-                const response = await fetch(`data/list_page_${currentPage}.json`);
-                if (!response.ok) {
-                    throw new Error('加载失败');
-                }
-
-                const data = await response.json();
-                const newspapersList = document.getElementById('newspapers-list');
-
-                const newCardsHtml = data.newspapers.map(newspaper => `
-                    <div class="newspaper-card" onclick="window.location.href='detail/${newspaper.publish_date}.html'">
-                        <div class="newspaper-header">
-                            <h3 class="newspaper-title">${escapeHtml(newspaper.title || '未知标题')}</h3>
-                            <div class="newspaper-meta">
-                                <div class="meta-item">
-                                    <i class="fas fa-calendar"></i>
-                                    <span>${newspaper.publish_date || '未知日期'}</span>
-                                </div>
-                                <div class="meta-item">
-                                    <i class="fas fa-video"></i>
-                                    <span>${newspaper.bv_id || '未知BV号'}</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="newspaper-overview">
-                            ${escapeHtml((newspaper.overview || '').substring(0, 150))}...
-                        </div>
-                        <div class="newspaper-stats">
-                            <div class="stats-count">
-                                <i class="fas fa-list"></i>
-                                ${newspaper.news_count || 0} 条资讯
-                            </div>
-                            <div style="color: #999; font-size: 12px;">
-                                ${formatDate(newspaper.organize_time)}
-                            </div>
-                        </div>
-                    </div>
-                `).join('');
-
-                newspapersList.insertAdjacentHTML('beforeend', newCardsHtml);
-
-                // 如果已经加载完所有数据，隐藏加载更多按钮
-                const startIndex = (currentPage - 1) * pageSize;
-                if (startIndex + pageSize >= totalCount) {
-                    const loadMoreContainer = document.querySelector('.load-more-container');
-                    if (loadMoreContainer) {
-                        loadMoreContainer.style.display = 'none';
-                    }
-                }
-            } catch (error) {
-                console.error('加载更多失败:', error);
-                showToast('加载更多失败，请刷新页面重试', 'error');
-            } finally {
-                isLoading = false;
-                if (loadMoreBtn) {
-                    loadMoreBtn.innerHTML = '<i class="fas fa-plus-circle"></i> <span>加载更多</span>';
-                    loadMoreBtn.disabled = false;
-                }
-            }
-        }
-
-        function showToast(message, type = 'error') {
-            const toastId = type === 'error' ? 'error-toast' : 'success-toast';
-            const messageId = type === 'error' ? 'error-message' : 'success-message';
-
-            document.getElementById(messageId).textContent = message;
-            document.getElementById(toastId).classList.remove('hidden');
-
-            setTimeout(() => {
-                document.getElementById(toastId).classList.add('hidden');
-            }, 3000);
-        }
-
-        // 页面加载完成后初始化
-        document.addEventListener('DOMContentLoaded', function() {
-            // 显示加载更多按钮状态
-            if (totalCount <= pageSize) {
-                const loadMoreBtn = document.querySelector('.btn-load-more');
-                if (loadMoreBtn) {
-                    loadMoreBtn.style.display = 'none';
-                }
-            }
-        });
-    </script>
 </body>
 </html>
