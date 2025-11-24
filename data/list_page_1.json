@@ -4,41 +4,41 @@
       "title": "Google 发布 Nano Banana Pro 开发者指南【AI 早报 2025-11-24】",
       "publish_date": "2025-11-24",
       "bv_id": "BV1zeUgBSEt7",
-      "organize_time": "2025-11-24 09:00:05",
+      "organize_time": "2025-11-24 09:18:57",
       "news_count": 4,
-      "overview": "1. 🔧 Google发布Nano Banana Pro开发者指南\n2. 🚀 Sentry推出AI代码审查功能\n3. 📈 Anthropic拟发布Claude Opus 4.5模型\n4. 🔧 xAI开发Grok Code Remote功能"
+      "overview": "1. 🔧 Google发布Nano Banana Pro开发者指南\n2. 🚀 Sentry推出AI代码审查功能\n3. 📈 Anthropic或即将发布Claude Opus 4.5\n4. 🔧 xAI开发Grok Code Remote功能"
     },
     {
       "title": "Qwen Coder 网页版上线【AI 早报 2025-11-23】",
       "publish_date": "2025-11-23",
       "bv_id": "BV14CUwBrEoF",
-      "organize_time": "2025-11-23 08:38:41",
+      "organize_time": "2025-11-24 09:04:49",
       "news_count": 10,
-      "overview": "1. 🚀 Qwen Coder网页版上线\n2. 🚀 Qwen将发布图像编辑模型\n3. 🔧 OpenAI重置Codex速率限制\n4. 🚀 Meta发布WorldGen 3D世界生成系统\n5. 🚀 MiroMind发布开源研究Agent MiroThinker v1.0\n6. 🔧 Anthropic发现奖励骇客致AI失准\n7. 📈 OpenAI与Anthropic联合提案MCP-UI扩展\n8. 📈 谷歌搜索AI模式测试广告功能\n9. 📈 Cerebras推理服务上线Microsoft Marketplace\n10. 📈 OpenAI与富士康达成合作"
+      "overview": "1. 🚀 Qwen Coder网页版上线\n2. 🚀 Qwen新图像编辑模型将发布\n3. 🔧 OpenAI重置Codex用户速率限制\n4. 🚀 Meta发布WorldGen文本生成3D世界系统\n5. 🚀 MiroMind发布MiroThinker v1.0开源研究Agent\n6. 🔧 Anthropic研究揭示奖励骇客致AI失准\n7. 🔧 OpenAI与Anthropic联合提案MCP交互界面扩展\n8. 📈 谷歌搜索AI模式测试广告功能\n9. 🚀 Cerebras推理服务上线Microsoft Marketplace\n10. 📈 OpenAI与富士康合作开发AI基础设施"
     },
     {
       "title": "腾讯开源HunyuanVideo-1.5视频模型；小米发布跨具身基础模型MiMo-Embodied【AI 早报 2025-11-22】",
       "publish_date": "2025-11-22",
       "bv_id": "BV1a3UHBNENX",
-      "organize_time": "2025-11-22 20:47:46",
+      "organize_time": "2025-11-24 09:05:33",
       "news_count": 18,
-      "overview": "1. 🚀 腾讯开源HunyuanVideo-1.5视频模型\n2. 🚀 小米发布跨具身基础模型MiMo-Embodied\n3. 🚀 ServiceNow-AI发布Apriel-H1模型系列\n4. 🚀 豆包输入法上线多语种语音输入功能\n5. 🔧 Gemini CLI开放Gemini 3 Pro访问\n6. 🔧 智谱AI升级GLM Coding Plan\n7. 🔧 Cursor发布2.1版本更新功能\n8. 🔧 Claude Code CLI新增后台任务转移功能\n9. 🔧 Sora 2模型更新“故事板块”功能\n10. 📈 OpenAI发布AI-Native工程团队指南\n11. 🔧 Dify发布v1.10.0版本Workflow Trigger功能\n12. 📈 Genspark发布AI工作空间并完成B轮融资\n13. 🔧 Ollama v0.13支持DeepSeek-OCR\n14. 📈 Hugging Face更新Open ASR Leaderboard\n15. 📈 OCR Arena推出VLM与OCR对比平台\n16. 🔧 Gradio 6发布重大更新与性能提升\n17. 📈 Brookfield联合NVIDIA启动千亿美元AI基建项目\n18. 📈 Adobe收购AI营销公司Semrush"
+      "overview": "1. 🚀 腾讯开源HunyuanVideo-1.5视频模型\n2. 🚀 小米发布跨具身基础模型MiMo-Embodied\n3. 🚀 ServiceNow-AI发布Apriel-H1模型系列\n4. 🚀 豆包输入法上线多语种语音输入\n5. 🔧 Gemini CLI开放Gemini 3 Pro访问\n6. 🔧 智谱AI升级GLM Coding Plan\n7. 🔧 Cursor发布2.1版本更新\n8. 🔧 Claude Code CLI新增后台任务转移\n9. 🔧 Sora 2更新故事板块功能\n10. 📈 OpenAI发布AI原生工程团队指南\n11. 🔧 Dify发布v1.10.0工作流触发器\n12. 📈 Genspark完成B轮融资并推AI工作空间\n13. 🔧 Ollama v0.13支持DeepSeek-OCR\n14. 🔧 Hugging Face更新Open ASR Leaderboard\n15. 🚀 OCR Arena上线VLM与OCR对比平台\n16. 🔧 Gradio 6发布性能重大更新\n17. 📈 Brookfield联合NVIDIA启动千亿AI基建\n18. 📈 Adobe收购AI营销公司Semrush"
     },
     {
       "title": "Google发布Gemini 3 Pro Image模型（Nano Banana Pro）【AI 早报 2025-11-21】",
       "publish_date": "2025-11-21",
       "bv_id": "BV1S9yKB1Ekb",
-      "organize_time": "2025-11-22 20:32:57",
-      "news_count": 13,
-      "overview": "1. 🚀 Google发布Gemini 3 Pro图像模型\n2. 🚀 OpenAI全球上线ChatGPT群聊功能\n3. 🔧 OpenAI更新Mac版ChatGPT Atlas浏览器\n4. 🚀 Perplexity发布Comet浏览器Android版\n5. 📈 OpenAI发布GPT-5科研加速实验报告\n6. 🚀 腾讯混元将发布HunyuanVideo 1.5\n7. 🔧 NotebookLM推出Slide Decks与Infographics\n8. 🔧 Gemini CLI开放Gemini 3 Pro访问权限\n9. 🔧 Jules推出Repoless无仓库功能\n10. 🔧 Google Stitch Flow功能升级\n11. 🔧 Google推出Gemini图像AI验证功能\n12. 🚀 MiniMax开放M2识图搜索MCP内测\n13. 🔧 Manus为Slides添加speaker notes功能"
+      "organize_time": "2025-11-24 09:06:32",
+      "news_count": 25,
+      "overview": "1. 🚀 Google发布Gemini 3 Pro图像模型\n2. 🔧 OpenAI ChatGPT群聊功能全球上线\n3. 🔧 OpenAI更新Mac版ChatGPT Atlas浏览器\n4. 🚀 Perplexity发布Comet浏览器Android版\n5. 📈 OpenAI发布GPT-5科研加速实验报告\n6. 🚀 腾讯混元发布HunyuanVideo 1.5\n7. 🔧 NotebookLM推出Slide Decks与Infographics\n8. 🔧 Gemini CLI逐步开放Gemini 3 Pro访问\n9. 🔧 Jules推出Repoless无仓库功能\n10. 🔧 Google Stitch Flow功能升级\n11. 🔧 Google推出Gemini图像AI验证功能\n12. 🔧 MiniMax开放M2识图搜索MCP内测\n13. 🔧 Manus为Slides添加speaker notes功能\n14. 🚀 Jes SPA AI发布AI Sheets 2.0\n15. 🔧 Glep.com升级至0.2版本\n16. 🔧 Rock Imagine视频生成功能升级\n17. 🔧 Gemini登陆Android Auto\n18. 🔧 Docker Model Runner集成VLLM引擎\n19. 🚀 艾伦研究所发布OLMo 3系列模型\n20. 🚀 Mividia发布DocParse V1.1模型\n21. 🚀 Lowga Chat 702B模型发布\n22. 🔧 TI.ai发布CR同步强化学习系统\n23. 📈 Anthropic将发布Cloud 4.5与桌面应用\n24. 📈 杨立昆离职创办先进AI初创公司\n25. 📈 Suno完成2.5亿美元C轮融资"
     },
     {
       "title": "OpenAI发布 GPT-5.1-Codex-Max、上线GPT-5.1 Pro；xAI发布 Grok 4.1 Fast【AI 早报 2025-11-20】",
       "publish_date": "2025-11-20",
       "bv_id": "BV1PSCZB7EST",
-      "organize_time": "2025-11-22 20:33:28",
-      "news_count": 18,
-      "overview": "1. 🚀 OpenAI发布GPT-5.1-Codex-Max编码模型\n2. 🚀 OpenAI上线GPT-5.1 Pro高性能模型\n3. 🚀 xAI发布Grok 4.1 Fast及Agent Tools API\n4. 🚀 Meta发布SAM 3与SAM 3D模型\n5. 🚀 微软发布Copilot Agent 365控制平台\n6. 📈 Anthropic延长Claude Code免费额度有效期\n7. 🚀 Gemini 3上线移动端及Jules代理\n8. 🔧 Google Gemini开放网页版Photos导入\n9. 🔧 Stitch推出一键导出AI Studio功能\n10. 🚀 OpenAI发布ChatGPT for Teachers教育版\n11. 🔧 Perplexity Pro/Max新增文档构建功能\n12. 🚀 Deep Cogito发布Cogito v2.1 671B模型\n13. 🚀 ZeroEntropy发布zerank-2重排序模型\n14. 🔧 Inclusion AI发布Awex RL权重同步框架\n15. 🚀 RadixArk发布Miles RL训练框架\n16. 📈 OpenAI发布企业AI评估框架指南\n17. 🔧 DeepSeek开源LPLB MoE负载均衡器\n18. 🔧 研究提出VARC框架解决ARC视觉推理"
+      "organize_time": "2025-11-24 09:07:26",
+      "news_count": 21,
+      "overview": "1. 🚀 OpenAI发布GPT-5.1-Codex-Max编码模型\n2. 🚀 OpenAI上线GPT-5.1 Pro模型\n3. 🚀 xAI发布Grok 4.1 Fast模型及Agent Tools API\n4. 🚀 Meta发布SAM 3及3D重建模型SAM 3D\n5. 🚀 微软Copilot发布Agent控制平台Agent 365\n6. 🔧 Anthropic延长Claude Code网页版免费额度\n7. 🚀 Gemini 3上线移动端及Jules功能\n8. 🔧 Google Gemini网页版开放Photos导入\n9. 🔧 Stitch推出一键导出AI Studio功能\n10. 🚀 OpenAI发布ChatGPT for Teachers\n11. 🔧 Perplexity Pro/Max新增文档构建功能\n12. 🚀 Deep Cogito发布Cogito v2.1 671B模型\n13. 🚀 ZeroEntropy发布zerank-2重排序模型\n14. 🔧 Inclusion AI发布Awex RL权重同步框架\n15. 🚀 RadixArk发布Miles RL框架\n16. 📈 OpenAI发布企业AI评估框架指南\n17. 🔧 DeepSeek开源LPLB MoE负载均衡器\n18. 🔧 研究提出VARC框架解决ARC视觉推理\n19. 📈 火山引擎升级大模型协作奖励计划\n20. 📈 Google DeepMind在新加坡设AI实验室\n21. 📈 xAI与沙特合作建设GPU数据中心"
     },
     {
       "title": "Google 发布 Gemini 3 Pro【AI 早报 2025-11-19】",
@@ -164,5 +164,5 @@
   "page": 1,
   "total_pages": 3,
   "total_count": 41,
-  "generated_time": "2025-11-24 09:00:06"
+  "generated_time": "2025-11-24 09:18:58"
 }
