@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "Gemini CLI引入实验性Todo功能【AI 早报 2025-11-04】",
+      "publish_date": "2025-11-04",
+      "bv_id": "BV1zN1rBFEyV",
+      "organize_time": "2025-11-22 20:38:39",
+      "news_count": 8,
+      "overview": "1. 🔧 Gemini CLI新增实验性Todo功能\n2. 🚀 百度网盘发布MCP服务器\n3. 🚀 通义千问发布Qwen3-Max-Thinking预览版\n4. 🔧 GitHub上线AI工具预算追踪功能\n5. 🔧 Gemini Docs MCP Server发布\n6. 📈 AWS与OpenAI达成多年战略合作\n7. 📈 Lambda与微软签署数十亿美元AI协议\n8. 📈 AI需求推动内存价格大幅上涨"
+    },
+    {
       "title": "Qwen3-Max-Thinking上线【AI 早报 2025-11-03】",
       "publish_date": "2025-11-03",
       "bv_id": "BV1kU1wB4EZC",
@@ -151,18 +159,10 @@
       "organize_time": "2025-11-23 15:30:13",
       "news_count": 16,
       "overview": "1. 🚀 阿里发布Qwen3-VL多模态模型\n2. 📰 OpenAI放宽ChatGPT内容限制\n3. 🚀 Qoder CLI命令行工具即将发布\n4. 🔧 OpenAI上线GPT-5搜索模型API\n5. 🚀 Firefox支持Perplexity为默认AI搜索引擎\n6. 📰 Google AI Studio启用全新首页\n7. 🚀 腾讯优图开源Youtu-Embedding文本模型\n8. 🔧 微软开源Amplifier协同开发框架\n9. 🔧 NVIDIA发布NVFP4与MXFP8数值缩放方法\n10. 🔧 X平台将切换至Grok驱动AI推荐系统\n11. 🚀 NVIDIA DGX Spark AI超算开售\n12. 📈 Anthropic发布AI经济影响政策报告\n13. 📈 Oracle与AMD合作建设AI超算集群\n14. 📈 沃尔玛与OpenAI合作AI购物体验\n15. 📈 Google投资150亿美元建印度AI中心\n16. 📈 OpenAI与Sur Energy建拉美Stargate数据中心"
-    },
-    {
-      "title": "载入史册，支付宝震撼发布全球首个开源万亿推理模型！【AI 早报 2025-10-14】",
-      "publish_date": "2025-10-14",
-      "bv_id": "BV1YQ4QzXEpE",
-      "organize_time": "2025-11-23 15:31:04",
-      "news_count": 15,
-      "overview": "1. 🚀 蚂蚁集团开源万亿参数模型Ring-1T\n2. 🚀 微软发布自研图像生成模型MAI-Image-1\n3. 🔧 Karpathy开源nanochat完整LLM训练项目\n4. 🚀 Nanonets发布OCR2系列视觉语言模型\n5. 🚀 字节跳动开源FaceCLIP文本到图像模型\n6. 🔧 谷歌升级NotebookLM视频概览功能\n7. 🔧 Google AI Studio上线Gemini用量仪表盘\n8. 🚀 Grok语音模式新增Eve音色\n9. 🚀 字节跳动内测豆包输入法语音输入产品\n10. 🚀 LiblibAI发布2.0一站式AI创作工作室\n11. 📈 Cherry Studio推Gemini模型0.1折限时活动\n12. 🔧 InclusionAI开源扩散模型推理框架dInfer\n13. 📈 OpenAI与博通合作自研10吉瓦AI加速器\n14. 📈 谷歌计划投资90亿美元扩建南卡数据中心\n15. 📈 PyTorch核心贡献者Andrew Tulloch重返Meta"
     }
   ],
   "page": 2,
-  "total_pages": 2,
-  "total_count": 40,
-  "generated_time": "2025-11-23 19:35:43"
+  "total_pages": 3,
+  "total_count": 41,
+  "generated_time": "2025-11-24 08:36:12"
 }

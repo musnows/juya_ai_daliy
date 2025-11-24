@@ -107,13 +107,43 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 40 条早报</span>
+                        <span id="total-count">共 41 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-24.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Google 发布 Nano Banana Pro 开发者指南【AI 早报 2025-11-24】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-11-24</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1zeUgBSEt7</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Google发布Nano Banana Pro开发者指南
+2. 🔧 Sentry推出AI Code Review功能
+3. 📈 Anthropic拟发布Claude Opus 4.5模型
+4. 🔧 xAI开发Grok Code Remote功能...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    4 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-11-24 08:36:11
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-11-23.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Qwen Coder 网页版上线【AI 早报 2025-11-23】</h3>
@@ -554,38 +584,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-09.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google发布Gemini多光谱数据分析方法【AI 早报 2025-11-09】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-09</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1jE1oBiEN5</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🔧 Google发布Gemini多光谱数据分析方法
-2. 🚀 OpenRouter新增视频输入支持
-3. 🔧 xAI优化Grok-4-Fast提示词降低拒答率
-4. 🚀 Cerebras Code集成GLM-4.6模型
-5. 🚀 Letta发布Context-Bench技能评估套件
-6. 📈 ...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    8 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-22 20:36:37
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -632,7 +630,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 40;
+        let totalCount = 41;
         let isLoading = false;
 
         // 工具函数

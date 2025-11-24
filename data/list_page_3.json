@@ -1,0 +1,16 @@
+{
+  "newspapers": [
+    {
+      "title": "载入史册，支付宝震撼发布全球首个开源万亿推理模型！【AI 早报 2025-10-14】",
+      "publish_date": "2025-10-14",
+      "bv_id": "BV1YQ4QzXEpE",
+      "organize_time": "2025-11-23 15:31:04",
+      "news_count": 15,
+      "overview": "1. 🚀 蚂蚁集团开源万亿参数模型Ring-1T\n2. 🚀 微软发布自研图像生成模型MAI-Image-1\n3. 🔧 Karpathy开源nanochat完整LLM训练项目\n4. 🚀 Nanonets发布OCR2系列视觉语言模型\n5. 🚀 字节跳动开源FaceCLIP文本到图像模型\n6. 🔧 谷歌升级NotebookLM视频概览功能\n7. 🔧 Google AI Studio上线Gemini用量仪表盘\n8. 🚀 Grok语音模式新增Eve音色\n9. 🚀 字节跳动内测豆包输入法语音输入产品\n10. 🚀 LiblibAI发布2.0一站式AI创作工作室\n11. 📈 Cherry Studio推Gemini模型0.1折限时活动\n12. 🔧 InclusionAI开源扩散模型推理框架dInfer\n13. 📈 OpenAI与博通合作自研10吉瓦AI加速器\n14. 📈 谷歌计划投资90亿美元扩建南卡数据中心\n15. 📈 PyTorch核心贡献者Andrew Tulloch重返Meta"
+    }
+  ],
+  "page": 3,
+  "total_pages": 3,
+  "total_count": 41,
+  "generated_time": "2025-11-24 08:36:12"
+}
