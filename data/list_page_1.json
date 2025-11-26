@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "Black Forest Labs 发布 FLUX.2 系列模型【AI 早报 2025-11-26】",
+      "publish_date": "2025-11-26",
+      "bv_id": "BV1rNU8B3EkQ",
+      "organize_time": "2025-11-26 09:21:03",
+      "news_count": 22,
+      "overview": "1. 🚀 Black Forest Labs发布FLUX.2模型\n2. 🔧 OpenAI集成ChatGPT语音模式至聊天界面\n3. 🚀 inclusionAI发布LLaDA2.0系列模型\n4. 🚀 Nari Labs发布流式对话TTS模型Dia2\n5. 🚀 腾讯混元开源HunyuanOCR专家模型\n6. 🔧 OpenAI改进Sora 2减少视频闪烁问题\n7. 🔧 Google推出Gemini交互式图像功能\n8. 🚀 Google发布agentic calling功能让AI致电商家\n9. 🚀 Claude发布桌面版Code及Plan Mode升级\n10. 🔧 GitHub发布Copilot自定义Agent编写指南\n11. 🚀 TRAE中国版上线SOLO模式\n12. 🔧 Kiro推出Multi-root workspaces功能\n13. 📈 MiniMax Coding Plan推出黑五促销活动\n14. 📈 Anthropic发布AI任务效率与诚实度研究报告\n15. 🚀 Rama Index推出Rama She的API\n16. 🔧 Telm发布Special SSR框架\n17. 🔧 Ons Labs推出FP8强化学习功能\n18. 📈 OpenAI发布AI评估框架指南\n19. 📈 马斯克计划让Grok 5挑战人类英雄联盟团队\n20. 📈 谷歌开发Luminary OS新操作系统\n21. 📈 陶哲轩使用AI助手解决数学问题\n22. 📈 美国启动创世使命AI科研计划"
+    },
+    {
       "title": "Anthropic 发布 Claude Opus 4.5 模型【AI 早报 2025-11-25】",
       "publish_date": "2025-11-25",
       "bv_id": "BV1UxUUBzEG9",
@@ -151,18 +159,10 @@
       "organize_time": "2025-11-22 20:37:24",
       "news_count": 14,
       "overview": "1. 🚀 月之暗面发布Kimi K2 Thinking模型\n2. 🚀 OpenRouter上线Polaris Alpha隐身模型\n3. 🚀 科大讯飞发布讯飞星火X1.5及AI产品\n4. 🚀 inceptionlabs发布下一代扩散模型Mercury\n5. 🔧 Gemini API发布文件搜索工具\n6. 📈 OpenAI修复云任务问题并补偿免费积分\n7. 🔧 VS Code内联补全功能正式开源\n8. 🔧 Zed编辑器新增Auggie CLI与Opencode智能体\n9. 📈 Novita AI宣布KAT-Coder API限时免费\n10. 🚀 CodeBuddy国内版上线GLM-4.6模型\n11. 🔧 LMArena发布Arena Expert专家评估框架\n12. 🔧 NotebookLM手机应用新增测验与闪卡功能\n13. 🔧 Google Finance新增Deep Search功能\n14. 📈 Google Labs将Opal扩展至160+国家"
-    },
-    {
-      "title": "Gemini 3 实锤现身，部分网友在用，GPT-5.1也要来袭，大模型全都\"卷\"疯了！【AI 早报 2025-11-06】",
-      "publish_date": "2025-11-06",
-      "bv_id": "BV14U1bBGEoQ",
-      "organize_time": "2025-11-22 20:37:53",
-      "news_count": 19,
-      "overview": "1. 🔧 OpenAI推出ChatGPT查询中断续传功能\n2. 🚀 谷歌Gemini 3预览模型ID现身Vertex AI\n3. 🔧 Kimi K2 Reasoning模型代码并入VLLM项目\n4. 🔧 谷歌Gemini API增强结构化输出与JSON Schema支持\n5. 🔧 Gemini CLI发布v0.12.0版本，新增模型路由与子代理\n6. 🔧 Gemini Deep Research集成Google Workspace\n7. 🔧 NotebookLM新增自定义提示可见性与样式开发\n8. 🔧 谷歌简化Chrome移动端AI Mode访问方式\n9. 🔧 Google Maps集成Gemini，支持对话式驾驶体验\n10. 🔧 Manus AI支持上传自定义幻灯片模板\n11. 🚀 Isoform发布Yansu编程AI平台\n12. 🔧 Perplexity发布定制MoE内核支持万亿参数部署\n13. 🔧 Cursor引入语义搜索与自研嵌入模型\n14. 🚀 美团LongCat推出UNO-Bench中文多模态基准\n15. 🚀 CodeClash基准测试揭示模型软件工程局限\n16. 📈 Anthropic上调营收预期至47亿美元\n17. 📈 OpenAI全球企业客户超100万\n18. 🚀 谷歌拟发布新图像模型Nano Banana 2或GEMPIX-2\n19. 🚀 OpenAI将推GPT-5新快照与数据分析模型"
     }
   ],
   "page": 1,
   "total_pages": 3,
-  "total_count": 42,
-  "generated_time": "2025-11-25 09:19:51"
+  "total_count": 43,
+  "generated_time": "2025-11-26 09:21:04"
 }
