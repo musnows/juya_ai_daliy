@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "阶跃AI开源GELab-Zero【AI 早报 2025-12-01】",
+      "publish_date": "2025-12-01",
+      "bv_id": "BV1rVS6BzEcB",
+      "organize_time": "2025-12-01 08:54:51",
+      "news_count": 3,
+      "overview": "1. 🚀 阶跃AI开源GELab-Zero GUI智能体堆栈\n2. 🚀 字节跳动发布Vidi2多模态模型\n3. 🔧 豆包APP上线记忆与积分功能"
+    },
+    {
       "title": "ChatGPT安卓测试版出现广告相关代码【AI 早报 2025-11-30】",
       "publish_date": "2025-11-30",
       "bv_id": "BV1SRSNB9ETt",
@@ -151,18 +159,10 @@
       "organize_time": "2025-11-23 14:40:45",
       "news_count": 23,
       "overview": "1. 🚀 字节跳动发布豆包编程模型\n2. 🚀 百度开源轻量多模态模型ER4.5VL\n3. 🚀 ElevenLabs发布低延迟语音转写模型\n4. 🚀 商汤开源空间智能大模型SenseNova SI\n5. 🚀 ASLP Lab开源音乐生成框架DIFF2\n6. 🚀 快手AI编程模型KatQ Pro上线OpenRouter\n7. 📈 Kimi推出会员砍价优惠活动\n8. 📈 阿里Code推出首购优惠\n9. 📈 MiniMax上线海外编程套餐\n10. 🚀 MiniMax开源智能体框架MiniAgent\n11. 🔧 xAI推出Files API支持文档智能检索\n12. 📈 两机构发布开放科学计划Ella\n13. 🔧 谷歌更新开发者工具JS to CLI\n14. 🔧 谷歌相册推出6项AI新功能\n15. 🔧 谷歌信息应用上线AI图片编辑Remix\n16. 🚀 谷歌发布Private AI Compute平台\n17. 🔧 OpenAI发布智能体提示优化指南\n18. 📈 软银出售英伟达股份套现58亿美元\n19. 📈 微软投资100亿美元建葡萄牙AI数据中心\n20. 📈 Brookfield计划向OpenAI Star项目投30亿美元\n21. 📈 Meta首席AI科学家杨立昆将离职创业\n22. 📈 英特尔CTO Sachin Katti加入OpenAI\n23. 🚀 Black Forest Labs将发布FLEX2图像模型"
-    },
-    {
-      "title": "美团发布AI IDE产品CatPaw公测版【AI 早报 2025-11-11】",
-      "publish_date": "2025-11-11",
-      "bv_id": "BV1ufkzBvEug",
-      "organize_time": "2025-11-23 14:41:34",
-      "news_count": 14,
-      "overview": "1. 🚀 美团发布AI编程助手CatRun\n2. 📰 ChatGPT推出群组聊天功能\n3. 🔧 Meta发布OmniLingua-ASR多语言语音识别系统\n4. 📈 Meta开源史上最大第一人称视角数据集\n5. 📈 xAI将举办黑客松并开放Grok模型与API\n6. 🔧 腾讯发布MoEPlay大模型角色扮演基准\n7. 🚀 谷歌发布AI Agent白皮书与强化课程\n8. 🔧 OpenB发布ORA 2.1支持多模态推理\n9. 🔧 月之暗面透露Kimi后续模型计划\n10. 📈 Kimi发布API基准测试最佳配置指南\n11. 🚀 MiniMax M2接入TraiT中国版与蜜塔AI搜索\n12. 📈 维基媒体基金会呼吁AI公司停止爬取数据\n13. 🔧 Character AI公开自研大模型架构细节\n14. 🔧 马斯克确认xAI开发Diffusion推理模型"
     }
   ],
   "page": 1,
   "total_pages": 3,
-  "total_count": 47,
-  "generated_time": "2025-11-30 08:39:18"
+  "total_count": 48,
+  "generated_time": "2025-12-01 08:54:52"
 }

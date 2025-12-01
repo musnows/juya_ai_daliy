@@ -107,13 +107,42 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 47 条早报</span>
+                        <span id="total-count">共 48 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-01.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">阶跃AI开源GELab-Zero【AI 早报 2025-12-01】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-01</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1rVS6BzEcB</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 阶跃AI开源GELab-Zero GUI智能体堆栈
+2. 🚀 字节跳动发布Vidi2多模态模型
+3. 🔧 豆包APP上线记忆与积分功能...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    3 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-01 08:54:51
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-11-30.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">ChatGPT安卓测试版出现广告相关代码【AI 早报 2025-11-30】</h3>
@@ -553,37 +582,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-16.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">OpenRouter 上线 Sherlock 系列测试模型【AI 早报 2025-11-16】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-16</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1WjCDBdEeM</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 OpenRouter上线Sherlock系列模型
-2. 🔧 GitHub Copilot公测Raptor mini模型
-3. 🔧 iFlow CLI免费开放MiniMax-M2与Kimi-K2-Thinking
-4. 🔧 Gemini CLI发布v0.15.1补丁
-5. 🚀 Factory...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    8 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-22 20:34:31
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -630,7 +628,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 47;
+        let totalCount = 48;
         let isLoading = false;
 
         // 工具函数
