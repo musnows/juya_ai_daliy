@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "通通降价！编程套餐大乱斗；字节跳动发布豆包编程模型Doubao-Seed-Code【AI 早报 2025-11-12】",
+      "publish_date": "2025-11-12",
+      "bv_id": "BV1N6kmBSEFB",
+      "organize_time": "2025-11-23 14:40:45",
+      "news_count": 23,
+      "overview": "1. 🚀 字节跳动发布豆包编程模型\n2. 🚀 百度开源轻量多模态模型ER4.5VL\n3. 🚀 ElevenLabs发布低延迟语音转写模型\n4. 🚀 商汤开源空间智能大模型SenseNova SI\n5. 🚀 ASLP Lab开源音乐生成框架DIFF2\n6. 🚀 快手AI编程模型KatQ Pro上线OpenRouter\n7. 📈 Kimi推出会员砍价优惠活动\n8. 📈 阿里Code推出首购优惠\n9. 📈 MiniMax上线海外编程套餐\n10. 🚀 MiniMax开源智能体框架MiniAgent\n11. 🔧 xAI推出Files API支持文档智能检索\n12. 📈 两机构发布开放科学计划Ella\n13. 🔧 谷歌更新开发者工具JS to CLI\n14. 🔧 谷歌相册推出6项AI新功能\n15. 🔧 谷歌信息应用上线AI图片编辑Remix\n16. 🚀 谷歌发布Private AI Compute平台\n17. 🔧 OpenAI发布智能体提示优化指南\n18. 📈 软银出售英伟达股份套现58亿美元\n19. 📈 微软投资100亿美元建葡萄牙AI数据中心\n20. 📈 Brookfield计划向OpenAI Star项目投30亿美元\n21. 📈 Meta首席AI科学家杨立昆将离职创业\n22. 📈 英特尔CTO Sachin Katti加入OpenAI\n23. 🚀 Black Forest Labs将发布FLEX2图像模型"
+    },
+    {
       "title": "美团发布AI IDE产品CatPaw公测版【AI 早报 2025-11-11】",
       "publish_date": "2025-11-11",
       "bv_id": "BV1ufkzBvEug",
@@ -151,18 +159,10 @@
       "organize_time": "2025-11-23 15:27:21",
       "news_count": 23,
       "overview": "1. 🚀 快手发布KAT-Coder系列AI编码模型\n2. 🔧 微软Copilot秋季更新推12项新功能\n3. 🚀 OpenAI推Company Knowledge整合内部信息\n4. 🔧 Google AI Studio推出新标注模式\n5. 🚀 谷歌Earth AI整合Gemini支持多源分析\n6. 🔧 谷歌Stitch设计Agent全面优化生成效果\n7. 🔧 Anthropic向个人用户开放Claude记忆功能\n8. 🚀 夸克整合Qwen模型并发布AI眼镜\n9. 🔧 Dify 1.9.2支持工作流暂停与追踪\n10. 🚀 腾讯ima 2.0引入Agent任务模式\n11. 🔧 Cerebras下架Qwen-3并引入GLM4.6模型\n12. 🔧 TRAE Agent支持自动应用代码修改\n13. 🚀 字节跳动发布Seed3D 1.0生成高质量3D模型\n14. 🚀 字节跳动发布Video-As-Prompt视频生成模型\n15. 🚀 讯飞发布学术专用模型Spark Scilit-X1-13B\n16. 🚀 LTX发布LTX-2支持4K同步音视频生成\n17. 📈 Anthropic与谷歌云合作使用百万TPU\n18. 📈 OpenAI解除纽约时报案聊天记录保留义务\n19. 🚀 Meta等联合推出OpenEnv强化学习接口\n20. 🚀 PyTorch发布Monarch分布式编程框架\n21. 🔧 Hugging Face与VirusTotal合作安全扫描\n22. 📈 月之暗面即将完成数亿美元融资\n23. 📈 Reddit设陷阱证明Perplexity违规抓取数据"
-    },
-    {
-      "title": "绞杀 Claude Code，Kilo Code 与 Cline 推出 CLI 工具！【AI 早报 2025-10-23】",
-      "publish_date": "2025-10-23",
-      "bv_id": "BV1XusqzMEGr",
-      "organize_time": "2025-11-23 15:27:50",
-      "news_count": 16,
-      "overview": "1. 🚀 百川发布M2 Plus医疗大模型\n2. 🚀 腾讯开源HunyuanWorld-Mirror模型\n3. 🚀 OpenRouter上线andromeda-alpha隐身模型\n4. 🔧 Soniox发布v3语音识别ASR模型\n5. 🚀 Liquid AI发布LFM2-VL-3B边缘视觉模型\n6. 🚀 Ai2发布olmOCR-2-7B-1025文档识别模型\n7. 🚀 Pokee AI发布PokeeResearch-7B研究模型\n8. 🔧 Grok Imagine推出视频超分辨率功能\n9. 🔧 OpenRouter推出Exacto提升工具调用精度\n10. 🚀 Claude Desktop应用正式版发布\n11. 🔧 Gemini CLI发布v0.10.0版本\n12. 🚀 Kilo Code发布CLI编程工具\n13. 🚀 Cline发布Cline CLI预览版\n14. 🚀 快手上线CodeFlicker编程工具\n15. 🔧 豆包编程推出全新创作模式\n16. 🚀 Genspark AI推出AI Developer 2.0"
     }
   ],
   "page": 2,
   "total_pages": 3,
-  "total_count": 48,
-  "generated_time": "2025-12-01 08:54:52"
+  "total_count": 49,
+  "generated_time": "2025-12-02 09:11:08"
 }

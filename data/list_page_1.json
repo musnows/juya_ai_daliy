@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】",
+      "publish_date": "2025-12-02",
+      "bv_id": "BV1xgSHBfEPW",
+      "organize_time": "2025-12-02 09:11:07",
+      "news_count": 28,
+      "overview": "1. 🚀 Deep发布V3.2系列模型\n2. 🚀 字节发布豆包手机助手预览版\n3. 🚀 Runway发布帧N4.5视频模型\n4. 🚀 Clean林AI发布OE统一多模态视频模型\n5. 🚀 拍我AI发布p vers v5.5视频模型\n6. 🚀 阿里国际发布OS image7B文生图模型\n7. 🔧 生树科技升级video q2模型\n8. 🚀 Proa AI发布实时图像生成与编辑模型\n9. 🚀 Kilo Code上线sta免费编程模型\n10. 🔧 Cherry Studio发布1.7.1版本\n11. 🚀 阿CAI发布triity开源猫咪模型系列\n12. 🔧 OpenAI启动对齐与安全研究博客\n13. 📈 Anthropic评估AI代理攻击智能合约能力\n14. 🔧 Hugging Face发布Transformers V5\n15. 🔧 OpenBMB开源INF lmv2项目资源\n16. 🔧 VLLM团队发布VLLM-Onni多模态框架\n17. 🚀 OpenAI发布首个基础计算机使用模型lax\n18. 🔧 OPPO提出OM全项记忆框架\n19. 🔧 复旦与美团联合提出HoRison长链推理框架\n20. 🔧 阿斯斯实现53万上下文窗口微调\n21. 📈 Artificial Analysis发布开放性指数\n22. 🔧 WebGPU获主流浏览器正式支持\n23. 📈 研究者提取Claude 4.5内部训练文档\n24. 📈 字节跳动AI市场份额超37%\n25. 🚀 MRAI将发布MINIIN3与MIS large3模型\n26. 📈 LTX2开源版本推迟至2026年1月\n27. 📈 Holding与OpenAI建立战略合作\n28. 📈 埃森哲与OpenAI合作加速企业AI应用"
+    },
+    {
       "title": "阶跃AI开源GELab-Zero【AI 早报 2025-12-01】",
       "publish_date": "2025-12-01",
       "bv_id": "BV1rVS6BzEcB",
@@ -151,18 +159,10 @@
       "organize_time": "2025-11-22 20:36:04",
       "news_count": 16,
       "overview": "1. 🚀 OpenAI发布GPT-5.1系列模型\n2. 🔧 谷歌新模型Riftrunner现身LMArena\n3. 🚀 World Labs发布多模态世界模型Marble\n4. 🚀 微博WeiboAI发布VibeThinker-1.5B模型\n5. 🚀 LMArena发布Code Arena编程评测平台\n6. 🚀 TRAE发布3.0版本并上线TRAE SOLO\n7. 🔧 GitHub Copilot支持Agent特定指令\n8. 🚀 微软发布Visual Studio 2026与.NET 10\n9. 🔧 Google发布AI Agents系列白皮书\n10. 🚀 OpenRouter上线Nvidia免费视频模型\n11. 🔧 DeepMind发布AI视觉认知对齐研究\n12. 🔧 Intel与vLLM合作优化Arc Pro GPU推理\n13. 🚀 Hugging Face发布FinePDF-edu数据集\n14. 📈 Manus集成Stripe实现支付功能\n15. 📈 X平台下月采用Grok AI推荐系统\n16. 📈 ElevenLabs与McConaughey及Caine合作AI语音"
-    },
-    {
-      "title": "通通降价！编程套餐大乱斗；字节跳动发布豆包编程模型Doubao-Seed-Code【AI 早报 2025-11-12】",
-      "publish_date": "2025-11-12",
-      "bv_id": "BV1N6kmBSEFB",
-      "organize_time": "2025-11-23 14:40:45",
-      "news_count": 23,
-      "overview": "1. 🚀 字节跳动发布豆包编程模型\n2. 🚀 百度开源轻量多模态模型ER4.5VL\n3. 🚀 ElevenLabs发布低延迟语音转写模型\n4. 🚀 商汤开源空间智能大模型SenseNova SI\n5. 🚀 ASLP Lab开源音乐生成框架DIFF2\n6. 🚀 快手AI编程模型KatQ Pro上线OpenRouter\n7. 📈 Kimi推出会员砍价优惠活动\n8. 📈 阿里Code推出首购优惠\n9. 📈 MiniMax上线海外编程套餐\n10. 🚀 MiniMax开源智能体框架MiniAgent\n11. 🔧 xAI推出Files API支持文档智能检索\n12. 📈 两机构发布开放科学计划Ella\n13. 🔧 谷歌更新开发者工具JS to CLI\n14. 🔧 谷歌相册推出6项AI新功能\n15. 🔧 谷歌信息应用上线AI图片编辑Remix\n16. 🚀 谷歌发布Private AI Compute平台\n17. 🔧 OpenAI发布智能体提示优化指南\n18. 📈 软银出售英伟达股份套现58亿美元\n19. 📈 微软投资100亿美元建葡萄牙AI数据中心\n20. 📈 Brookfield计划向OpenAI Star项目投30亿美元\n21. 📈 Meta首席AI科学家杨立昆将离职创业\n22. 📈 英特尔CTO Sachin Katti加入OpenAI\n23. 🚀 Black Forest Labs将发布FLEX2图像模型"
     }
   ],
   "page": 1,
   "total_pages": 3,
-  "total_count": 48,
-  "generated_time": "2025-12-01 08:54:52"
+  "total_count": 49,
+  "generated_time": "2025-12-02 09:11:08"
 }

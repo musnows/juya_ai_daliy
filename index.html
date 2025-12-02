@@ -107,13 +107,46 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 48 条早报</span>
+                        <span id="total-count">共 49 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-02.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-02</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1xgSHBfEPW</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Deep发布V3.2系列模型
+2. 🚀 字节发布豆包手机助手预览版
+3. 🚀 Runway发布帧N4.5视频模型
+4. 🚀 Clean林AI发布OE统一多模态视频模型
+5. 🚀 拍我AI发布p vers v5.5视频模型
+6. 🚀 阿里国际发布OS image7B文生图模型
+7. 🔧 生树...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    28 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-02 09:11:07
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-01.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">阶跃AI开源GELab-Zero【AI 早报 2025-12-01】</h3>
@@ -553,35 +586,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-17.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google将发Nano Banana Pro【AI 早报 2025-11-17】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-17</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1rUChBAEGE</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Google将发布Nano Banana Pro
-2. 🔧 Google Enterprise内测多Agent锦标赛
-3. 🚀 EverMind AI开源智能记忆系统EverMemOS...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    3 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-22 20:34:17
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -628,7 +632,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 48;
+        let totalCount = 49;
         let isLoading = false;
 
         // 工具函数
