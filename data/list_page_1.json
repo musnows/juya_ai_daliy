@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "Mistral AI发布Mistral 3模型家族【AI 早报 2025-12-03】",
+      "publish_date": "2025-12-03",
+      "bv_id": "BV1V9SaBgEos",
+      "organize_time": "2025-12-03 08:49:31",
+      "news_count": 19,
+      "overview": "1. 🚀 Mistral AI发布Mistral 3模型家族\n2. 🚀 Amazon发布Nova 2模型系列及服务\n3. 🚀 亚马逊发布多款AI新品\n4. 📈 OpenAI进入红色警报状态并开发新模型\n5. 📈 Anthropic收购Bun并开源\n6. 🚀 SeeDream 4.1提供限时免费\n7. 🚀 Cline上线新模型Microwave\n8. 🔧 Augment发布Context Engine MCP\n9. 🚀 Qoder上线旗舰模型升级编程智能体\n10. 🚀 亚马逊发布Kiro自主智能体\n11. 🚀 苹果发布CLaRa-7B-Instruct模型\n12. 🔧 苹果开源STARFlow-V视频生成模型\n13. 📈 SWE-bench团队公布新模型评估结果\n14. 🔧 Hugging Face发布huggingface/skills\n15. 🔧 谷歌增强Circle to Search和Lens诈骗检测\n16. 🚀 flowith推出slides beta功能\n17. 🔧 商汤开源原生多模态架构NEO\n18. 🔧 谷歌DeepMind发布DiscoRL强化学习算法\n19. 🔧 英伟达发布TiDAR AI解码方法"
+    },
+    {
       "title": "DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】",
       "publish_date": "2025-12-02",
       "bv_id": "BV1xgSHBfEPW",
@@ -151,18 +159,10 @@
       "organize_time": "2025-11-22 20:35:31",
       "news_count": 17,
       "overview": "1. 🚀 Google DeepMind发布SIMA 2智能体\n2. 🚀 Lumine发布3D开放世界通用智能体\n3. 🚀 百度发布文心大模型5.0\n4. 🚀 OpenAI上线GPT-5.1模型API\n5. 🔧 Codex发布0.58.0支持GPT-5.1模型\n6. 🚀 OpenAI发布Apps SDK预览版\n7. 🔧 Gemini 3或上线Canvas功能\n8. 🔧 Google发布Gemini Live重大更新\n9. 🔧 Google升级Gemini CLI用户体验\n10. 🔧 NotebookLM推出Deep Research功能\n11. 📈 Google更新AI搜索购物体验\n12. 🚀 Anthropic扩展Claude Code网页版\n13. 🔧 VS Code发布1.106集成Agent管理\n14. 🔧 Qwen发布DeepResearch 2511升级\n15. 📈 阿里云调整通义千问3-Max价格\n16. 🚀 H Company发布Holo2模型系列\n17. 🚀 JanHQ发布Jan-v2-VL多模态Agent模型"
-    },
-    {
-      "title": "OpenAI发布GPT-5.1系列模型【AI 早报 2025-11-13】",
-      "publish_date": "2025-11-13",
-      "bv_id": "BV1LkCpBNEf9",
-      "organize_time": "2025-11-22 20:36:04",
-      "news_count": 16,
-      "overview": "1. 🚀 OpenAI发布GPT-5.1系列模型\n2. 🔧 谷歌新模型Riftrunner现身LMArena\n3. 🚀 World Labs发布多模态世界模型Marble\n4. 🚀 微博WeiboAI发布VibeThinker-1.5B模型\n5. 🚀 LMArena发布Code Arena编程评测平台\n6. 🚀 TRAE发布3.0版本并上线TRAE SOLO\n7. 🔧 GitHub Copilot支持Agent特定指令\n8. 🚀 微软发布Visual Studio 2026与.NET 10\n9. 🔧 Google发布AI Agents系列白皮书\n10. 🚀 OpenRouter上线Nvidia免费视频模型\n11. 🔧 DeepMind发布AI视觉认知对齐研究\n12. 🔧 Intel与vLLM合作优化Arc Pro GPU推理\n13. 🚀 Hugging Face发布FinePDF-edu数据集\n14. 📈 Manus集成Stripe实现支付功能\n15. 📈 X平台下月采用Grok AI推荐系统\n16. 📈 ElevenLabs与McConaughey及Caine合作AI语音"
     }
   ],
   "page": 1,
   "total_pages": 3,
-  "total_count": 49,
-  "generated_time": "2025-12-03 08:48:33"
+  "total_count": 50,
+  "generated_time": "2025-12-03 08:49:32"
 }

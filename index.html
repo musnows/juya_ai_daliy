@@ -107,13 +107,46 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 49 条早报</span>
+                        <span id="total-count">共 50 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-03.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Mistral AI发布Mistral 3模型家族【AI 早报 2025-12-03】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-03</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1V9SaBgEos</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Mistral AI发布Mistral 3模型家族
+2. 🚀 Amazon发布Nova 2模型系列及服务
+3. 🚀 亚马逊发布多款AI新品
+4. 📈 OpenAI进入红色警报状态并开发新模型
+5. 📈 Anthropic收购Bun并开源
+6. 🚀 SeeDream 4.1提供限时免费
+7....
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    19 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-03 08:49:31
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-02.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】</h3>
@@ -553,38 +586,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-18.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">xAI 发布 Grok 4.1 模型【AI 早报 2025-11-18】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-18</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1jjCkB9ELZ</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Grok 4.1模型正式发布
-2. 🔧 Google Gemini 3 Pro灰度推送
-3. 🚀 Google发布WeatherNext 2天气模型
-4. 🔧 Google Vids AI功能免费开放
-5. 🚀 Google推出AI旅行规划新功能
-6. 📈 Artificial Analy...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    16 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-22 20:34:08
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -631,7 +632,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 49;
+        let totalCount = 50;
         let isLoading = false;
 
         // 工具函数
