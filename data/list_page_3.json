@@ -1,6 +1,14 @@
 {
   "newspapers": [
     {
+      "title": "硅谷裂开，国产开源新神 MiniMax M2 登场，超越DeepSeek。外网评论：中国模型统治开源世界。【AI 早报 2025-10-25】",
+      "publish_date": "2025-10-25",
+      "bv_id": "BV1xGs9z3Evt",
+      "organize_time": "2025-11-23 15:26:49",
+      "news_count": 14,
+      "overview": "1. 🚀 MiniMax发布M2大模型\n2. 🚀 月之暗面推出Kimi Coding权益与CLI工具\n3. 🚀 腾讯发布AI程序员ADA技术预览版\n4. 📈 GLM大模型推出Coding Plan限时特惠\n5. 🔧 OpenAI发布CodeX CLI 0.4.8.0版本\n6. 📈 Amazon宣布免费编码Agent无需训练授权\n7. 🔧 Google AI Studio支持Jina AI Pip额度切换\n8. 🚀 MRAI推出生产级AI平台Studio\n9. 🔧 Anti-Slop框架减少LLM重复输出\n10. 📈 GPT-5.1-mini名称现身OpenAI代码库\n11. 🚀 LightOn发布统一OCR模型OCREB\n12. 📈 AI基础设施公司KO完成13.8亿美元融资\n13. 📈 OpenAI开发AI音乐生成模型\n14. 📈 xAI为Grok开发新同伴Mika"
+    },
+    {
       "title": "永久免费！快手发布KAT-Coder系列新模型【AI 早报 2025-10-24】",
       "publish_date": "2025-10-24",
       "bv_id": "BV12ms7z6E34",
@@ -83,6 +91,6 @@
   ],
   "page": 3,
   "total_pages": 3,
-  "total_count": 50,
-  "generated_time": "2025-12-03 08:49:32"
+  "total_count": 51,
+  "generated_time": "2025-12-04 09:05:32"
 }

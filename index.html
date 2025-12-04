@@ -107,13 +107,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 50 条早报</span>
+                        <span id="total-count">共 51 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-04.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">字节跳动发布图像模型Seedream 4.5【AI 早报 2025-12-04】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-04</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1sy2hB2EST</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 字节跳动发布Seedream 4.5图像模型
+2. 🚀 可灵AI 2.6模型实现音画同步生成
+3. 🚀 快手StreamLake发布CyberCut AI工具
+4. 🔧 Kiro发布Powers实现Agent动态加载
+5. 🔧 Gemini CLI v0.19.0版本功能更新
+6. 🚀 C...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    17 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-04 09:05:31
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-03.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Mistral AI发布Mistral 3模型家族【AI 早报 2025-12-03】</h3>
@@ -554,38 +586,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-19.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google 发布 Gemini 3 Pro【AI 早报 2025-11-19】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-19</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV12Jy7BBEkQ</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 谷歌发布Gemini 3 Pro大模型
-2. 🔧 谷歌Gemini应用集成Gemini 3 Pro
-3. 🚀 谷歌发布AI辅助开发平台Antigrafty
-4. 🔧 谷歌推出Scholar Lapse学术AI功能
-5. 📈 Google DeepMind暗示新品发布
-6. 🔧 Kode A...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    21 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-23 14:39:44
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -632,7 +632,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 50;
+        let totalCount = 51;
         let isLoading = false;
 
         // 工具函数
