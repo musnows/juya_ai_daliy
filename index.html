@@ -107,13 +107,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 51 条早报</span>
+                        <span id="total-count">共 52 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-05.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">宇宙最强AI炸裂上线，OpenAI哭了，Google 上线 Gemini 3 Deep Think【AI早报 2025-12-05】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-05</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1c72GBpEQU</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Google推出Gemini 3 Deep Think模式
+2. 🚀 OpenAI开放GPT-5.1 Code XX Max API
+3. 🔧 Notebook LM新增图表与幻灯片生成
+4. 🚀 Anthropic发布新型研究工具AnthroTel
+5. 🔧 Anthropic推出Cla...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    19 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-05 08:51:38
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-04.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">字节跳动发布图像模型Seedream 4.5【AI 早报 2025-12-04】</h3>
@@ -555,37 +586,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-20.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">OpenAI发布 GPT-5.1-Codex-Max、上线GPT-5.1 Pro；xAI发布 Grok 4.1 Fast【AI 早报 2025-11-20】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-20</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1PSCZB7EST</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 OpenAI发布GPT-5.1-Codex-Max编码模型
-2. 🚀 OpenAI上线GPT-5.1 Pro模型
-3. 🚀 xAI发布Grok 4.1 Fast模型及Agent Tools API
-4. 🚀 Meta发布SAM 3及3D重建模型SAM 3D
-5. 🚀 微软Copilot发布...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    21 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-24 09:07:26
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -632,7 +632,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 51;
+        let totalCount = 52;
         let isLoading = false;
 
         // 工具函数
