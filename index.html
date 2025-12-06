@@ -107,13 +107,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 52 条早报</span>
+                        <span id="total-count">共 53 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-06.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">GPT-5.2即将来袭？Altman被逼到&quot;code red&quot;！谷歌Gemini 3刚封神就要被秒？【AI早报 12月6日】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-06</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1iw2nBvEWB</span>
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI将发布GPT-5.2应对谷歌Gemini 3
+2. 🚀 腾讯发布混元HY 2.0大模型
+3. 🔧 美团开源LongCat-Image双语视觉模型
+4. 🔧 Qwen发布Qwen3-TTS语音合成模型升级
+5. 📈 React关键RCE漏洞影响Next.js及Dify
+6. 🚀 ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    19 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-06 09:07:38
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-05.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">宇宙最强AI炸裂上线，OpenAI哭了，Google 上线 Gemini 3 Deep Think【AI早报 2025-12-05】</h3>
@@ -555,37 +587,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-21.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google发布Gemini 3 Pro Image模型（Nano Banana Pro）【AI 早报 2025-11-21】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-21</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1S9yKB1Ekb</span>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Google发布Gemini 3 Pro图像模型
-2. 🔧 OpenAI ChatGPT群聊功能全球上线
-3. 🔧 OpenAI更新Mac版ChatGPT Atlas浏览器
-4. 🚀 Perplexity发布Comet浏览器Android版
-5. 📈 OpenAI发布GPT-5科研加速实验...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    25 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-24 09:06:32
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -632,7 +633,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 52;
+        let totalCount = 53;
         let isLoading = false;
 
         // 工具函数
