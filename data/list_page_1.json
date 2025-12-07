@@ -37,6 +37,15 @@
       "is_voice_generated": false
     },
     {
+      "title": "OpenAI拉响“红色警报”！GPT-5.2代号Garlic紧急立项，再慢就要被谷歌团灭？【AI 早报 2025-12-03】",
+      "publish_date": "2025-12-03",
+      "bv_id": "BV1V9SaBgEos",
+      "organize_time": "2025-12-07 11:22:24",
+      "news_count": 8,
+      "overview": "1. 📈 OpenAI紧急开发Garlic模型应对谷歌\n2. 🚀 Mistral AI发布Mistral 3模型家族\n3. 🚀 亚马逊发布Nova 2模型系列及服务\n4. 📈 Anthropic收购Bun并开源\n5. 🚀 苹果发布CLaRa-7B-Instruct和STARFlow-V\n6. 🔧 谷歌DeepMind发布DiscoRL强化学习算法\n7. 🔧 英伟达发布TiDAR AI解码方法\n8. 🚀 商汤开源原生多模态架构NEO",
+      "is_voice_generated": false
+    },
+    {
       "title": "DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】",
       "publish_date": "2025-12-02",
       "bv_id": "BV1xgSHBfEPW",
@@ -170,19 +179,10 @@
       "news_count": 16,
       "overview": "1. 🚀 Grok 4.1模型正式发布\n2. 🔧 Google Gemini 3 Pro灰度推送\n3. 🚀 Google发布WeatherNext 2天气模型\n4. 🔧 Google Vids AI功能免费开放\n5. 🚀 Google推出AI旅行规划新功能\n6. 📈 Artificial Analysis发布AA-Omniscience基准\n7. 📈 LongCat发布AMO-Bench数学推理基准\n8. 🚀 阿里发布千问应用公测版\n9. 📈 阿里Qwen Chat用户突破千万\n10. 🔧 Google计划推出AI Studio移动应用\n11. 🔧 Google拟引入Gemini Enterprise Agent导入\n12. 🔧 Poe上线200人群聊功能\n13. 🔧 Cerebras发布REAP剪枝MiniMax-M2模型\n14. 📈 Google推出三项Gemini教育认证\n15. 📈 Replicate加入Cloudflare\n16. 📈 Jeff Bezos回归Project Prometheus联合CEO",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google将发Nano Banana Pro【AI 早报 2025-11-17】",
-      "publish_date": "2025-11-17",
-      "bv_id": "BV1rUChBAEGE",
-      "organize_time": "2025-11-22 20:34:17",
-      "news_count": 3,
-      "overview": "1. 🚀 Google将发布Nano Banana Pro\n2. 🔧 Google Enterprise内测多Agent锦标赛\n3. 🚀 EverMind AI开源智能记忆系统EverMemOS",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 3,
-  "total_count": 53,
-  "generated_time": "2025-12-07 11:12:55"
+  "total_count": 54,
+  "generated_time": "2025-12-07 11:22:44"
 }
