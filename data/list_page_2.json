@@ -1,12 +1,22 @@
 {
   "newspapers": [
     {
+      "title": "xAI 发布 Grok 4.1 模型【AI 早报 2025-11-18】",
+      "publish_date": "2025-11-18",
+      "bv_id": "BV1jjCkB9ELZ",
+      "organize_time": "2025-11-22 20:34:08",
+      "news_count": 16,
+      "overview": "1. 🚀 Grok 4.1模型正式发布\n2. 🔧 Google Gemini 3 Pro灰度推送\n3. 🚀 Google发布WeatherNext 2天气模型\n4. 🔧 Google Vids AI功能免费开放\n5. 🚀 Google推出AI旅行规划新功能\n6. 📈 Artificial Analysis发布AA-Omniscience基准\n7. 📈 LongCat发布AMO-Bench数学推理基准\n8. 🚀 阿里发布千问应用公测版\n9. 📈 阿里Qwen Chat用户突破千万\n10. 🔧 Google计划推出AI Studio移动应用\n11. 🔧 Google拟引入Gemini Enterprise Agent导入\n12. 🔧 Poe上线200人群聊功能\n13. 🔧 Cerebras发布REAP剪枝MiniMax-M2模型\n14. 📈 Google推出三项Gemini教育认证\n15. 📈 Replicate加入Cloudflare\n16. 📈 Jeff Bezos回归Project Prometheus联合CEO",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google将发Nano Banana Pro【AI 早报 2025-11-17】",
       "publish_date": "2025-11-17",
       "bv_id": "BV1rUChBAEGE",
       "organize_time": "2025-11-22 20:34:17",
       "news_count": 3,
-      "overview": "1. 🚀 Google将发布Nano Banana Pro\n2. 🔧 Google Enterprise内测多Agent锦标赛\n3. 🚀 EverMind AI开源智能记忆系统EverMemOS"
+      "overview": "1. 🚀 Google将发布Nano Banana Pro\n2. 🔧 Google Enterprise内测多Agent锦标赛\n3. 🚀 EverMind AI开源智能记忆系统EverMemOS",
+      "is_voice_generated": false
     },
     {
       "title": "OpenRouter 上线 Sherlock 系列测试模型【AI 早报 2025-11-16】",
@@ -14,7 +24,8 @@
       "bv_id": "BV1WjCDBdEeM",
       "organize_time": "2025-11-22 20:34:31",
       "news_count": 8,
-      "overview": "1. 🚀 OpenRouter上线Sherlock系列模型\n2. 🔧 GitHub Copilot公测Raptor mini模型\n3. 🔧 iFlow CLI免费开放MiniMax-M2与Kimi-K2-Thinking\n4. 🔧 Gemini CLI发布v0.15.1补丁\n5. 🚀 Factory推出Ultra订阅档\n6. 🔧 Cerebras发布MiniMax-M2-REAP-162B-A10B稀疏模型\n7. 📈 AMD启动高校春雨计划\n8. 📈 Similarweb：Gemini占比升至13.7%"
+      "overview": "1. 🚀 OpenRouter上线Sherlock系列模型\n2. 🔧 GitHub Copilot公测Raptor mini模型\n3. 🔧 iFlow CLI免费开放MiniMax-M2与Kimi-K2-Thinking\n4. 🔧 Gemini CLI发布v0.15.1补丁\n5. 🚀 Factory推出Ultra订阅档\n6. 🔧 Cerebras发布MiniMax-M2-REAP-162B-A10B稀疏模型\n7. 📈 AMD启动高校春雨计划\n8. 📈 Similarweb：Gemini占比升至13.7%",
+      "is_voice_generated": false
     },
     {
       "title": "有望下周发布！Gemini3.0能碾压GPT-5.1吗！【AI 早报 2025-11-15】",
@@ -22,7 +33,8 @@
       "bv_id": "BV1G5CLB3EUa",
       "organize_time": "2025-11-22 20:35:00",
       "news_count": 17,
-      "overview": "1. 🚀 OpenAI试点ChatGPT群聊功能\n2. 🚀 Google推出Code Wiki知识库\n3. 🔧 Google Colab开放Gemini与Gemma模型\n4. 🚀 美团发布CatPaw IDE Windows版\n5. 🚀 MiniMax推出Coding Plan订阅服务\n6. 🚀 智谱GLM Coding Plan特供版上线\n7. 🔧 小米开源Miloco智能家居AI内核\n8. 🔧 Claude平台推出结构化输出功能\n9. 🔧 NotebookLM支持图片上传作为信息源\n10. 🔧 Qwen Code发布v0.2.1版本\n11. 🔧 Google Gemini App更新Deep Research功能\n12. 🔧 Google Veo 3.1支持多图参考生成\n13. 📈 硅基流动平台服务与活动规则调整\n14. 🔧 OpenAI发布稀疏电路可解释性研究\n15. 🚀 UI2Code^N发布交互式UI-to-Code模型\n16. 🔧 Decart发布LSD v2实时视频风格化模型\n17. 📈 Kaggle发布《Prototype to Production》白皮书"
+      "overview": "1. 🚀 OpenAI试点ChatGPT群聊功能\n2. 🚀 Google推出Code Wiki知识库\n3. 🔧 Google Colab开放Gemini与Gemma模型\n4. 🚀 美团发布CatPaw IDE Windows版\n5. 🚀 MiniMax推出Coding Plan订阅服务\n6. 🚀 智谱GLM Coding Plan特供版上线\n7. 🔧 小米开源Miloco智能家居AI内核\n8. 🔧 Claude平台推出结构化输出功能\n9. 🔧 NotebookLM支持图片上传作为信息源\n10. 🔧 Qwen Code发布v0.2.1版本\n11. 🔧 Google Gemini App更新Deep Research功能\n12. 🔧 Google Veo 3.1支持多图参考生成\n13. 📈 硅基流动平台服务与活动规则调整\n14. 🔧 OpenAI发布稀疏电路可解释性研究\n15. 🚀 UI2Code^N发布交互式UI-to-Code模型\n16. 🔧 Decart发布LSD v2实时视频风格化模型\n17. 📈 Kaggle发布《Prototype to Production》白皮书",
+      "is_voice_generated": false
     },
     {
       "title": "Gemini 3 现身 Gemini APP 的 Canvas 功能 【AI 早报 2025-11-14】",
@@ -30,7 +42,8 @@
       "bv_id": "BV1G5CPBrEmd",
       "organize_time": "2025-11-22 20:35:31",
       "news_count": 17,
-      "overview": "1. 🚀 Google DeepMind发布SIMA 2智能体\n2. 🚀 Lumine发布3D开放世界通用智能体\n3. 🚀 百度发布文心大模型5.0\n4. 🚀 OpenAI上线GPT-5.1模型API\n5. 🔧 Codex发布0.58.0支持GPT-5.1模型\n6. 🚀 OpenAI发布Apps SDK预览版\n7. 🔧 Gemini 3或上线Canvas功能\n8. 🔧 Google发布Gemini Live重大更新\n9. 🔧 Google升级Gemini CLI用户体验\n10. 🔧 NotebookLM推出Deep Research功能\n11. 📈 Google更新AI搜索购物体验\n12. 🚀 Anthropic扩展Claude Code网页版\n13. 🔧 VS Code发布1.106集成Agent管理\n14. 🔧 Qwen发布DeepResearch 2511升级\n15. 📈 阿里云调整通义千问3-Max价格\n16. 🚀 H Company发布Holo2模型系列\n17. 🚀 JanHQ发布Jan-v2-VL多模态Agent模型"
+      "overview": "1. 🚀 Google DeepMind发布SIMA 2智能体\n2. 🚀 Lumine发布3D开放世界通用智能体\n3. 🚀 百度发布文心大模型5.0\n4. 🚀 OpenAI上线GPT-5.1模型API\n5. 🔧 Codex发布0.58.0支持GPT-5.1模型\n6. 🚀 OpenAI发布Apps SDK预览版\n7. 🔧 Gemini 3或上线Canvas功能\n8. 🔧 Google发布Gemini Live重大更新\n9. 🔧 Google升级Gemini CLI用户体验\n10. 🔧 NotebookLM推出Deep Research功能\n11. 📈 Google更新AI搜索购物体验\n12. 🚀 Anthropic扩展Claude Code网页版\n13. 🔧 VS Code发布1.106集成Agent管理\n14. 🔧 Qwen发布DeepResearch 2511升级\n15. 📈 阿里云调整通义千问3-Max价格\n16. 🚀 H Company发布Holo2模型系列\n17. 🚀 JanHQ发布Jan-v2-VL多模态Agent模型",
+      "is_voice_generated": false
     },
     {
       "title": "OpenAI发布GPT-5.1系列模型【AI 早报 2025-11-13】",
@@ -38,7 +51,8 @@
       "bv_id": "BV1LkCpBNEf9",
       "organize_time": "2025-11-22 20:36:04",
       "news_count": 16,
-      "overview": "1. 🚀 OpenAI发布GPT-5.1系列模型\n2. 🔧 谷歌新模型Riftrunner现身LMArena\n3. 🚀 World Labs发布多模态世界模型Marble\n4. 🚀 微博WeiboAI发布VibeThinker-1.5B模型\n5. 🚀 LMArena发布Code Arena编程评测平台\n6. 🚀 TRAE发布3.0版本并上线TRAE SOLO\n7. 🔧 GitHub Copilot支持Agent特定指令\n8. 🚀 微软发布Visual Studio 2026与.NET 10\n9. 🔧 Google发布AI Agents系列白皮书\n10. 🚀 OpenRouter上线Nvidia免费视频模型\n11. 🔧 DeepMind发布AI视觉认知对齐研究\n12. 🔧 Intel与vLLM合作优化Arc Pro GPU推理\n13. 🚀 Hugging Face发布FinePDF-edu数据集\n14. 📈 Manus集成Stripe实现支付功能\n15. 📈 X平台下月采用Grok AI推荐系统\n16. 📈 ElevenLabs与McConaughey及Caine合作AI语音"
+      "overview": "1. 🚀 OpenAI发布GPT-5.1系列模型\n2. 🔧 谷歌新模型Riftrunner现身LMArena\n3. 🚀 World Labs发布多模态世界模型Marble\n4. 🚀 微博WeiboAI发布VibeThinker-1.5B模型\n5. 🚀 LMArena发布Code Arena编程评测平台\n6. 🚀 TRAE发布3.0版本并上线TRAE SOLO\n7. 🔧 GitHub Copilot支持Agent特定指令\n8. 🚀 微软发布Visual Studio 2026与.NET 10\n9. 🔧 Google发布AI Agents系列白皮书\n10. 🚀 OpenRouter上线Nvidia免费视频模型\n11. 🔧 DeepMind发布AI视觉认知对齐研究\n12. 🔧 Intel与vLLM合作优化Arc Pro GPU推理\n13. 🚀 Hugging Face发布FinePDF-edu数据集\n14. 📈 Manus集成Stripe实现支付功能\n15. 📈 X平台下月采用Grok AI推荐系统\n16. 📈 ElevenLabs与McConaughey及Caine合作AI语音",
+      "is_voice_generated": false
     },
     {
       "title": "通通降价！编程套餐大乱斗；字节跳动发布豆包编程模型Doubao-Seed-Code【AI 早报 2025-11-12】",
@@ -46,7 +60,8 @@
       "bv_id": "BV1N6kmBSEFB",
       "organize_time": "2025-11-23 14:40:45",
       "news_count": 23,
-      "overview": "1. 🚀 字节跳动发布豆包编程模型\n2. 🚀 百度开源轻量多模态模型ER4.5VL\n3. 🚀 ElevenLabs发布低延迟语音转写模型\n4. 🚀 商汤开源空间智能大模型SenseNova SI\n5. 🚀 ASLP Lab开源音乐生成框架DIFF2\n6. 🚀 快手AI编程模型KatQ Pro上线OpenRouter\n7. 📈 Kimi推出会员砍价优惠活动\n8. 📈 阿里Code推出首购优惠\n9. 📈 MiniMax上线海外编程套餐\n10. 🚀 MiniMax开源智能体框架MiniAgent\n11. 🔧 xAI推出Files API支持文档智能检索\n12. 📈 两机构发布开放科学计划Ella\n13. 🔧 谷歌更新开发者工具JS to CLI\n14. 🔧 谷歌相册推出6项AI新功能\n15. 🔧 谷歌信息应用上线AI图片编辑Remix\n16. 🚀 谷歌发布Private AI Compute平台\n17. 🔧 OpenAI发布智能体提示优化指南\n18. 📈 软银出售英伟达股份套现58亿美元\n19. 📈 微软投资100亿美元建葡萄牙AI数据中心\n20. 📈 Brookfield计划向OpenAI Star项目投30亿美元\n21. 📈 Meta首席AI科学家杨立昆将离职创业\n22. 📈 英特尔CTO Sachin Katti加入OpenAI\n23. 🚀 Black Forest Labs将发布FLEX2图像模型"
+      "overview": "1. 🚀 字节跳动发布豆包编程模型\n2. 🚀 百度开源轻量多模态模型ER4.5VL\n3. 🚀 ElevenLabs发布低延迟语音转写模型\n4. 🚀 商汤开源空间智能大模型SenseNova SI\n5. 🚀 ASLP Lab开源音乐生成框架DIFF2\n6. 🚀 快手AI编程模型KatQ Pro上线OpenRouter\n7. 📈 Kimi推出会员砍价优惠活动\n8. 📈 阿里Code推出首购优惠\n9. 📈 MiniMax上线海外编程套餐\n10. 🚀 MiniMax开源智能体框架MiniAgent\n11. 🔧 xAI推出Files API支持文档智能检索\n12. 📈 两机构发布开放科学计划Ella\n13. 🔧 谷歌更新开发者工具JS to CLI\n14. 🔧 谷歌相册推出6项AI新功能\n15. 🔧 谷歌信息应用上线AI图片编辑Remix\n16. 🚀 谷歌发布Private AI Compute平台\n17. 🔧 OpenAI发布智能体提示优化指南\n18. 📈 软银出售英伟达股份套现58亿美元\n19. 📈 微软投资100亿美元建葡萄牙AI数据中心\n20. 📈 Brookfield计划向OpenAI Star项目投30亿美元\n21. 📈 Meta首席AI科学家杨立昆将离职创业\n22. 📈 英特尔CTO Sachin Katti加入OpenAI\n23. 🚀 Black Forest Labs将发布FLEX2图像模型",
+      "is_voice_generated": true
     },
     {
       "title": "美团发布AI IDE产品CatPaw公测版【AI 早报 2025-11-11】",
@@ -54,7 +69,8 @@
       "bv_id": "BV1ufkzBvEug",
       "organize_time": "2025-11-23 14:41:34",
       "news_count": 14,
-      "overview": "1. 🚀 美团发布AI编程助手CatRun\n2. 📰 ChatGPT推出群组聊天功能\n3. 🔧 Meta发布OmniLingua-ASR多语言语音识别系统\n4. 📈 Meta开源史上最大第一人称视角数据集\n5. 📈 xAI将举办黑客松并开放Grok模型与API\n6. 🔧 腾讯发布MoEPlay大模型角色扮演基准\n7. 🚀 谷歌发布AI Agent白皮书与强化课程\n8. 🔧 OpenB发布ORA 2.1支持多模态推理\n9. 🔧 月之暗面透露Kimi后续模型计划\n10. 📈 Kimi发布API基准测试最佳配置指南\n11. 🚀 MiniMax M2接入TraiT中国版与蜜塔AI搜索\n12. 📈 维基媒体基金会呼吁AI公司停止爬取数据\n13. 🔧 Character AI公开自研大模型架构细节\n14. 🔧 马斯克确认xAI开发Diffusion推理模型"
+      "overview": "1. 🚀 美团发布AI编程助手CatRun\n2. 📰 ChatGPT推出群组聊天功能\n3. 🔧 Meta发布OmniLingua-ASR多语言语音识别系统\n4. 📈 Meta开源史上最大第一人称视角数据集\n5. 📈 xAI将举办黑客松并开放Grok模型与API\n6. 🔧 腾讯发布MoEPlay大模型角色扮演基准\n7. 🚀 谷歌发布AI Agent白皮书与强化课程\n8. 🔧 OpenB发布ORA 2.1支持多模态推理\n9. 🔧 月之暗面透露Kimi后续模型计划\n10. 📈 Kimi发布API基准测试最佳配置指南\n11. 🚀 MiniMax M2接入TraiT中国版与蜜塔AI搜索\n12. 📈 维基媒体基金会呼吁AI公司停止爬取数据\n13. 🔧 Character AI公开自研大模型架构细节\n14. 🔧 马斯克确认xAI开发Diffusion推理模型",
+      "is_voice_generated": true
     },
     {
       "title": "xAI API上线MCP支持；TRAE SOLO 即将正式发布【AI 早报 2025-11-10】",
@@ -62,7 +78,8 @@
       "bv_id": "BV1EUkRB4Ecj",
       "organize_time": "2025-11-22 20:36:21",
       "news_count": 5,
-      "overview": "1. 🔧 xAI API上线MCP与远程工具支持\n2. 🚀 TRAE国际版将发布TRAE SOLO\n3. 📈 Google Nano-Banana 2现身第三方平台\n4. 🔧 MoonshotAI开源kosong框架\n5. 🔧 Firefox浏览器默认启用LLM功能"
+      "overview": "1. 🔧 xAI API上线MCP与远程工具支持\n2. 🚀 TRAE国际版将发布TRAE SOLO\n3. 📈 Google Nano-Banana 2现身第三方平台\n4. 🔧 MoonshotAI开源kosong框架\n5. 🔧 Firefox浏览器默认启用LLM功能",
+      "is_voice_generated": false
     },
     {
       "title": "Google发布Gemini多光谱数据分析方法【AI 早报 2025-11-09】",
@@ -70,7 +87,8 @@
       "bv_id": "BV1jE1oBiEN5",
       "organize_time": "2025-11-22 20:36:37",
       "news_count": 8,
-      "overview": "1. 🔧 Google发布Gemini多光谱数据分析方法\n2. 🚀 OpenRouter新增视频输入支持\n3. 🔧 xAI优化Grok-4-Fast提示词降低拒答率\n4. 🚀 Cerebras Code集成GLM-4.6模型\n5. 🚀 Letta发布Context-Bench技能评估套件\n6. 📈 OpenAI发布AI进展与建议报告\n7. 📈 OpenAI澄清政府支持与贷款担保区别\n8. 🚀 Movement Labs发布Momentum模型与MPU芯片"
+      "overview": "1. 🔧 Google发布Gemini多光谱数据分析方法\n2. 🚀 OpenRouter新增视频输入支持\n3. 🔧 xAI优化Grok-4-Fast提示词降低拒答率\n4. 🚀 Cerebras Code集成GLM-4.6模型\n5. 🚀 Letta发布Context-Bench技能评估套件\n6. 📈 OpenAI发布AI进展与建议报告\n7. 📈 OpenAI澄清政府支持与贷款担保区别\n8. 🚀 Movement Labs发布Momentum模型与MPU芯片",
+      "is_voice_generated": false
     },
     {
       "title": "狙击谷歌，OpenAI发布GPT-5-Codex-Mini模型及Codex服务升级【AI 早报 2025-11-08】",
@@ -78,7 +96,8 @@
       "bv_id": "BV1FB1UBDEct",
       "organize_time": "2025-11-22 20:36:56",
       "news_count": 12,
-      "overview": "1. 🚀 OpenAI发布GPT-5-Codex-Mini及Codex升级\n2. 🔧 MiniMax公布M2模型API计费与编程套餐\n3. 🔧 腾讯开源Hunyuan World 1.1训练代码\n4. 🚀 StepFun开源Step-Audio-EditX音频编辑模型\n5. 🚀 Cursor推出composer-1模型限时免费\n6. 🔧 SGLang发布Diffusion引擎加速图像生成\n7. 📈 百度ERNIE-5.0-Preview登顶LMArena文本榜第二\n8. 📈 OpenAI泄露GPT-5.1型号及发布日期\n9. 🚀 Cerebras发布Kimi-Linear-REAP-35B-A3B-Instruct模型\n10. 🔧 Google发布Nested Learning新范式及Hope模型\n11. 🔧 NotebookLM支持Google Drive文件上传\n12. 📈 Kosmos AI科学家实现自主科学发现"
+      "overview": "1. 🚀 OpenAI发布GPT-5-Codex-Mini及Codex升级\n2. 🔧 MiniMax公布M2模型API计费与编程套餐\n3. 🔧 腾讯开源Hunyuan World 1.1训练代码\n4. 🚀 StepFun开源Step-Audio-EditX音频编辑模型\n5. 🚀 Cursor推出composer-1模型限时免费\n6. 🔧 SGLang发布Diffusion引擎加速图像生成\n7. 📈 百度ERNIE-5.0-Preview登顶LMArena文本榜第二\n8. 📈 OpenAI泄露GPT-5.1型号及发布日期\n9. 🚀 Cerebras发布Kimi-Linear-REAP-35B-A3B-Instruct模型\n10. 🔧 Google发布Nested Learning新范式及Hope模型\n11. 🔧 NotebookLM支持Google Drive文件上传\n12. 📈 Kosmos AI科学家实现自主科学发现",
+      "is_voice_generated": false
     },
     {
       "title": "硅谷地震！Kimi K2 Thinking 炸裂登场；GPT 5.1吗？OpenRouter上线Polaris Alpha【AI 早报 2025-11-07】",
@@ -86,7 +105,8 @@
       "bv_id": "BV1PP2MB1EPN",
       "organize_time": "2025-11-22 20:37:24",
       "news_count": 14,
-      "overview": "1. 🚀 月之暗面发布Kimi K2 Thinking模型\n2. 🚀 OpenRouter上线Polaris Alpha隐身模型\n3. 🚀 科大讯飞发布讯飞星火X1.5及AI产品\n4. 🚀 inceptionlabs发布下一代扩散模型Mercury\n5. 🔧 Gemini API发布文件搜索工具\n6. 📈 OpenAI修复云任务问题并补偿免费积分\n7. 🔧 VS Code内联补全功能正式开源\n8. 🔧 Zed编辑器新增Auggie CLI与Opencode智能体\n9. 📈 Novita AI宣布KAT-Coder API限时免费\n10. 🚀 CodeBuddy国内版上线GLM-4.6模型\n11. 🔧 LMArena发布Arena Expert专家评估框架\n12. 🔧 NotebookLM手机应用新增测验与闪卡功能\n13. 🔧 Google Finance新增Deep Search功能\n14. 📈 Google Labs将Opal扩展至160+国家"
+      "overview": "1. 🚀 月之暗面发布Kimi K2 Thinking模型\n2. 🚀 OpenRouter上线Polaris Alpha隐身模型\n3. 🚀 科大讯飞发布讯飞星火X1.5及AI产品\n4. 🚀 inceptionlabs发布下一代扩散模型Mercury\n5. 🔧 Gemini API发布文件搜索工具\n6. 📈 OpenAI修复云任务问题并补偿免费积分\n7. 🔧 VS Code内联补全功能正式开源\n8. 🔧 Zed编辑器新增Auggie CLI与Opencode智能体\n9. 📈 Novita AI宣布KAT-Coder API限时免费\n10. 🚀 CodeBuddy国内版上线GLM-4.6模型\n11. 🔧 LMArena发布Arena Expert专家评估框架\n12. 🔧 NotebookLM手机应用新增测验与闪卡功能\n13. 🔧 Google Finance新增Deep Search功能\n14. 📈 Google Labs将Opal扩展至160+国家",
+      "is_voice_generated": false
     },
     {
       "title": "Gemini 3 实锤现身，部分网友在用，GPT-5.1也要来袭，大模型全都\"卷\"疯了！【AI 早报 2025-11-06】",
@@ -94,7 +114,8 @@
       "bv_id": "BV14U1bBGEoQ",
       "organize_time": "2025-11-22 20:37:53",
       "news_count": 19,
-      "overview": "1. 🔧 OpenAI推出ChatGPT查询中断续传功能\n2. 🚀 谷歌Gemini 3预览模型ID现身Vertex AI\n3. 🔧 Kimi K2 Reasoning模型代码并入VLLM项目\n4. 🔧 谷歌Gemini API增强结构化输出与JSON Schema支持\n5. 🔧 Gemini CLI发布v0.12.0版本，新增模型路由与子代理\n6. 🔧 Gemini Deep Research集成Google Workspace\n7. 🔧 NotebookLM新增自定义提示可见性与样式开发\n8. 🔧 谷歌简化Chrome移动端AI Mode访问方式\n9. 🔧 Google Maps集成Gemini，支持对话式驾驶体验\n10. 🔧 Manus AI支持上传自定义幻灯片模板\n11. 🚀 Isoform发布Yansu编程AI平台\n12. 🔧 Perplexity发布定制MoE内核支持万亿参数部署\n13. 🔧 Cursor引入语义搜索与自研嵌入模型\n14. 🚀 美团LongCat推出UNO-Bench中文多模态基准\n15. 🚀 CodeClash基准测试揭示模型软件工程局限\n16. 📈 Anthropic上调营收预期至47亿美元\n17. 📈 OpenAI全球企业客户超100万\n18. 🚀 谷歌拟发布新图像模型Nano Banana 2或GEMPIX-2\n19. 🚀 OpenAI将推GPT-5新快照与数据分析模型"
+      "overview": "1. 🔧 OpenAI推出ChatGPT查询中断续传功能\n2. 🚀 谷歌Gemini 3预览模型ID现身Vertex AI\n3. 🔧 Kimi K2 Reasoning模型代码并入VLLM项目\n4. 🔧 谷歌Gemini API增强结构化输出与JSON Schema支持\n5. 🔧 Gemini CLI发布v0.12.0版本，新增模型路由与子代理\n6. 🔧 Gemini Deep Research集成Google Workspace\n7. 🔧 NotebookLM新增自定义提示可见性与样式开发\n8. 🔧 谷歌简化Chrome移动端AI Mode访问方式\n9. 🔧 Google Maps集成Gemini，支持对话式驾驶体验\n10. 🔧 Manus AI支持上传自定义幻灯片模板\n11. 🚀 Isoform发布Yansu编程AI平台\n12. 🔧 Perplexity发布定制MoE内核支持万亿参数部署\n13. 🔧 Cursor引入语义搜索与自研嵌入模型\n14. 🚀 美团LongCat推出UNO-Bench中文多模态基准\n15. 🚀 CodeClash基准测试揭示模型软件工程局限\n16. 📈 Anthropic上调营收预期至47亿美元\n17. 📈 OpenAI全球企业客户超100万\n18. 🚀 谷歌拟发布新图像模型Nano Banana 2或GEMPIX-2\n19. 🚀 OpenAI将推GPT-5新快照与数据分析模型",
+      "is_voice_generated": false
     },
     {
       "title": "字节跳动Trae不再可用Claude系列模型【AI 早报 2025-11-05】",
@@ -102,7 +123,8 @@
       "bv_id": "BV1jd1nBvEcJ",
       "organize_time": "2025-11-22 20:38:24",
       "news_count": 20,
-      "overview": "1. 📈 TRAE停止提供Claude模型\n2. 🚀 Sora 2安卓版多地上线\n3. 📈 OpenAI将发布系列新模型\n4. 🚀 Claude推出Code限时促销\n5. 🔧 Cognition发布Windsurf Codemaps\n6. 🔧 Google AI Studio新增URL预填充\n7. 🚀 Ai2发布OlmoEarth平台\n8. 🔧 腾讯文档与ima功能打通\n9. 🚀 昆仑万维SkyReels正式上线\n10. 🔧 微信支付接入腾讯元宝\n11. 🔧 OpenAI发布印度文化理解基准IndQA\n12. 🔧 llama.cpp发布新WebUI\n13. 🔧 Anthropic发布MCP代码执行新方案\n14. 📈 Anthropic承诺保留已弃用模型\n15. 📈 Anthropic与冰岛启动AI教育试点\n16. 🔧 谷歌DeepMind发布IMO-Bench数学基准\n17. 🔧 大模型Cache-to-Cache通信框架提出\n18. 📈 谷歌公布太空AI计算项目Suncatcher\n19. 📈 Starcloud计划将数据中心送入太空\n20. 📈 苹果Apple Intelligence入华或推迟至iOS 26.4"
+      "overview": "1. 📈 TRAE停止提供Claude模型\n2. 🚀 Sora 2安卓版多地上线\n3. 📈 OpenAI将发布系列新模型\n4. 🚀 Claude推出Code限时促销\n5. 🔧 Cognition发布Windsurf Codemaps\n6. 🔧 Google AI Studio新增URL预填充\n7. 🚀 Ai2发布OlmoEarth平台\n8. 🔧 腾讯文档与ima功能打通\n9. 🚀 昆仑万维SkyReels正式上线\n10. 🔧 微信支付接入腾讯元宝\n11. 🔧 OpenAI发布印度文化理解基准IndQA\n12. 🔧 llama.cpp发布新WebUI\n13. 🔧 Anthropic发布MCP代码执行新方案\n14. 📈 Anthropic承诺保留已弃用模型\n15. 📈 Anthropic与冰岛启动AI教育试点\n16. 🔧 谷歌DeepMind发布IMO-Bench数学基准\n17. 🔧 大模型Cache-to-Cache通信框架提出\n18. 📈 谷歌公布太空AI计算项目Suncatcher\n19. 📈 Starcloud计划将数据中心送入太空\n20. 📈 苹果Apple Intelligence入华或推迟至iOS 26.4",
+      "is_voice_generated": false
     },
     {
       "title": "Gemini CLI引入实验性Todo功能【AI 早报 2025-11-04】",
@@ -110,7 +132,8 @@
       "bv_id": "BV1zN1rBFEyV",
       "organize_time": "2025-11-22 20:38:39",
       "news_count": 8,
-      "overview": "1. 🔧 Gemini CLI新增实验性Todo功能\n2. 🚀 百度网盘发布MCP服务器\n3. 🚀 通义千问发布Qwen3-Max-Thinking预览版\n4. 🔧 GitHub上线AI工具预算追踪功能\n5. 🔧 Gemini Docs MCP Server发布\n6. 📈 AWS与OpenAI达成多年战略合作\n7. 📈 Lambda与微软签署数十亿美元AI协议\n8. 📈 AI需求推动内存价格大幅上涨"
+      "overview": "1. 🔧 Gemini CLI新增实验性Todo功能\n2. 🚀 百度网盘发布MCP服务器\n3. 🚀 通义千问发布Qwen3-Max-Thinking预览版\n4. 🔧 GitHub上线AI工具预算追踪功能\n5. 🔧 Gemini Docs MCP Server发布\n6. 📈 AWS与OpenAI达成多年战略合作\n7. 📈 Lambda与微软签署数十亿美元AI协议\n8. 📈 AI需求推动内存价格大幅上涨",
+      "is_voice_generated": false
     },
     {
       "title": "Qwen3-Max-Thinking上线【AI 早报 2025-11-03】",
@@ -118,7 +141,8 @@
       "bv_id": "BV1kU1wB4EZC",
       "organize_time": "2025-11-22 20:38:52",
       "news_count": 6,
-      "overview": "1. 🚀 Qwen-3 Max上线thinking功能\n2. 🚀 MiniMax预告M2.1模型并推进开源\n3. 🔧 谷歌实验性AI模式登陆欧洲部分国家\n4. 📈 Codex因计费错误超额收费并退款\n5. 🔧 Google AI Studio新增Markdown导出功能\n6. 📈 苹果拟用定制Gemini模型驱动Siri"
+      "overview": "1. 🚀 Qwen-3 Max上线thinking功能\n2. 🚀 MiniMax预告M2.1模型并推进开源\n3. 🔧 谷歌实验性AI模式登陆欧洲部分国家\n4. 📈 Codex因计费错误超额收费并退款\n5. 🔧 Google AI Studio新增Markdown导出功能\n6. 📈 苹果拟用定制Gemini模型驱动Siri",
+      "is_voice_generated": false
     },
     {
       "title": "Cursor新模型被指基于中国模型构建【AI 早报 2025-11-02】",
@@ -126,7 +150,8 @@
       "bv_id": "BV1tPyRBLEZY",
       "organize_time": "2025-11-22 20:39:04",
       "news_count": 5,
-      "overview": "1. 🔧 Codex CLI v0.53发布实验性沙盒功能\n2. 🔧 Qwen3-VL获llama.cpp全面支持\n3. 📈 英特尔拟50亿美元收购SambaNova\n4. 📈 Cursor Composer-1模型疑基于中文模型微调\n5. 📈 AI艺人Xania Monet首登Billboard电台榜"
+      "overview": "1. 🔧 Codex CLI v0.53发布实验性沙盒功能\n2. 🔧 Qwen3-VL获llama.cpp全面支持\n3. 📈 英特尔拟50亿美元收购SambaNova\n4. 📈 Cursor Composer-1模型疑基于中文模型微调\n5. 📈 AI艺人Xania Monet首登Billboard电台榜",
+      "is_voice_generated": false
     },
     {
       "title": "Google紧急下架，AI Studio这系列模型将不可用！【AI 早报 2025-11-01】",
@@ -134,7 +159,8 @@
       "bv_id": "BV1Yt1VB6Eh8",
       "organize_time": "2025-11-22 20:39:28",
       "news_count": 18,
-      "overview": "1. 🚀 美团发布Flash-Omni多模态模型\n2. 🚀 MiniMax发布Music2.0模型\n3. 🚀 字节跳动发布Ouro系列循环语言模型\n4. 🔧 Claude发布原生安装程序\n5. 🔧 Google更新Gemini命令行工具\n6. 📈 Google关闭AI Studio的Gemma入口\n7. 🔧 Ollama桌面应用更新\n8. 🚀 Cherry Studio发布移动端首个内测版\n9. 📈 Warp调整定价结构并推出Build计划\n10. 🔧 Qoder将为JetBrains IDE推出原生支持\n11. 🚀 Perplexity推出航班实时追踪功能\n12. 📈 Udio被环球音乐收购后禁用下载功能\n13. 📈 Affinity宣布永久免费\n14. 🔧 微软在Win11预览版中推出任务栏Ask Copilot功能\n15. 🚀 OpenRouter上线嵌入模型\n16. 🚀 Opera Neon推出深度研究工具\n17. 📈 Fireworks AI完成2.5亿美元C轮融资\n18. 📈 Genspark完成超2亿美元融资"
+      "overview": "1. 🚀 美团发布Flash-Omni多模态模型\n2. 🚀 MiniMax发布Music2.0模型\n3. 🚀 字节跳动发布Ouro系列循环语言模型\n4. 🔧 Claude发布原生安装程序\n5. 🔧 Google更新Gemini命令行工具\n6. 📈 Google关闭AI Studio的Gemma入口\n7. 🔧 Ollama桌面应用更新\n8. 🚀 Cherry Studio发布移动端首个内测版\n9. 📈 Warp调整定价结构并推出Build计划\n10. 🔧 Qoder将为JetBrains IDE推出原生支持\n11. 🚀 Perplexity推出航班实时追踪功能\n12. 📈 Udio被环球音乐收购后禁用下载功能\n13. 📈 Affinity宣布永久免费\n14. 🔧 微软在Win11预览版中推出任务栏Ask Copilot功能\n15. 🚀 OpenRouter上线嵌入模型\n16. 🚀 Opera Neon推出深度研究工具\n17. 📈 Fireworks AI完成2.5亿美元C轮融资\n18. 📈 Genspark完成超2亿美元融资",
+      "is_voice_generated": false
     },
     {
       "title": "Google和Claude全慌了，ChatGPT积分制上线，Sora和Codex可用 【AI 早报 2025-10-31】",
@@ -142,7 +168,8 @@
       "bv_id": "BV1pe1NBeEWV",
       "organize_time": "2025-11-23 15:24:17",
       "news_count": 21,
-      "overview": "1. 🚀 MiniMax发布语音模型Speech 2.6\n2. 🚀 OpenAI发布Aardvark安全研究工具\n3. 🚀 Lumi AI论文阅读器上线\n4. 🔧 Sora新增付费生成额度功能\n5. 🔧 ChatGPT Plus推出积分付费选项\n6. 🔧 谷歌AI Studio上线日志与数据集功能\n7. 🚀 月之暗面开源Kimi-Linear-48B-A3B模型\n8. 🚀 智源发布多模态世界模型Emu3.5\n9. 🚀 英伟达发布ChronoEdit-14B多模态模型\n10. 🚀 ManifestAI开源Brumby-14B-Base模型\n11. 🔧 Cognition发布Devin公测版\n12. 🚀 Qoder发布Linux x64公测版\n13. 🚀 OpenRouter上线Sonar Pro Search\n14. 🚀 Perplexity发布专利研究智能体\n15. 🔧 OpenAI详解Atlas浏览器OWL架构\n16. 📈 OSWorld-MCP基准正式发布\n17. 📈 Hugging Face发布Smol训练手册\n18. 🔧 MiniMax披露M2模型全链路设计\n19. 🔧 SUSE集成MCP至Linux 16.0\n20. 🚀 腾讯发布DeepSeek-V3.1-Terminus量化模型\n21. 📈 AWS与Anthropic共建AI超级集群Rainier"
+      "overview": "1. 🚀 MiniMax发布语音模型Speech 2.6\n2. 🚀 OpenAI发布Aardvark安全研究工具\n3. 🚀 Lumi AI论文阅读器上线\n4. 🔧 Sora新增付费生成额度功能\n5. 🔧 ChatGPT Plus推出积分付费选项\n6. 🔧 谷歌AI Studio上线日志与数据集功能\n7. 🚀 月之暗面开源Kimi-Linear-48B-A3B模型\n8. 🚀 智源发布多模态世界模型Emu3.5\n9. 🚀 英伟达发布ChronoEdit-14B多模态模型\n10. 🚀 ManifestAI开源Brumby-14B-Base模型\n11. 🔧 Cognition发布Devin公测版\n12. 🚀 Qoder发布Linux x64公测版\n13. 🚀 OpenRouter上线Sonar Pro Search\n14. 🚀 Perplexity发布专利研究智能体\n15. 🔧 OpenAI详解Atlas浏览器OWL架构\n16. 📈 OSWorld-MCP基准正式发布\n17. 📈 Hugging Face发布Smol训练手册\n18. 🔧 MiniMax披露M2模型全链路设计\n19. 🔧 SUSE集成MCP至Linux 16.0\n20. 🚀 腾讯发布DeepSeek-V3.1-Terminus量化模型\n21. 📈 AWS与Anthropic共建AI超级集群Rainier",
+      "is_voice_generated": false
     },
     {
       "title": "Cursor 2.0发布，还带来了自研模型Composer【AI 早报 2025-10-30】",
@@ -150,19 +177,12 @@
       "bv_id": "BV18uy4BTEQm",
       "organize_time": "2025-11-23 15:24:41",
       "news_count": 13,
-      "overview": "1. 🚀 Cursor发布2.0与自研Composer模型\n2. 🚀 Cognition发布SWE-1.5极速Agent模型\n3. 🚀 Sora更新并限时开放免邀请码注册\n4. 🔧 NotebookLM升级并开放自定义目标\n5. 🔧 OpenAI向Pro用户开放Pulse功能\n6. 🔧 Grok移动端上线视频超分功能\n7. 🚀 Google发布Jules Gemini CLI扩展\n8. 🚀 Microsoft 365 Copilot新增App Builder与Workflows\n9. 📈 Google上调Gemini 2.5缓存折扣至90%\n10. 🚀 Cherry Studio移动端内测招募启动\n11. 🚀 OpenAI发布gpt-oss-safeguard安全模型\n12. 🚀 Bria AI开源FIBO文生图模型\n13. 🚀 InternLM发布JanusCoder系列模型"
-    },
-    {
-      "title": "Cursor 慌了，GitHub发布Agent HQ及Copilot重大更新【AI 早报 2025-10-29】",
-      "publish_date": "2025-10-29",
-      "bv_id": "BV1yRy1BEE47",
-      "organize_time": "2025-11-23 15:25:22",
-      "news_count": 27,
-      "overview": "1. 📈 OpenAI完成重组并更名基金会\n2. 🚀 GitHub发布Agent HQ与Copilot升级\n3. 🚀 NotebookLM新增Kawaii风格视频摘要\n4. 🚀 谷歌实验室推AI营销工具Pomelli\n5. 🚀 Flowith AI发布Agent操作系统FlowithOS\n6. 🔧 Anthropic发送Neptune V6模型进行安全测试\n7. 🔧 Claude Code 2.0.28引入Plan模式与子代理\n8. 🔧 NVIDIA发布NVQLink量子-GPU互联架构\n9. 🔧 NVIDIA开源OmniVinci-9B全模态大模型\n10. 🔧 NVIDIA开源Nemotron、Cosmos等AI模型\n11. 🚀 MiniMax发布Hailuo 2.3视频模型\n12. 🔧 Soul AI开源SoulX-Podcast-1.7B语音模型\n13. 🚀 Cartesia融资1亿并发布Sonic-3语音模型\n14. 🔧 IBM开源Granite 4.0 Nano系列模型\n15. 🚀 JetBrains发布DPAI Arena评测平台\n16. 🔧 NVIDIA推出ProfBench专业评测基准\n17. 🚀 Adobe升级Firefly为一站式AI创意平台\n18. 🚀 Pokee AI发布对话式Agent编排平台\n19. 🔧 谷歌Gemini 2.5 Flash Image接入Batch API\n20. 📈 OpenAI为印度用户推免费ChatGPT Go\n21. 🚀 Vidu Q2模型上线海艺AI平台\n22. 📈 Giga AI推免费调用Claude Code计划\n23. 📈 OpenAI公布AI研究员路线图\n24. 🔧 Thinking Machines提出On-Policy Distillation方法\n25. 🔧 复旦与美团发布R-HORIZON推理框架\n26. 📈 Mem0完成2400万美元融资\n27. 📈 xAI拟上线Grok Imagine文生视频功能"
+      "overview": "1. 🚀 Cursor发布2.0与自研Composer模型\n2. 🚀 Cognition发布SWE-1.5极速Agent模型\n3. 🚀 Sora更新并限时开放免邀请码注册\n4. 🔧 NotebookLM升级并开放自定义目标\n5. 🔧 OpenAI向Pro用户开放Pulse功能\n6. 🔧 Grok移动端上线视频超分功能\n7. 🚀 Google发布Jules Gemini CLI扩展\n8. 🚀 Microsoft 365 Copilot新增App Builder与Workflows\n9. 📈 Google上调Gemini 2.5缓存折扣至90%\n10. 🚀 Cherry Studio移动端内测招募启动\n11. 🚀 OpenAI发布gpt-oss-safeguard安全模型\n12. 🚀 Bria AI开源FIBO文生图模型\n13. 🚀 InternLM发布JanusCoder系列模型",
+      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 3,
-  "total_count": 54,
-  "generated_time": "2025-12-07 08:53:27"
+  "total_count": 55,
+  "generated_time": "2025-12-07 11:09:39"
 }
