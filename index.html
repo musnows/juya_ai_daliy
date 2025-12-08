@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 54 条早报</span>
+                        <span id="total-count">共 55 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-08.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Gemini 3 Flash 已上线 LM Arena？或将在2025年内发布！【AI 早报 2025-12-08】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-08</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1a22zB7Eju</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Gemini 3 Flash 或已上线 LM Arena
+2. 🚀 NewBieAi-lab 发布动漫图像生成模型
+3. 🚀 ServiceNow 发布多模态推理模型 Apriel-1.6-15B-Thinker
+4. 🚀 LLM360 发布完全开放模型 K2-V2-Instruct
+5....
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    9 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-08 08:38:40
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-07.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">白嫖党崩溃！Google 突然削减 Gemini API 免费配额【AI 早报 2025-12-07】</h3>
@@ -546,37 +578,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-24.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google 发布 Nano Banana Pro 开发者指南【AI 早报 2025-11-24】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-24</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1zeUgBSEt7</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🔧 Google发布Nano Banana Pro开发者指南
-2. 🚀 Sentry推出AI代码审查功能
-3. 📈 Anthropic或即将发布Claude Opus 4.5
-4. 🔧 xAI开发Grok Code Remote功能...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    4 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-24 09:18:57
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -623,7 +624,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 54;
+        let totalCount = 55;
         let isLoading = false;
 
         // 工具函数
