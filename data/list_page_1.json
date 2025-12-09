@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "疯了！美国突然卖H200给中国，GPU价要雪崩？！国产大模型连夜狂飙；智谱甩出多模态核弹，免费Flash版直接薅！【AI早报 12月9日】",
+      "publish_date": "2025-12-09",
+      "bv_id": "BV1kf22BHEiP",
+      "organize_time": "2025-12-09 09:24:50",
+      "news_count": 22,
+      "overview": "1. 📈 美国允许英伟达H200芯片出口中国\n2. 🚀 智谱开源GLM-4.6V多模态大模型\n3. 🚀 Jina AI发布Jina-VLM-2.4B视觉语言模型\n4. 🚀 OpenAI与Instacart合作推出ChatGPT购物功能\n5. 🔧 Google Doppl新增可购物发现信息流\n6. 🔧 NotebookLM支持上传DocX文件\n7. 🔧 Google Labs更新Mixboard支持多文件类型\n8. 🔧 Google Stitch推出Redesign Agent代码生成功能\n9. 🔧 GitHub Copilot推出模型选择器功能\n10. 🚀 Firecrawl发布AI网络监控平台OpenScouts\n11. 🔧 Hugging Face推出LLM微调技能系统\n12. 🔧 Google与联发科合作推出LiteRT NeuroPilot加速器\n13. 🔧 Tiny-A2D开源方案实现语言模型扩散化\n14. 🔧 MindLab发布低秩适配器强化学习系统\n15. 🚀 Hugging Face上线优达RC多语言语音数据集\n16. 📈 OpenAI发布2025年企业AI状态报告\n17. 📈 Google公布Android XR生态路线图\n18. 📈 OpenAI采购全球40% DRAM供应\n19. 📈 Google计划2026年在聊天机器人中引入广告\n20. 📈 康伦以110亿美元被IBM收购\n21. 📈 Uncommon AI完成4.75亿美元种子轮融资\n22. 📈 AI合成研究创企Aaru完成A轮融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini 3 Flash 已上线 LM Arena？或将在2025年内发布！【AI 早报 2025-12-08】",
       "publish_date": "2025-12-08",
       "bv_id": "BV1a22zB7Eju",
@@ -170,19 +179,10 @@
       "news_count": 21,
       "overview": "1. 🚀 OpenAI发布GPT-5.1-Codex-Max编码模型\n2. 🚀 OpenAI上线GPT-5.1 Pro模型\n3. 🚀 xAI发布Grok 4.1 Fast模型及Agent Tools API\n4. 🚀 Meta发布SAM 3及3D重建模型SAM 3D\n5. 🚀 微软Copilot发布Agent控制平台Agent 365\n6. 🔧 Anthropic延长Claude Code网页版免费额度\n7. 🚀 Gemini 3上线移动端及Jules功能\n8. 🔧 Google Gemini网页版开放Photos导入\n9. 🔧 Stitch推出一键导出AI Studio功能\n10. 🚀 OpenAI发布ChatGPT for Teachers\n11. 🔧 Perplexity Pro/Max新增文档构建功能\n12. 🚀 Deep Cogito发布Cogito v2.1 671B模型\n13. 🚀 ZeroEntropy发布zerank-2重排序模型\n14. 🔧 Inclusion AI发布Awex RL权重同步框架\n15. 🚀 RadixArk发布Miles RL框架\n16. 📈 OpenAI发布企业AI评估框架指南\n17. 🔧 DeepSeek开源LPLB MoE负载均衡器\n18. 🔧 研究提出VARC框架解决ARC视觉推理\n19. 📈 火山引擎升级大模型协作奖励计划\n20. 📈 Google DeepMind在新加坡设AI实验室\n21. 📈 xAI与沙特合作建设GPU数据中心",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google 发布 Gemini 3 Pro【AI 早报 2025-11-19】",
-      "publish_date": "2025-11-19",
-      "bv_id": "BV12Jy7BBEkQ",
-      "organize_time": "2025-11-23 14:39:44",
-      "news_count": 21,
-      "overview": "1. 🚀 谷歌发布Gemini 3 Pro大模型\n2. 🔧 谷歌Gemini应用集成Gemini 3 Pro\n3. 🚀 谷歌发布AI辅助开发平台Antigrafty\n4. 🔧 谷歌推出Scholar Lapse学术AI功能\n5. 📈 Google DeepMind暗示新品发布\n6. 🔧 Kode AI推出终端AI Agent功能\n7. 🚀 昆仑万维发布Skywa Rev4 Light多模态智能体\n8. 🚀 Unio E2.0 Omni全模态大模型开源\n9. 🚀 蚂蚁集团发布灵光全模态AI助手\n10. 🔧 GitHub Copilot推出自动模型选择功能\n11. 🔧 Tra1 Solo功能转为付费并开放\n12. 📈 MiniMax M2模型限时免费\n13. 🔧 DeepSeek修复V3.2XP推理漏洞\n14. 🔧 微软推出Agent Workspace实验功能\n15. 🚀 Mans推出Browse Operator智能浏览器扩展\n16. 🚀 AI2推出Drr Trulo深度研究框架\n17. 🚀 OceanBase发布AI原生混合搜索数据库\n18. 🚀 微软推出H for Business企业浏览器\n19. 📈 马斯克确认Grok 4.20版本将至\n20. 📈 微软英伟达与Anthropic达成战略合作\n21. 🔧 Intuity整合GPT技术提供智能金融服务",
-      "is_voice_generated": true
     }
   ],
   "page": 1,
   "total_pages": 3,
-  "total_count": 55,
-  "generated_time": "2025-12-08 08:38:40"
+  "total_count": 56,
+  "generated_time": "2025-12-09 09:24:51"
 }
