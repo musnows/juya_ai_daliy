@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google紧急下架，AI Studio这系列模型将不可用！【AI 早报 2025-11-01】",
+      "publish_date": "2025-11-01",
+      "bv_id": "BV1Yt1VB6Eh8",
+      "organize_time": "2025-11-22 20:39:28",
+      "news_count": 18,
+      "overview": "1. 🚀 美团发布Flash-Omni多模态模型\n2. 🚀 MiniMax发布Music2.0模型\n3. 🚀 字节跳动发布Ouro系列循环语言模型\n4. 🔧 Claude发布原生安装程序\n5. 🔧 Google更新Gemini命令行工具\n6. 📈 Google关闭AI Studio的Gemma入口\n7. 🔧 Ollama桌面应用更新\n8. 🚀 Cherry Studio发布移动端首个内测版\n9. 📈 Warp调整定价结构并推出Build计划\n10. 🔧 Qoder将为JetBrains IDE推出原生支持\n11. 🚀 Perplexity推出航班实时追踪功能\n12. 📈 Udio被环球音乐收购后禁用下载功能\n13. 📈 Affinity宣布永久免费\n14. 🔧 微软在Win11预览版中推出任务栏Ask Copilot功能\n15. 🚀 OpenRouter上线嵌入模型\n16. 🚀 Opera Neon推出深度研究工具\n17. 📈 Fireworks AI完成2.5亿美元C轮融资\n18. 📈 Genspark完成超2亿美元融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google和Claude全慌了，ChatGPT积分制上线，Sora和Codex可用 【AI 早报 2025-10-31】",
       "publish_date": "2025-10-31",
       "bv_id": "BV1pe1NBeEWV",
@@ -156,6 +165,6 @@
   ],
   "page": 3,
   "total_pages": 3,
-  "total_count": 57,
-  "generated_time": "2025-12-10 09:19:26"
+  "total_count": 58,
+  "generated_time": "2025-12-11 09:05:37"
 }
