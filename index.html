@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 60 条早报</span>
+                        <span id="total-count">共 61 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-14.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">英伟达否认DeepSeek使用禁售Blackwell芯片传闻【AI 早报 2025-12-14】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-14</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1rWmeBDEUV</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Gemini集成Google Maps提供视觉化本地搜索
+2. 🔧 Google推出NotebookLM与Gemini集成功能
+3. 🔧 Gemini Web界面出现Gemini 3 Flash字样
+4. 🚀 SID发布SID-1检索模型技术报告
+5. 🚀 NVIDIA发布gpt-oss-...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    8 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-14 08:53:43
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-13.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google 更新 Gemini 2.5 Flash Native Audio【AI 早报 2025-12-13】</h3>
@@ -546,39 +578,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-11-30.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">ChatGPT安卓测试版出现广告相关代码【AI 早报 2025-11-30】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-11-30</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1SRSNB9ETt</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 📈 ChatGPT安卓版现广告代码
-2. 🚀 NVIDIA发布Orchestrator-8B模型
-3. 🔧 AMD vLLM支持Ryzen AI Max
-4. 🔧 llama.cpp兼容Anthropic API
-5. 📈 Whisper Thunder登顶AA T2V榜
-6. 📈 维基百科禁...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    6 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-11-30 08:39:17
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -625,7 +624,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 60;
+        let totalCount = 61;
         let isLoading = false;
 
         // 工具函数
