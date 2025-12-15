@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "字节跳动Trae不再可用Claude系列模型【AI 早报 2025-11-05】",
+      "publish_date": "2025-11-05",
+      "bv_id": "BV1jd1nBvEcJ",
+      "organize_time": "2025-11-22 20:38:24",
+      "news_count": 20,
+      "overview": "1. 📈 TRAE停止提供Claude模型\n2. 🚀 Sora 2安卓版多地上线\n3. 📈 OpenAI将发布系列新模型\n4. 🚀 Claude推出Code限时促销\n5. 🔧 Cognition发布Windsurf Codemaps\n6. 🔧 Google AI Studio新增URL预填充\n7. 🚀 Ai2发布OlmoEarth平台\n8. 🔧 腾讯文档与ima功能打通\n9. 🚀 昆仑万维SkyReels正式上线\n10. 🔧 微信支付接入腾讯元宝\n11. 🔧 OpenAI发布印度文化理解基准IndQA\n12. 🔧 llama.cpp发布新WebUI\n13. 🔧 Anthropic发布MCP代码执行新方案\n14. 📈 Anthropic承诺保留已弃用模型\n15. 📈 Anthropic与冰岛启动AI教育试点\n16. 🔧 谷歌DeepMind发布IMO-Bench数学基准\n17. 🔧 大模型Cache-to-Cache通信框架提出\n18. 📈 谷歌公布太空AI计算项目Suncatcher\n19. 📈 Starcloud计划将数据中心送入太空\n20. 📈 苹果Apple Intelligence入华或推迟至iOS 26.4",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini CLI引入实验性Todo功能【AI 早报 2025-11-04】",
       "publish_date": "2025-11-04",
       "bv_id": "BV1zN1rBFEyV",
@@ -170,19 +179,10 @@
       "news_count": 14,
       "overview": "1. 🚀 Google升级Veo 3.1并上线Flow\n2. 🚀 Anthropic发布Claude Haiku 4.5\n3. 🔧 Gemini 3.0 Pro现身官网与AIStudio\n4. 🔧 Gemini CLI v0.9.0新增交互式Shell\n5. 🚀 Amp推出全新免费模式Amp Free\n6. 📈 Sam Altman回应情色内容争议\n7. 🚀 Qoder发布CLI版Agentic编程工具\n8. 🔧 Google与Yale发布Gemma癌症模型\n9. 🔧 Qwen Chat正式上线记忆功能\n10. 🔧 NotebookLM上线LaTeX渲染支持\n11. 📈 日本警告OpenAI勿用Sora2侵权\n12. 🚀 苹果发布M5芯片\n13. 📈 OpenAI扩大ChatGPT Go覆盖至89国\n14. 📈 Meta El Paso AI数据中心动工",
       "is_voice_generated": false
-    },
-    {
-      "title": "ChatGPT R18版？OpenAI急了，将开放成人色情内容！【AI 早报 2025-10-15】",
-      "publish_date": "2025-10-15",
-      "bv_id": "BV1m24azsE8x",
-      "organize_time": "2025-11-23 15:30:13",
-      "news_count": 16,
-      "overview": "1. 🚀 阿里发布Qwen3-VL多模态模型\n2. 📰 OpenAI放宽ChatGPT内容限制\n3. 🚀 Qoder CLI命令行工具即将发布\n4. 🔧 OpenAI上线GPT-5搜索模型API\n5. 🚀 Firefox支持Perplexity为默认AI搜索引擎\n6. 📰 Google AI Studio启用全新首页\n7. 🚀 腾讯优图开源Youtu-Embedding文本模型\n8. 🔧 微软开源Amplifier协同开发框架\n9. 🔧 NVIDIA发布NVFP4与MXFP8数值缩放方法\n10. 🔧 X平台将切换至Grok驱动AI推荐系统\n11. 🚀 NVIDIA DGX Spark AI超算开售\n12. 📈 Anthropic发布AI经济影响政策报告\n13. 📈 Oracle与AMD合作建设AI超算集群\n14. 📈 沃尔玛与OpenAI合作AI购物体验\n15. 📈 Google投资150亿美元建印度AI中心\n16. 📈 OpenAI与Sur Energy建拉美Stargate数据中心",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 4,
-  "total_count": 61,
-  "generated_time": "2025-12-14 08:53:44"
+  "total_count": 62,
+  "generated_time": "2025-12-15 08:39:26"
 }
