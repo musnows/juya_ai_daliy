@@ -116,13 +116,47 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 62 条早报</span>
+                        <span id="total-count">共 63 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-16.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">重磅！Gemini、Gemma、MiniMax 新模型将发！Google、阿里、OpenAI、NVIDIA大动作！【AI早报 2025-12-16】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-16</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1CKqtBkELD</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 阿里通义开源两款语音模型
+2. 🚀 OpenAI发布三款音频模型
+3. 🚀 AI2发布Bolmo字节级语言模型
+4. 🚀 NVIDIA推出Nemotron 3开源系列
+5. 🔧 KwaiKAT升级代码模型
+6. 🔧 LongCat启动Flash-Chat灰度更新
+7. 🚀 Resemble...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    20 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-16 09:10:27
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-15.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">xAI发布Grok应用更新【AI 早报 2025-12-15】</h3>
@@ -547,39 +581,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-02.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-02</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1xgSHBfEPW</span>
-                        <i class="fas fa-microphone voice-badge"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 DeepSeek发布V3.2系列模型
-2. 🚀 字节跳动发布豆包手机助手技术预览版
-3. 🚀 Runway发布Gen-4.5视频模型
-4. 🚀 Kling AI发布O1视频模型
-5. 🚀 拍我AI发布PixVerse V5.5视频模型
-6. 🚀 阿里国际发布Ovis-Image-7B文声图...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    28 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-07 11:09:25
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -626,7 +627,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 62;
+        let totalCount = 63;
         let isLoading = false;
 
         // 工具函数
