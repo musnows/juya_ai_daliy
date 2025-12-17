@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 63 条早报</span>
+                        <span id="total-count">共 64 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-17.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">对标DeepSeek，API限时免费！小米开源 309B MoE 模型 MiMo-V2-Flash【AI 早报 2025-12-17】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-17</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1Exq3BRE6k</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 小米开源309B MoE模型MiMo-V2-Flash
+2. 🚀 OpenAI发布GPT Image 1.5图像模型
+3. 🚀 字节跳动发布Seedance 1.5 Pro音视频模型
+4. 🚀 阿里发布万相2.6视频生成模型
+5. 🚀 美团开源LongCat-Video-Avatar角色动...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    18 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-17 09:11:35
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-16.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">重磅！Gemini、Gemma、MiniMax 新模型将发！Google、阿里、OpenAI、NVIDIA大动作！【AI早报 2025-12-16】</h3>
@@ -548,39 +580,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-03.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">OpenAI拉响“红色警报”！GPT-5.2代号Garlic紧急立项，再慢就要被谷歌团灭？【AI 早报 2025-12-03】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-03</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1V9SaBgEos</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 📈 OpenAI紧急开发Garlic模型应对谷歌
-2. 🚀 Mistral AI发布Mistral 3模型家族
-3. 🚀 亚马逊发布Nova 2模型系列及服务
-4. 📈 Anthropic收购Bun并开源
-5. 🚀 苹果发布CLaRa-7B-Instruct和STARFlow-V
-6. 🔧 谷...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    8 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-07 11:22:24
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -627,7 +626,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 63;
+        let totalCount = 64;
         let isLoading = false;
 
         // 工具函数
