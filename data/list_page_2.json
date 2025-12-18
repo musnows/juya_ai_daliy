@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "DeepSeek开源DeepSeekMath-V2数学推理模型【AI 早报 2025-11-28】",
+      "publish_date": "2025-11-28",
+      "bv_id": "BV1QCSGBLEjP",
+      "organize_time": "2025-11-28 08:52:47",
+      "news_count": 14,
+      "overview": "1. 🚀 DeepSeek开源数学推理模型DeepSeekMath-V2\n2. 🚀 阶跃星辰发布音频推理模型Step-Audio-R1\n3. 🚀 Prime Intellect开源INTELLECT-3模型\n4. 🔧 Google Antigravity提高Pro/Ultra用户速率限制\n5. 📈 智谱AI发布GLM Coding Plan黑五特惠\n6. 📈 Adobe推出网页版Photoshop限时免费计划\n7. 🔧 Manus上线自定义域名功能\n8. 🔧 Moondream发布分割功能\n9. 🔧 X平台使用Grok排序Following时间线\n10. 🔧 阿里巴巴发布Qwen3-VL技术报告\n11. 📈 OpenAI终止使用Mixpanel并通报安全事件\n12. 📈 Suno与华纳音乐集团达成战略合作\n13. 📈 中国开源模型下载量首超美国\n14. 📈 无问芯穹完成近5亿元A+轮融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "阿里巴巴通义实验室发布Z-Image图像生成模型【AI 早报 2025-11-27】",
       "publish_date": "2025-11-27",
       "bv_id": "BV1Z2UqBxEhM",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🔧 Google发布Gemini多光谱数据分析方法\n2. 🚀 OpenRouter新增视频输入支持\n3. 🔧 xAI优化Grok-4-Fast提示词降低拒答率\n4. 🚀 Cerebras Code集成GLM-4.6模型\n5. 🚀 Letta发布Context-Bench技能评估套件\n6. 📈 OpenAI发布AI进展与建议报告\n7. 📈 OpenAI澄清政府支持与贷款担保区别\n8. 🚀 Movement Labs发布Momentum模型与MPU芯片",
       "is_voice_generated": false
-    },
-    {
-      "title": "狙击谷歌，OpenAI发布GPT-5-Codex-Mini模型及Codex服务升级【AI 早报 2025-11-08】",
-      "publish_date": "2025-11-08",
-      "bv_id": "BV1FB1UBDEct",
-      "organize_time": "2025-11-22 20:36:56",
-      "news_count": 12,
-      "overview": "1. 🚀 OpenAI发布GPT-5-Codex-Mini及Codex升级\n2. 🔧 MiniMax公布M2模型API计费与编程套餐\n3. 🔧 腾讯开源Hunyuan World 1.1训练代码\n4. 🚀 StepFun开源Step-Audio-EditX音频编辑模型\n5. 🚀 Cursor推出composer-1模型限时免费\n6. 🔧 SGLang发布Diffusion引擎加速图像生成\n7. 📈 百度ERNIE-5.0-Preview登顶LMArena文本榜第二\n8. 📈 OpenAI泄露GPT-5.1型号及发布日期\n9. 🚀 Cerebras发布Kimi-Linear-REAP-35B-A3B-Instruct模型\n10. 🔧 Google发布Nested Learning新范式及Hope模型\n11. 🔧 NotebookLM支持Google Drive文件上传\n12. 📈 Kosmos AI科学家实现自主科学发现",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 4,
-  "total_count": 64,
-  "generated_time": "2025-12-17 09:11:36"
+  "total_count": 65,
+  "generated_time": "2025-12-18 09:12:56"
 }
