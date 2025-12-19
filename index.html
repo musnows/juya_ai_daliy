@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 65 条早报</span>
+                        <span id="total-count">共 66 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-19.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">编程的神？OpenAI 发布 GPT-5.2-Codex；字节跳动发布豆包大模型1.8【AI 早报 2025-12-19】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-19</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1NgqRBRE8e</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI发布GPT-5.2-Codex编码模型
+2. 🚀 字节跳动发布豆包大模型1.8版本
+3. 🚀 Mistral AI发布Mistral OCR 3文档理解模型
+4. 🔧 Claude向付费用户开放Chrome浏览器扩展
+5. 🔧 Anthropic发布Claude Code 2....
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    28 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-19 09:14:08
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-18.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">以下克上？Google发布Gemini 3 Flash模型；OpenAI开放 ChatGPT 应用提交【AI 早报 2025-12-18】</h3>
@@ -548,38 +580,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-05.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">宇宙最强AI炸裂上线，OpenAI哭了，Google 上线 Gemini 3 Deep Think【AI早报 2025-12-05】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-05</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1c72GBpEQU</span>
-                        <i class="fas fa-microphone voice-badge"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Google上线Gemini 3 Deep Think模式
-2. 🚀 OpenAI开放GPT-5.1-Codex-Max API访问
-3. 🔧 Cursor优化Agent支持Codex模型并限免
-4. 🔧 NotebookLM iOS新增图表与幻灯片功能
-5. 🚀 Anthropic发布A...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    19 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-07 11:08:00
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -626,7 +626,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 65;
+        let totalCount = 66;
         let isLoading = false;
 
         // 工具函数

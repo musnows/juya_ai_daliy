@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "美团 LongCat 上线 AI 生图功能【AI 早报 2025-11-29】",
+      "publish_date": "2025-11-29",
+      "bv_id": "BV1DqUoBPEkq",
+      "organize_time": "2025-11-29 08:53:34",
+      "news_count": 8,
+      "overview": "1. 🚀 LongCat上线AI生图功能\n2. 🔧 腾讯混元发布3D Studio 1.1及PolyGen 1.5\n3. 🚀 Kimi上线Agentic Slides并开发记忆功能\n4. 🚀 昆仑万维发布Mureka V7.6和O2音乐模型\n5. 🔧 快手开源Keye-VL-671B-A37B多模态模型\n6. 🚀 Grok Imagine推出文本到视频功能\n7. 📈 Kilo AI发布三大编码模型基准测试\n8. 📈 北京推进太空数据中心建设",
+      "is_voice_generated": false
+    },
+    {
       "title": "DeepSeek开源DeepSeekMath-V2数学推理模型【AI 早报 2025-11-28】",
       "publish_date": "2025-11-28",
       "bv_id": "BV1QCSGBLEjP",
@@ -170,19 +179,10 @@
       "news_count": 5,
       "overview": "1. 🔧 xAI API上线MCP与远程工具支持\n2. 🚀 TRAE国际版将发布TRAE SOLO\n3. 📈 Google Nano-Banana 2现身第三方平台\n4. 🔧 MoonshotAI开源kosong框架\n5. 🔧 Firefox浏览器默认启用LLM功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google发布Gemini多光谱数据分析方法【AI 早报 2025-11-09】",
-      "publish_date": "2025-11-09",
-      "bv_id": "BV1jE1oBiEN5",
-      "organize_time": "2025-11-22 20:36:37",
-      "news_count": 8,
-      "overview": "1. 🔧 Google发布Gemini多光谱数据分析方法\n2. 🚀 OpenRouter新增视频输入支持\n3. 🔧 xAI优化Grok-4-Fast提示词降低拒答率\n4. 🚀 Cerebras Code集成GLM-4.6模型\n5. 🚀 Letta发布Context-Bench技能评估套件\n6. 📈 OpenAI发布AI进展与建议报告\n7. 📈 OpenAI澄清政府支持与贷款担保区别\n8. 🚀 Movement Labs发布Momentum模型与MPU芯片",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 4,
-  "total_count": 65,
-  "generated_time": "2025-12-18 09:12:56"
+  "total_count": 66,
+  "generated_time": "2025-12-19 09:14:09"
 }
