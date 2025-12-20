@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "阿里Qwen团队开源 Qwen-Image-Layered【AI 早报 2025-12-20】",
+      "publish_date": "2025-12-20",
+      "bv_id": "BV1pSBwB3E6B",
+      "organize_time": "2025-12-20 09:00:17",
+      "news_count": 20,
+      "overview": "1. 🚀 Qwen开源图像分层编辑模型\n2. 🔧 Codex CLI支持Skills功能\n3. 🚀 Gemini CLI向免费用户开放Gemini 3\n4. 🔧 Gemini App集成NotebookLM功能\n5. 🚀 Google发布Gemma Scope 2可解释性工具\n6. 🚀 Google推出A2UI智能体驱动UI协议\n7. 🚀 NVIDIA发布NitroGen游戏智能体模型\n8. 🚀 Meta开源Text Seal水印检测工具\n9. 🚀 Will McGugan发布终端AI工具Toad\n10. 🔧 AI推理新基准FrontierCS发布\n11. 🚀 Transluce AI发布模型行为解码器\n12. 🚀 MiniMax开放M2.1模型体验申请\n13. 🔧 智谱GLM-4.7模型即将发布\n14. 📈 智谱AI通过港交所聆讯\n15. 🚀 全光学芯片莱震发布\n16. 🔧 字节发布C Prover 1.5技术报告\n17. 📈 Meta开发Mango与Avocado新模型\n18. 📈 Koder收购代码审查平台Graph\n19. 📈 Andrej Karpathy年度回顾发布\n20. 📈 Google成立算力分配委员会",
+      "is_voice_generated": false
+    },
+    {
       "title": "编程的神？OpenAI 发布 GPT-5.2-Codex；字节跳动发布豆包大模型1.8【AI 早报 2025-12-19】",
       "publish_date": "2025-12-19",
       "bv_id": "BV1NgqRBRE8e",
@@ -170,19 +179,10 @@
       "news_count": 3,
       "overview": "1. 🚀 阶跃AI开源GELab-Zero GUI智能体堆栈\n2. 🚀 字节跳动发布Vidi2多模态模型\n3. 🔧 豆包APP上线记忆与积分功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "ChatGPT安卓测试版出现广告相关代码【AI 早报 2025-11-30】",
-      "publish_date": "2025-11-30",
-      "bv_id": "BV1SRSNB9ETt",
-      "organize_time": "2025-11-30 08:39:17",
-      "news_count": 6,
-      "overview": "1. 📈 ChatGPT安卓版现广告代码\n2. 🚀 NVIDIA发布Orchestrator-8B模型\n3. 🔧 AMD vLLM支持Ryzen AI Max\n4. 🔧 llama.cpp兼容Anthropic API\n5. 📈 Whisper Thunder登顶AA T2V榜\n6. 📈 维基百科禁用AI生成条目",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 4,
-  "total_count": 66,
-  "generated_time": "2025-12-19 09:14:09"
+  "total_count": 67,
+  "generated_time": "2025-12-20 09:00:17"
 }
