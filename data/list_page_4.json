@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "资深AI博主自用哪些编程工具和装备？",
+      "publish_date": "2025-10-22",
+      "bv_id": "BV1cRs4zZELb",
+      "organize_time": "2025-11-23 15:27:56",
+      "news_count": 2,
+      "overview": "1. 🚀 明基发布编程显示器RD280U\n2. 🔧 GLM4.6现卡顿降智问题",
+      "is_voice_generated": false
+    },
+    {
       "title": "谷歌王朝：Gemini 3现身LMArena，网友：无敌了！【AI 早报 2025-10-20】",
       "publish_date": "2025-10-20",
       "bv_id": "BV1eosuzaEvH",
@@ -66,6 +75,6 @@
   ],
   "page": 4,
   "total_pages": 4,
-  "total_count": 67,
-  "generated_time": "2025-12-20 09:00:17"
+  "total_count": 68,
+  "generated_time": "2025-12-21 08:46:09"
 }

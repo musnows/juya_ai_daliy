@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "美团发布AI IDE产品CatPaw公测版【AI 早报 2025-11-11】",
+      "publish_date": "2025-11-11",
+      "bv_id": "BV1ufkzBvEug",
+      "organize_time": "2025-11-23 14:41:34",
+      "news_count": 14,
+      "overview": "1. 🚀 美团发布AI编程助手CatRun\n2. 📰 ChatGPT推出群组聊天功能\n3. 🔧 Meta发布OmniLingua-ASR多语言语音识别系统\n4. 📈 Meta开源史上最大第一人称视角数据集\n5. 📈 xAI将举办黑客松并开放Grok模型与API\n6. 🔧 腾讯发布MoEPlay大模型角色扮演基准\n7. 🚀 谷歌发布AI Agent白皮书与强化课程\n8. 🔧 OpenB发布ORA 2.1支持多模态推理\n9. 🔧 月之暗面透露Kimi后续模型计划\n10. 📈 Kimi发布API基准测试最佳配置指南\n11. 🚀 MiniMax M2接入TraiT中国版与蜜塔AI搜索\n12. 📈 维基媒体基金会呼吁AI公司停止爬取数据\n13. 🔧 Character AI公开自研大模型架构细节\n14. 🔧 马斯克确认xAI开发Diffusion推理模型",
+      "is_voice_generated": true
+    },
+    {
       "title": "xAI API上线MCP支持；TRAE SOLO 即将正式发布【AI 早报 2025-11-10】",
       "publish_date": "2025-11-10",
       "bv_id": "BV1EUkRB4Ecj",
@@ -170,19 +179,10 @@
       "news_count": 16,
       "overview": "1. 🚀 百川发布M2 Plus医疗大模型\n2. 🚀 腾讯开源HunyuanWorld-Mirror模型\n3. 🚀 OpenRouter上线andromeda-alpha隐身模型\n4. 🔧 Soniox发布v3语音识别ASR模型\n5. 🚀 Liquid AI发布LFM2-VL-3B边缘视觉模型\n6. 🚀 Ai2发布olmOCR-2-7B-1025文档识别模型\n7. 🚀 Pokee AI发布PokeeResearch-7B研究模型\n8. 🔧 Grok Imagine推出视频超分辨率功能\n9. 🔧 OpenRouter推出Exacto提升工具调用精度\n10. 🚀 Claude Desktop应用正式版发布\n11. 🔧 Gemini CLI发布v0.10.0版本\n12. 🚀 Kilo Code发布CLI编程工具\n13. 🚀 Cline发布Cline CLI预览版\n14. 🚀 快手上线CodeFlicker编程工具\n15. 🔧 豆包编程推出全新创作模式\n16. 🚀 Genspark AI推出AI Developer 2.0",
       "is_voice_generated": false
-    },
-    {
-      "title": "资深AI博主自用哪些编程工具和装备？",
-      "publish_date": "2025-10-22",
-      "bv_id": "BV1cRs4zZELb",
-      "organize_time": "2025-11-23 15:27:56",
-      "news_count": 2,
-      "overview": "1. 🚀 明基发布编程显示器RD280U\n2. 🔧 GLM4.6现卡顿降智问题",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 4,
-  "total_count": 67,
-  "generated_time": "2025-12-20 09:00:17"
+  "total_count": 68,
+  "generated_time": "2025-12-21 08:46:09"
 }
