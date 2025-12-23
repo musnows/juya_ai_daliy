@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱AI发布GLM-4.7模型；MiniMax Agent 平台上线 MiniMax M2.1【AI 早报 2025-12-23】",
+      "publish_date": "2025-12-23",
+      "bv_id": "BV1HkB8BSErM",
+      "organize_time": "2025-12-23 09:02:52",
+      "news_count": 16,
+      "overview": "1. 🚀 智谱AI发布GLM-4.7开源旗舰模型\n2. 🚀 MiniMax Agent平台上线M2.1模型\n3. 🔧 月之暗面展示Kimi K2企业Agent应用\n4. 🚀 阿里通义发布Wan2.6-Image商用图像生成模型\n5. 🔧 Anthropic开源官方Agent Skills仓库\n6. 🔧 Codex推出后台进程实验性功能\n7. 🚀 OpenAI推出ChatGPT年度回顾功能\n8. 🔧 OpenAI发布Atlas安全更新防御提示注入\n9. 🔧 Google Colab预装Gemini CLI工具\n10. 🚀 Google DeepMind发布YouTube Playables Builder\n11. 📈 谷歌母公司47.5亿美元收购Intersect能源公司\n12. 📈 英伟达重组云部门并收缩云业务\n13. 🔧 NVIDIA发布Unsloth微调指南与Nemotron 3 Nano\n14. 📈 微软CEO纳德拉亲自抓Copilot产品改进\n15. 🚀 Jan团队发布Jan-v2-VL-max 30B多模态模型\n16. 🚀 夸克开启AI眼镜G1系列预售",
+      "is_voice_generated": false
+    },
+    {
       "title": "震惊！AI胡言乱语的真相找到了！清华揭秘LLM幻觉神经元【AI早报 2025-12-22】",
       "publish_date": "2025-12-22",
       "bv_id": "BV1GmBHB5Eny",
@@ -170,19 +179,10 @@
       "news_count": 17,
       "overview": "1. 🚀 字节跳动发布Seedream 4.5图像模型\n2. 🚀 可灵AI 2.6模型实现音画同步生成\n3. 🚀 快手StreamLake发布CyberCut AI工具\n4. 🔧 Kiro发布Powers实现Agent动态加载\n5. 🔧 Gemini CLI v0.19.0版本功能更新\n6. 🚀 Claude Code Opus 4.5向Pro用户开放\n7. 🔧 OpenAI Codex新增Skills试验性支持\n8. 🚀 ManusAI推出Nano Banana Pro Slides工具\n9. 🔧 OpenAI发布Confessions方法\n10. 🔧 Perplexity发布BrowseSafe Agent防御模型\n11. 🚀 Nous Research发布Hermes 4.3模型\n12. 🔧 字节跳动Seed发布GR-RL模型\n13. 🚀 StepFun开源Open-Reasoner-Zero模型\n14. 🚀 Meta发布TUNA统一视觉表示模型\n15. 🚀 OpenAI四款新代号模型上线Designarena\n16. 🚀 Google Workspace Studio将推Agent工具\n17. 🔧 Google NotebookLM开发模型选择器",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI拉响“红色警报”！GPT-5.2代号Garlic紧急立项，再慢就要被谷歌团灭？【AI 早报 2025-12-03】",
-      "publish_date": "2025-12-03",
-      "bv_id": "BV1V9SaBgEos",
-      "organize_time": "2025-12-07 11:22:24",
-      "news_count": 8,
-      "overview": "1. 📈 OpenAI紧急开发Garlic模型应对谷歌\n2. 🚀 Mistral AI发布Mistral 3模型家族\n3. 🚀 亚马逊发布Nova 2模型系列及服务\n4. 📈 Anthropic收购Bun并开源\n5. 🚀 苹果发布CLaRa-7B-Instruct和STARFlow-V\n6. 🔧 谷歌DeepMind发布DiscoRL强化学习算法\n7. 🔧 英伟达发布TiDAR AI解码方法\n8. 🚀 商汤开源原生多模态架构NEO",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 4,
-  "total_count": 69,
-  "generated_time": "2025-12-22 08:46:52"
+  "total_count": 70,
+  "generated_time": "2025-12-23 09:02:53"
 }

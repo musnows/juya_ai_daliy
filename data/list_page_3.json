@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI发布GPT-5.1系列模型【AI 早报 2025-11-13】",
+      "publish_date": "2025-11-13",
+      "bv_id": "BV1LkCpBNEf9",
+      "organize_time": "2025-11-22 20:36:04",
+      "news_count": 16,
+      "overview": "1. 🚀 OpenAI发布GPT-5.1系列模型\n2. 🔧 谷歌新模型Riftrunner现身LMArena\n3. 🚀 World Labs发布多模态世界模型Marble\n4. 🚀 微博WeiboAI发布VibeThinker-1.5B模型\n5. 🚀 LMArena发布Code Arena编程评测平台\n6. 🚀 TRAE发布3.0版本并上线TRAE SOLO\n7. 🔧 GitHub Copilot支持Agent特定指令\n8. 🚀 微软发布Visual Studio 2026与.NET 10\n9. 🔧 Google发布AI Agents系列白皮书\n10. 🚀 OpenRouter上线Nvidia免费视频模型\n11. 🔧 DeepMind发布AI视觉认知对齐研究\n12. 🔧 Intel与vLLM合作优化Arc Pro GPU推理\n13. 🚀 Hugging Face发布FinePDF-edu数据集\n14. 📈 Manus集成Stripe实现支付功能\n15. 📈 X平台下月采用Grok AI推荐系统\n16. 📈 ElevenLabs与McConaughey及Caine合作AI语音",
+      "is_voice_generated": false
+    },
+    {
       "title": "通通降价！编程套餐大乱斗；字节跳动发布豆包编程模型Doubao-Seed-Code【AI 早报 2025-11-12】",
       "publish_date": "2025-11-12",
       "bv_id": "BV1N6kmBSEFB",
@@ -170,19 +179,10 @@
       "news_count": 14,
       "overview": "1. 🚀 MiniMax发布M2大模型\n2. 🚀 月之暗面推出Kimi Coding权益与CLI工具\n3. 🚀 腾讯发布AI程序员ADA技术预览版\n4. 📈 GLM大模型推出Coding Plan限时特惠\n5. 🔧 OpenAI发布CodeX CLI 0.4.8.0版本\n6. 📈 Amazon宣布免费编码Agent无需训练授权\n7. 🔧 Google AI Studio支持Jina AI Pip额度切换\n8. 🚀 MRAI推出生产级AI平台Studio\n9. 🔧 Anti-Slop框架减少LLM重复输出\n10. 📈 GPT-5.1-mini名称现身OpenAI代码库\n11. 🚀 LightOn发布统一OCR模型OCREB\n12. 📈 AI基础设施公司KO完成13.8亿美元融资\n13. 📈 OpenAI开发AI音乐生成模型\n14. 📈 xAI为Grok开发新同伴Mika",
       "is_voice_generated": true
-    },
-    {
-      "title": "永久免费！快手发布KAT-Coder系列新模型【AI 早报 2025-10-24】",
-      "publish_date": "2025-10-24",
-      "bv_id": "BV12ms7z6E34",
-      "organize_time": "2025-11-23 15:27:21",
-      "news_count": 23,
-      "overview": "1. 🚀 快手发布KAT-Coder系列AI编码模型\n2. 🔧 微软Copilot秋季更新推12项新功能\n3. 🚀 OpenAI推Company Knowledge整合内部信息\n4. 🔧 Google AI Studio推出新标注模式\n5. 🚀 谷歌Earth AI整合Gemini支持多源分析\n6. 🔧 谷歌Stitch设计Agent全面优化生成效果\n7. 🔧 Anthropic向个人用户开放Claude记忆功能\n8. 🚀 夸克整合Qwen模型并发布AI眼镜\n9. 🔧 Dify 1.9.2支持工作流暂停与追踪\n10. 🚀 腾讯ima 2.0引入Agent任务模式\n11. 🔧 Cerebras下架Qwen-3并引入GLM4.6模型\n12. 🔧 TRAE Agent支持自动应用代码修改\n13. 🚀 字节跳动发布Seed3D 1.0生成高质量3D模型\n14. 🚀 字节跳动发布Video-As-Prompt视频生成模型\n15. 🚀 讯飞发布学术专用模型Spark Scilit-X1-13B\n16. 🚀 LTX发布LTX-2支持4K同步音视频生成\n17. 📈 Anthropic与谷歌云合作使用百万TPU\n18. 📈 OpenAI解除纽约时报案聊天记录保留义务\n19. 🚀 Meta等联合推出OpenEnv强化学习接口\n20. 🚀 PyTorch发布Monarch分布式编程框架\n21. 🔧 Hugging Face与VirusTotal合作安全扫描\n22. 📈 月之暗面即将完成数亿美元融资\n23. 📈 Reddit设陷阱证明Perplexity违规抓取数据",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 4,
-  "total_count": 69,
-  "generated_time": "2025-12-22 08:46:52"
+  "total_count": 70,
+  "generated_time": "2025-12-23 09:02:53"
 }
