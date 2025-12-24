@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "MiniMax正式发布M2.1模型；Qwen开源Qwen-Image-Edit-2511模型【AI 早报 2025-12-24】",
+      "publish_date": "2025-12-24",
+      "bv_id": "BV1LHB3BHEJP",
+      "organize_time": "2025-12-24 09:03:39",
+      "news_count": 9,
+      "overview": "1. 🚀 MiniMax发布M2.1模型，移动端性能显著提升\n2. 🚀 Qwen开源Qwen-Image-Edit-2511图像编辑模型\n3. 🚀 Qwen推出Qwen3-TTS系列语音合成模型\n4. 🚀 阿里云通义Fun团队开源Audio-Chat-8B音频模型\n5. 🔧 智谱团队透露GLM-5规划并即将发布新IDE工具\n6. 🔧 Diffusers新增Z-Image-Omni-Base模型\n7. 📈 Poetiq harness刷新ARC-AGI-2评测纪录至75%\n8. 🚀 xAI发布Grok Collections API，集成OCR与RAG技术\n9. 🔧 FunctionGemma本地微调指南发布，支持自定义工具调用",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱AI发布GLM-4.7模型；MiniMax Agent 平台上线 MiniMax M2.1【AI 早报 2025-12-23】",
       "publish_date": "2025-12-23",
       "bv_id": "BV1HkB8BSErM",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 🚀 Google上线Gemini 3 Deep Think模式\n2. 🚀 OpenAI开放GPT-5.1-Codex-Max API访问\n3. 🔧 Cursor优化Agent支持Codex模型并限免\n4. 🔧 NotebookLM iOS新增图表与幻灯片功能\n5. 🚀 Anthropic发布AI访谈工具并公开数据集\n6. 🔧 Haiku 4.5模型推出结构化输出beta功能\n7. 🚀 可灵AI上线数字人2.0功能\n8. 🔧 千问APP发布办公场景功能更新\n9. 🚀 Microsoft发布VibeVoice-Realtime-0.5B模型\n10. 🔧 Hugging Face发布LLM评测指南v2\n11. 📈 Claude账单将按信用卡地址收税\n12. 🚀 Tavily发布Deep Research达SOTA水平\n13. 🔧 Exa发布NeurIPS论文语义检索功能\n14. 🔧 StepFun发布Open Vision Reasoner论文\n15. 📈 Mistral Large 3登顶开源编码模型榜首\n16. 📈 Meta面临欧盟反垄断调查并考虑采购TPU\n17. 📈 谷歌云携手Replit推进企业级Vibe Coding\n18. 📈 OpenRouter发布AI使用状态报告\n19. 📈 Anthropic CEO：缩放定律直通AGI",
       "is_voice_generated": true
-    },
-    {
-      "title": "字节跳动发布图像模型Seedream 4.5【AI 早报 2025-12-04】",
-      "publish_date": "2025-12-04",
-      "bv_id": "BV1sy2hB2EST",
-      "organize_time": "2025-12-04 09:05:31",
-      "news_count": 17,
-      "overview": "1. 🚀 字节跳动发布Seedream 4.5图像模型\n2. 🚀 可灵AI 2.6模型实现音画同步生成\n3. 🚀 快手StreamLake发布CyberCut AI工具\n4. 🔧 Kiro发布Powers实现Agent动态加载\n5. 🔧 Gemini CLI v0.19.0版本功能更新\n6. 🚀 Claude Code Opus 4.5向Pro用户开放\n7. 🔧 OpenAI Codex新增Skills试验性支持\n8. 🚀 ManusAI推出Nano Banana Pro Slides工具\n9. 🔧 OpenAI发布Confessions方法\n10. 🔧 Perplexity发布BrowseSafe Agent防御模型\n11. 🚀 Nous Research发布Hermes 4.3模型\n12. 🔧 字节跳动Seed发布GR-RL模型\n13. 🚀 StepFun开源Open-Reasoner-Zero模型\n14. 🚀 Meta发布TUNA统一视觉表示模型\n15. 🚀 OpenAI四款新代号模型上线Designarena\n16. 🚀 Google Workspace Studio将推Agent工具\n17. 🔧 Google NotebookLM开发模型选择器",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 4,
-  "total_count": 70,
-  "generated_time": "2025-12-23 09:02:53"
+  "total_count": 71,
+  "generated_time": "2025-12-24 09:03:40"
 }

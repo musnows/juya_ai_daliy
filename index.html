@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 70 条早报</span>
+                        <span id="total-count">共 71 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-24.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">MiniMax正式发布M2.1模型；Qwen开源Qwen-Image-Edit-2511模型【AI 早报 2025-12-24】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-24</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1LHB3BHEJP</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 MiniMax发布M2.1模型，移动端性能显著提升
+2. 🚀 Qwen开源Qwen-Image-Edit-2511图像编辑模型
+3. 🚀 Qwen推出Qwen3-TTS系列语音合成模型
+4. 🚀 阿里云通义Fun团队开源Audio-Chat-8B音频模型
+5. 🔧 智谱团队透露GLM-5规...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    9 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-24 09:03:39
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-23.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">智谱AI发布GLM-4.7模型；MiniMax Agent 平台上线 MiniMax M2.1【AI 早报 2025-12-23】</h3>
@@ -546,39 +578,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-10.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Gemini 3 官方免费资格最后上车机会！本周五通道关闭！OpenAI Whisper 被拉下神坛？智谱发布 1.5B “小钢炮”！【AI早报 12月10日】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-10</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1zVmxBxEmE</span>
-                        <i class="fas fa-microphone voice-badge"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Mistral AI发布Devstral 2与Vibe CLI
-2. 🚀 智谱发布GLM-ASR-Nano-2512语音识别模型
-3. 🚀 智谱开源AutoGLM手机智能助理框架
-4. 📈 Linux基金会成立Agentic AI基金会
-5. 🚀 Gemini CLI候补名单本周五关闭
-6...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    25 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-10 09:19:25
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -625,7 +624,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 70;
+        let totalCount = 71;
         let isLoading = false;
 
         // 工具函数
