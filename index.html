@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 71 条早报</span>
+                        <span id="total-count">共 72 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-25.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">大波福利来袭：TRAE CN宣布开放SOLO模式；Windsurf 上线 SWE-1.5 Free【AI 早报 2025-12-25】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2025-12-25</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1L8BSB8EvX</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 TRAE中国版开放SOLO模式并内置多款免费国产模型
+2. 🔧 Windsurf发布Wave 13更新，上线SWE-1.5 Free模型
+3. 📈 Anthropic为Claude Pro与Max用户提供假日双倍额度
+4. 🚀 Lovable.dev限时赠送两个月Pro订阅服务
+5. 📈 ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    12 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2025-12-25 09:04:27
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-24.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">MiniMax正式发布M2.1模型；Qwen开源Qwen-Image-Edit-2511模型【AI 早报 2025-12-24】</h3>
@@ -545,39 +577,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-11.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Adobe将Photoshop等功能集成至ChatGPT【AI 早报 2025-12-11】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-11</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1vmmKBhEDp</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Adobe集成Photoshop至ChatGPT
-2. 🔧 智谱AI开源GLM-TTS语音模型
-3. 🔧 Google更新Gemini 2.5 TTS模型
-4. 🚀 Qwen发布Qwen3-Omni-Flash全模态模型
-5. 🔧 Claude Code升级Agent SDK
-6. 🔧 V...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    23 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-11 09:05:36
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -624,7 +623,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 71;
+        let totalCount = 72;
         let isLoading = false;
 
         // 工具函数
