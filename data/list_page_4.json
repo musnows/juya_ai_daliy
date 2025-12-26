@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cursor预告即将发布2.0版本【AI 早报 2025-10-27】",
+      "publish_date": "2025-10-27",
+      "bv_id": "BV1LaskzZEZj",
+      "organize_time": "2025-11-23 15:25:55",
+      "news_count": 3,
+      "overview": "1. 🚀 Cursor 2.0即将发布，AI编程体验再升级\n2. 🔧 谷歌预热Gemini 3.0，AI Studio强化vibe coding\n3. 🚀 Suno向所有用户开放v4.5all模型，免费可用",
+      "is_voice_generated": false
+    },
+    {
       "title": "美团暗中打造世界模型？悄然开源LongCat-Video视频生成模型【AI 早报 2025-10-26】",
       "publish_date": "2025-10-26",
       "bv_id": "BV1jKxwz7Ewf",
@@ -111,6 +120,6 @@
   ],
   "page": 4,
   "total_pages": 4,
-  "total_count": 72,
-  "generated_time": "2025-12-25 09:04:28"
+  "total_count": 73,
+  "generated_time": "2025-12-26 09:08:35"
 }
