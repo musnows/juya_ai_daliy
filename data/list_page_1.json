@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "通义千问发布Qwen-Image-2512；腾讯混元开源Youtu-LLM-2B；小米延长MiMo-V2-Flash公测【AI 早报 2026-01-01】",
+      "publish_date": "2026-01-01",
+      "bv_id": "BV18WiLBUEP6",
+      "organize_time": "2026-01-01 09:12:59",
+      "news_count": 13,
+      "overview": "1. 🚀 通义千问发布Qwen-Image-2512图像生成模型\n2. 🚀 腾讯开源Youtu-LLM-2B小型大语言模型\n3. 🔧 小米延长MiMo-V2-Flash模型免费公测至1月20日\n4. 🔧 Qwen Code发布v0.6.0版本，新增实验性Skills功能\n5. 🚀 SK Telecom开源A.X-K1大模型，支持13万上下文\n6. 🚀 LG AI Research发布K-EXAONE-236B-A23B混合专家模型\n7. 🚀 Upstage发布Solar-Open-100B商用开源模型\n8. 🚀 NC-AI consortium开源VAETKI-112B-A10B多语言模型\n9. 🚀 细红线发布AI讲书应用“且听”\n10. 📈 月之暗面完成5亿美元C轮融资，估值达43亿美元\n11. 📈 英伟达洽谈30亿美元收购AI21 Labs\n12. 📈 软银40亿美元收购DigitalBridge布局AI算力\n13. 📈 xAI建设第三座超大规模数据中心",
+      "is_voice_generated": false
+    },
+    {
       "title": "突发！DeepSeek 悄悄更新，用户热议！【AI 早报 2025-12-31】",
       "publish_date": "2025-12-31",
       "bv_id": "BV1QEiPBpEbN",
@@ -170,19 +179,10 @@
       "news_count": 17,
       "overview": "1. 🚀 Google更新Gemini 2.5 Flash音频模型\n2. 🔧 Claude Code新增Android支持与多项更新\n3. 🔧 OpenAI Codex CLI支持设备登录与Skills机制\n4. 🔧 Google Gemini CLI新增会话管理功能\n5. 🔧 Chrome DevTools集成AI调试与MCP支持\n6. 🔧 Kiro CLI集成代码智能与LSP支持\n7. 🚀 字节跳动开源Dolphin-v2文档解析模型\n8. 🚀 OpenAI为Sora推出三种新风格\n9. 🚀 Runway发布GWM-1通用世界模型\n10. 🚀 智谱AI上线AutoGLM-Phone智能助理框架\n11. 🔧 llama.cpp新增模型路由模式\n12. 🚀 Ai2发布Olmo 3.1模型系列\n13. 🔧 智谱开源四项视频生成核心技术\n14. 🔧 伯克利发布DS Serve高效检索框架\n15. 🚀 SCAIL发布角色动画新框架\n16. 🚀 Tinker平台正式发布并更新\n17. 🔧 Google DeepMind展示Veo机器人评估系统",
       "is_voice_generated": false
-    },
-    {
-      "title": "重归王座！OpenAI发布GPT-5.2系列；谷歌推出Gemini Deep Research API【AI早报 2025-12-12】",
-      "publish_date": "2025-12-12",
-      "bv_id": "BV1Sem5BGEnK",
-      "organize_time": "2025-12-12 09:06:43",
-      "news_count": 20,
-      "overview": "1. 🚀 OpenAI发布GPT-5.2系列模型\n2. 📈 迪士尼与OpenAI达成十年协议\n3. 🚀 谷歌发布Gemini Deep Research API\n4. 🚀 Cursor推出Browser可视化编辑器\n5. 🚀 Augment Code发布AI代码审查工具\n6. 🔧 谷歌推出Disco与GenTabs实验项目\n7. 🚀 Google NotebookLM加入AI Ultra计划\n8. 🚀 Qwen Chat推出Learn Mode学习功能\n9. 🚀 Shisa AI发布V2.1日语模型\n10. 🔧 Sora 2 API发布增量模型更新\n11. 🚀 谷歌在印度推出Google AI Plus订阅\n12. 🔧 智谱将发布支持Claude Code思考的新模型\n13. 🔧 Google DeepMind研究Agent系统扩展\n14. 🔧 谷歌通过MCP开放AI模型基础设施\n15. 📈 雅虎等成立RSL联盟推出RSL 1.0\n16. 📈 ElevenLabs与Meta合作提供AI音频技术\n17. 📈 Google DeepMind加强与英国政府合作\n18. 📈 xAI与萨尔瓦多启动全国性AI教育项目\n19. 📈 MiniMax和智谱计划香港IPO\n20. 🔧 腾讯会员模型名称简化为Tencent t",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 4,
-  "total_count": 78,
-  "generated_time": "2025-12-31 08:57:10"
+  "total_count": 79,
+  "generated_time": "2026-01-01 09:13:00"
 }

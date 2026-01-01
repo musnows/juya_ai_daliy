@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 78 条早报</span>
+                        <span id="total-count">共 79 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-01.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">通义千问发布Qwen-Image-2512；腾讯混元开源Youtu-LLM-2B；小米延长MiMo-V2-Flash公测【AI 早报 2026-01-01】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-01</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV18WiLBUEP6</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 通义千问发布Qwen-Image-2512图像生成模型
+2. 🚀 腾讯开源Youtu-LLM-2B小型大语言模型
+3. 🔧 小米延长MiMo-V2-Flash模型免费公测至1月20日
+4. 🔧 Qwen Code发布v0.6.0版本，新增实验性Skills功能
+5. 🚀 SK Teleco...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    13 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-01 09:12:59
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2025-12-31.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">突发！DeepSeek 悄悄更新，用户热议！【AI 早报 2025-12-31】</h3>
@@ -540,39 +572,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-18.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">以下克上？Google发布Gemini 3 Flash模型；OpenAI开放 ChatGPT 应用提交【AI 早报 2025-12-18】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-18</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1Y3qJBTER4</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Google发布Gemini 3 Flash模型
-2. 🔧 Gemini CLI集成Gemini 3 Flash
-3. 🚀 OpenAI开放ChatGPT应用提交
-4. 🚀 微软发布TRELLIS.2 3D生成模型
-5. 🚀 腾讯开源HY World 1.5世界模型
-6. 🚀 通义发布Qw...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    22 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-18 09:12:55
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -619,7 +618,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 78;
+        let totalCount = 79;
         let isLoading = false;
 
         // 工具函数
