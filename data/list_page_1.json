@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Claude Code缔造者分享开发方案【AI早报 2026-01-03】",
+      "publish_date": "2026-01-03",
+      "bv_id": "BV1zRihBCEK9",
+      "organize_time": "2026-01-03 08:59:21",
+      "news_count": 4,
+      "overview": "1. 🔧 Claude Code缔造者分享高效开发方案\n2. 🚀 斯坦福等发布TTTE2E长文本模型\n3. 🔧 字节跳动推出层级化DLCM语言模型架构\n4. 📈 杨立昆指Llama 4基准测试结果被粉饰",
+      "is_voice_generated": false
+    },
+    {
       "title": "DeepSeek 发布 mHC 架构论文；至知创新研究院发布 IQuest-Coder-V1 开源代码大模型【AI 早报 2026-01-02】",
       "publish_date": "2026-01-02",
       "bv_id": "BV1xovdBsEsz",
@@ -170,19 +179,10 @@
       "news_count": 5,
       "overview": "1. 🚀 xAI发布Grok应用更新，支持多图回复\n2. 📈 OpenAI员工离职指控公司回避AI负面经济研究\n3. 🔧 Anthropic提出SGTM方法实现LLM知识移除\n4. 🚀 MiniGuard-v0.1安全分类器模型发布\n5. 🔧 CKA-Agent提出LLM安全护栏绕过框架",
       "is_voice_generated": false
-    },
-    {
-      "title": "英伟达否认DeepSeek使用禁售Blackwell芯片传闻【AI 早报 2025-12-14】",
-      "publish_date": "2025-12-14",
-      "bv_id": "BV1rWmeBDEUV",
-      "organize_time": "2025-12-14 08:53:43",
-      "news_count": 8,
-      "overview": "1. 🚀 Gemini集成Google Maps提供视觉化本地搜索\n2. 🔧 Google推出NotebookLM与Gemini集成功能\n3. 🔧 Gemini Web界面出现Gemini 3 Flash字样\n4. 🚀 SID发布SID-1检索模型技术报告\n5. 🚀 NVIDIA发布gpt-oss-120b Eagle3吞吐量优化模型\n6. 🔧 MotionEdit发布运动中心图像编辑数据集与框架\n7. 📈 英特尔拟16亿美元收购SambaNova\n8. 📈 英伟达否认DeepSeek使用禁售Blackwell芯片传闻",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
-  "total_pages": 4,
-  "total_count": 80,
-  "generated_time": "2026-01-02 08:58:43"
+  "total_pages": 5,
+  "total_count": 81,
+  "generated_time": "2026-01-03 08:59:22"
 }

@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 80 条早报</span>
+                        <span id="total-count">共 81 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-03.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Claude Code缔造者分享开发方案【AI早报 2026-01-03】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-03</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1zRihBCEK9</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🔧 Claude Code缔造者分享高效开发方案
+2. 🚀 斯坦福等发布TTTE2E长文本模型
+3. 🔧 字节跳动推出层级化DLCM语言模型架构
+4. 📈 杨立昆指Llama 4基准测试结果被粉饰...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    4 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-03 08:59:21
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-02.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">DeepSeek 发布 mHC 架构论文；至知创新研究院发布 IQuest-Coder-V1 开源代码大模型【AI 早报 2026-01-02】</h3>
@@ -539,39 +570,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-20.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">阿里Qwen团队开源 Qwen-Image-Layered【AI 早报 2025-12-20】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-20</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1pSBwB3E6B</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Qwen开源图像分层编辑模型
-2. 🔧 Codex CLI支持Skills功能
-3. 🚀 Gemini CLI向免费用户开放Gemini 3
-4. 🔧 Gemini App集成NotebookLM功能
-5. 🚀 Google发布Gemma Scope 2可解释性工具
-6. 🚀 Google...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    20 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-20 09:00:17
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -618,7 +616,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 80;
+        let totalCount = 81;
         let isLoading = false;
 
         // 工具函数
