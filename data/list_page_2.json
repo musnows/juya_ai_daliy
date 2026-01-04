@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "xAI发布Grok应用更新【AI 早报 2025-12-15】",
+      "publish_date": "2025-12-15",
+      "bv_id": "BV1oumkBAEQM",
+      "organize_time": "2025-12-15 08:39:25",
+      "news_count": 5,
+      "overview": "1. 🚀 xAI发布Grok应用更新，支持多图回复\n2. 📈 OpenAI员工离职指控公司回避AI负面经济研究\n3. 🔧 Anthropic提出SGTM方法实现LLM知识移除\n4. 🚀 MiniGuard-v0.1安全分类器模型发布\n5. 🔧 CKA-Agent提出LLM安全护栏绕过框架",
+      "is_voice_generated": false
+    },
+    {
       "title": "英伟达否认DeepSeek使用禁售Blackwell芯片传闻【AI 早报 2025-12-14】",
       "publish_date": "2025-12-14",
       "bv_id": "BV1rWmeBDEUV",
@@ -170,19 +179,10 @@
       "news_count": 22,
       "overview": "1. 🚀 Black Forest Labs发布FLUX.2模型\n2. 🔧 OpenAI集成ChatGPT语音模式至聊天界面\n3. 🚀 inclusionAI发布LLaDA2.0系列模型\n4. 🚀 Nari Labs发布流式对话TTS模型Dia2\n5. 🚀 腾讯混元开源HunyuanOCR专家模型\n6. 🔧 OpenAI改进Sora 2减少视频闪烁问题\n7. 🔧 Google推出Gemini交互式图像功能\n8. 🚀 Google发布agentic calling功能让AI致电商家\n9. 🚀 Claude发布桌面版Code及Plan Mode升级\n10. 🔧 GitHub发布Copilot自定义Agent编写指南\n11. 🚀 TRAE中国版上线SOLO模式\n12. 🔧 Kiro推出Multi-root workspaces功能\n13. 📈 MiniMax Coding Plan推出黑五促销活动\n14. 📈 Anthropic发布AI任务效率与诚实度研究报告\n15. 🚀 Rama Index推出Rama She的API\n16. 🔧 Telm发布Special SSR框架\n17. 🔧 Ons Labs推出FP8强化学习功能\n18. 📈 OpenAI发布AI评估框架指南\n19. 📈 马斯克计划让Grok 5挑战人类英雄联盟团队\n20. 📈 谷歌开发Luminary OS新操作系统\n21. 📈 陶哲轩使用AI助手解决数学问题\n22. 📈 美国启动创世使命AI科研计划",
       "is_voice_generated": false
-    },
-    {
-      "title": "Anthropic 发布 Claude Opus 4.5 模型【AI 早报 2025-11-25】",
-      "publish_date": "2025-11-25",
-      "bv_id": "BV1UxUUBzEG9",
-      "organize_time": "2025-11-25 09:19:50",
-      "news_count": 15,
-      "overview": "1. 🚀 Anthropic发布Claude Opus 4.5模型\n2. 🔧 Anthropic推出高级工具使用功能\n3. 🚀 OpenAI推出ChatGPT购物研究功能\n4. 🔧 OpenAI Sora推出Sora styles功能\n5. 🚀 Google Gemini 3 CLI全付费计划开放\n6. 🔧 龙猫LongCat App上线视频与深度思考功能\n7. 🚀 Andrew Ng发布Agentic Reviewer工具\n8. 🚀 Zyphra联合AMD/IBM发布ZAYA1 MoE模型\n9. 🚀 Microsoft发布Fara-7B Agentic模型\n10. 🔧 谷歌安卓Chrome Canary集成AI生图\n11. 🚀 Openrouter上线Bert-Nebulon Alpha模型\n12. 🔧 Windsurf测试Penguin Alpha模型\n13. 📈 Ive与Altman确认AI硬件原型机\n14. 📈 Google商谈AI芯片进驻客户数据中心\n15. 🔧 Google开发NotebookLM导入Gemini选项",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 5,
-  "total_count": 81,
-  "generated_time": "2026-01-03 08:59:22"
+  "total_count": 82,
+  "generated_time": "2026-01-04 09:00:03"
 }
