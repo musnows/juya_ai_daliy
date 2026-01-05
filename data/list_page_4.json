@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Gemini 3 实锤现身，部分网友在用，GPT-5.1也要来袭，大模型全都\"卷\"疯了！【AI 早报 2025-11-06】",
+      "publish_date": "2025-11-06",
+      "bv_id": "BV14U1bBGEoQ",
+      "organize_time": "2025-11-22 20:37:53",
+      "news_count": 19,
+      "overview": "1. 🔧 OpenAI推出ChatGPT查询中断续传功能\n2. 🚀 谷歌Gemini 3预览模型ID现身Vertex AI\n3. 🔧 Kimi K2 Reasoning模型代码并入VLLM项目\n4. 🔧 谷歌Gemini API增强结构化输出与JSON Schema支持\n5. 🔧 Gemini CLI发布v0.12.0版本，新增模型路由与子代理\n6. 🔧 Gemini Deep Research集成Google Workspace\n7. 🔧 NotebookLM新增自定义提示可见性与样式开发\n8. 🔧 谷歌简化Chrome移动端AI Mode访问方式\n9. 🔧 Google Maps集成Gemini，支持对话式驾驶体验\n10. 🔧 Manus AI支持上传自定义幻灯片模板\n11. 🚀 Isoform发布Yansu编程AI平台\n12. 🔧 Perplexity发布定制MoE内核支持万亿参数部署\n13. 🔧 Cursor引入语义搜索与自研嵌入模型\n14. 🚀 美团LongCat推出UNO-Bench中文多模态基准\n15. 🚀 CodeClash基准测试揭示模型软件工程局限\n16. 📈 Anthropic上调营收预期至47亿美元\n17. 📈 OpenAI全球企业客户超100万\n18. 🚀 谷歌拟发布新图像模型Nano Banana 2或GEMPIX-2\n19. 🚀 OpenAI将推GPT-5新快照与数据分析模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "字节跳动Trae不再可用Claude系列模型【AI 早报 2025-11-05】",
       "publish_date": "2025-11-05",
       "bv_id": "BV1jd1nBvEcJ",
@@ -170,19 +179,10 @@
       "news_count": 16,
       "overview": "1. 🚀 Anthropic推出Claude Skills\n2. 🔧 Anthropic上线Microsoft 365连接器\n3. 🚀 Manus发布1.5版Agent\n4. 🔧 OpenAI推出自动记忆管理方案\n5. 🔧 OpenAI Sora 2功能更新\n6. 🚀 Google AI Studio上线统一Playground\n7. 🔧 字节跳动升级豆包大模型1.6\n8. 🚀 百度开源PaddleOCR-VL模型\n9. 🚀 Meta发布MobileLLM-Pro模型\n10. 📈 Kiro正式开放注册\n11. 🚀 Cognition发布SWE-grep模型\n12. 🔧 Zed编辑器集成OpenAI Codex Agent\n13. 🔧 LobeChat开启群聊功能Alpha测试\n14. 🚀 Hugging Face发布HuggingChat Omni\n15. 🚀 Perplexity上线语言学习功能\n16. 🚀 阿里云上线Qwen3-VL-Flash",
       "is_voice_generated": false
-    },
-    {
-      "title": "Gemini 3.0 Pro 现身！Veo 3.1震撼发布！Claude Haiku 4.5发布！【AI 早报 2025-10-16】",
-      "publish_date": "2025-10-16",
-      "bv_id": "BV13qWezbEmG",
-      "organize_time": "2025-11-23 15:29:48",
-      "news_count": 14,
-      "overview": "1. 🚀 Google升级Veo 3.1并上线Flow\n2. 🚀 Anthropic发布Claude Haiku 4.5\n3. 🔧 Gemini 3.0 Pro现身官网与AIStudio\n4. 🔧 Gemini CLI v0.9.0新增交互式Shell\n5. 🚀 Amp推出全新免费模式Amp Free\n6. 📈 Sam Altman回应情色内容争议\n7. 🚀 Qoder发布CLI版Agentic编程工具\n8. 🔧 Google与Yale发布Gemma癌症模型\n9. 🔧 Qwen Chat正式上线记忆功能\n10. 🔧 NotebookLM上线LaTeX渲染支持\n11. 📈 日本警告OpenAI勿用Sora2侵权\n12. 🚀 苹果发布M5芯片\n13. 📈 OpenAI扩大ChatGPT Go覆盖至89国\n14. 📈 Meta El Paso AI数据中心动工",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 5,
-  "total_count": 82,
-  "generated_time": "2026-01-04 09:00:03"
+  "total_count": 83,
+  "generated_time": "2026-01-05 09:00:50"
 }
