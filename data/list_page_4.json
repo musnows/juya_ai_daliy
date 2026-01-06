@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "硅谷地震！Kimi K2 Thinking 炸裂登场；GPT 5.1吗？OpenRouter上线Polaris Alpha【AI 早报 2025-11-07】",
+      "publish_date": "2025-11-07",
+      "bv_id": "BV1PP2MB1EPN",
+      "organize_time": "2025-11-22 20:37:24",
+      "news_count": 14,
+      "overview": "1. 🚀 月之暗面发布Kimi K2 Thinking模型\n2. 🚀 OpenRouter上线Polaris Alpha隐身模型\n3. 🚀 科大讯飞发布讯飞星火X1.5及AI产品\n4. 🚀 inceptionlabs发布下一代扩散模型Mercury\n5. 🔧 Gemini API发布文件搜索工具\n6. 📈 OpenAI修复云任务问题并补偿免费积分\n7. 🔧 VS Code内联补全功能正式开源\n8. 🔧 Zed编辑器新增Auggie CLI与Opencode智能体\n9. 📈 Novita AI宣布KAT-Coder API限时免费\n10. 🚀 CodeBuddy国内版上线GLM-4.6模型\n11. 🔧 LMArena发布Arena Expert专家评估框架\n12. 🔧 NotebookLM手机应用新增测验与闪卡功能\n13. 🔧 Google Finance新增Deep Search功能\n14. 📈 Google Labs将Opal扩展至160+国家",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini 3 实锤现身，部分网友在用，GPT-5.1也要来袭，大模型全都\"卷\"疯了！【AI 早报 2025-11-06】",
       "publish_date": "2025-11-06",
       "bv_id": "BV14U1bBGEoQ",
@@ -170,19 +179,10 @@
       "news_count": 14,
       "overview": "1. 🔧 Google Gemini API集成Maps Grounding\n2. 🚀 豆包开启长期记忆功能众测\n3. 🔧 Cerebras发布REAP MoE压缩方法\n4. 🔧 美团LongCat开源音频编解码器\n5. 🚀 GitHub Copilot更新GPT-4.1模型\n6. 🔧 Firecrawl开源Open Agent Builder\n7. 🚀 李飞飞团队发布RTFM世界模型\n8. 🚀 DiffSynth发布Face-to-Photo模型\n9. 🚀 Hunyuan发布FlashWorld模型\n10. 🚀 OpenAI推出企业版MCP支持\n11. 🔧 xAI API支持服务端工具调用\n12. 📈 Nvidia中国市场份额归零\n13. 📈 Google CEO确认Gemini 3.0年内发布\n14. 📰 宾大研究称粗鲁提示提升ChatGPT准确率",
       "is_voice_generated": false
-    },
-    {
-      "title": "MCP落幕！Claude Skills新神登场！【AI 早报 2025-10-17】",
-      "publish_date": "2025-10-17",
-      "bv_id": "BV1b7Wkz5E5r",
-      "organize_time": "2025-11-23 15:29:22",
-      "news_count": 16,
-      "overview": "1. 🚀 Anthropic推出Claude Skills\n2. 🔧 Anthropic上线Microsoft 365连接器\n3. 🚀 Manus发布1.5版Agent\n4. 🔧 OpenAI推出自动记忆管理方案\n5. 🔧 OpenAI Sora 2功能更新\n6. 🚀 Google AI Studio上线统一Playground\n7. 🔧 字节跳动升级豆包大模型1.6\n8. 🚀 百度开源PaddleOCR-VL模型\n9. 🚀 Meta发布MobileLLM-Pro模型\n10. 📈 Kiro正式开放注册\n11. 🚀 Cognition发布SWE-grep模型\n12. 🔧 Zed编辑器集成OpenAI Codex Agent\n13. 🔧 LobeChat开启群聊功能Alpha测试\n14. 🚀 Hugging Face发布HuggingChat Omni\n15. 🚀 Perplexity上线语言学习功能\n16. 🚀 阿里云上线Qwen3-VL-Flash",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 5,
-  "total_count": 83,
-  "generated_time": "2026-01-05 09:00:50"
+  "total_count": 84,
+  "generated_time": "2026-01-06 09:20:51"
 }

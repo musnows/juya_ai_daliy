@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "MCP落幕！Claude Skills新神登场！【AI 早报 2025-10-17】",
+      "publish_date": "2025-10-17",
+      "bv_id": "BV1b7Wkz5E5r",
+      "organize_time": "2025-11-23 15:29:22",
+      "news_count": 16,
+      "overview": "1. 🚀 Anthropic推出Claude Skills\n2. 🔧 Anthropic上线Microsoft 365连接器\n3. 🚀 Manus发布1.5版Agent\n4. 🔧 OpenAI推出自动记忆管理方案\n5. 🔧 OpenAI Sora 2功能更新\n6. 🚀 Google AI Studio上线统一Playground\n7. 🔧 字节跳动升级豆包大模型1.6\n8. 🚀 百度开源PaddleOCR-VL模型\n9. 🚀 Meta发布MobileLLM-Pro模型\n10. 📈 Kiro正式开放注册\n11. 🚀 Cognition发布SWE-grep模型\n12. 🔧 Zed编辑器集成OpenAI Codex Agent\n13. 🔧 LobeChat开启群聊功能Alpha测试\n14. 🚀 Hugging Face发布HuggingChat Omni\n15. 🚀 Perplexity上线语言学习功能\n16. 🚀 阿里云上线Qwen3-VL-Flash",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini 3.0 Pro 现身！Veo 3.1震撼发布！Claude Haiku 4.5发布！【AI 早报 2025-10-16】",
       "publish_date": "2025-10-16",
       "bv_id": "BV13qWezbEmG",
@@ -30,6 +39,6 @@
   ],
   "page": 5,
   "total_pages": 5,
-  "total_count": 83,
-  "generated_time": "2026-01-05 09:00:50"
+  "total_count": 84,
+  "generated_time": "2026-01-06 09:20:51"
 }
