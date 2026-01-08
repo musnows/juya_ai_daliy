@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "编程的神？OpenAI 发布 GPT-5.2-Codex；字节跳动发布豆包大模型1.8【AI 早报 2025-12-19】",
+      "publish_date": "2025-12-19",
+      "bv_id": "BV1NgqRBRE8e",
+      "organize_time": "2025-12-19 09:14:08",
+      "news_count": 28,
+      "overview": "1. 🚀 OpenAI发布GPT-5.2-Codex编码模型\n2. 🚀 字节跳动发布豆包大模型1.8版本\n3. 🚀 Mistral AI发布Mistral OCR 3文档理解模型\n4. 🔧 Claude向付费用户开放Chrome浏览器扩展\n5. 🔧 Anthropic发布Claude Code 2.0.72版本更新\n6. 📈 Anthropic发布Agent Skills开放标准\n7. 🔧 Google发布Gemini CLI扩展Conductor\n8. 🔧 Google NotebookLM新增Data Tables功能\n9. 🔧 Google Gemini应用新增AI视频验证功能\n10. 🔧 OpenAI推出ChatGPT聊天置顶功能\n11. 📈 OpenAI宣布Sora在拉美十国上线\n12. 🔧 OpenAI Atlas浏览器发布重要更新\n13. 🔧 JetBrains上线BYOK（自带密钥）功能\n14. 🔧 SGLang上线Ollama兼容API\n15. 🚀 Google发布T5Gemma 2系列模型\n16. 🚀 Google发布Jama 270M开源函数调用模型\n17. 🔧 MiniMax视频团队开源VTP视觉生成框架\n18. 🚀 Meta发布统一3D重建模型NerfBlend V1\n19. 🔧 Meta开源PerceptionDer Audio-VI多模态编码器\n20. 🚀 Meta发布PC系列自监督视觉基础模型\n21. 🔧 Mylab实现万亿参数混合专家模型强化学习系统\n22. 📈 Google DeepMind与OpenAI参与美国能源部科学计划\n23. 📈 Anthropic发布用户心理安全保护措施\n24. 🔧 OpenAI发布思维链可监控性评估研究成果\n25. 📈 OpenAI更新Model Policy新增UNDER18PS青少年保护条款\n26. 📈 OpenAI推出面向新闻机构的AI学习平台\n27. 📈 中科曙光展出SKYX万卡超集群智能计算系统\n28. 📈 苏黎世联邦理工学院与AI合作证明数学定理",
+      "is_voice_generated": false
+    },
+    {
       "title": "以下克上？Google发布Gemini 3 Flash模型；OpenAI开放 ChatGPT 应用提交【AI 早报 2025-12-18】",
       "publish_date": "2025-12-18",
       "bv_id": "BV1Y3qJBTER4",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 📈 ChatGPT安卓版现广告代码\n2. 🚀 NVIDIA发布Orchestrator-8B模型\n3. 🔧 AMD vLLM支持Ryzen AI Max\n4. 🔧 llama.cpp兼容Anthropic API\n5. 📈 Whisper Thunder登顶AA T2V榜\n6. 📈 维基百科禁用AI生成条目",
       "is_voice_generated": false
-    },
-    {
-      "title": "美团 LongCat 上线 AI 生图功能【AI 早报 2025-11-29】",
-      "publish_date": "2025-11-29",
-      "bv_id": "BV1DqUoBPEkq",
-      "organize_time": "2025-11-29 08:53:34",
-      "news_count": 8,
-      "overview": "1. 🚀 LongCat上线AI生图功能\n2. 🔧 腾讯混元发布3D Studio 1.1及PolyGen 1.5\n3. 🚀 Kimi上线Agentic Slides并开发记忆功能\n4. 🚀 昆仑万维发布Mureka V7.6和O2音乐模型\n5. 🔧 快手开源Keye-VL-671B-A37B多模态模型\n6. 🚀 Grok Imagine推出文本到视频功能\n7. 📈 Kilo AI发布三大编码模型基准测试\n8. 📈 北京推进太空数据中心建设",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 5,
-  "total_count": 85,
-  "generated_time": "2026-01-07 09:06:52"
+  "total_count": 86,
+  "generated_time": "2026-01-08 09:07:44"
 }

@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 85 条早报</span>
+                        <span id="total-count">共 86 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-08.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI 发布 ChatGPT Health【AI 早报 2026-01-08】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-08</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1uUiDBJEha</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI 发布 ChatGPT Health 独立隐私健康空间
+2. 🔧 Gemini CLI 更新预览版支持 Agent Skills 功能
+3. 🚀 OpenBMB 发布 ChatDev 2.0 多智能体协作平台
+4. 🚀 Liquid AI 与 AMD 合作推出本地会议摘要模型 ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    12 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-08 09:07:43
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-07.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">蚂蚁集团开源 AntAngelMed 医疗模型；Lightricks 开源 LTX-2 视频模型；xAI 完成 200 亿美元 E 轮融资【AI 早报 2026</h3>
@@ -535,38 +566,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-25.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">大波福利来袭：TRAE CN宣布开放SOLO模式；Windsurf 上线 SWE-1.5 Free【AI 早报 2025-12-25】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-25</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1L8BSB8EvX</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 TRAE中国版开放SOLO模式并内置多款免费国产模型
-2. 🔧 Windsurf发布Wave 13更新，上线SWE-1.5 Free模型
-3. 📈 Anthropic为Claude Pro与Max用户提供假日双倍额度
-4. 🚀 Lovable.dev限时赠送两个月Pro订阅服务
-5. 📈 ...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    12 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-25 09:04:27
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -613,7 +612,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 85;
+        let totalCount = 86;
         let isLoading = false;
 
         // 工具函数
