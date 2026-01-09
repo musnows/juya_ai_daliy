@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "ChatGPT安卓测试版出现广告相关代码【AI 早报 2025-11-30】",
+      "publish_date": "2025-11-30",
+      "bv_id": "BV1SRSNB9ETt",
+      "organize_time": "2025-11-30 08:39:17",
+      "news_count": 6,
+      "overview": "1. 📈 ChatGPT安卓版现广告代码\n2. 🚀 NVIDIA发布Orchestrator-8B模型\n3. 🔧 AMD vLLM支持Ryzen AI Max\n4. 🔧 llama.cpp兼容Anthropic API\n5. 📈 Whisper Thunder登顶AA T2V榜\n6. 📈 维基百科禁用AI生成条目",
+      "is_voice_generated": false
+    },
+    {
       "title": "美团 LongCat 上线 AI 生图功能【AI 早报 2025-11-29】",
       "publish_date": "2025-11-29",
       "bv_id": "BV1DqUoBPEkq",
@@ -170,19 +179,10 @@
       "news_count": 14,
       "overview": "1. 🚀 美团发布AI编程助手CatRun\n2. 📰 ChatGPT推出群组聊天功能\n3. 🔧 Meta发布OmniLingua-ASR多语言语音识别系统\n4. 📈 Meta开源史上最大第一人称视角数据集\n5. 📈 xAI将举办黑客松并开放Grok模型与API\n6. 🔧 腾讯发布MoEPlay大模型角色扮演基准\n7. 🚀 谷歌发布AI Agent白皮书与强化课程\n8. 🔧 OpenB发布ORA 2.1支持多模态推理\n9. 🔧 月之暗面透露Kimi后续模型计划\n10. 📈 Kimi发布API基准测试最佳配置指南\n11. 🚀 MiniMax M2接入TraiT中国版与蜜塔AI搜索\n12. 📈 维基媒体基金会呼吁AI公司停止爬取数据\n13. 🔧 Character AI公开自研大模型架构细节\n14. 🔧 马斯克确认xAI开发Diffusion推理模型",
       "is_voice_generated": true
-    },
-    {
-      "title": "xAI API上线MCP支持；TRAE SOLO 即将正式发布【AI 早报 2025-11-10】",
-      "publish_date": "2025-11-10",
-      "bv_id": "BV1EUkRB4Ecj",
-      "organize_time": "2025-11-22 20:36:21",
-      "news_count": 5,
-      "overview": "1. 🔧 xAI API上线MCP与远程工具支持\n2. 🚀 TRAE国际版将发布TRAE SOLO\n3. 📈 Google Nano-Banana 2现身第三方平台\n4. 🔧 MoonshotAI开源kosong框架\n5. 🔧 Firefox浏览器默认启用LLM功能",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 5,
-  "total_count": 86,
-  "generated_time": "2026-01-08 09:07:44"
+  "total_count": 87,
+  "generated_time": "2026-01-09 09:08:43"
 }

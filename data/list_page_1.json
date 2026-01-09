@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Qwen 团队开源 Qwen3-VL-Embedding 与 Qwen3-VL-Reranker 系列模型【AI 早报 2026-01-09】",
+      "publish_date": "2026-01-09",
+      "bv_id": "BV1RGrABKEPE",
+      "organize_time": "2026-01-09 09:08:41",
+      "news_count": 18,
+      "overview": "1. 🚀 阿里开源Qwen3-VL多模态嵌入与重排序模型\n2. 🚀 阿里发布ROME-V0.1智能体模型\n3. 🚀 AI21 Labs发布Jamba2系列语言模型\n4. 🚀 MOSI推出MOSS-Transcribe-Diarize语音转录模型\n5. 🚀 NVIDIA开源Music Flamingo音乐理解模型\n6. 🚀 OpenAI面向医疗机构发布AI解决方案套件\n7. 🔧 Google为Gmail推出Gemini AI新功能\n8. 🔧 Anthropic发布Claude Code 2.1.1版本更新\n9. 🚀 Microsoft推出Copilot Checkout在线购物支付功能\n10. 🔧 Visual Studio Code发布1.108版本更新\n11. 📈 TRAE中国版SOLO实现全量免费开放\n12. 🚀 字节跳动发布DreamStyle视频风格化框架\n13. 🚀 Kling Team开源UniVideo视频统一模型\n14. 🚀 Cerebras上线GLM-4.7模型\n15. 📈 智谱唐杰透露GLM-5即将发布\n16. 🚀 阿里云发布多模态交互开发套件\n17. 🚀 xAI即将推出Grok Build编程Agent\n18. 📈 xAI在密西西比州投资超200亿美元建设数据中心",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 发布 ChatGPT Health【AI 早报 2026-01-08】",
       "publish_date": "2026-01-08",
       "bv_id": "BV1uUiDBJEha",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 Sam Altman透露OpenAI将于2025年Q1发布超越GPT-5.2的新模型\n2. 🔧 NotebookLM底层模型升级至Gemini 3，强化推理与多模态能力\n3. 🔧 Claude Code 2.0.74发布，新增LSP工具支持代码跳转与引用查找\n4. 🔧 Anthropic开源AI行为评估工具Bloom，支持自动化模型行为量化\n5. 🔧 OpenRouter支持Claude Code集成，实现多模型路由调用\n6. 🚀 Firecrawl推出AI数据爬虫Agent，支持自然语言指令提取结构化数据\n7. 🚀 LongVie 2长视频世界模型发布，支持生成5分钟720P视频\n8. 🔧 苏黎世大学与科隆大学发布历史语言模型Ranke-4B系列\n9. 🔧 SixAI Lab开源视觉自监督学习方法NEPA，简化视觉预训练\n10. 🔧 Google确认Gemini 3.0 Pro将持续提升性能，预览版非最终形态\n11. 📈 Google起诉SerpApi非法爬取并转售搜索结果数据\n12. 🚀 摩尔线程发布新一代GPU架构与AI芯片华山、庐山",
       "is_voice_generated": false
-    },
-    {
-      "title": "阿里Qwen团队开源 Qwen-Image-Layered【AI 早报 2025-12-20】",
-      "publish_date": "2025-12-20",
-      "bv_id": "BV1pSBwB3E6B",
-      "organize_time": "2025-12-20 09:00:17",
-      "news_count": 20,
-      "overview": "1. 🚀 Qwen开源图像分层编辑模型\n2. 🔧 Codex CLI支持Skills功能\n3. 🚀 Gemini CLI向免费用户开放Gemini 3\n4. 🔧 Gemini App集成NotebookLM功能\n5. 🚀 Google发布Gemma Scope 2可解释性工具\n6. 🚀 Google推出A2UI智能体驱动UI协议\n7. 🚀 NVIDIA发布NitroGen游戏智能体模型\n8. 🚀 Meta开源Text Seal水印检测工具\n9. 🚀 Will McGugan发布终端AI工具Toad\n10. 🔧 AI推理新基准FrontierCS发布\n11. 🚀 Transluce AI发布模型行为解码器\n12. 🚀 MiniMax开放M2.1模型体验申请\n13. 🔧 智谱GLM-4.7模型即将发布\n14. 📈 智谱AI通过港交所聆讯\n15. 🚀 全光学芯片莱震发布\n16. 🔧 字节发布C Prover 1.5技术报告\n17. 📈 Meta开发Mango与Avocado新模型\n18. 📈 Koder收购代码审查平台Graph\n19. 📈 Andrej Karpathy年度回顾发布\n20. 📈 Google成立算力分配委员会",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 5,
-  "total_count": 86,
-  "generated_time": "2026-01-08 09:07:44"
+  "total_count": 87,
+  "generated_time": "2026-01-09 09:08:43"
 }
