@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Sam Altman：明年Q1将发布超越GPT-5.2的模型【AI 早报 2025-12-21】",
+      "publish_date": "2025-12-21",
+      "bv_id": "BV1r1q2BZEuY",
+      "organize_time": "2025-12-21 08:46:08",
+      "news_count": 12,
+      "overview": "1. 🚀 Sam Altman透露OpenAI将于2025年Q1发布超越GPT-5.2的新模型\n2. 🔧 NotebookLM底层模型升级至Gemini 3，强化推理与多模态能力\n3. 🔧 Claude Code 2.0.74发布，新增LSP工具支持代码跳转与引用查找\n4. 🔧 Anthropic开源AI行为评估工具Bloom，支持自动化模型行为量化\n5. 🔧 OpenRouter支持Claude Code集成，实现多模型路由调用\n6. 🚀 Firecrawl推出AI数据爬虫Agent，支持自然语言指令提取结构化数据\n7. 🚀 LongVie 2长视频世界模型发布，支持生成5分钟720P视频\n8. 🔧 苏黎世大学与科隆大学发布历史语言模型Ranke-4B系列\n9. 🔧 SixAI Lab开源视觉自监督学习方法NEPA，简化视觉预训练\n10. 🔧 Google确认Gemini 3.0 Pro将持续提升性能，预览版非最终形态\n11. 📈 Google起诉SerpApi非法爬取并转售搜索结果数据\n12. 🚀 摩尔线程发布新一代GPU架构与AI芯片华山、庐山",
+      "is_voice_generated": false
+    },
+    {
       "title": "阿里Qwen团队开源 Qwen-Image-Layered【AI 早报 2025-12-20】",
       "publish_date": "2025-12-20",
       "bv_id": "BV1pSBwB3E6B",
@@ -170,19 +179,10 @@
       "news_count": 28,
       "overview": "1. 🚀 DeepSeek发布V3.2系列模型\n2. 🚀 字节跳动发布豆包手机助手技术预览版\n3. 🚀 Runway发布Gen-4.5视频模型\n4. 🚀 Kling AI发布O1视频模型\n5. 🚀 拍我AI发布PixVerse V5.5视频模型\n6. 🚀 阿里国际发布Ovis-Image-7B文声图模型\n7. 🔧 Vidu发布Q2生图模型并升级功能\n8. 🚀 Pruna AI发布P-Image与P-Image-Edit模型\n9. 🚀 Kilo Code上线免费Stealth模型Spectre\n10. 🔧 Cherry Studio发布v1.7.1版本\n11. 🚀 Arcee AI发布Trinity开源MoE模型\n12. 🔧 OpenAI启动对齐研究博客\n13. 📈 Anthropic发布智能合约漏洞利用研究\n14. 🔧 Hugging Face发布transformers v5\n15. 🔧 OpenBMB开源InfLLM-V2项目资源\n16. 🔧 vLLM发布vLLM-Omni多模态推理框架\n17. 🚀 OpenAGI发布Lux计算机使用模型\n18. 🔧 OPPO发布O-Mem全项记忆框架\n19. 🔧 复旦与美团提出R-HORIZON评测框架\n20. 🔧 Unsloth实现53万上下文窗口微调\n21. 📈 Artificial Analysis发布开放性指数\n22. 🔧 WebGPU获主流浏览器正式支持\n23. 📈 Anthropic证实Claude训练文档真实性\n24. 📈 字节跳动领先中国AI模型即服务市场\n25. 🚀 Mistral AI将发布Ministral 3与Large 3模型\n26. 📈 LTX-2开源发布推迟至2026年1月\n27. 📈 Thrive Holdings与OpenAI达成战略合作\n28. 📈 Accenture与OpenAI加速企业AI应用",
       "is_voice_generated": true
-    },
-    {
-      "title": "阶跃AI开源GELab-Zero【AI 早报 2025-12-01】",
-      "publish_date": "2025-12-01",
-      "bv_id": "BV1rVS6BzEcB",
-      "organize_time": "2025-12-01 08:54:51",
-      "news_count": 3,
-      "overview": "1. 🚀 阶跃AI开源GELab-Zero GUI智能体堆栈\n2. 🚀 字节跳动发布Vidi2多模态模型\n3. 🔧 豆包APP上线记忆与积分功能",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 5,
-  "total_count": 87,
-  "generated_time": "2026-01-09 09:08:43"
+  "total_count": 88,
+  "generated_time": "2026-01-10 09:09:43"
 }
