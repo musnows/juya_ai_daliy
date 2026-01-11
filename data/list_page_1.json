@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI与开源编程工具合作接入ChatGPT订阅【AI 早报 2026-01-11】",
+      "publish_date": "2026-01-11",
+      "bv_id": "BV1Tt6QB4Ej3",
+      "organize_time": "2026-01-11 09:10:25",
+      "news_count": 8,
+      "overview": "1. 🚀 OpenAI授权ChatGPT订阅接入开源编程工具\n2. 🚀 OpenAI推出MCP Server一站式开发者平台\n3. 🔧 Anthropic发布新一代AI安全防护系统\n4. 🔧 xAI重构X平台算法并承诺开源\n5. 🔧 Open WebUI发布重大版本更新\n6. 📈 OpenAI吸纳Convogos创始团队加入\n7. 📈 Meta签署6.6吉瓦核能供电协议\n8. 🔧 Linus Torvalds发布开源项目AudioNoise",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google Antigravity 限制 Google AI Pro 用量；Anthropic 限制竞争对手使用Claude【AI早报 2026-01-10】",
       "publish_date": "2026-01-10",
       "bv_id": "BV13QrgBXEds",
@@ -170,19 +179,10 @@
       "news_count": 16,
       "overview": "1. 🚀 智谱AI发布GLM-4.7开源旗舰模型\n2. 🚀 MiniMax Agent平台上线M2.1模型\n3. 🔧 月之暗面展示Kimi K2企业Agent应用\n4. 🚀 阿里通义发布Wan2.6-Image商用图像生成模型\n5. 🔧 Anthropic开源官方Agent Skills仓库\n6. 🔧 Codex推出后台进程实验性功能\n7. 🚀 OpenAI推出ChatGPT年度回顾功能\n8. 🔧 OpenAI发布Atlas安全更新防御提示注入\n9. 🔧 Google Colab预装Gemini CLI工具\n10. 🚀 Google DeepMind发布YouTube Playables Builder\n11. 📈 谷歌母公司47.5亿美元收购Intersect能源公司\n12. 📈 英伟达重组云部门并收缩云业务\n13. 🔧 NVIDIA发布Unsloth微调指南与Nemotron 3 Nano\n14. 📈 微软CEO纳德拉亲自抓Copilot产品改进\n15. 🚀 Jan团队发布Jan-v2-VL-max 30B多模态模型\n16. 🚀 夸克开启AI眼镜G1系列预售",
       "is_voice_generated": false
-    },
-    {
-      "title": "震惊！AI胡言乱语的真相找到了！清华揭秘LLM幻觉神经元【AI早报 2025-12-22】",
-      "publish_date": "2025-12-22",
-      "bv_id": "BV1GmBHB5Eny",
-      "organize_time": "2025-12-22 08:46:51",
-      "news_count": 6,
-      "overview": "1. 🔧 清华与OpenBMB发现LLM幻觉神经元\n2. 🚀 Google发布医学语音识别模型MedASR\n3. 🚀 纳瓦拉大学发布可解释AI工具RNACOREX\n4. 📈 xAI成立AI游戏工作室开发动态游戏世界\n5. 🚀 OpenAI开发ChatGPT视觉UI并洽谈电商合作\n6. 📈 MiniMax通过港交所上市聆讯",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 5,
-  "total_count": 88,
-  "generated_time": "2026-01-10 09:09:43"
+  "total_count": 89,
+  "generated_time": "2026-01-11 09:10:26"
 }

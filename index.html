@@ -116,13 +116,46 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 88 条早报</span>
+                        <span id="total-count">共 89 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-11.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI与开源编程工具合作接入ChatGPT订阅【AI 早报 2026-01-11】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-11</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1Tt6QB4Ej3</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI授权ChatGPT订阅接入开源编程工具
+2. 🚀 OpenAI推出MCP Server一站式开发者平台
+3. 🔧 Anthropic发布新一代AI安全防护系统
+4. 🔧 xAI重构X平台算法并承诺开源
+5. 🔧 Open WebUI发布重大版本更新
+6. 📈 OpenAI吸纳C...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    8 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-11 09:10:25
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-10.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google Antigravity 限制 Google AI Pro 用量；Anthropic 限制竞争对手使用Claude【AI早报 2026-01-10】</h3>
@@ -533,37 +566,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-28.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">未来已至！AI失控前兆？Altman急招“救世主”，这工作谁敢接？【AI 早报 2025-12-28】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-28</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1mEvqBBEjF</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 📈 OpenAI紧急招聘Preparedness负责人应对AI安全风险
-2. 🚀 阶跃星辰发布Step-DeepResearch模型对标国际先进水平
-3. 🔧 llama.cpp实验性支持Blackwell MXFP4格式提升推理速度
-4. 📈 Andrej Karpathy谈AI编程重构：开...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    4 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-28 08:54:59
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -610,7 +612,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 88;
+        let totalCount = 89;
         let isLoading = false;
 
         // 工具函数
