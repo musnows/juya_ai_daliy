@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "美团开源EvoCUA多模态计算机操作模型【AI 早报 2026-01-12】",
+      "publish_date": "2026-01-12",
+      "bv_id": "BV1Nrr8BwEHn",
+      "organize_time": "2026-01-12 08:56:03",
+      "news_count": 6,
+      "overview": "1. 🚀 美团开源EvoCUA多模态计算机操作模型\n2. 🔧 秘塔AI搜索学术库新增3000万篇论文\n3. 📈 智谱向订阅用户推出上市回馈活动\n4. 📈 AGI-Next峰会探讨AI新范式与中美竞争\n5. 🔧 UniCorn框架解决多模态模型传导性失语症\n6. 📈 谷歌移除部分医疗查询AI Overviews功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI与开源编程工具合作接入ChatGPT订阅【AI 早报 2026-01-11】",
       "publish_date": "2026-01-11",
       "bv_id": "BV1Tt6QB4Ej3",
@@ -170,19 +179,10 @@
       "news_count": 9,
       "overview": "1. 🚀 MiniMax发布M2.1模型，移动端性能显著提升\n2. 🚀 Qwen开源Qwen-Image-Edit-2511图像编辑模型\n3. 🚀 Qwen推出Qwen3-TTS系列语音合成模型\n4. 🚀 阿里云通义Fun团队开源Audio-Chat-8B音频模型\n5. 🔧 智谱团队透露GLM-5规划并即将发布新IDE工具\n6. 🔧 Diffusers新增Z-Image-Omni-Base模型\n7. 📈 Poetiq harness刷新ARC-AGI-2评测纪录至75%\n8. 🚀 xAI发布Grok Collections API，集成OCR与RAG技术\n9. 🔧 FunctionGemma本地微调指南发布，支持自定义工具调用",
       "is_voice_generated": false
-    },
-    {
-      "title": "智谱AI发布GLM-4.7模型；MiniMax Agent 平台上线 MiniMax M2.1【AI 早报 2025-12-23】",
-      "publish_date": "2025-12-23",
-      "bv_id": "BV1HkB8BSErM",
-      "organize_time": "2025-12-23 09:02:52",
-      "news_count": 16,
-      "overview": "1. 🚀 智谱AI发布GLM-4.7开源旗舰模型\n2. 🚀 MiniMax Agent平台上线M2.1模型\n3. 🔧 月之暗面展示Kimi K2企业Agent应用\n4. 🚀 阿里通义发布Wan2.6-Image商用图像生成模型\n5. 🔧 Anthropic开源官方Agent Skills仓库\n6. 🔧 Codex推出后台进程实验性功能\n7. 🚀 OpenAI推出ChatGPT年度回顾功能\n8. 🔧 OpenAI发布Atlas安全更新防御提示注入\n9. 🔧 Google Colab预装Gemini CLI工具\n10. 🚀 Google DeepMind发布YouTube Playables Builder\n11. 📈 谷歌母公司47.5亿美元收购Intersect能源公司\n12. 📈 英伟达重组云部门并收缩云业务\n13. 🔧 NVIDIA发布Unsloth微调指南与Nemotron 3 Nano\n14. 📈 微软CEO纳德拉亲自抓Copilot产品改进\n15. 🚀 Jan团队发布Jan-v2-VL-max 30B多模态模型\n16. 🚀 夸克开启AI眼镜G1系列预售",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 5,
-  "total_count": 89,
-  "generated_time": "2026-01-11 09:10:26"
+  "total_count": 90,
+  "generated_time": "2026-01-12 08:56:04"
 }
