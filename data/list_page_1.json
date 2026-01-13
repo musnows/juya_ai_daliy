@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "苹果与谷歌达成多年合作，下一代基础模型基于Gemini【AI 早报 2026-01-13】",
+      "publish_date": "2026-01-13",
+      "bv_id": "BV1GrrBBPEjS",
+      "organize_time": "2026-01-13 09:12:00",
+      "news_count": 19,
+      "overview": "1. 📈 苹果与谷歌达成多年合作，下一代基础模型基于Gemini\n2. 🚀 Anthropic发布Cowork：面向非开发者的Agent协作工具\n3. 🔧 Google Gemini API提升文件上传限制并支持多种云存储源\n4. 🔧 DeepSeek发布Engram模块：N-gram嵌入检索助力高效推理\n5. 🚀 OpenBMB开源AgentCPM-Explore 4B端侧Agent模型\n6. 🚀 Vercel Labs开源AI浏览器自动化CLI工具\n7. 🚀 LEMAS发布150K小时多语言语音套件及生成模型\n8. 🚀 快手推出Mini版Coding Plan：首月8.8元\n9. 🔧 Cursor Beta支持Agent Skills开放标准\n10. 🔧 TRAE上线多层安全系统：沙箱与Shell拦截机制\n11. 🚀 Manus推出Meeting Minutes功能：一键生成结构化会议总结\n12. 🚀 昆仑万维天工推出Skywork Video v1.0视频创作智能体\n13. 🚀 1X发布1XWM世界模型驱动NEO人形机器人\n14. 🚀 Anthropic发布符合HIPAA标准的Claude医疗版\n15. 📈 Google联合行业伙伴发布Universal Commerce Protocol\n16. 📈 Meta启动大规模算力计划，签署20年核电供电协议\n17. 📈 OpenAI与Jony Ive合作研发类耳机AI可穿戴设备\n18. 📈 OpenAI收购医疗数据平台Toch，整合情境引擎\n19. 📰 国内首起AI服务涉黄案将进行二审",
+      "is_voice_generated": false
+    },
+    {
       "title": "美团开源EvoCUA多模态计算机操作模型【AI 早报 2026-01-12】",
       "publish_date": "2026-01-12",
       "bv_id": "BV1Nrr8BwEHn",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 TRAE中国版开放SOLO模式并内置多款免费国产模型\n2. 🔧 Windsurf发布Wave 13更新，上线SWE-1.5 Free模型\n3. 📈 Anthropic为Claude Pro与Max用户提供假日双倍额度\n4. 🚀 Lovable.dev限时赠送两个月Pro订阅服务\n5. 📈 Google One推出AI Pro年度方案半价限时优惠\n6. 🔧 智谱AI上线Zread MCP服务器支持IDE内分析GitHub仓库\n7. 🚀 Kilo Code发布App Builder浏览器端应用开发工具\n8. 🔧 StepFun发布NextStep-1.1图像生成模型\n9. 🔧 Nebius发布OpenHands轨迹数据集与RFT微调模型\n10. 📈 Google发布2025年度AI研究成果汇总\n11. 📈 OpenAI探索ChatGPT内置广告商业化方案\n12. 📈 英伟达与Groq达成200亿美元推理技术许可协议",
       "is_voice_generated": false
-    },
-    {
-      "title": "MiniMax正式发布M2.1模型；Qwen开源Qwen-Image-Edit-2511模型【AI 早报 2025-12-24】",
-      "publish_date": "2025-12-24",
-      "bv_id": "BV1LHB3BHEJP",
-      "organize_time": "2025-12-24 09:03:39",
-      "news_count": 9,
-      "overview": "1. 🚀 MiniMax发布M2.1模型，移动端性能显著提升\n2. 🚀 Qwen开源Qwen-Image-Edit-2511图像编辑模型\n3. 🚀 Qwen推出Qwen3-TTS系列语音合成模型\n4. 🚀 阿里云通义Fun团队开源Audio-Chat-8B音频模型\n5. 🔧 智谱团队透露GLM-5规划并即将发布新IDE工具\n6. 🔧 Diffusers新增Z-Image-Omni-Base模型\n7. 📈 Poetiq harness刷新ARC-AGI-2评测纪录至75%\n8. 🚀 xAI发布Grok Collections API，集成OCR与RAG技术\n9. 🔧 FunctionGemma本地微调指南发布，支持自定义工具调用",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 5,
-  "total_count": 90,
-  "generated_time": "2026-01-12 08:56:04"
+  "total_count": 91,
+  "generated_time": "2026-01-13 09:12:01"
 }
