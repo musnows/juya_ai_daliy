@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 91 条早报</span>
+                        <span id="total-count">共 92 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-14.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Google 发布 Veo 3.1 更新和MedGemma 1.5模型；百川开源 Baichuan-M3 医疗大模型【AI 早报 2026-01-14】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-14</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1NJrJBiE2z</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Google发布Veo 3.1视频生成模型重大更新
+2. 🚀 百川智能开源235B参数医疗大模型Baichuan-M3
+3. 🚀 Google发布MedGemma 1.5多模态医疗模型
+4. 🚀 PixVerse推出实时世界模型PixVerse-R1
+5. 🚀 微软发布FrogBoss系列...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    17 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-14 09:13:09
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-13.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">苹果与谷歌达成多年合作，下一代基础模型基于Gemini【AI 早报 2026-01-13】</h3>
@@ -535,38 +567,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2025-12-31.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">突发！DeepSeek 悄悄更新，用户热议！【AI 早报 2025-12-31】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2025-12-31</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1QEiPBpEbN</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🔧 DeepSeek App新增语音输入功能，用户热议更新
-2. 🚀 腾讯开源HY-MT1.5翻译模型，支持33种语言互译
-3. 🚀 腾讯发布HY-Motion 1.0文生3D动作模型
-4. 🚀 字节跳动推出语音驱动AI工作空间AnyGen
-5. 🔧 通义千问即将发布Qwen-Image-25...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    12 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2025-12-31 08:57:09
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -613,7 +613,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 91;
+        let totalCount = 92;
         let isLoading = false;
 
         // 工具函数

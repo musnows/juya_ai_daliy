@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "宇宙最强AI炸裂上线，OpenAI哭了，Google 上线 Gemini 3 Deep Think【AI早报 2025-12-05】",
+      "publish_date": "2025-12-05",
+      "bv_id": "BV1c72GBpEQU",
+      "organize_time": "2025-12-07 11:08:00",
+      "news_count": 19,
+      "overview": "1. 🚀 Google上线Gemini 3 Deep Think模式\n2. 🚀 OpenAI开放GPT-5.1-Codex-Max API访问\n3. 🔧 Cursor优化Agent支持Codex模型并限免\n4. 🔧 NotebookLM iOS新增图表与幻灯片功能\n5. 🚀 Anthropic发布AI访谈工具并公开数据集\n6. 🔧 Haiku 4.5模型推出结构化输出beta功能\n7. 🚀 可灵AI上线数字人2.0功能\n8. 🔧 千问APP发布办公场景功能更新\n9. 🚀 Microsoft发布VibeVoice-Realtime-0.5B模型\n10. 🔧 Hugging Face发布LLM评测指南v2\n11. 📈 Claude账单将按信用卡地址收税\n12. 🚀 Tavily发布Deep Research达SOTA水平\n13. 🔧 Exa发布NeurIPS论文语义检索功能\n14. 🔧 StepFun发布Open Vision Reasoner论文\n15. 📈 Mistral Large 3登顶开源编码模型榜首\n16. 📈 Meta面临欧盟反垄断调查并考虑采购TPU\n17. 📈 谷歌云携手Replit推进企业级Vibe Coding\n18. 📈 OpenRouter发布AI使用状态报告\n19. 📈 Anthropic CEO：缩放定律直通AGI",
+      "is_voice_generated": true
+    },
+    {
       "title": "字节跳动发布图像模型Seedream 4.5【AI 早报 2025-12-04】",
       "publish_date": "2025-12-04",
       "bv_id": "BV1sy2hB2EST",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 OpenRouter上线Sherlock系列模型\n2. 🔧 GitHub Copilot公测Raptor mini模型\n3. 🔧 iFlow CLI免费开放MiniMax-M2与Kimi-K2-Thinking\n4. 🔧 Gemini CLI发布v0.15.1补丁\n5. 🚀 Factory推出Ultra订阅档\n6. 🔧 Cerebras发布MiniMax-M2-REAP-162B-A10B稀疏模型\n7. 📈 AMD启动高校春雨计划\n8. 📈 Similarweb：Gemini占比升至13.7%",
       "is_voice_generated": false
-    },
-    {
-      "title": "有望下周发布！Gemini3.0能碾压GPT-5.1吗！【AI 早报 2025-11-15】",
-      "publish_date": "2025-11-15",
-      "bv_id": "BV1G5CLB3EUa",
-      "organize_time": "2025-11-22 20:35:00",
-      "news_count": 17,
-      "overview": "1. 🚀 OpenAI试点ChatGPT群聊功能\n2. 🚀 Google推出Code Wiki知识库\n3. 🔧 Google Colab开放Gemini与Gemma模型\n4. 🚀 美团发布CatPaw IDE Windows版\n5. 🚀 MiniMax推出Coding Plan订阅服务\n6. 🚀 智谱GLM Coding Plan特供版上线\n7. 🔧 小米开源Miloco智能家居AI内核\n8. 🔧 Claude平台推出结构化输出功能\n9. 🔧 NotebookLM支持图片上传作为信息源\n10. 🔧 Qwen Code发布v0.2.1版本\n11. 🔧 Google Gemini App更新Deep Research功能\n12. 🔧 Google Veo 3.1支持多图参考生成\n13. 📈 硅基流动平台服务与活动规则调整\n14. 🔧 OpenAI发布稀疏电路可解释性研究\n15. 🚀 UI2Code^N发布交互式UI-to-Code模型\n16. 🔧 Decart发布LSD v2实时视频风格化模型\n17. 📈 Kaggle发布《Prototype to Production》白皮书",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 5,
-  "total_count": 91,
-  "generated_time": "2026-01-13 09:12:01"
+  "total_count": 92,
+  "generated_time": "2026-01-14 09:13:10"
 }
