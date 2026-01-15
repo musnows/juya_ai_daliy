@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 92 条早报</span>
+                        <span id="total-count">共 93 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-15.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">美团开源 LongCat-Flash-Thinking-2601模型；百度发布 ERNIE-5.0-0110 模型【AI 早报 2026-01-15】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-15</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1pdroBiEMg</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 美团开源LongCat-Flash-Thinking-2601大推理模型
+2. 🚀 百度发布ERNIE-5.0-0110模型，多项能力领先
+3. 🚀 Google推出Gemini个人智能Beta版，支持跨应用推理
+4. 🚀 智谱开源GLM-Image图像生成模型，支持2048像素高清输出
+...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    31 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-15 09:44:21
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-14.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google 发布 Veo 3.1 更新和MedGemma 1.5模型；百川开源 Baichuan-M3 医疗大模型【AI 早报 2026-01-14】</h3>
@@ -535,38 +567,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-01.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">通义千问发布Qwen-Image-2512；腾讯混元开源Youtu-LLM-2B；小米延长MiMo-V2-Flash公测【AI 早报 2026-01-01】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-01</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV18WiLBUEP6</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 通义千问发布Qwen-Image-2512图像生成模型
-2. 🚀 腾讯开源Youtu-LLM-2B小型大语言模型
-3. 🔧 小米延长MiMo-V2-Flash模型免费公测至1月20日
-4. 🔧 Qwen Code发布v0.6.0版本，新增实验性Skills功能
-5. 🚀 SK Teleco...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    13 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-01 09:12:59
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -613,7 +613,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 92;
+        let totalCount = 93;
         let isLoading = false;
 
         // 工具函数

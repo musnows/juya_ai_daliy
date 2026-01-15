@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "美团开源 LongCat-Flash-Thinking-2601模型；百度发布 ERNIE-5.0-0110 模型【AI 早报 2026-01-15】",
+      "publish_date": "2026-01-15",
+      "bv_id": "BV1pdroBiEMg",
+      "organize_time": "2026-01-15 09:44:21",
+      "news_count": 31,
+      "overview": "1. 🚀 美团开源LongCat-Flash-Thinking-2601大推理模型\n2. 🚀 百度发布ERNIE-5.0-0110模型，多项能力领先\n3. 🚀 Google推出Gemini个人智能Beta版，支持跨应用推理\n4. 🚀 智谱开源GLM-Image图像生成模型，支持2048像素高清输出\n5. 🔧 OpenAI开放GPT-5.2-Codex API，专为长周期编码优化\n6. 🔧 Claude Code更新至2.1.7，新增工具动态搜索功能\n7. 🔧 OpenAI发布Codex 0.8.0版本，支持流式响应与Windows降级机制\n8. 🔧 Google趋势页面引入AI分析功能，支持热点对比与建议生成\n9. 🚀 Kaggle推出社区评估平台，支持自定义模型基准测试\n10. 🔧 Google与Kilo支持Agent技能包，扩展自动化能力边界\n11. 🚀 OpenCode推出付费订阅套餐，集成多模型动态资源调度\n12. 🚀 生数科技上线一键生成AI MV功能，支持5分钟连贯视频输出\n13. 📈 千问App月活跃用户突破1亿，将推自主办事Agent功能\n14. 🚀 阿里开源ArenaRL强化学习框架，解决复杂任务评估难题\n15. 🔧 中国电信研究院提出超低带宽视频压缩框架\n16. 🔧 伯克利研究揭示视觉提示评估漏洞，发布新基准VP-Bench\n17. 🔧 Manus详解云端沙箱架构，支持高权限自动化操作\n18. 🚀 GitHub发布Copilot SDK预览版，支持多语言编程接入\n19. 🚀 OpenAI上线ChatGPT专用翻译工具，支持多模态交互\n20. 🔧 Google翻译测试多语境翻译功能，生成多个语体版本\n21. 🚀 Perplexity企业版引入股权研究功能，接入授权金融报告\n22. 🔧 NotebookLM开放结构化表格功能，支持文档一键转换\n23. 📈 Google DeepMind联合数学家证明代数几何新定理\n24. 📈 OpenAI与Cerebras达成百亿美元算力合作\n25. 📈 美国修改出口管制，放宽NVIDIA H200等芯片对华出口限制\n26. 📈 Perplexity首席产品官转任Llama负责人，专注前沿产品孵化\n27. 📈 OpenAI三名核心研发人员回归应用业务团队\n28. 📈 韩服玩家展现92%胜率引关注，疑为xAI AI测试项目\n29. 📈 美国通过法案打击AI生成非自愿性暗示图像\n30. 📈 AI虚构足球比赛致英国警方误发情报，微软称无法复现错误\n31. 🚀 TRA国际版限时免除Pro费用，赠送一个月使用权",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google 发布 Veo 3.1 更新和MedGemma 1.5模型；百川开源 Baichuan-M3 医疗大模型【AI 早报 2026-01-14】",
       "publish_date": "2026-01-14",
       "bv_id": "BV1NJrJBiE2z",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 🚀 MiniMax开源M2.1编程模型并开启限时优惠\n2. 📈 智谱AI为GLM Coding Plan订阅用户赠送奶茶券\n3. 🔧 Antigravity无限期维持Flash模型高速率限制\n4. 🔧 Yann LeCun发布VL-JEPA实时视觉语言模型\n5. 🚀 Google新图像模型Nano Banana Pro Flash曝光\n6. 📈 日本政府通过AI基本计划拟投逾1万亿日元",
       "is_voice_generated": true
-    },
-    {
-      "title": "紧急！Codex额度翻倍，错过等一年！X平台AI编辑引爆版权争议！【AI早报 2025-12-26】",
-      "publish_date": "2025-12-26",
-      "bv_id": "BV1b7BZB6E7w",
-      "organize_time": "2025-12-26 09:08:35",
-      "news_count": 7,
-      "overview": "1. 🚀 Codex宣布额度翻倍至明年1月1日\n2. 📈 X平台AI图片编辑器引版权争议，创作者抗议\n3. 🚀 质普发布AI协同开发工具z code alpha版\n4. 🔧 OpenB与清华团队联合推出deep think v1模型\n5. 🔧 Liquid AI开源26亿参数强化学习模型\n6. 🚀 腾讯云推出ETC领域首款智能体\n7. 📈 硅基流动发布2025大模型使用年度报告",
-      "is_voice_generated": true
     }
   ],
   "page": 1,
   "total_pages": 5,
-  "total_count": 92,
-  "generated_time": "2026-01-14 09:13:10"
+  "total_count": 93,
+  "generated_time": "2026-01-15 09:44:22"
 }

@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "GPT-5.2即将来袭？Altman被逼到\"code red\"！谷歌Gemini 3刚封神就要被秒？【AI早报 12月6日】",
+      "publish_date": "2025-12-06",
+      "bv_id": "BV1iw2nBvEWB",
+      "organize_time": "2025-12-06 09:07:38",
+      "news_count": 19,
+      "overview": "1. 🚀 OpenAI将发布GPT-5.2应对谷歌Gemini 3\n2. 🚀 腾讯发布混元HY 2.0大模型\n3. 🔧 美团开源LongCat-Image双语视觉模型\n4. 🔧 Qwen发布Qwen3-TTS语音合成模型升级\n5. 📈 React关键RCE漏洞影响Next.js及Dify\n6. 🚀 火山引擎发布豆包语音识别模型2.0\n7. 🔧 Google发布Gemini 3 Pro Vision多模态基准\n8. 📈 Google调整Antigravity平台rate limits政策\n9. 🔧 腾讯发布HunyuanVideo 1.5步数蒸馏模型\n10. 🔧 NotebookLM发布移动应用重大更新\n11. 📈 xAI宣布Live Search API移除并推荐Agent Tools\n12. 📈 yupp.ai发布SVG榜单Gemini 3 Pro登顶\n13. 📈 OpenAI在澳建550MW GPU超级集群\n14. 🚀 火山方舟上线DeepSeek-V3.2模型\n15. 📈 Google启动Gemini 3 Vibe Code黑客松\n16. 🔧 JetBrains IDEs集成Agent Client Protocol\n17. 📈 xAI实验性Grok 4.20模型夺冠Alpha Arena\n18. 🔧 Google开发Gemini网页实时翻译功能\n19. 📈 Meta收购Limitless并签署AI新闻协议",
+      "is_voice_generated": false
+    },
+    {
       "title": "宇宙最强AI炸裂上线，OpenAI哭了，Google 上线 Gemini 3 Deep Think【AI早报 2025-12-05】",
       "publish_date": "2025-12-05",
       "bv_id": "BV1c72GBpEQU",
@@ -170,19 +179,10 @@
       "news_count": 3,
       "overview": "1. 🚀 Google将发布Nano Banana Pro\n2. 🔧 Google Enterprise内测多Agent锦标赛\n3. 🚀 EverMind AI开源智能记忆系统EverMemOS",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenRouter 上线 Sherlock 系列测试模型【AI 早报 2025-11-16】",
-      "publish_date": "2025-11-16",
-      "bv_id": "BV1WjCDBdEeM",
-      "organize_time": "2025-11-22 20:34:31",
-      "news_count": 8,
-      "overview": "1. 🚀 OpenRouter上线Sherlock系列模型\n2. 🔧 GitHub Copilot公测Raptor mini模型\n3. 🔧 iFlow CLI免费开放MiniMax-M2与Kimi-K2-Thinking\n4. 🔧 Gemini CLI发布v0.15.1补丁\n5. 🚀 Factory推出Ultra订阅档\n6. 🔧 Cerebras发布MiniMax-M2-REAP-162B-A10B稀疏模型\n7. 📈 AMD启动高校春雨计划\n8. 📈 Similarweb：Gemini占比升至13.7%",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 5,
-  "total_count": 92,
-  "generated_time": "2026-01-14 09:13:10"
+  "total_count": 93,
+  "generated_time": "2026-01-15 09:44:22"
 }
