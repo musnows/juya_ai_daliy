@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google 发布 TranslateGemma 多语言翻译模型；OpenAI 发布 Open Responses 开源规范【AI 早报 2026-01-16】",
+      "publish_date": "2026-01-16",
+      "bv_id": "BV1p3kKBtEw5",
+      "organize_time": "2026-01-16 09:00:31",
+      "news_count": 22,
+      "overview": "1. 🚀 Google发布TranslateGemma多语言翻译模型\n2. 📈 OpenAI联合Hugging Face发布Open Responses开源规范\n3. 🚀 阶跃星辰开源Step-Audio-R1.1原生语音推理模型\n4. 🚀 阶跃星辰发布STEP3-VL-10B多模态模型\n5. 🚀 Black Forest Labs发布FLUX.2 klein系列图像生成模型\n6. 🚀 阿里巴巴千问App上线超400项AI办事功能\n7. 🔧 OpenAI增强ChatGPT记忆功能可靠性\n8. 📈 GitHub Copilot支持OpenCode接入订阅，Anthropic被曝屏蔽OpenCode\n9. 🔧 Google发布Gemini CLI v0.24.0版本更新\n10. 🔧 OpenAI支持Roo Code接入ChatGPT订阅，Codex将优化iOS开发\n11. 🔧 TRAE上线Skills功能，支持中国版与国际版SOLO模式\n12. 📈 Kiro官方移除免费层级Opus 4.5模型支持\n13. 📈 SiliconFlow上线推荐官计划，邀请好友获无上限代金券\n14. 📈 Anthropic发布经济报告，下调AI对生产率增长贡献预期\n15. 📈 Google调研：学习成AI使用首要动机，师生使用率超80%\n16. 🔧 GitHub Copilot记忆功能开启公测，支持跨功能学习代码库\n17. 🔧 Anthropic发布全新批处理算法，上下文长度提升7倍\n18. 📈 维基媒体基金会与亚马逊、Meta、微软达成付费数据合作\n19. 📈 马斯克承认Grok 4.20编程能力或逊于Claude，强调其他领域优势\n20. 📈 传闻称Anthropic Claude Opus 4.5使用Google TPU训练\n21. 📈 OpenAI与萨姆·奥特曼脑机接口公司合作研发神经信号模型\n22. 📈 英伟达领投AI初创公司Harmonic 1.2亿美元融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "美团开源 LongCat-Flash-Thinking-2601模型；百度发布 ERNIE-5.0-0110 模型【AI 早报 2026-01-15】",
       "publish_date": "2026-01-15",
       "bv_id": "BV1pdroBiEMg",
@@ -170,19 +179,10 @@
       "news_count": 4,
       "overview": "1. 📈 OpenAI紧急招聘Preparedness负责人应对AI安全风险\n2. 🚀 阶跃星辰发布Step-DeepResearch模型对标国际先进水平\n3. 🔧 llama.cpp实验性支持Blackwell MXFP4格式提升推理速度\n4. 📈 Andrej Karpathy谈AI编程重构：开发者需掌握新抽象层",
       "is_voice_generated": false
-    },
-    {
-      "title": "超乎想象！MiniMax开启限时优惠；智谱AI赠送订阅用户奶茶【AI 早报 2025-12-27】",
-      "publish_date": "2025-12-27",
-      "bv_id": "BV1y9BBB5Ewq",
-      "organize_time": "2025-12-27 08:39:21",
-      "news_count": 6,
-      "overview": "1. 🚀 MiniMax开源M2.1编程模型并开启限时优惠\n2. 📈 智谱AI为GLM Coding Plan订阅用户赠送奶茶券\n3. 🔧 Antigravity无限期维持Flash模型高速率限制\n4. 🔧 Yann LeCun发布VL-JEPA实时视觉语言模型\n5. 🚀 Google新图像模型Nano Banana Pro Flash曝光\n6. 📈 日本政府通过AI基本计划拟投逾1万亿日元",
-      "is_voice_generated": true
     }
   ],
   "page": 1,
   "total_pages": 5,
-  "total_count": 93,
-  "generated_time": "2026-01-15 09:44:22"
+  "total_count": 94,
+  "generated_time": "2026-01-16 09:00:32"
 }
