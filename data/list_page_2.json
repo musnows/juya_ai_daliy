@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "未来已至！AI失控前兆？Altman急招“救世主”，这工作谁敢接？【AI 早报 2025-12-28】",
+      "publish_date": "2025-12-28",
+      "bv_id": "BV1mEvqBBEjF",
+      "organize_time": "2025-12-28 08:54:59",
+      "news_count": 4,
+      "overview": "1. 📈 OpenAI紧急招聘Preparedness负责人应对AI安全风险\n2. 🚀 阶跃星辰发布Step-DeepResearch模型对标国际先进水平\n3. 🔧 llama.cpp实验性支持Blackwell MXFP4格式提升推理速度\n4. 📈 Andrej Karpathy谈AI编程重构：开发者需掌握新抽象层",
+      "is_voice_generated": false
+    },
+    {
       "title": "超乎想象！MiniMax开启限时优惠；智谱AI赠送订阅用户奶茶【AI 早报 2025-12-27】",
       "publish_date": "2025-12-27",
       "bv_id": "BV1y9BBB5Ewq",
@@ -170,19 +179,10 @@
       "news_count": 22,
       "overview": "1. 📈 美国允许英伟达H200芯片出口中国\n2. 🚀 智谱开源GLM-4.6V多模态大模型\n3. 🚀 Jina AI发布Jina-VLM-2.4B视觉语言模型\n4. 🚀 OpenAI与Instacart合作推出ChatGPT购物功能\n5. 🔧 Google Doppl新增可购物发现信息流\n6. 🔧 NotebookLM支持上传DocX文件\n7. 🔧 Google Labs更新Mixboard支持多文件类型\n8. 🔧 Google Stitch推出Redesign Agent代码生成功能\n9. 🔧 GitHub Copilot推出模型选择器功能\n10. 🚀 Firecrawl发布AI网络监控平台OpenScouts\n11. 🔧 Hugging Face推出LLM微调技能系统\n12. 🔧 Google与联发科合作推出LiteRT NeuroPilot加速器\n13. 🔧 Tiny-A2D开源方案实现语言模型扩散化\n14. 🔧 MindLab发布低秩适配器强化学习系统\n15. 🚀 Hugging Face上线优达RC多语言语音数据集\n16. 📈 OpenAI发布2025年企业AI状态报告\n17. 📈 Google公布Android XR生态路线图\n18. 📈 OpenAI采购全球40% DRAM供应\n19. 📈 Google计划2026年在聊天机器人中引入广告\n20. 📈 康伦以110亿美元被IBM收购\n21. 📈 Uncommon AI完成4.75亿美元种子轮融资\n22. 📈 AI合成研究创企Aaru完成A轮融资",
       "is_voice_generated": false
-    },
-    {
-      "title": "Gemini 3 Flash 已上线 LM Arena？或将在2025年内发布！【AI 早报 2025-12-08】",
-      "publish_date": "2025-12-08",
-      "bv_id": "BV1a22zB7Eju",
-      "organize_time": "2025-12-08 08:38:40",
-      "news_count": 9,
-      "overview": "1. 🚀 Gemini 3 Flash 或已上线 LM Arena\n2. 🚀 NewBieAi-lab 发布动漫图像生成模型\n3. 🚀 ServiceNow 发布多模态推理模型 Apriel-1.6-15B-Thinker\n4. 🚀 LLM360 发布完全开放模型 K2-V2-Instruct\n5. 🔧 ImageCritic 发布图像后编辑框架\n6. 🔧 Grok 深度集成 Tesla 并预告 4.20 版本\n7. 🚀 Stack Overflow 发布 AI Assist 工具\n8. 📈 Google 扩大 TPU 供应与数据中心部署\n9. 📈 d-Matrix 完成 2.75 亿美元 C 轮融资",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 5,
-  "total_count": 94,
-  "generated_time": "2026-01-16 09:00:32"
+  "total_count": 95,
+  "generated_time": "2026-01-17 09:16:32"
 }

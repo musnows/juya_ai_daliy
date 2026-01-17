@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Gemini 3 Flash 已上线 LM Arena？或将在2025年内发布！【AI 早报 2025-12-08】",
+      "publish_date": "2025-12-08",
+      "bv_id": "BV1a22zB7Eju",
+      "organize_time": "2025-12-08 08:38:40",
+      "news_count": 9,
+      "overview": "1. 🚀 Gemini 3 Flash 或已上线 LM Arena\n2. 🚀 NewBieAi-lab 发布动漫图像生成模型\n3. 🚀 ServiceNow 发布多模态推理模型 Apriel-1.6-15B-Thinker\n4. 🚀 LLM360 发布完全开放模型 K2-V2-Instruct\n5. 🔧 ImageCritic 发布图像后编辑框架\n6. 🔧 Grok 深度集成 Tesla 并预告 4.20 版本\n7. 🚀 Stack Overflow 发布 AI Assist 工具\n8. 📈 Google 扩大 TPU 供应与数据中心部署\n9. 📈 d-Matrix 完成 2.75 亿美元 C 轮融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "白嫖党崩溃！Google 突然削减 Gemini API 免费配额【AI 早报 2025-12-07】",
       "publish_date": "2025-12-07",
       "bv_id": "BV1vL2fBgE3G",
@@ -170,19 +179,10 @@
       "news_count": 21,
       "overview": "1. 🚀 谷歌发布Gemini 3 Pro大模型\n2. 🔧 谷歌Gemini应用集成Gemini 3 Pro\n3. 🚀 谷歌发布AI辅助开发平台Antigrafty\n4. 🔧 谷歌推出Scholar Lapse学术AI功能\n5. 📈 Google DeepMind暗示新品发布\n6. 🔧 Kode AI推出终端AI Agent功能\n7. 🚀 昆仑万维发布Skywa Rev4 Light多模态智能体\n8. 🚀 Unio E2.0 Omni全模态大模型开源\n9. 🚀 蚂蚁集团发布灵光全模态AI助手\n10. 🔧 GitHub Copilot推出自动模型选择功能\n11. 🔧 Tra1 Solo功能转为付费并开放\n12. 📈 MiniMax M2模型限时免费\n13. 🔧 DeepSeek修复V3.2XP推理漏洞\n14. 🔧 微软推出Agent Workspace实验功能\n15. 🚀 Mans推出Browse Operator智能浏览器扩展\n16. 🚀 AI2推出Drr Trulo深度研究框架\n17. 🚀 OceanBase发布AI原生混合搜索数据库\n18. 🚀 微软推出H for Business企业浏览器\n19. 📈 马斯克确认Grok 4.20版本将至\n20. 📈 微软英伟达与Anthropic达成战略合作\n21. 🔧 Intuity整合GPT技术提供智能金融服务",
       "is_voice_generated": true
-    },
-    {
-      "title": "xAI 发布 Grok 4.1 模型【AI 早报 2025-11-18】",
-      "publish_date": "2025-11-18",
-      "bv_id": "BV1jjCkB9ELZ",
-      "organize_time": "2025-11-22 20:34:08",
-      "news_count": 16,
-      "overview": "1. 🚀 Grok 4.1模型正式发布\n2. 🔧 Google Gemini 3 Pro灰度推送\n3. 🚀 Google发布WeatherNext 2天气模型\n4. 🔧 Google Vids AI功能免费开放\n5. 🚀 Google推出AI旅行规划新功能\n6. 📈 Artificial Analysis发布AA-Omniscience基准\n7. 📈 LongCat发布AMO-Bench数学推理基准\n8. 🚀 阿里发布千问应用公测版\n9. 📈 阿里Qwen Chat用户突破千万\n10. 🔧 Google计划推出AI Studio移动应用\n11. 🔧 Google拟引入Gemini Enterprise Agent导入\n12. 🔧 Poe上线200人群聊功能\n13. 🔧 Cerebras发布REAP剪枝MiniMax-M2模型\n14. 📈 Google推出三项Gemini教育认证\n15. 📈 Replicate加入Cloudflare\n16. 📈 Jeff Bezos回归Project Prometheus联合CEO",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 5,
-  "total_count": 94,
-  "generated_time": "2026-01-16 09:00:32"
+  "total_count": 95,
+  "generated_time": "2026-01-17 09:16:32"
 }
