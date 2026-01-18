@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 95 条早报</span>
+                        <span id="total-count">共 96 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-18.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Vercel 发布 AI 技能管理工具 add-skill【AI 早报 2026-01-18】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-18</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1DCkHBDE7W</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Vercel 发布 AI 技能管理工具 add-skill
+2. 🚀 ai-forever 发布 VIBE 图像编辑模型
+3. 🔧 Cursor 发布新版 CLI 支持 Agent 模式与云端接力
+4. 🔧 Ollama 支持 Anthropic API 及 TranslateGemma ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    7 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-18 08:45:30
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-17.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI 官宣将在 ChatGPT 中投放广告【AI 早报 2026-01-17】</h3>
@@ -537,37 +568,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-04.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">元象开源 XVERSE-Ent 泛娱乐大模型；IQuestLab 修正 IQuest-Coder-V1 模型基准测试得分【AI 早报 2026-01-04】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-04</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1NoizB5EGR</span>
-                        <i class="fas fa-microphone voice-badge"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 元象开源XVERSE-Ent泛娱乐大模型，支持免费商用
-2. 🔧 IQuestLab修正IQuest-Coder-V1基准测试得分至76.2%
-3. 📈 Anthropic拟斥资210亿美元采购100万颗TPU v7芯片
-4. 📈 Claude Code一小时完成谷歌团队一年开发的分布式A...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    6 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-04 09:00:02
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -614,7 +614,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 95;
+        let totalCount = 96;
         let isLoading = false;
 
         // 工具函数
