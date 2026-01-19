@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 96 条早报</span>
+                        <span id="total-count">共 97 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-19.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI发文宣布2025年收入超200亿美元；谷歌称暂无在 Gemini 应用投放广告的计划【AI 早报 2026-01-19】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-19</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1Fqk8BZE98</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 📈 OpenAI宣布2025年收入突破200亿美元
+2. 📈 谷歌确认Gemini应用暂无广告投放计划
+3. 🚀 Warp发布CLI编程Agent深度支持功能
+4. 🚀 GitLab发布GitLab Duo Agent Platform
+5. 🔧 Claude Code新增执行前自动清除Con...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    6 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-19 08:45:55
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-18.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Vercel 发布 AI 技能管理工具 add-skill【AI 早报 2026-01-18】</h3>
@@ -537,37 +569,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-05.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">智谱或将发布 GLM-Image 图像生成模型；MiroMind 开源 MiroThinker-v1.5【AI 早报 2026-01-05】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-05</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1H9iWBcEDX</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 智谱AI即将发布GLM-Image图像生成模型并适配Hugging Face
-2. 🚀 MiroMind开源MiroThinker-v1.5系列Agent模型
-3. 🚀 YuanLab.ai开源Yuan3.0 Flash多模态大模型
-4. 🚀 中国电信开源TeleChat3系列千亿级语义大...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    4 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-05 09:00:49
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -614,7 +615,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 96;
+        let totalCount = 97;
         let isLoading = false;
 
         // 工具函数

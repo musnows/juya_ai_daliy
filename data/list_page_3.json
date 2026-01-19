@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Gemini 3 官方免费资格最后上车机会！本周五通道关闭！OpenAI Whisper 被拉下神坛？智谱发布 1.5B “小钢炮”！【AI早报 12月10日】",
+      "publish_date": "2025-12-10",
+      "bv_id": "BV1zVmxBxEmE",
+      "organize_time": "2025-12-10 09:19:25",
+      "news_count": 25,
+      "overview": "1. 🚀 Mistral AI发布Devstral 2与Vibe CLI\n2. 🚀 智谱发布GLM-ASR-Nano-2512语音识别模型\n3. 🚀 智谱开源AutoGLM手机智能助理框架\n4. 📈 Linux基金会成立Agentic AI基金会\n5. 🚀 Gemini CLI候补名单本周五关闭\n6. 🔧 Google Stitch推出Predictive Heatmaps功能\n7. 🚀 Augment Code发布Context Engine SDK\n8. 🔧 Qwen Code发布新版本更新说明\n9. 🚀 DiffSynth-Studio发布Qwen-Image-i2L模型\n10. 🚀 Cognitive-Lab发布NetraEmbed多模态嵌入模型\n11. 🚀 NousResearch开源Nomos-1数学求解模型\n12. 🚀 One-to-All Animation发布角色动画模型\n13. 🚀 inclusionAI发布TwinFlow生成框架\n14. 🚀 stepfun-ai开源PaCoRe推理框架\n15. 🔧 Cerebras发布DeepSeek-V3.2压缩模型\n16. 🔧 Qwen团队介绍SAPO强化学习方法\n17. 📈 OpenAI发布首批认证课程\n18. 🔧 Google测试Veo 3.1模板功能\n19. 📈 OpenAI新图像模型疑似现身\n20. 📈 Meta Avocado模型延期至2026年\n21. 📈 阿里成立千问C端事业群\n22. 📈 印度拟推AI训练版权新规\n23. 📈 美国战争部推出GenAi.mil军事AI平台\n24. 📈 欧盟调查Google涉嫌反竞争行为\n25. 📈 fal完成1.4亿美元D轮融资",
+      "is_voice_generated": true
+    },
+    {
       "title": "疯了！美国突然卖H200给中国，GPU价要雪崩？！国产大模型连夜狂飙；智谱甩出多模态核弹，免费Flash版直接薅！【AI早报 12月9日】",
       "publish_date": "2025-12-09",
       "bv_id": "BV1kf22BHEiP",
@@ -170,19 +179,10 @@
       "news_count": 25,
       "overview": "1. 🚀 Google发布Gemini 3 Pro图像模型\n2. 🔧 OpenAI ChatGPT群聊功能全球上线\n3. 🔧 OpenAI更新Mac版ChatGPT Atlas浏览器\n4. 🚀 Perplexity发布Comet浏览器Android版\n5. 📈 OpenAI发布GPT-5科研加速实验报告\n6. 🚀 腾讯混元发布HunyuanVideo 1.5\n7. 🔧 NotebookLM推出Slide Decks与Infographics\n8. 🔧 Gemini CLI逐步开放Gemini 3 Pro访问\n9. 🔧 Jules推出Repoless无仓库功能\n10. 🔧 Google Stitch Flow功能升级\n11. 🔧 Google推出Gemini图像AI验证功能\n12. 🔧 MiniMax开放M2识图搜索MCP内测\n13. 🔧 Manus为Slides添加speaker notes功能\n14. 🚀 Jes SPA AI发布AI Sheets 2.0\n15. 🔧 Glep.com升级至0.2版本\n16. 🔧 Rock Imagine视频生成功能升级\n17. 🔧 Gemini登陆Android Auto\n18. 🔧 Docker Model Runner集成VLLM引擎\n19. 🚀 艾伦研究所发布OLMo 3系列模型\n20. 🚀 Mividia发布DocParse V1.1模型\n21. 🚀 Lowga Chat 702B模型发布\n22. 🔧 TI.ai发布CR同步强化学习系统\n23. 📈 Anthropic将发布Cloud 4.5与桌面应用\n24. 📈 杨立昆离职创办先进AI初创公司\n25. 📈 Suno完成2.5亿美元C轮融资",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI发布 GPT-5.1-Codex-Max、上线GPT-5.1 Pro；xAI发布 Grok 4.1 Fast【AI 早报 2025-11-20】",
-      "publish_date": "2025-11-20",
-      "bv_id": "BV1PSCZB7EST",
-      "organize_time": "2025-11-24 09:07:26",
-      "news_count": 21,
-      "overview": "1. 🚀 OpenAI发布GPT-5.1-Codex-Max编码模型\n2. 🚀 OpenAI上线GPT-5.1 Pro模型\n3. 🚀 xAI发布Grok 4.1 Fast模型及Agent Tools API\n4. 🚀 Meta发布SAM 3及3D重建模型SAM 3D\n5. 🚀 微软Copilot发布Agent控制平台Agent 365\n6. 🔧 Anthropic延长Claude Code网页版免费额度\n7. 🚀 Gemini 3上线移动端及Jules功能\n8. 🔧 Google Gemini网页版开放Photos导入\n9. 🔧 Stitch推出一键导出AI Studio功能\n10. 🚀 OpenAI发布ChatGPT for Teachers\n11. 🔧 Perplexity Pro/Max新增文档构建功能\n12. 🚀 Deep Cogito发布Cogito v2.1 671B模型\n13. 🚀 ZeroEntropy发布zerank-2重排序模型\n14. 🔧 Inclusion AI发布Awex RL权重同步框架\n15. 🚀 RadixArk发布Miles RL框架\n16. 📈 OpenAI发布企业AI评估框架指南\n17. 🔧 DeepSeek开源LPLB MoE负载均衡器\n18. 🔧 研究提出VARC框架解决ARC视觉推理\n19. 📈 火山引擎升级大模型协作奖励计划\n20. 📈 Google DeepMind在新加坡设AI实验室\n21. 📈 xAI与沙特合作建设GPU数据中心",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 5,
-  "total_count": 96,
-  "generated_time": "2026-01-18 08:45:32"
+  "total_count": 97,
+  "generated_time": "2026-01-19 08:45:56"
 }
