@@ -116,13 +116,46 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 97 条早报</span>
+                        <span id="total-count">共 98 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-20.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">智谱发布 GLM-4.7-Flash；华为云上线 CodeArts Doer 代码智能体公测版【AI 早报 2026-01-20】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-20</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1qRkVB3Etd</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 智谱AI发布GLM-4.7-Flash轻量级MoE模型
+2. 🚀 华为云上线CodeArts Doer代码智能体公测版
+3. 🚀 阶跃星辰发布阶跃AI桌面助手Windows版
+4. 🚀 扣子推出2.0版本并上线企业版
+5. 🚀 ManusAI上线App Publishing功能
+6. 🚀 ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    11 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-20 09:01:26
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-19.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI发文宣布2025年收入超200亿美元；谷歌称暂无在 Gemini 应用投放广告的计划【AI 早报 2026-01-19】</h3>
@@ -536,39 +569,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-06.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">英伟达发布Rubin架构及系列开源AI模型；腾讯元宝回应AI助手辱骂用户事件【AI 早报 2026-01-06】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-06</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1LgifB7E5t</span>
-                        <i class="fas fa-microphone voice-badge"></i>
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 英伟达发布Rubin架构及四大开源AI模型
-2. 🔧 TII发布Falcon H1R 7B混合架构推理模型
-3. 🚀 华为开源openPangu-VL-7B多模态模型
-4. 🚀 亚马逊发布Alexa+网页版并重构移动端应用
-5. 📈 波士顿动力与谷歌DeepMind达成AI战略合作
-6. ...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    15 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-06 09:20:50
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -615,7 +615,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 97;
+        let totalCount = 98;
         let isLoading = false;
 
         // 工具函数
