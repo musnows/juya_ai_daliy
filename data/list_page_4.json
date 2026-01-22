@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Qwen Coder 网页版上线【AI 早报 2025-11-23】",
+      "publish_date": "2025-11-23",
+      "bv_id": "BV14CUwBrEoF",
+      "organize_time": "2025-11-24 09:04:49",
+      "news_count": 10,
+      "overview": "1. 🚀 Qwen Coder网页版上线\n2. 🚀 Qwen新图像编辑模型将发布\n3. 🔧 OpenAI重置Codex用户速率限制\n4. 🚀 Meta发布WorldGen文本生成3D世界系统\n5. 🚀 MiroMind发布MiroThinker v1.0开源研究Agent\n6. 🔧 Anthropic研究揭示奖励骇客致AI失准\n7. 🔧 OpenAI与Anthropic联合提案MCP交互界面扩展\n8. 📈 谷歌搜索AI模式测试广告功能\n9. 🚀 Cerebras推理服务上线Microsoft Marketplace\n10. 📈 OpenAI与富士康合作开发AI基础设施",
+      "is_voice_generated": false
+    },
+    {
       "title": "腾讯开源HunyuanVideo-1.5视频模型；小米发布跨具身基础模型MiMo-Embodied【AI 早报 2025-11-22】",
       "publish_date": "2025-11-22",
       "bv_id": "BV1a3UHBNENX",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🔧 Gemini CLI新增实验性Todo功能\n2. 🚀 百度网盘发布MCP服务器\n3. 🚀 通义千问发布Qwen3-Max-Thinking预览版\n4. 🔧 GitHub上线AI工具预算追踪功能\n5. 🔧 Gemini Docs MCP Server发布\n6. 📈 AWS与OpenAI达成多年战略合作\n7. 📈 Lambda与微软签署数十亿美元AI协议\n8. 📈 AI需求推动内存价格大幅上涨",
       "is_voice_generated": false
-    },
-    {
-      "title": "Qwen3-Max-Thinking上线【AI 早报 2025-11-03】",
-      "publish_date": "2025-11-03",
-      "bv_id": "BV1kU1wB4EZC",
-      "organize_time": "2025-11-22 20:38:52",
-      "news_count": 6,
-      "overview": "1. 🚀 Qwen-3 Max上线thinking功能\n2. 🚀 MiniMax预告M2.1模型并推进开源\n3. 🔧 谷歌实验性AI模式登陆欧洲部分国家\n4. 📈 Codex因计费错误超额收费并退款\n5. 🔧 Google AI Studio新增Markdown导出功能\n6. 📈 苹果拟用定制Gemini模型驱动Siri",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 5,
-  "total_count": 99,
-  "generated_time": "2026-01-21 09:17:05"
+  "total_count": 100,
+  "generated_time": "2026-01-22 09:17:42"
 }
