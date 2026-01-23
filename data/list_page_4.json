@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google 发布 Nano Banana Pro 开发者指南【AI 早报 2025-11-24】",
+      "publish_date": "2025-11-24",
+      "bv_id": "BV1zeUgBSEt7",
+      "organize_time": "2025-11-24 09:18:57",
+      "news_count": 4,
+      "overview": "1. 🔧 Google发布Nano Banana Pro开发者指南\n2. 🚀 Sentry推出AI代码审查功能\n3. 📈 Anthropic或即将发布Claude Opus 4.5\n4. 🔧 xAI开发Grok Code Remote功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "Qwen Coder 网页版上线【AI 早报 2025-11-23】",
       "publish_date": "2025-11-23",
       "bv_id": "BV14CUwBrEoF",
@@ -170,19 +179,10 @@
       "news_count": 20,
       "overview": "1. 📈 TRAE停止提供Claude模型\n2. 🚀 Sora 2安卓版多地上线\n3. 📈 OpenAI将发布系列新模型\n4. 🚀 Claude推出Code限时促销\n5. 🔧 Cognition发布Windsurf Codemaps\n6. 🔧 Google AI Studio新增URL预填充\n7. 🚀 Ai2发布OlmoEarth平台\n8. 🔧 腾讯文档与ima功能打通\n9. 🚀 昆仑万维SkyReels正式上线\n10. 🔧 微信支付接入腾讯元宝\n11. 🔧 OpenAI发布印度文化理解基准IndQA\n12. 🔧 llama.cpp发布新WebUI\n13. 🔧 Anthropic发布MCP代码执行新方案\n14. 📈 Anthropic承诺保留已弃用模型\n15. 📈 Anthropic与冰岛启动AI教育试点\n16. 🔧 谷歌DeepMind发布IMO-Bench数学基准\n17. 🔧 大模型Cache-to-Cache通信框架提出\n18. 📈 谷歌公布太空AI计算项目Suncatcher\n19. 📈 Starcloud计划将数据中心送入太空\n20. 📈 苹果Apple Intelligence入华或推迟至iOS 26.4",
       "is_voice_generated": false
-    },
-    {
-      "title": "Gemini CLI引入实验性Todo功能【AI 早报 2025-11-04】",
-      "publish_date": "2025-11-04",
-      "bv_id": "BV1zN1rBFEyV",
-      "organize_time": "2025-11-22 20:38:39",
-      "news_count": 8,
-      "overview": "1. 🔧 Gemini CLI新增实验性Todo功能\n2. 🚀 百度网盘发布MCP服务器\n3. 🚀 通义千问发布Qwen3-Max-Thinking预览版\n4. 🔧 GitHub上线AI工具预算追踪功能\n5. 🔧 Gemini Docs MCP Server发布\n6. 📈 AWS与OpenAI达成多年战略合作\n7. 📈 Lambda与微软签署数十亿美元AI协议\n8. 📈 AI需求推动内存价格大幅上涨",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
-  "total_pages": 5,
-  "total_count": 100,
-  "generated_time": "2026-01-22 09:17:42"
+  "total_pages": 6,
+  "total_count": 101,
+  "generated_time": "2026-01-23 09:18:16"
 }
