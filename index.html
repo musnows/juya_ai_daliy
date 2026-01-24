@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 101 条早报</span>
+                        <span id="total-count">共 102 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-24.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Anthropic 发布 Claude in Excel 预览版【AI 早报 2026-01-24】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-01-24</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1B5z6BkEB8</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Anthropic 发布 Claude in Excel 预览版
+2. 🚀 Claude Cowork 向 Team 和 Enterprise 用户开放
+3. 🔧 Claude Code 整合命令并升级任务系统
+4. 🚀 JetBrains IDE 将推出 ACP Agent Regist...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    13 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-01-24 09:19:05
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-23.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Qwen团队开源Qwen3-TTS多语言语音合成模型【AI 早报 1月23日】</h3>
@@ -541,37 +572,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-10.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google Antigravity 限制 Google AI Pro 用量；Anthropic 限制竞争对手使用Claude【AI早报 2026-01-10】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-10</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV13QrgBXEds</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 📈 Google Antigravity 为 Google AI Pro 用户设立每周用量上限
-2. 📈 Anthropic 限制竞争对手使用 Claude 并禁止 XAI 员工访问
-3. 🔧 Anthropic 发布 Claude Code CLI 2.1.2 与 2.1.3 版本更新
-4....
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    19 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-10 09:09:42
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -618,7 +618,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 101;
+        let totalCount = 102;
         let isLoading = false;
 
         // 工具函数
