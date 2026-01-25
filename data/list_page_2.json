@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱或将发布 GLM-Image 图像生成模型；MiroMind 开源 MiroThinker-v1.5【AI 早报 2026-01-05】",
+      "publish_date": "2026-01-05",
+      "bv_id": "BV1H9iWBcEDX",
+      "organize_time": "2026-01-05 09:00:49",
+      "news_count": 4,
+      "overview": "1. 🚀 智谱AI即将发布GLM-Image图像生成模型并适配Hugging Face\n2. 🚀 MiroMind开源MiroThinker-v1.5系列Agent模型\n3. 🚀 YuanLab.ai开源Yuan3.0 Flash多模态大模型\n4. 🚀 中国电信开源TeleChat3系列千亿级语义大模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "元象开源 XVERSE-Ent 泛娱乐大模型；IQuestLab 修正 IQuest-Coder-V1 模型基准测试得分【AI 早报 2026-01-04】",
       "publish_date": "2026-01-04",
       "bv_id": "BV1NoizB5EGR",
@@ -170,19 +179,10 @@
       "news_count": 18,
       "overview": "1. 🚀 小米开源309B MoE模型MiMo-V2-Flash\n2. 🚀 OpenAI发布GPT Image 1.5图像模型\n3. 🚀 字节跳动发布Seedance 1.5 Pro音视频模型\n4. 🚀 阿里发布万相2.6视频生成模型\n5. 🚀 美团开源LongCat-Video-Avatar角色动画模型\n6. 🚀 NVIDIA发布Nemotron-Cascade推理模型\n7. 🚀 Ai2发布Molmo 2多模态模型\n8. 🚀 BFL发布FLUX.2 [max]图像生成模型\n9. 🚀 Meta发布SAM Audio音频分离模型\n10. 🔧 Claude Code发布多项功能更新\n11. 🚀 Google推出AI Agent CC邮箱助手\n12. 🔧 OpenAI推出Frontier Science基准\n13. 🚀 Video AI启动全球公测\n14. 🔧 AJS框架在OS World测试中超越人类\n15. 🔧 Cua发布跨NCH综合评估框架\n16. 📈 贝塔斯曼融资40亿美元估值1340亿\n17. 📈 No神以110亿美元估值进行融资\n18. 📈 NVIDIA收购Slurm开发商MD",
       "is_voice_generated": false
-    },
-    {
-      "title": "重磅！Gemini、Gemma、MiniMax 新模型将发！Google、阿里、OpenAI、NVIDIA大动作！【AI早报 2025-12-16】",
-      "publish_date": "2025-12-16",
-      "bv_id": "BV1CKqtBkELD",
-      "organize_time": "2025-12-16 09:10:27",
-      "news_count": 20,
-      "overview": "1. 🚀 阿里通义开源两款语音模型\n2. 🚀 OpenAI发布三款音频模型\n3. 🚀 AI2发布Bolmo字节级语言模型\n4. 🚀 NVIDIA推出Nemotron 3开源系列\n5. 🔧 KwaiKAT升级代码模型\n6. 🔧 LongCat启动Flash-Chat灰度更新\n7. 🚀 ResembleAI开源语音克隆模型\n8. 🔧 Google增强Gemini视觉报告功能\n9. 📰 Google Gemini Agent支持租车\n10. 📰 ChatGPT移动端支持分支对话\n11. 📰 Claude上线礼品卡服务\n12. 🚀 Manus发布1.6版本及移动开发功能\n13. 📰 蚂蚁集团AI应用升级为“阿福”\n14. 🚀 商汤发布Seko 2.0智能体\n15. 🚀 阿里云WAN 2.6即将发布\n16. 🔧 llama.cpp实现GPU内存自动化\n17. 🚀 IBM发布开源Agent CUGA\n18. 🚀 zai-org开源角色动画框架\n19. 🔧 RealGen提升图像生成真实感\n20. 🚀 苹果发布Sharp视图合成模型",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 6,
-  "total_count": 102,
-  "generated_time": "2026-01-24 09:19:06"
+  "total_count": 103,
+  "generated_time": "2026-01-25 08:49:30"
 }

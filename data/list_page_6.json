@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Gemini 3.0 Pro 现身！Veo 3.1震撼发布！Claude Haiku 4.5发布！【AI 早报 2025-10-16】",
+      "publish_date": "2025-10-16",
+      "bv_id": "BV13qWezbEmG",
+      "organize_time": "2025-11-23 15:29:48",
+      "news_count": 14,
+      "overview": "1. 🚀 Google升级Veo 3.1并上线Flow\n2. 🚀 Anthropic发布Claude Haiku 4.5\n3. 🔧 Gemini 3.0 Pro现身官网与AIStudio\n4. 🔧 Gemini CLI v0.9.0新增交互式Shell\n5. 🚀 Amp推出全新免费模式Amp Free\n6. 📈 Sam Altman回应情色内容争议\n7. 🚀 Qoder发布CLI版Agentic编程工具\n8. 🔧 Google与Yale发布Gemma癌症模型\n9. 🔧 Qwen Chat正式上线记忆功能\n10. 🔧 NotebookLM上线LaTeX渲染支持\n11. 📈 日本警告OpenAI勿用Sora2侵权\n12. 🚀 苹果发布M5芯片\n13. 📈 OpenAI扩大ChatGPT Go覆盖至89国\n14. 📈 Meta El Paso AI数据中心动工",
+      "is_voice_generated": false
+    },
+    {
       "title": "ChatGPT R18版？OpenAI急了，将开放成人色情内容！【AI 早报 2025-10-15】",
       "publish_date": "2025-10-15",
       "bv_id": "BV1m24azsE8x",
@@ -21,6 +30,6 @@
   ],
   "page": 6,
   "total_pages": 6,
-  "total_count": 102,
-  "generated_time": "2026-01-24 09:19:06"
+  "total_count": 103,
+  "generated_time": "2026-01-25 08:49:30"
 }
