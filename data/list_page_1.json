@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "月之暗面发布并开源 Kimi K2.5【AI 早报 2026-01-28】",
+      "publish_date": "2026-01-28",
+      "bv_id": "BV1rQ65BLEe2",
+      "organize_time": "2026-01-28 09:39:20",
+      "news_count": 15,
+      "overview": "1. 🚀 月之暗面发布并开源 Kimi K2.5 模型\n2. 🚀 通义实验室发布图像生成模型 Z-Image 标准版\n3. 🚀 OpenAI推出免费AI科研协作平台Prism\n4. 🔧 Google调整AI订阅用户权益体系\n5. 🚀 DeepSeek开源DeepSeek-OCR 2模型\n6. 🚀 腾讯优图发布4B参数视觉语言模型\n7. 🚀 Jan团队发布Jan-v3-4B-base-instruct模型\n8. 🚀 Arcee AI发布Trinity Large稀疏MoE模型\n9. 🚀 艾伦AI发布开源编码模型SERA系列\n10. 🔧 Google AI Overviews升级支持对话交互\n11. 🔧 Gemini新增模型切换键盘快捷指令\n12. 🔧 Gemini 3 Flash引入Agentic Vision能力\n13. 🔧 GitHub仓库新增Agents管理标签页\n14. 🚀 Kilo Code发布AI代码审查工具\n15. 📈 Kiro调整免费用户Opus 4.5访问权限",
+      "is_voice_generated": false
+    },
+    {
       "title": "MiniMax上线角色扮演模型M2-her API【AI 早报 2026-01-25】",
       "publish_date": "2026-01-25",
       "bv_id": "BV1wrzmBMEhS",
@@ -170,19 +179,10 @@
       "news_count": 21,
       "overview": "1. 🚀 蚂蚁集团与浙江卫健联合开源千亿参数医疗大模型AntAngelMed\n2. 🚀 Lightricks开源LTX-2音视频联合生成模型，支持4K 50帧原生视频生成\n3. 📈 xAI完成200亿美元E轮融资，资金用于扩建超算与训练Grok-5\n4. 🚀 Nous Research发布NousCoder-14B编程模型，强化学习优化竞赛级表现\n5. 🚀 Liquid AI发布LFM2.5端侧模型系列，覆盖语言、视觉与语音多模态\n6. 🔧 Anthropic发布Claude Code桌面端预览版，支持本地开发工具调用\n7. 🔧 Google AI Studio升级仪表盘，新增工具调用UI组件\n8. 🚀 Obsidian CEO开源Claude Skills插件，增强对Markdown与JSON文件编辑能力\n9. 🔧 Cursor推出动态上下文发现功能，降低47% token消耗\n10. 🔧 Z Lab发布DFlash推测解码框架，千问3模型实现6倍无损加速\n11. 🔧 vLLM发布Semantic Router v0.1 Iris版本，支持模型自动选择与幻觉检测\n12. 📈 Goldfish图像模型亮相Image Arena，展现强指令理解与绘图能力\n13. 📈 OpenAI澄清GPT-5.2-Codex-Max传闻，称相关标识为文字错误\n14. 📈 Artificial Analysis发布Intelligence Index 4.0，强化Agent与科学推理评估\n15. 📈 AI评估平台LM Arena完成1.5亿美元融资，估值达17亿美元\n16. 🚀 英伟达推出Blackwell架构桌面级AI超算，支持本地运行万亿参数模型\n17. 🚀 AMD发布MI455X旗舰加速卡，配备432GB显存并与OpenAI达成供货协议\n18. 🚀 英特尔发布Panther Lake处理器，18A工艺实现180TOPS AI算力\n19. 🚀 高通发布3nm PC处理器，NPU算力提升至80TOPS\n20. 📈 OpenAI研发副总裁Jerry Talbert宣布离职，Lex Fridman创始人将加入\n21. 📈 吴文达等专家呼吁建立全新AGI测试标准，推动AI向主动执行演进",
       "is_voice_generated": false
-    },
-    {
-      "title": "英伟达发布Rubin架构及系列开源AI模型；腾讯元宝回应AI助手辱骂用户事件【AI 早报 2026-01-06】",
-      "publish_date": "2026-01-06",
-      "bv_id": "BV1LgifB7E5t",
-      "organize_time": "2026-01-06 09:20:50",
-      "news_count": 15,
-      "overview": "1. 🚀 英伟达发布Rubin架构及四大开源AI模型\n2. 🔧 TII发布Falcon H1R 7B混合架构推理模型\n3. 🚀 华为开源openPangu-VL-7B多模态模型\n4. 🚀 亚马逊发布Alexa+网页版并重构移动端应用\n5. 📈 波士顿动力与谷歌DeepMind达成AI战略合作\n6. 🚀 谷歌发布Google TV版Gemini新功能\n7. 📈 谷歌DeepMind暗示将恢复产品发布节奏\n8. 🔧 OpenAI调整Codex CLI周限额机制\n9. 📈 Trae与Supabase达成深度集成合作\n10. 🚀 腾讯ima.copilot上线PPT生成功能\n11. 🔧 字节跳动发布SeedFold生物分子结构预测模型\n12. 📈 字节跳动回应豆包AI眼镜出货传闻不实\n13. 🔧 字节跳动豆包1.8大模型恢复公开API调用\n14. 📈 腾讯元宝回应AI助手辱骂用户事件\n15. 📈 微信启动2026年度AI小程序成长计划",
-      "is_voice_generated": true
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 103,
-  "generated_time": "2026-01-26 09:23:04"
+  "total_count": 104,
+  "generated_time": "2026-01-28 09:39:22"
 }
