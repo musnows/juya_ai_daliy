@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 发布 ChatGPT Health【AI 早报 2026-01-08】",
+      "publish_date": "2026-01-08",
+      "bv_id": "BV1uUiDBJEha",
+      "organize_time": "2026-01-08 09:07:43",
+      "news_count": 12,
+      "overview": "1. 🚀 OpenAI 发布 ChatGPT Health 独立隐私健康空间\n2. 🔧 Gemini CLI 更新预览版支持 Agent Skills 功能\n3. 🚀 OpenBMB 发布 ChatDev 2.0 多智能体协作平台\n4. 🚀 Liquid AI 与 AMD 合作推出本地会议摘要模型 LFM-2\n5. 🔧 Andrej Karpathy 发布 nanochat 预训练研究成果\n6. 🚀 字节跳动提出 NextFlow 多模态统一生成模型\n7. 📈 中国要求科技公司减少采购英伟达 H200 芯片\n8. 📈 中国审查 Meta 收购 AI 初创公司 Manus 交易\n9. 📈 Anthropic 计划启动百亿美元新一轮融资\n10. 🚀 雷蛇发布 Forge AI 开发者工作站及开源 AIKit 平台\n11. 🚀 联想发布 AI 超级智能体天禧并宣布多项合作\n12. 📈 Ai2 报告揭示开源模型发展现状与中国模型全球渗透",
+      "is_voice_generated": false
+    },
+    {
       "title": "蚂蚁集团开源 AntAngelMed 医疗模型；Lightricks 开源 LTX-2 视频模型；xAI 完成 200 亿美元 E 轮融资【AI 早报 2026",
       "publish_date": "2026-01-07",
       "bv_id": "BV18dqKBfEcX",
@@ -170,19 +179,10 @@
       "news_count": 20,
       "overview": "1. 🚀 Qwen开源图像分层编辑模型\n2. 🔧 Codex CLI支持Skills功能\n3. 🚀 Gemini CLI向免费用户开放Gemini 3\n4. 🔧 Gemini App集成NotebookLM功能\n5. 🚀 Google发布Gemma Scope 2可解释性工具\n6. 🚀 Google推出A2UI智能体驱动UI协议\n7. 🚀 NVIDIA发布NitroGen游戏智能体模型\n8. 🚀 Meta开源Text Seal水印检测工具\n9. 🚀 Will McGugan发布终端AI工具Toad\n10. 🔧 AI推理新基准FrontierCS发布\n11. 🚀 Transluce AI发布模型行为解码器\n12. 🚀 MiniMax开放M2.1模型体验申请\n13. 🔧 智谱GLM-4.7模型即将发布\n14. 📈 智谱AI通过港交所聆讯\n15. 🚀 全光学芯片莱震发布\n16. 🔧 字节发布C Prover 1.5技术报告\n17. 📈 Meta开发Mango与Avocado新模型\n18. 📈 Koder收购代码审查平台Graph\n19. 📈 Andrej Karpathy年度回顾发布\n20. 📈 Google成立算力分配委员会",
       "is_voice_generated": false
-    },
-    {
-      "title": "编程的神？OpenAI 发布 GPT-5.2-Codex；字节跳动发布豆包大模型1.8【AI 早报 2025-12-19】",
-      "publish_date": "2025-12-19",
-      "bv_id": "BV1NgqRBRE8e",
-      "organize_time": "2025-12-19 09:14:08",
-      "news_count": 28,
-      "overview": "1. 🚀 OpenAI发布GPT-5.2-Codex编码模型\n2. 🚀 字节跳动发布豆包大模型1.8版本\n3. 🚀 Mistral AI发布Mistral OCR 3文档理解模型\n4. 🔧 Claude向付费用户开放Chrome浏览器扩展\n5. 🔧 Anthropic发布Claude Code 2.0.72版本更新\n6. 📈 Anthropic发布Agent Skills开放标准\n7. 🔧 Google发布Gemini CLI扩展Conductor\n8. 🔧 Google NotebookLM新增Data Tables功能\n9. 🔧 Google Gemini应用新增AI视频验证功能\n10. 🔧 OpenAI推出ChatGPT聊天置顶功能\n11. 📈 OpenAI宣布Sora在拉美十国上线\n12. 🔧 OpenAI Atlas浏览器发布重要更新\n13. 🔧 JetBrains上线BYOK（自带密钥）功能\n14. 🔧 SGLang上线Ollama兼容API\n15. 🚀 Google发布T5Gemma 2系列模型\n16. 🚀 Google发布Jama 270M开源函数调用模型\n17. 🔧 MiniMax视频团队开源VTP视觉生成框架\n18. 🚀 Meta发布统一3D重建模型NerfBlend V1\n19. 🔧 Meta开源PerceptionDer Audio-VI多模态编码器\n20. 🚀 Meta发布PC系列自监督视觉基础模型\n21. 🔧 Mylab实现万亿参数混合专家模型强化学习系统\n22. 📈 Google DeepMind与OpenAI参与美国能源部科学计划\n23. 📈 Anthropic发布用户心理安全保护措施\n24. 🔧 OpenAI发布思维链可监控性评估研究成果\n25. 📈 OpenAI更新Model Policy新增UNDER18PS青少年保护条款\n26. 📈 OpenAI推出面向新闻机构的AI学习平台\n27. 📈 中科曙光展出SKYX万卡超集群智能计算系统\n28. 📈 苏黎世联邦理工学院与AI合作证明数学定理",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 6,
-  "total_count": 105,
-  "generated_time": "2026-01-29 09:09:59"
+  "total_count": 106,
+  "generated_time": "2026-01-30 09:25:34"
 }

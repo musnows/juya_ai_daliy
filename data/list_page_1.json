@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "谷歌DeepMind发布实验性AI世界模型Project Genie ；通义千问开源Qwen3-ASR模型【AI 早报 2026-01-30】",
+      "publish_date": "2026-01-30",
+      "bv_id": "BV1jq6eB4EWM",
+      "organize_time": "2026-01-30 09:25:32",
+      "news_count": 12,
+      "overview": "1. 🚀 谷歌DeepMind发布实验性AI世界模型Project Genie\n2. 🚀 通义千问开源Qwen3-ASR语音识别模型\n3. 📈 OpenAI取消API验证并澄清用户发现所有权政策\n4. 🔧 Google DeepMind发布基因组预测模型AlphaGenome\n5. 🚀 Skywork AI开源SkyReels-V3多模态视频生成模型\n6. 🚀 OpenMOSS开源MOVA同步音视频生成模型\n7. 🔧 飞桨发布PaddleOCR-VL-1.5视觉语言OCR模型\n8. 🚀 MiniMax发布Music 2.5音乐生成模型\n9. 🚀 xAI正式发布Grok Imagine API图像生成接口\n10. 🔧 Cursor发布AI代码溯源标准Agent Trace\n11. 🔧 Gemini API上线Gemini 3系列模型与Computer Use工具\n12. 🚀 Gradio团队发布Daggr助力AI工作流开发",
+      "is_voice_generated": false
+    },
+    {
       "title": "腾讯开源HunyuanImage 3.0图像编辑模型【AI 早报 2026-01-29】",
       "publish_date": "2026-01-29",
       "bv_id": "BV19vzdB5EuS",
@@ -170,19 +179,10 @@
       "news_count": 18,
       "overview": "1. 🚀 阿里开源Qwen3-VL多模态嵌入与重排序模型\n2. 🚀 阿里发布ROME-V0.1智能体模型\n3. 🚀 AI21 Labs发布Jamba2系列语言模型\n4. 🚀 MOSI推出MOSS-Transcribe-Diarize语音转录模型\n5. 🚀 NVIDIA开源Music Flamingo音乐理解模型\n6. 🚀 OpenAI面向医疗机构发布AI解决方案套件\n7. 🔧 Google为Gmail推出Gemini AI新功能\n8. 🔧 Anthropic发布Claude Code 2.1.1版本更新\n9. 🚀 Microsoft推出Copilot Checkout在线购物支付功能\n10. 🔧 Visual Studio Code发布1.108版本更新\n11. 📈 TRAE中国版SOLO实现全量免费开放\n12. 🚀 字节跳动发布DreamStyle视频风格化框架\n13. 🚀 Kling Team开源UniVideo视频统一模型\n14. 🚀 Cerebras上线GLM-4.7模型\n15. 📈 智谱唐杰透露GLM-5即将发布\n16. 🚀 阿里云发布多模态交互开发套件\n17. 🚀 xAI即将推出Grok Build编程Agent\n18. 📈 xAI在密西西比州投资超200亿美元建设数据中心",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI 发布 ChatGPT Health【AI 早报 2026-01-08】",
-      "publish_date": "2026-01-08",
-      "bv_id": "BV1uUiDBJEha",
-      "organize_time": "2026-01-08 09:07:43",
-      "news_count": 12,
-      "overview": "1. 🚀 OpenAI 发布 ChatGPT Health 独立隐私健康空间\n2. 🔧 Gemini CLI 更新预览版支持 Agent Skills 功能\n3. 🚀 OpenBMB 发布 ChatDev 2.0 多智能体协作平台\n4. 🚀 Liquid AI 与 AMD 合作推出本地会议摘要模型 LFM-2\n5. 🔧 Andrej Karpathy 发布 nanochat 预训练研究成果\n6. 🚀 字节跳动提出 NextFlow 多模态统一生成模型\n7. 📈 中国要求科技公司减少采购英伟达 H200 芯片\n8. 📈 中国审查 Meta 收购 AI 初创公司 Manus 交易\n9. 📈 Anthropic 计划启动百亿美元新一轮融资\n10. 🚀 雷蛇发布 Forge AI 开发者工作站及开源 AIKit 平台\n11. 🚀 联想发布 AI 超级智能体天禧并宣布多项合作\n12. 📈 Ai2 报告揭示开源模型发展现状与中国模型全球渗透",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 105,
-  "generated_time": "2026-01-29 09:09:59"
+  "total_count": 106,
+  "generated_time": "2026-01-30 09:25:34"
 }
