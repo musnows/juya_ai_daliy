@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "谷歌王朝：Gemini 3现身LMArena，网友：无敌了！【AI 早报 2025-10-20】",
+      "publish_date": "2025-10-20",
+      "bv_id": "BV1eosuzaEvH",
+      "organize_time": "2025-11-23 15:28:26",
+      "news_count": 4,
+      "overview": "1. 🚀 Google新模型现身LMArena或命名Gemini 3\n2. 🔧 Google AI Studio更新API密钥管理界面\n3. 🔧 谷歌为NotebookLM开发Slides生成功能\n4. 📈 Meta将禁用WhatsApp第三方通用聊天机器人",
+      "is_voice_generated": false
+    },
+    {
       "title": "在为Gemini3做准备？AI Studio 和 Gemini 应用同时发布重大更新！【AI 早报 2025-10-19】",
       "publish_date": "2025-10-19",
       "bv_id": "BV1dRWZzPEFc",
@@ -57,6 +66,6 @@
   ],
   "page": 6,
   "total_pages": 6,
-  "total_count": 106,
-  "generated_time": "2026-01-31 09:29:05"
+  "total_count": 107,
+  "generated_time": "2026-02-01 09:14:30"
 }

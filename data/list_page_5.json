@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "xAI API上线MCP支持；TRAE SOLO 即将正式发布【AI 早报 2025-11-10】",
+      "publish_date": "2025-11-10",
+      "bv_id": "BV1EUkRB4Ecj",
+      "organize_time": "2025-11-22 20:36:21",
+      "news_count": 5,
+      "overview": "1. 🔧 xAI API上线MCP与远程工具支持\n2. 🚀 TRAE国际版将发布TRAE SOLO\n3. 📈 Google Nano-Banana 2现身第三方平台\n4. 🔧 MoonshotAI开源kosong框架\n5. 🔧 Firefox浏览器默认启用LLM功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google发布Gemini多光谱数据分析方法【AI 早报 2025-11-09】",
       "publish_date": "2025-11-09",
       "bv_id": "BV1jE1oBiEN5",
@@ -170,19 +179,10 @@
       "news_count": 2,
       "overview": "1. 🚀 明基发布编程显示器RD280U\n2. 🔧 GLM4.6现卡顿降智问题",
       "is_voice_generated": false
-    },
-    {
-      "title": "谷歌王朝：Gemini 3现身LMArena，网友：无敌了！【AI 早报 2025-10-20】",
-      "publish_date": "2025-10-20",
-      "bv_id": "BV1eosuzaEvH",
-      "organize_time": "2025-11-23 15:28:26",
-      "news_count": 4,
-      "overview": "1. 🚀 Google新模型现身LMArena或命名Gemini 3\n2. 🔧 Google AI Studio更新API密钥管理界面\n3. 🔧 谷歌为NotebookLM开发Slides生成功能\n4. 📈 Meta将禁用WhatsApp第三方通用聊天机器人",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
   "total_pages": 6,
-  "total_count": 106,
-  "generated_time": "2026-01-31 09:29:05"
+  "total_count": 107,
+  "generated_time": "2026-02-01 09:14:30"
 }

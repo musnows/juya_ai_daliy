@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Gemini 正测试从 ChatGPT 导入对话的功能【AI 早报 2026-02-01】",
+      "publish_date": "2026-02-01",
+      "bv_id": "BV1xf6pBkEJm",
+      "organize_time": "2026-02-01 09:14:29",
+      "news_count": 8,
+      "overview": "1. 🚀 Gemini 测试从 ChatGPT 导入对话历史功能\n2. 🔧 LM Studio 更新支持本地运行 Claude Code\n3. 🚀 V0 新增导入 GitHub 项目功能\n4. 📈 英伟达据称搁置与 OpenAI 的千亿协议\n5. 📈 苹果 AI 核心团队动荡，多人转投 Meta 与谷歌\n6. 📈 SpaceX 申请部署百万卫星轨道数据中心\n7. 🔧 nanochat 以百美元内成本训练出 GPT-2 级别模型\n8. 🚀 快手可灵 AI 预告 Kling 3.0 全能视频模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "谷歌DeepMind发布实验性AI世界模型Project Genie ；通义千问开源Qwen3-ASR模型【AI 早报 2026-01-30】",
       "publish_date": "2026-01-30",
       "bv_id": "BV1jq6eB4EWM",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 📈 Google Antigravity 为 Google AI Pro 用户设立每周用量上限\n2. 📈 Anthropic 限制竞争对手使用 Claude 并禁止 XAI 员工访问\n3. 🔧 Anthropic 发布 Claude Code CLI 2.1.2 与 2.1.3 版本更新\n4. 🔧 Anthropic 开源 Code-Simplifier Agent 插件\n5. 🚀 Amp 测试展示广告支持免费使用前沿模型\n6. 📰 GPT-5.2 Pro 参与解决埃尔德什数学问题\n7. 📰 AxiomProver 在 2025 年普特南数学竞赛获满分\n8. 📰 清华大学团队 AI 平台实现基因组级药物虚拟筛选\n9. 🚀 摩尔线程 SimuMax v1.1 升级为全栈工作流平台\n10. 🔧 Anthropic 发布 AI Agent 评估方法详解\n11. 🚀 Wan App 在 iOS 与 Android 平台正式上线\n12. 🚀 Midjourney 发布 Niji V7 动漫专用模型\n13. 🚀 ElevenLabs 推出 Scribe v2 转录模型\n14. 🔧 高德地图发布 FantasyWorld 几何一致世界模型\n15. 🔧 Anthropic 开源医疗健康专项技能公共库\n16. 📈 OpenAI 疑似开发 ChatGPT Jobs 原生功能\n17. 📈 研究发现主流大模型可提取 96% 版权书籍原文\n18. 🚀 DeepSeek 计划 2 月发布 V4 代码生成旗舰模型\n19. 📈 MiniMax 正式在香港上市，首日股价翻倍",
       "is_voice_generated": false
-    },
-    {
-      "title": "Qwen 团队开源 Qwen3-VL-Embedding 与 Qwen3-VL-Reranker 系列模型【AI 早报 2026-01-09】",
-      "publish_date": "2026-01-09",
-      "bv_id": "BV1RGrABKEPE",
-      "organize_time": "2026-01-09 09:08:41",
-      "news_count": 18,
-      "overview": "1. 🚀 阿里开源Qwen3-VL多模态嵌入与重排序模型\n2. 🚀 阿里发布ROME-V0.1智能体模型\n3. 🚀 AI21 Labs发布Jamba2系列语言模型\n4. 🚀 MOSI推出MOSS-Transcribe-Diarize语音转录模型\n5. 🚀 NVIDIA开源Music Flamingo音乐理解模型\n6. 🚀 OpenAI面向医疗机构发布AI解决方案套件\n7. 🔧 Google为Gmail推出Gemini AI新功能\n8. 🔧 Anthropic发布Claude Code 2.1.1版本更新\n9. 🚀 Microsoft推出Copilot Checkout在线购物支付功能\n10. 🔧 Visual Studio Code发布1.108版本更新\n11. 📈 TRAE中国版SOLO实现全量免费开放\n12. 🚀 字节跳动发布DreamStyle视频风格化框架\n13. 🚀 Kling Team开源UniVideo视频统一模型\n14. 🚀 Cerebras上线GLM-4.7模型\n15. 📈 智谱唐杰透露GLM-5即将发布\n16. 🚀 阿里云发布多模态交互开发套件\n17. 🚀 xAI即将推出Grok Build编程Agent\n18. 📈 xAI在密西西比州投资超200亿美元建设数据中心",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 106,
-  "generated_time": "2026-01-31 09:29:05"
+  "total_count": 107,
+  "generated_time": "2026-02-01 09:14:30"
 }

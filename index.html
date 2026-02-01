@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 106 条早报</span>
+                        <span id="total-count">共 107 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-01.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Gemini 正测试从 ChatGPT 导入对话的功能【AI 早报 2026-02-01】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-01</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1xf6pBkEJm</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Gemini 测试从 ChatGPT 导入对话历史功能
+2. 🔧 LM Studio 更新支持本地运行 Claude Code
+3. 🚀 V0 新增导入 GitHub 项目功能
+4. 📈 英伟达据称搁置与 OpenAI 的千亿协议
+5. 📈 苹果 AI 核心团队动荡，多人转投 Meta 与...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    8 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-01 09:14:29
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-01-30.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">谷歌DeepMind发布实验性AI世界模型Project Genie ；通义千问开源Qwen3-ASR模型【AI 早报 2026-01-30】</h3>
@@ -539,38 +571,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-15.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">美团开源 LongCat-Flash-Thinking-2601模型；百度发布 ERNIE-5.0-0110 模型【AI 早报 2026-01-15】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-15</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1pdroBiEMg</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 美团开源LongCat-Flash-Thinking-2601大推理模型
-2. 🚀 百度发布ERNIE-5.0-0110模型，多项能力领先
-3. 🚀 Google推出Gemini个人智能Beta版，支持跨应用推理
-4. 🚀 智谱开源GLM-Image图像生成模型，支持2048像素高清输出
-...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    31 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-15 09:44:21
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -617,7 +617,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 106;
+        let totalCount = 107;
         let isLoading = false;
 
         // 工具函数
