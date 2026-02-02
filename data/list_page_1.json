@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "阿里 Qoder 发布 Qwen-Coder-Qoder【AI 早报 2026-02-02】",
+      "publish_date": "2026-02-02",
+      "bv_id": "BV1iQ6hBJEDi",
+      "organize_time": "2026-02-02 08:44:54",
+      "news_count": 8,
+      "overview": "1. 🚀 阿里Qoder发布Qwen-Coder-Qoder代码生成模型\n2. 🚀 CircleStone推出文生图模型Anima预览版\n3. 🔧 Claude Code团队分享内部使用技巧集\n4. 📈 Moltbook数据库发生数据泄露事件\n5. 📈 北京经开区颁发全国首个AI虚拟偶像身份认证\n6. 🔧 Kimi与南大联合发布SimpleSeg图像分割模型\n7. 🔧 字节研究团队发布ConceptMoE提升AI推理能力\n8. 📈 谷歌员工暗示三周内将发布重大更新",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini 正测试从 ChatGPT 导入对话的功能【AI 早报 2026-02-01】",
       "publish_date": "2026-02-01",
       "bv_id": "BV1xf6pBkEJm",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 OpenAI授权ChatGPT订阅接入开源编程工具\n2. 🚀 OpenAI推出MCP Server一站式开发者平台\n3. 🔧 Anthropic发布新一代AI安全防护系统\n4. 🔧 xAI重构X平台算法并承诺开源\n5. 🔧 Open WebUI发布重大版本更新\n6. 📈 OpenAI吸纳Convogos创始团队加入\n7. 📈 Meta签署6.6吉瓦核能供电协议\n8. 🔧 Linus Torvalds发布开源项目AudioNoise",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google Antigravity 限制 Google AI Pro 用量；Anthropic 限制竞争对手使用Claude【AI早报 2026-01-10】",
-      "publish_date": "2026-01-10",
-      "bv_id": "BV13QrgBXEds",
-      "organize_time": "2026-01-10 09:09:42",
-      "news_count": 19,
-      "overview": "1. 📈 Google Antigravity 为 Google AI Pro 用户设立每周用量上限\n2. 📈 Anthropic 限制竞争对手使用 Claude 并禁止 XAI 员工访问\n3. 🔧 Anthropic 发布 Claude Code CLI 2.1.2 与 2.1.3 版本更新\n4. 🔧 Anthropic 开源 Code-Simplifier Agent 插件\n5. 🚀 Amp 测试展示广告支持免费使用前沿模型\n6. 📰 GPT-5.2 Pro 参与解决埃尔德什数学问题\n7. 📰 AxiomProver 在 2025 年普特南数学竞赛获满分\n8. 📰 清华大学团队 AI 平台实现基因组级药物虚拟筛选\n9. 🚀 摩尔线程 SimuMax v1.1 升级为全栈工作流平台\n10. 🔧 Anthropic 发布 AI Agent 评估方法详解\n11. 🚀 Wan App 在 iOS 与 Android 平台正式上线\n12. 🚀 Midjourney 发布 Niji V7 动漫专用模型\n13. 🚀 ElevenLabs 推出 Scribe v2 转录模型\n14. 🔧 高德地图发布 FantasyWorld 几何一致世界模型\n15. 🔧 Anthropic 开源医疗健康专项技能公共库\n16. 📈 OpenAI 疑似开发 ChatGPT Jobs 原生功能\n17. 📈 研究发现主流大模型可提取 96% 版权书籍原文\n18. 🚀 DeepSeek 计划 2 月发布 V4 代码生成旗舰模型\n19. 📈 MiniMax 正式在香港上市，首日股价翻倍",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 107,
-  "generated_time": "2026-02-01 09:14:30"
+  "total_count": 108,
+  "generated_time": "2026-02-02 08:44:55"
 }
