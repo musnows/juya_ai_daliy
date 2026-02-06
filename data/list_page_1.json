@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Anthropic 发布 Claude Opus 4.6；OpenAI 发布 GPT-5.3-Codex【AI 早报 2026-02-06】",
+      "publish_date": "2026-02-06",
+      "bv_id": "BV1cYFqzxEWR",
+      "organize_time": "2026-02-06 09:08:19",
+      "news_count": 21,
+      "overview": "1. 🚀 Anthropic 发布 Claude Opus 4.6 模型\n2. 🚀 OpenAI 发布 GPT-5.3-Codex 编程专用模型\n3. 🔧 Claude Code 推出实验性功能 Agent teams\n4. 🚀 OpenAI 推出企业 AI Agent 平台 Frontier\n5. 📈 OpenAI 启动 Trusted Access for Cyber 试点项目\n6. 🔧 GitHub 升级 Copilot 并简化模型访问\n7. 🔧 Kiro CLI 引入 Agent Client Protocol 支持\n8. 📈 讯飞星辰 MaaS 平台推出模型限免优惠\n9. 🔧 Google 推出原生自适应无障碍框架\n10. 🚀 Figma 推出位图 AI 矢量化工具 Vectorize\n11. 🚀 魔搭开源 Singularity Cinema 视频生成器\n12. 📈 生数科技完成超6亿元A+轮融资\n13. 🚀 Fundamental 完成融资并推出表格模型\n14. 📈 阿里千问大模型成为冬奥首个官方大模型\n15. 🔧 OpenAI 揭晓 Codex 核心架构细节\n16. 🔧 Cursor 发布多智能体编程研究框架\n17. 🔧 Anthropic 揭示基础设施配置影响 Agent 评估\n18. 🚀 AI2 发布 OpenScholar 攻克学术“幻觉”问题\n19. 📈 OpenAI 与 Ginkgo 合作推出 AI 实验室降低合成成本40%\n20. 🔧 ChatGPT 安卓版测试看广告加额度功能\n21. 📈 Gemini 3 Pro GA 或已在 Arena 测试",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 发布 Codex App；SpaceX 收购 xAI【AI 早报 2026-02-03】",
       "publish_date": "2026-02-03",
       "bv_id": "BV14ZFGzwENR",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 📈 苹果与谷歌达成多年合作，下一代基础模型基于Gemini\n2. 🚀 Anthropic发布Cowork：面向非开发者的Agent协作工具\n3. 🔧 Google Gemini API提升文件上传限制并支持多种云存储源\n4. 🔧 DeepSeek发布Engram模块：N-gram嵌入检索助力高效推理\n5. 🚀 OpenBMB开源AgentCPM-Explore 4B端侧Agent模型\n6. 🚀 Vercel Labs开源AI浏览器自动化CLI工具\n7. 🚀 LEMAS发布150K小时多语言语音套件及生成模型\n8. 🚀 快手推出Mini版Coding Plan：首月8.8元\n9. 🔧 Cursor Beta支持Agent Skills开放标准\n10. 🔧 TRAE上线多层安全系统：沙箱与Shell拦截机制\n11. 🚀 Manus推出Meeting Minutes功能：一键生成结构化会议总结\n12. 🚀 昆仑万维天工推出Skywork Video v1.0视频创作智能体\n13. 🚀 1X发布1XWM世界模型驱动NEO人形机器人\n14. 🚀 Anthropic发布符合HIPAA标准的Claude医疗版\n15. 📈 Google联合行业伙伴发布Universal Commerce Protocol\n16. 📈 Meta启动大规模算力计划，签署20年核电供电协议\n17. 📈 OpenAI与Jony Ive合作研发类耳机AI可穿戴设备\n18. 📈 OpenAI收购医疗数据平台Toch，整合情境引擎\n19. 📰 国内首起AI服务涉黄案将进行二审",
       "is_voice_generated": false
-    },
-    {
-      "title": "美团开源EvoCUA多模态计算机操作模型【AI 早报 2026-01-12】",
-      "publish_date": "2026-01-12",
-      "bv_id": "BV1Nrr8BwEHn",
-      "organize_time": "2026-01-12 08:56:03",
-      "news_count": 6,
-      "overview": "1. 🚀 美团开源EvoCUA多模态计算机操作模型\n2. 🔧 秘塔AI搜索学术库新增3000万篇论文\n3. 📈 智谱向订阅用户推出上市回馈活动\n4. 📈 AGI-Next峰会探讨AI新范式与中美竞争\n5. 🔧 UniCorn框架解决多模态模型传导性失语症\n6. 📈 谷歌移除部分医疗查询AI Overviews功能",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 109,
-  "generated_time": "2026-02-05 09:52:34"
+  "total_count": 110,
+  "generated_time": "2026-02-06 09:08:20"
 }
