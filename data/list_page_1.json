@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "美团推出 LongCat-Flash-Lite，免费API可用；神秘模型上线 OpenRouter 与 Kilo Code【AI 早报 2026-02-07】",
+      "publish_date": "2026-02-07",
+      "bv_id": "BV1pnFHzEEmw",
+      "organize_time": "2026-02-07 09:08:49",
+      "news_count": 11,
+      "overview": "1. 🚀 美团发布LongCat-Flash-Lite模型，提供免费API服务\n2. 🚀 字节跳动发布视频生成模型Seedance 2.0\n3. 🔧 OpenRouter与Kilo Code联合上线Pony Alpha神秘模型\n4. 🔧 Waymo发布自动驾驶仿真系统Waymo World Model\n5. 🚀 X开发者平台上线API按量计费并支持xAI联动\n6. 🔧 OpenAI开放Sora真人角色视频生成功能\n7. 🚀 Perplexity推出多模型聚合问答功能Model Council\n8. 📈 中科曙光启用超三万卡国产AI算力池\n9. 📈 OpenAI内部转向Agent开发模式\n10. 🚀 OpenAI将于2026年推出Dime智能耳机\n11. 🚀 面壁智能发布首款AI硬件松果派",
+      "is_voice_generated": false
+    },
+    {
       "title": "Anthropic 发布 Claude Opus 4.6；OpenAI 发布 GPT-5.3-Codex【AI 早报 2026-02-06】",
       "publish_date": "2026-02-06",
       "bv_id": "BV1cYFqzxEWR",
@@ -170,19 +179,10 @@
       "news_count": 17,
       "overview": "1. 🚀 Google发布Veo 3.1视频生成模型重大更新\n2. 🚀 百川智能开源235B参数医疗大模型Baichuan-M3\n3. 🚀 Google发布MedGemma 1.5多模态医疗模型\n4. 🚀 PixVerse推出实时世界模型PixVerse-R1\n5. 🚀 微软发布FrogBoss系列编程智能体模型\n6. 🔧 MiniMax发布OctoCodingBench编程智能体基准测试\n7. 🔧 NVIDIA联合发布TTT-E2E端到端长上下文训练方案\n8. 🚀 豆包上线AI老师功能助力学生期末复习\n9. 🚀 火山引擎Coding Plan升级支持多模型切换\n10. 🚀 阿里云百炼推出AI编码订阅计划\n11. 📈 支付宝启动智星计划助力开发者AI变现\n12. 🔧 OpenAI下调部分用户GPT-5.2思考配额并调整表述\n13. 📈 OpenAI传闻将发布GPT-5.3模型\n14. 🔧 Google为Gemini开发Auto Browse自动浏览功能\n15. 🚀 苹果推出Apple Studio订阅套件整合AI创作工具\n16. 📈 微软承诺承担数据中心电力成本避免居民电费上涨\n17. 📈 Meta裁员超1000人转向AI与可穿戴设备研发",
       "is_voice_generated": false
-    },
-    {
-      "title": "苹果与谷歌达成多年合作，下一代基础模型基于Gemini【AI 早报 2026-01-13】",
-      "publish_date": "2026-01-13",
-      "bv_id": "BV1GrrBBPEjS",
-      "organize_time": "2026-01-13 09:12:00",
-      "news_count": 19,
-      "overview": "1. 📈 苹果与谷歌达成多年合作，下一代基础模型基于Gemini\n2. 🚀 Anthropic发布Cowork：面向非开发者的Agent协作工具\n3. 🔧 Google Gemini API提升文件上传限制并支持多种云存储源\n4. 🔧 DeepSeek发布Engram模块：N-gram嵌入检索助力高效推理\n5. 🚀 OpenBMB开源AgentCPM-Explore 4B端侧Agent模型\n6. 🚀 Vercel Labs开源AI浏览器自动化CLI工具\n7. 🚀 LEMAS发布150K小时多语言语音套件及生成模型\n8. 🚀 快手推出Mini版Coding Plan：首月8.8元\n9. 🔧 Cursor Beta支持Agent Skills开放标准\n10. 🔧 TRAE上线多层安全系统：沙箱与Shell拦截机制\n11. 🚀 Manus推出Meeting Minutes功能：一键生成结构化会议总结\n12. 🚀 昆仑万维天工推出Skywork Video v1.0视频创作智能体\n13. 🚀 1X发布1XWM世界模型驱动NEO人形机器人\n14. 🚀 Anthropic发布符合HIPAA标准的Claude医疗版\n15. 📈 Google联合行业伙伴发布Universal Commerce Protocol\n16. 📈 Meta启动大规模算力计划，签署20年核电供电协议\n17. 📈 OpenAI与Jony Ive合作研发类耳机AI可穿戴设备\n18. 📈 OpenAI收购医疗数据平台Toch，整合情境引擎\n19. 📰 国内首起AI服务涉黄案将进行二审",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 110,
-  "generated_time": "2026-02-06 09:08:20"
+  "total_count": 111,
+  "generated_time": "2026-02-07 09:08:50"
 }
