@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "天价AI？Anthropic 推出 Claude Opus 4.6 快速模式【AI 早报 2026-02-08】",
+      "publish_date": "2026-02-08",
+      "bv_id": "BV1U6FbzmEeJ",
+      "organize_time": "2026-02-08 09:24:15",
+      "news_count": 6,
+      "overview": "1. 🚀 Anthropic推出Claude Opus 4.6快速模式\n2. 🔧 Augment Code上线Context Engine MCP\n3. 📈 OpenAI引入性能专家优化数据中心成本\n4. 📈 OpenAI推进AI模型本土化策略\n5. 🔧 千问Qwen等联合推出法律评测基准PLawBench\n6. 📈 苹果计划为CarPlay引入第三方AI语音助手",
+      "is_voice_generated": false
+    },
+    {
       "title": "美团推出 LongCat-Flash-Lite，免费API可用；神秘模型上线 OpenRouter 与 Kilo Code【AI 早报 2026-02-07】",
       "publish_date": "2026-02-07",
       "bv_id": "BV1pnFHzEEmw",
@@ -170,19 +179,10 @@
       "news_count": 31,
       "overview": "1. 🚀 美团开源LongCat-Flash-Thinking-2601大推理模型\n2. 🚀 百度发布ERNIE-5.0-0110模型，多项能力领先\n3. 🚀 Google推出Gemini个人智能Beta版，支持跨应用推理\n4. 🚀 智谱开源GLM-Image图像生成模型，支持2048像素高清输出\n5. 🔧 OpenAI开放GPT-5.2-Codex API，专为长周期编码优化\n6. 🔧 Claude Code更新至2.1.7，新增工具动态搜索功能\n7. 🔧 OpenAI发布Codex 0.8.0版本，支持流式响应与Windows降级机制\n8. 🔧 Google趋势页面引入AI分析功能，支持热点对比与建议生成\n9. 🚀 Kaggle推出社区评估平台，支持自定义模型基准测试\n10. 🔧 Google与Kilo支持Agent技能包，扩展自动化能力边界\n11. 🚀 OpenCode推出付费订阅套餐，集成多模型动态资源调度\n12. 🚀 生数科技上线一键生成AI MV功能，支持5分钟连贯视频输出\n13. 📈 千问App月活跃用户突破1亿，将推自主办事Agent功能\n14. 🚀 阿里开源ArenaRL强化学习框架，解决复杂任务评估难题\n15. 🔧 中国电信研究院提出超低带宽视频压缩框架\n16. 🔧 伯克利研究揭示视觉提示评估漏洞，发布新基准VP-Bench\n17. 🔧 Manus详解云端沙箱架构，支持高权限自动化操作\n18. 🚀 GitHub发布Copilot SDK预览版，支持多语言编程接入\n19. 🚀 OpenAI上线ChatGPT专用翻译工具，支持多模态交互\n20. 🔧 Google翻译测试多语境翻译功能，生成多个语体版本\n21. 🚀 Perplexity企业版引入股权研究功能，接入授权金融报告\n22. 🔧 NotebookLM开放结构化表格功能，支持文档一键转换\n23. 📈 Google DeepMind联合数学家证明代数几何新定理\n24. 📈 OpenAI与Cerebras达成百亿美元算力合作\n25. 📈 美国修改出口管制，放宽NVIDIA H200等芯片对华出口限制\n26. 📈 Perplexity首席产品官转任Llama负责人，专注前沿产品孵化\n27. 📈 OpenAI三名核心研发人员回归应用业务团队\n28. 📈 韩服玩家展现92%胜率引关注，疑为xAI AI测试项目\n29. 📈 美国通过法案打击AI生成非自愿性暗示图像\n30. 📈 AI虚构足球比赛致英国警方误发情报，微软称无法复现错误\n31. 🚀 TRA国际版限时免除Pro费用，赠送一个月使用权",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google 发布 Veo 3.1 更新和MedGemma 1.5模型；百川开源 Baichuan-M3 医疗大模型【AI 早报 2026-01-14】",
-      "publish_date": "2026-01-14",
-      "bv_id": "BV1NJrJBiE2z",
-      "organize_time": "2026-01-14 09:13:09",
-      "news_count": 17,
-      "overview": "1. 🚀 Google发布Veo 3.1视频生成模型重大更新\n2. 🚀 百川智能开源235B参数医疗大模型Baichuan-M3\n3. 🚀 Google发布MedGemma 1.5多模态医疗模型\n4. 🚀 PixVerse推出实时世界模型PixVerse-R1\n5. 🚀 微软发布FrogBoss系列编程智能体模型\n6. 🔧 MiniMax发布OctoCodingBench编程智能体基准测试\n7. 🔧 NVIDIA联合发布TTT-E2E端到端长上下文训练方案\n8. 🚀 豆包上线AI老师功能助力学生期末复习\n9. 🚀 火山引擎Coding Plan升级支持多模型切换\n10. 🚀 阿里云百炼推出AI编码订阅计划\n11. 📈 支付宝启动智星计划助力开发者AI变现\n12. 🔧 OpenAI下调部分用户GPT-5.2思考配额并调整表述\n13. 📈 OpenAI传闻将发布GPT-5.3模型\n14. 🔧 Google为Gemini开发Auto Browse自动浏览功能\n15. 🚀 苹果推出Apple Studio订阅套件整合AI创作工具\n16. 📈 微软承诺承担数据中心电力成本避免居民电费上涨\n17. 📈 Meta裁员超1000人转向AI与可穿戴设备研发",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 111,
-  "generated_time": "2026-02-07 09:08:50"
+  "total_count": 112,
+  "generated_time": "2026-02-08 09:24:16"
 }

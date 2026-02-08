@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 111 条早报</span>
+                        <span id="total-count">共 112 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-08.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">天价AI？Anthropic 推出 Claude Opus 4.6 快速模式【AI 早报 2026-02-08】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-08</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1U6FbzmEeJ</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Anthropic推出Claude Opus 4.6快速模式
+2. 🔧 Augment Code上线Context Engine MCP
+3. 📈 OpenAI引入性能专家优化数据中心成本
+4. 📈 OpenAI推进AI模型本土化策略
+5. 🔧 千问Qwen等联合推出法律评测基准PLawB...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    6 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-08 09:24:15
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-07.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">美团推出 LongCat-Flash-Lite，免费API可用；神秘模型上线 OpenRouter 与 Kilo Code【AI 早报 2026-02-07】</h3>
@@ -539,39 +571,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-20.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">智谱发布 GLM-4.7-Flash；华为云上线 CodeArts Doer 代码智能体公测版【AI 早报 2026-01-20】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-20</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1qRkVB3Etd</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 智谱AI发布GLM-4.7-Flash轻量级MoE模型
-2. 🚀 华为云上线CodeArts Doer代码智能体公测版
-3. 🚀 阶跃星辰发布阶跃AI桌面助手Windows版
-4. 🚀 扣子推出2.0版本并上线企业版
-5. 🚀 ManusAI上线App Publishing功能
-6. 🚀 ...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    11 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-20 09:01:26
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -618,7 +617,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 111;
+        let totalCount = 112;
         let isLoading = false;
 
         // 工具函数

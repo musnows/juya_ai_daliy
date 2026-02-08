@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "有望下周发布！Gemini3.0能碾压GPT-5.1吗！【AI 早报 2025-11-15】",
+      "publish_date": "2025-11-15",
+      "bv_id": "BV1G5CLB3EUa",
+      "organize_time": "2025-11-22 20:35:00",
+      "news_count": 17,
+      "overview": "1. 🚀 OpenAI试点ChatGPT群聊功能\n2. 🚀 Google推出Code Wiki知识库\n3. 🔧 Google Colab开放Gemini与Gemma模型\n4. 🚀 美团发布CatPaw IDE Windows版\n5. 🚀 MiniMax推出Coding Plan订阅服务\n6. 🚀 智谱GLM Coding Plan特供版上线\n7. 🔧 小米开源Miloco智能家居AI内核\n8. 🔧 Claude平台推出结构化输出功能\n9. 🔧 NotebookLM支持图片上传作为信息源\n10. 🔧 Qwen Code发布v0.2.1版本\n11. 🔧 Google Gemini App更新Deep Research功能\n12. 🔧 Google Veo 3.1支持多图参考生成\n13. 📈 硅基流动平台服务与活动规则调整\n14. 🔧 OpenAI发布稀疏电路可解释性研究\n15. 🚀 UI2Code^N发布交互式UI-to-Code模型\n16. 🔧 Decart发布LSD v2实时视频风格化模型\n17. 📈 Kaggle发布《Prototype to Production》白皮书",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini 3 现身 Gemini APP 的 Canvas 功能 【AI 早报 2025-11-14】",
       "publish_date": "2025-11-14",
       "bv_id": "BV1G5CPBrEmd",
@@ -170,19 +179,10 @@
       "news_count": 3,
       "overview": "1. 🚀 Cursor 2.0即将发布，AI编程体验再升级\n2. 🔧 谷歌预热Gemini 3.0，AI Studio强化vibe coding\n3. 🚀 Suno向所有用户开放v4.5all模型，免费可用",
       "is_voice_generated": false
-    },
-    {
-      "title": "美团暗中打造世界模型？悄然开源LongCat-Video视频生成模型【AI 早报 2025-10-26】",
-      "publish_date": "2025-10-26",
-      "bv_id": "BV1jKxwz7Ewf",
-      "organize_time": "2025-11-23 15:26:01",
-      "news_count": 2,
-      "overview": "1. 🚀 美团开源136亿参数视频生成模型\n2. 🔧 OpenAI演示双向语音实时翻译模型",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
   "total_pages": 6,
-  "total_count": 111,
-  "generated_time": "2026-02-07 09:08:50"
+  "total_count": 112,
+  "generated_time": "2026-02-08 09:24:16"
 }

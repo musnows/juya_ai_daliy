@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "大波福利来袭：TRAE CN宣布开放SOLO模式；Windsurf 上线 SWE-1.5 Free【AI 早报 2025-12-25】",
+      "publish_date": "2025-12-25",
+      "bv_id": "BV1L8BSB8EvX",
+      "organize_time": "2025-12-25 09:04:27",
+      "news_count": 12,
+      "overview": "1. 🚀 TRAE中国版开放SOLO模式并内置多款免费国产模型\n2. 🔧 Windsurf发布Wave 13更新，上线SWE-1.5 Free模型\n3. 📈 Anthropic为Claude Pro与Max用户提供假日双倍额度\n4. 🚀 Lovable.dev限时赠送两个月Pro订阅服务\n5. 📈 Google One推出AI Pro年度方案半价限时优惠\n6. 🔧 智谱AI上线Zread MCP服务器支持IDE内分析GitHub仓库\n7. 🚀 Kilo Code发布App Builder浏览器端应用开发工具\n8. 🔧 StepFun发布NextStep-1.1图像生成模型\n9. 🔧 Nebius发布OpenHands轨迹数据集与RFT微调模型\n10. 📈 Google发布2025年度AI研究成果汇总\n11. 📈 OpenAI探索ChatGPT内置广告商业化方案\n12. 📈 英伟达与Groq达成200亿美元推理技术许可协议",
+      "is_voice_generated": false
+    },
+    {
       "title": "MiniMax正式发布M2.1模型；Qwen开源Qwen-Image-Edit-2511模型【AI 早报 2025-12-24】",
       "publish_date": "2025-12-24",
       "bv_id": "BV1LHB3BHEJP",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 🚀 OpenAI将发布GPT-5.2应对谷歌Gemini 3\n2. 🚀 腾讯发布混元HY 2.0大模型\n3. 🔧 美团开源LongCat-Image双语视觉模型\n4. 🔧 Qwen发布Qwen3-TTS语音合成模型升级\n5. 📈 React关键RCE漏洞影响Next.js及Dify\n6. 🚀 火山引擎发布豆包语音识别模型2.0\n7. 🔧 Google发布Gemini 3 Pro Vision多模态基准\n8. 📈 Google调整Antigravity平台rate limits政策\n9. 🔧 腾讯发布HunyuanVideo 1.5步数蒸馏模型\n10. 🔧 NotebookLM发布移动应用重大更新\n11. 📈 xAI宣布Live Search API移除并推荐Agent Tools\n12. 📈 yupp.ai发布SVG榜单Gemini 3 Pro登顶\n13. 📈 OpenAI在澳建550MW GPU超级集群\n14. 🚀 火山方舟上线DeepSeek-V3.2模型\n15. 📈 Google启动Gemini 3 Vibe Code黑客松\n16. 🔧 JetBrains IDEs集成Agent Client Protocol\n17. 📈 xAI实验性Grok 4.20模型夺冠Alpha Arena\n18. 🔧 Google开发Gemini网页实时翻译功能\n19. 📈 Meta收购Limitless并签署AI新闻协议",
       "is_voice_generated": false
-    },
-    {
-      "title": "宇宙最强AI炸裂上线，OpenAI哭了，Google 上线 Gemini 3 Deep Think【AI早报 2025-12-05】",
-      "publish_date": "2025-12-05",
-      "bv_id": "BV1c72GBpEQU",
-      "organize_time": "2025-12-07 11:08:00",
-      "news_count": 19,
-      "overview": "1. 🚀 Google上线Gemini 3 Deep Think模式\n2. 🚀 OpenAI开放GPT-5.1-Codex-Max API访问\n3. 🔧 Cursor优化Agent支持Codex模型并限免\n4. 🔧 NotebookLM iOS新增图表与幻灯片功能\n5. 🚀 Anthropic发布AI访谈工具并公开数据集\n6. 🔧 Haiku 4.5模型推出结构化输出beta功能\n7. 🚀 可灵AI上线数字人2.0功能\n8. 🔧 千问APP发布办公场景功能更新\n9. 🚀 Microsoft发布VibeVoice-Realtime-0.5B模型\n10. 🔧 Hugging Face发布LLM评测指南v2\n11. 📈 Claude账单将按信用卡地址收税\n12. 🚀 Tavily发布Deep Research达SOTA水平\n13. 🔧 Exa发布NeurIPS论文语义检索功能\n14. 🔧 StepFun发布Open Vision Reasoner论文\n15. 📈 Mistral Large 3登顶开源编码模型榜首\n16. 📈 Meta面临欧盟反垄断调查并考虑采购TPU\n17. 📈 谷歌云携手Replit推进企业级Vibe Coding\n18. 📈 OpenRouter发布AI使用状态报告\n19. 📈 Anthropic CEO：缩放定律直通AGI",
-      "is_voice_generated": true
     }
   ],
   "page": 3,
   "total_pages": 6,
-  "total_count": 111,
-  "generated_time": "2026-02-07 09:08:50"
+  "total_count": 112,
+  "generated_time": "2026-02-08 09:24:16"
 }
