@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Qwen 3.5系列模型即将发布【AI 早报 2026-02-09】",
+      "publish_date": "2026-02-09",
+      "bv_id": "BV1sYcPzgEjR",
+      "organize_time": "2026-02-09 09:09:39",
+      "news_count": 5,
+      "overview": "1. 🚀 Qwen 3.5系列模型即将发布\n2. 🔧 xAI上线Grok Imagine Image Pro模型API\n3. 🚀 CodeBuddy发布AI桌面工作台WorkBuddy\n4. 🔧 字节跳动即将推出Seedream 5.0预览版\n5. 📈 Meta AI官网测试新模型Avocado",
+      "is_voice_generated": false
+    },
+    {
       "title": "天价AI？Anthropic 推出 Claude Opus 4.6 快速模式【AI 早报 2026-02-08】",
       "publish_date": "2026-02-08",
       "bv_id": "BV1U6FbzmEeJ",
@@ -170,19 +179,10 @@
       "news_count": 22,
       "overview": "1. 🚀 Google发布TranslateGemma多语言翻译模型\n2. 📈 OpenAI联合Hugging Face发布Open Responses开源规范\n3. 🚀 阶跃星辰开源Step-Audio-R1.1原生语音推理模型\n4. 🚀 阶跃星辰发布STEP3-VL-10B多模态模型\n5. 🚀 Black Forest Labs发布FLUX.2 klein系列图像生成模型\n6. 🚀 阿里巴巴千问App上线超400项AI办事功能\n7. 🔧 OpenAI增强ChatGPT记忆功能可靠性\n8. 📈 GitHub Copilot支持OpenCode接入订阅，Anthropic被曝屏蔽OpenCode\n9. 🔧 Google发布Gemini CLI v0.24.0版本更新\n10. 🔧 OpenAI支持Roo Code接入ChatGPT订阅，Codex将优化iOS开发\n11. 🔧 TRAE上线Skills功能，支持中国版与国际版SOLO模式\n12. 📈 Kiro官方移除免费层级Opus 4.5模型支持\n13. 📈 SiliconFlow上线推荐官计划，邀请好友获无上限代金券\n14. 📈 Anthropic发布经济报告，下调AI对生产率增长贡献预期\n15. 📈 Google调研：学习成AI使用首要动机，师生使用率超80%\n16. 🔧 GitHub Copilot记忆功能开启公测，支持跨功能学习代码库\n17. 🔧 Anthropic发布全新批处理算法，上下文长度提升7倍\n18. 📈 维基媒体基金会与亚马逊、Meta、微软达成付费数据合作\n19. 📈 马斯克承认Grok 4.20编程能力或逊于Claude，强调其他领域优势\n20. 📈 传闻称Anthropic Claude Opus 4.5使用Google TPU训练\n21. 📈 OpenAI与萨姆·奥特曼脑机接口公司合作研发神经信号模型\n22. 📈 英伟达领投AI初创公司Harmonic 1.2亿美元融资",
       "is_voice_generated": false
-    },
-    {
-      "title": "美团开源 LongCat-Flash-Thinking-2601模型；百度发布 ERNIE-5.0-0110 模型【AI 早报 2026-01-15】",
-      "publish_date": "2026-01-15",
-      "bv_id": "BV1pdroBiEMg",
-      "organize_time": "2026-01-15 09:44:21",
-      "news_count": 31,
-      "overview": "1. 🚀 美团开源LongCat-Flash-Thinking-2601大推理模型\n2. 🚀 百度发布ERNIE-5.0-0110模型，多项能力领先\n3. 🚀 Google推出Gemini个人智能Beta版，支持跨应用推理\n4. 🚀 智谱开源GLM-Image图像生成模型，支持2048像素高清输出\n5. 🔧 OpenAI开放GPT-5.2-Codex API，专为长周期编码优化\n6. 🔧 Claude Code更新至2.1.7，新增工具动态搜索功能\n7. 🔧 OpenAI发布Codex 0.8.0版本，支持流式响应与Windows降级机制\n8. 🔧 Google趋势页面引入AI分析功能，支持热点对比与建议生成\n9. 🚀 Kaggle推出社区评估平台，支持自定义模型基准测试\n10. 🔧 Google与Kilo支持Agent技能包，扩展自动化能力边界\n11. 🚀 OpenCode推出付费订阅套餐，集成多模型动态资源调度\n12. 🚀 生数科技上线一键生成AI MV功能，支持5分钟连贯视频输出\n13. 📈 千问App月活跃用户突破1亿，将推自主办事Agent功能\n14. 🚀 阿里开源ArenaRL强化学习框架，解决复杂任务评估难题\n15. 🔧 中国电信研究院提出超低带宽视频压缩框架\n16. 🔧 伯克利研究揭示视觉提示评估漏洞，发布新基准VP-Bench\n17. 🔧 Manus详解云端沙箱架构，支持高权限自动化操作\n18. 🚀 GitHub发布Copilot SDK预览版，支持多语言编程接入\n19. 🚀 OpenAI上线ChatGPT专用翻译工具，支持多模态交互\n20. 🔧 Google翻译测试多语境翻译功能，生成多个语体版本\n21. 🚀 Perplexity企业版引入股权研究功能，接入授权金融报告\n22. 🔧 NotebookLM开放结构化表格功能，支持文档一键转换\n23. 📈 Google DeepMind联合数学家证明代数几何新定理\n24. 📈 OpenAI与Cerebras达成百亿美元算力合作\n25. 📈 美国修改出口管制，放宽NVIDIA H200等芯片对华出口限制\n26. 📈 Perplexity首席产品官转任Llama负责人，专注前沿产品孵化\n27. 📈 OpenAI三名核心研发人员回归应用业务团队\n28. 📈 韩服玩家展现92%胜率引关注，疑为xAI AI测试项目\n29. 📈 美国通过法案打击AI生成非自愿性暗示图像\n30. 📈 AI虚构足球比赛致英国警方误发情报，微软称无法复现错误\n31. 🚀 TRA国际版限时免除Pro费用，赠送一个月使用权",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 112,
-  "generated_time": "2026-02-08 09:24:16"
+  "total_count": 113,
+  "generated_time": "2026-02-09 09:09:40"
 }
