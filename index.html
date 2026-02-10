@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 113 条早报</span>
+                        <span id="total-count">共 114 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-10.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI正式启动ChatGPT广告测试【AI 早报 2026-02-10】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-10</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1PtFUzbELw</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 📈 OpenAI正式启动ChatGPT广告测试
+2. 🔧 Sam Altman宣布Codex将保持免费用户可用
+3. 🚀 OpenRouter上线 stealth 模型 Aurora Alpha
+4. 🔧 Cursor上线编程模型Composer 1.5
+5. 🚀 OpenAI逐步向第三方开放...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    10 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-10 09:10:09
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-09.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Qwen 3.5系列模型即将发布【AI 早报 2026-02-09】</h3>
@@ -539,38 +571,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-22.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">微软开源语音识别模型 VibeVoice-ASR【AI 早报 2026-01-22】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-22</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1mHznBKEzj</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 微软开源9B参数语音识别模型VibeVoice-ASR
-2. 🔧 Anthropic发布Claude新宪法规范AI行为
-3. 🚀 Cognition推出代码审查工具Devin Review
-4. 🚀 LangChain发布LangSmith Agent Builder智能体构建平台
-5. ...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    19 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-22 09:17:41
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -617,7 +617,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 113;
+        let totalCount = 114;
         let isLoading = false;
 
         // 工具函数

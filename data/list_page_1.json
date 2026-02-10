@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI正式启动ChatGPT广告测试【AI 早报 2026-02-10】",
+      "publish_date": "2026-02-10",
+      "bv_id": "BV1PtFUzbELw",
+      "organize_time": "2026-02-10 09:10:09",
+      "news_count": 10,
+      "overview": "1. 📈 OpenAI正式启动ChatGPT广告测试\n2. 🔧 Sam Altman宣布Codex将保持免费用户可用\n3. 🚀 OpenRouter上线 stealth 模型 Aurora Alpha\n4. 🔧 Cursor上线编程模型Composer 1.5\n5. 🚀 OpenAI逐步向第三方开放GPT-5.3-Codex\n6. 🚀 美团AI编程工具CatPaw全量开放\n7. 🔧 Hugging Face发布Transformers.js v4预览版\n8. 🚀 魔搭ModelScope推出OpenAPI\n9. 🔧 Sora上线Extensions续写功能\n10. 🔧 智谱GLM-5架构细节曝光，总参数或达700B",
+      "is_voice_generated": false
+    },
+    {
       "title": "Qwen 3.5系列模型即将发布【AI 早报 2026-02-09】",
       "publish_date": "2026-02-09",
       "bv_id": "BV1sYcPzgEjR",
@@ -170,19 +179,10 @@
       "news_count": 22,
       "overview": "1. 🚀 OpenAI 宣布在 ChatGPT 中测试广告投放\n2. 🚀 OpenAI 全球上线 ChatGPT Go 订阅服务\n3. 🔧 Codex CLI 新增中途引导 Prompt 功能\n4. 🚀 Kilo 发布匿名推理模型 Giga Potato\n5. 🔧 Kiro 推出 Run all tasks 批量任务执行功能\n6. 🚀 Anthropic 向 Pro 用户开放 Claude Cowork 桌面代理功能\n7. 🔧 Google 调整 Gemini 模型每日使用配额\n8. 🚀 蚂蚁百灵发布 Ling Studio 多模态交互平台\n9. 🚀 腾讯发布混元 3D Studio 1.2 公测版本\n10. 🔧 ima 电脑端上线书签与地址栏功能\n11. 🔧 小米发布 MiMo-V2-Flash 模型升级版本\n12. 🚀 Vercel Labs 开源 json-render UI 自动化生成项目\n13. 📈 微软推出 Elevate for Educators 教育 AI 赋能计划\n14. 📈 支付宝发布 AI 商业协议 ACT 智能体交互标准\n15. 🚀 NVIDIA 开源 PersonaPlex 语音对话模型\n16. 🔧 Meta 发布 Action100M 大规模视频动作数据集\n17. 📈 MiniMax 确认即将发布 M2.2 新一代模型\n18. 📈 OpenAI 被曝筹备代号‘索纳塔’音频模型\n19. 📈 OpenAI 发布 RFP 计划强化美国本土 AI 供应链\n20. 📈 OpenAI 回应马斯克诉讼：指控其谋求 XAI 竞争优势\n21. 📈 AI 编程公司 Re 完成 4 亿美元融资估值达 90 亿美元\n22. 📈 AI 视频生成公司 HixEdit 融资 1.3 亿美元跻身独角兽",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google 发布 TranslateGemma 多语言翻译模型；OpenAI 发布 Open Responses 开源规范【AI 早报 2026-01-16】",
-      "publish_date": "2026-01-16",
-      "bv_id": "BV1p3kKBtEw5",
-      "organize_time": "2026-01-16 09:00:31",
-      "news_count": 22,
-      "overview": "1. 🚀 Google发布TranslateGemma多语言翻译模型\n2. 📈 OpenAI联合Hugging Face发布Open Responses开源规范\n3. 🚀 阶跃星辰开源Step-Audio-R1.1原生语音推理模型\n4. 🚀 阶跃星辰发布STEP3-VL-10B多模态模型\n5. 🚀 Black Forest Labs发布FLUX.2 klein系列图像生成模型\n6. 🚀 阿里巴巴千问App上线超400项AI办事功能\n7. 🔧 OpenAI增强ChatGPT记忆功能可靠性\n8. 📈 GitHub Copilot支持OpenCode接入订阅，Anthropic被曝屏蔽OpenCode\n9. 🔧 Google发布Gemini CLI v0.24.0版本更新\n10. 🔧 OpenAI支持Roo Code接入ChatGPT订阅，Codex将优化iOS开发\n11. 🔧 TRAE上线Skills功能，支持中国版与国际版SOLO模式\n12. 📈 Kiro官方移除免费层级Opus 4.5模型支持\n13. 📈 SiliconFlow上线推荐官计划，邀请好友获无上限代金券\n14. 📈 Anthropic发布经济报告，下调AI对生产率增长贡献预期\n15. 📈 Google调研：学习成AI使用首要动机，师生使用率超80%\n16. 🔧 GitHub Copilot记忆功能开启公测，支持跨功能学习代码库\n17. 🔧 Anthropic发布全新批处理算法，上下文长度提升7倍\n18. 📈 维基媒体基金会与亚马逊、Meta、微软达成付费数据合作\n19. 📈 马斯克承认Grok 4.20编程能力或逊于Claude，强调其他领域优势\n20. 📈 传闻称Anthropic Claude Opus 4.5使用Google TPU训练\n21. 📈 OpenAI与萨姆·奥特曼脑机接口公司合作研发神经信号模型\n22. 📈 英伟达领投AI初创公司Harmonic 1.2亿美元融资",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 113,
-  "generated_time": "2026-02-09 09:09:40"
+  "total_count": 114,
+  "generated_time": "2026-02-10 09:10:11"
 }
