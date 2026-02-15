@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Vercel 发布 AI 技能管理工具 add-skill【AI 早报 2026-01-18】",
+      "publish_date": "2026-01-18",
+      "bv_id": "BV1DCkHBDE7W",
+      "organize_time": "2026-01-18 08:45:30",
+      "news_count": 7,
+      "overview": "1. 🚀 Vercel 发布 AI 技能管理工具 add-skill\n2. 🚀 ai-forever 发布 VIBE 图像编辑模型\n3. 🔧 Cursor 发布新版 CLI 支持 Agent 模式与云端接力\n4. 🔧 Ollama 支持 Anthropic API 及 TranslateGemma 模型\n5. 🔧 Anthropic 为 Claude Team 普通席位开放 Claude Code\n6. 📈 Anthropic 正为 Claude 开发多项新功能\n7. 📈 xAI 全球首个吉瓦级训练集群 Colossus 2 投入运行",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 官宣将在 ChatGPT 中投放广告【AI 早报 2026-01-17】",
       "publish_date": "2026-01-17",
       "bv_id": "BV1hjr2BpEoj",
@@ -170,19 +179,10 @@
       "news_count": 10,
       "overview": "1. 🚀 阿里通义开源GUI智能体MAI-UI模型\n2. 🚀 快手KwaiKAT推出Coding Plan订阅包\n3. 🔧 Antigravity回应Agent报错配额问题\n4. 🔧 OpenAI移动端ChatGPT新增Thinking时长切换功能\n5. 🚀 Naver开源HyperCLOVA X SEED系列模型\n6. 🚀 fal开源FLUX.2-dev-Turbo图像生成模型\n7. 🚀 腾讯开源WeDLM-8B-Instruct扩散语言模型\n8. 🔧 腾讯元宝上线任务管理功能\n9. 📈 Meta收购AI Agent初创公司Manus\n10. 📈 火山引擎成为2026年总台春晚独家AI云合作伙伴",
       "is_voice_generated": false
-    },
-    {
-      "title": "字节跳动2026年或采购超400亿国产算力设备；有关部门公开征求意见拟规范AI拟人化互动服务【AI 早报 2025-12-29】",
-      "publish_date": "2025-12-29",
-      "bv_id": "BV1KHvUBKECR",
-      "organize_time": "2025-12-29 08:55:39",
-      "news_count": 4,
-      "overview": "1. 📈 字节跳动2026年拟采购超400亿元国产算力设备\n2. 🚀 SK Telecom发布韩国首个5190亿参数超大规模AI模型AX K1\n3. 📰 精神科医生警示AI聊天机器人或引发精神健康风险\n4. 📈 有关部门拟规范AI拟人化互动服务，明确心理安全与数据使用边界",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 6,
-  "total_count": 115,
-  "generated_time": "2026-02-14 09:48:39"
+  "total_count": 116,
+  "generated_time": "2026-02-15 09:19:15"
 }

@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "字节跳动发布豆包大模型2.0系列【AI 早报 2026-02-15】",
+      "publish_date": "2026-02-15",
+      "bv_id": "BV1feZpB6EJU",
+      "organize_time": "2026-02-15 09:19:14",
+      "news_count": 10,
+      "overview": "1. 🚀 字节跳动发布豆包大模型2.0系列\n2. 🔧 小红书开源图像编辑模型FireRed-Image-Edit-1.0\n3. 🚀 通义实验室推出CoPaw智能体工作台\n4. 🔧 ChatGPT新增Lockdown Mode与高风险标签\n5. 🚀 千问APP扩展“超级免单卡”使用范围\n6. 📈 中国首部AIGC动画电影定档2月28日\n7. 📈 字节跳动AI模型引发版权与肖像争议\n8. 🔧 OpenAI实现Codex驱动零代码开发\n9. 🔧 OpenAI内部模型生成研究级数学解法\n10. 📈 Anthropic或将上线新模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱发布 GLM-5 模型；DeepSeek 上线新模型；MiniMax 上线 M2.5 模型【AI 早报 2026-02-12】",
       "publish_date": "2026-02-12",
       "bv_id": "BV1sscazJE3j",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 📈 OpenAI宣布2025年收入突破200亿美元\n2. 📈 谷歌确认Gemini应用暂无广告投放计划\n3. 🚀 Warp发布CLI编程Agent深度支持功能\n4. 🚀 GitLab发布GitLab Duo Agent Platform\n5. 🔧 Claude Code新增执行前自动清除Context功能\n6. 🔧 Anthropic正为Claude开发定制化命令功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "Vercel 发布 AI 技能管理工具 add-skill【AI 早报 2026-01-18】",
-      "publish_date": "2026-01-18",
-      "bv_id": "BV1DCkHBDE7W",
-      "organize_time": "2026-01-18 08:45:30",
-      "news_count": 7,
-      "overview": "1. 🚀 Vercel 发布 AI 技能管理工具 add-skill\n2. 🚀 ai-forever 发布 VIBE 图像编辑模型\n3. 🔧 Cursor 发布新版 CLI 支持 Agent 模式与云端接力\n4. 🔧 Ollama 支持 Anthropic API 及 TranslateGemma 模型\n5. 🔧 Anthropic 为 Claude Team 普通席位开放 Claude Code\n6. 📈 Anthropic 正为 Claude 开发多项新功能\n7. 📈 xAI 全球首个吉瓦级训练集群 Colossus 2 投入运行",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 115,
-  "generated_time": "2026-02-14 09:48:39"
+  "total_count": 116,
+  "generated_time": "2026-02-15 09:19:15"
 }

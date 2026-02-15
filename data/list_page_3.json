@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "字节跳动2026年或采购超400亿国产算力设备；有关部门公开征求意见拟规范AI拟人化互动服务【AI 早报 2025-12-29】",
+      "publish_date": "2025-12-29",
+      "bv_id": "BV1KHvUBKECR",
+      "organize_time": "2025-12-29 08:55:39",
+      "news_count": 4,
+      "overview": "1. 📈 字节跳动2026年拟采购超400亿元国产算力设备\n2. 🚀 SK Telecom发布韩国首个5190亿参数超大规模AI模型AX K1\n3. 📰 精神科医生警示AI聊天机器人或引发精神健康风险\n4. 📈 有关部门拟规范AI拟人化互动服务，明确心理安全与数据使用边界",
+      "is_voice_generated": false
+    },
+    {
       "title": "未来已至！AI失控前兆？Altman急招“救世主”，这工作谁敢接？【AI 早报 2025-12-28】",
       "publish_date": "2025-12-28",
       "bv_id": "BV1mEvqBBEjF",
@@ -170,19 +179,10 @@
       "news_count": 25,
       "overview": "1. 🚀 Mistral AI发布Devstral 2与Vibe CLI\n2. 🚀 智谱发布GLM-ASR-Nano-2512语音识别模型\n3. 🚀 智谱开源AutoGLM手机智能助理框架\n4. 📈 Linux基金会成立Agentic AI基金会\n5. 🚀 Gemini CLI候补名单本周五关闭\n6. 🔧 Google Stitch推出Predictive Heatmaps功能\n7. 🚀 Augment Code发布Context Engine SDK\n8. 🔧 Qwen Code发布新版本更新说明\n9. 🚀 DiffSynth-Studio发布Qwen-Image-i2L模型\n10. 🚀 Cognitive-Lab发布NetraEmbed多模态嵌入模型\n11. 🚀 NousResearch开源Nomos-1数学求解模型\n12. 🚀 One-to-All Animation发布角色动画模型\n13. 🚀 inclusionAI发布TwinFlow生成框架\n14. 🚀 stepfun-ai开源PaCoRe推理框架\n15. 🔧 Cerebras发布DeepSeek-V3.2压缩模型\n16. 🔧 Qwen团队介绍SAPO强化学习方法\n17. 📈 OpenAI发布首批认证课程\n18. 🔧 Google测试Veo 3.1模板功能\n19. 📈 OpenAI新图像模型疑似现身\n20. 📈 Meta Avocado模型延期至2026年\n21. 📈 阿里成立千问C端事业群\n22. 📈 印度拟推AI训练版权新规\n23. 📈 美国战争部推出GenAi.mil军事AI平台\n24. 📈 欧盟调查Google涉嫌反竞争行为\n25. 📈 fal完成1.4亿美元D轮融资",
       "is_voice_generated": true
-    },
-    {
-      "title": "疯了！美国突然卖H200给中国，GPU价要雪崩？！国产大模型连夜狂飙；智谱甩出多模态核弹，免费Flash版直接薅！【AI早报 12月9日】",
-      "publish_date": "2025-12-09",
-      "bv_id": "BV1kf22BHEiP",
-      "organize_time": "2025-12-09 09:24:50",
-      "news_count": 22,
-      "overview": "1. 📈 美国允许英伟达H200芯片出口中国\n2. 🚀 智谱开源GLM-4.6V多模态大模型\n3. 🚀 Jina AI发布Jina-VLM-2.4B视觉语言模型\n4. 🚀 OpenAI与Instacart合作推出ChatGPT购物功能\n5. 🔧 Google Doppl新增可购物发现信息流\n6. 🔧 NotebookLM支持上传DocX文件\n7. 🔧 Google Labs更新Mixboard支持多文件类型\n8. 🔧 Google Stitch推出Redesign Agent代码生成功能\n9. 🔧 GitHub Copilot推出模型选择器功能\n10. 🚀 Firecrawl发布AI网络监控平台OpenScouts\n11. 🔧 Hugging Face推出LLM微调技能系统\n12. 🔧 Google与联发科合作推出LiteRT NeuroPilot加速器\n13. 🔧 Tiny-A2D开源方案实现语言模型扩散化\n14. 🔧 MindLab发布低秩适配器强化学习系统\n15. 🚀 Hugging Face上线优达RC多语言语音数据集\n16. 📈 OpenAI发布2025年企业AI状态报告\n17. 📈 Google公布Android XR生态路线图\n18. 📈 OpenAI采购全球40% DRAM供应\n19. 📈 Google计划2026年在聊天机器人中引入广告\n20. 📈 康伦以110亿美元被IBM收购\n21. 📈 Uncommon AI完成4.75亿美元种子轮融资\n22. 📈 AI合成研究创企Aaru完成A轮融资",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 6,
-  "total_count": 115,
-  "generated_time": "2026-02-14 09:48:39"
+  "total_count": 116,
+  "generated_time": "2026-02-15 09:19:15"
 }
