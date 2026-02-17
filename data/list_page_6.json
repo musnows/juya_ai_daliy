@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google和Claude全慌了，ChatGPT积分制上线，Sora和Codex可用 【AI 早报 2025-10-31】",
+      "publish_date": "2025-10-31",
+      "bv_id": "BV1pe1NBeEWV",
+      "organize_time": "2025-11-23 15:24:17",
+      "news_count": 21,
+      "overview": "1. 🚀 MiniMax发布语音模型Speech 2.6\n2. 🚀 OpenAI发布Aardvark安全研究工具\n3. 🚀 Lumi AI论文阅读器上线\n4. 🔧 Sora新增付费生成额度功能\n5. 🔧 ChatGPT Plus推出积分付费选项\n6. 🔧 谷歌AI Studio上线日志与数据集功能\n7. 🚀 月之暗面开源Kimi-Linear-48B-A3B模型\n8. 🚀 智源发布多模态世界模型Emu3.5\n9. 🚀 英伟达发布ChronoEdit-14B多模态模型\n10. 🚀 ManifestAI开源Brumby-14B-Base模型\n11. 🔧 Cognition发布Devin公测版\n12. 🚀 Qoder发布Linux x64公测版\n13. 🚀 OpenRouter上线Sonar Pro Search\n14. 🚀 Perplexity发布专利研究智能体\n15. 🔧 OpenAI详解Atlas浏览器OWL架构\n16. 📈 OSWorld-MCP基准正式发布\n17. 📈 Hugging Face发布Smol训练手册\n18. 🔧 MiniMax披露M2模型全链路设计\n19. 🔧 SUSE集成MCP至Linux 16.0\n20. 🚀 腾讯发布DeepSeek-V3.1-Terminus量化模型\n21. 📈 AWS与Anthropic共建AI超级集群Rainier",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cursor 2.0发布，还带来了自研模型Composer【AI 早报 2025-10-30】",
       "publish_date": "2025-10-30",
       "bv_id": "BV18uy4BTEQm",
@@ -147,6 +156,6 @@
   ],
   "page": 6,
   "total_pages": 6,
-  "total_count": 116,
-  "generated_time": "2026-02-16 09:22:52"
+  "total_count": 117,
+  "generated_time": "2026-02-17 08:53:20"
 }

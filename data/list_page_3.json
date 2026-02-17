@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "阿里通义开源GUI智能体MAI-UI模型；快手KwaiKAT推出Coding Plan订阅包【AI 早报 2025-12-30】",
+      "publish_date": "2025-12-30",
+      "bv_id": "BV1EHvbBeEuc",
+      "organize_time": "2025-12-30 09:11:23",
+      "news_count": 10,
+      "overview": "1. 🚀 阿里通义开源GUI智能体MAI-UI模型\n2. 🚀 快手KwaiKAT推出Coding Plan订阅包\n3. 🔧 Antigravity回应Agent报错配额问题\n4. 🔧 OpenAI移动端ChatGPT新增Thinking时长切换功能\n5. 🚀 Naver开源HyperCLOVA X SEED系列模型\n6. 🚀 fal开源FLUX.2-dev-Turbo图像生成模型\n7. 🚀 腾讯开源WeDLM-8B-Instruct扩散语言模型\n8. 🔧 腾讯元宝上线任务管理功能\n9. 📈 Meta收购AI Agent初创公司Manus\n10. 📈 火山引擎成为2026年总台春晚独家AI云合作伙伴",
+      "is_voice_generated": false
+    },
+    {
       "title": "字节跳动2026年或采购超400亿国产算力设备；有关部门公开征求意见拟规范AI拟人化互动服务【AI 早报 2025-12-29】",
       "publish_date": "2025-12-29",
       "bv_id": "BV1KHvUBKECR",
@@ -170,19 +179,10 @@
       "news_count": 23,
       "overview": "1. 🚀 Adobe集成Photoshop至ChatGPT\n2. 🔧 智谱AI开源GLM-TTS语音模型\n3. 🔧 Google更新Gemini 2.5 TTS模型\n4. 🚀 Qwen发布Qwen3-Omni-Flash全模态模型\n5. 🔧 Claude Code升级Agent SDK\n6. 🔧 VS Code Agent体验重大升级\n7. 🔧 Cursor 2.2引入Debug Mode\n8. 🔧 Google Jules新增主动编程功能\n9. 🚀 智谱AI发布AI输入法\n10. 🔧 Google Pomelli引入动画功能\n11. 🔧 阿里开源Wan-Move视频模型\n12. 🚀 Motif发布12.7B推理模型\n13. 🔧 南贝格开源Nanbeige4-3B模型\n14. 🔧 thu-pacman发布PCMind-2.1模型\n15. 🚀 Arcee AI发布Trinity Mini模型\n16. 🔧 StarCloud卫星训练AI模型成功\n17. 🔧 Onsros AI发布新T内核\n18. 🔧 Google推出Acts事实准确性基准\n19. 📈 Google推广Preferred Sources功能\n20. 📈 OpenAI加强网络安全准备\n21. 📈 DeepMind训练下一代AI模型\n22. 🔧 NVIDIA开发AI芯片定位技术\n23. 📈 亚马逊投资印度350亿美元",
       "is_voice_generated": false
-    },
-    {
-      "title": "Gemini 3 官方免费资格最后上车机会！本周五通道关闭！OpenAI Whisper 被拉下神坛？智谱发布 1.5B “小钢炮”！【AI早报 12月10日】",
-      "publish_date": "2025-12-10",
-      "bv_id": "BV1zVmxBxEmE",
-      "organize_time": "2025-12-10 09:19:25",
-      "news_count": 25,
-      "overview": "1. 🚀 Mistral AI发布Devstral 2与Vibe CLI\n2. 🚀 智谱发布GLM-ASR-Nano-2512语音识别模型\n3. 🚀 智谱开源AutoGLM手机智能助理框架\n4. 📈 Linux基金会成立Agentic AI基金会\n5. 🚀 Gemini CLI候补名单本周五关闭\n6. 🔧 Google Stitch推出Predictive Heatmaps功能\n7. 🚀 Augment Code发布Context Engine SDK\n8. 🔧 Qwen Code发布新版本更新说明\n9. 🚀 DiffSynth-Studio发布Qwen-Image-i2L模型\n10. 🚀 Cognitive-Lab发布NetraEmbed多模态嵌入模型\n11. 🚀 NousResearch开源Nomos-1数学求解模型\n12. 🚀 One-to-All Animation发布角色动画模型\n13. 🚀 inclusionAI发布TwinFlow生成框架\n14. 🚀 stepfun-ai开源PaCoRe推理框架\n15. 🔧 Cerebras发布DeepSeek-V3.2压缩模型\n16. 🔧 Qwen团队介绍SAPO强化学习方法\n17. 📈 OpenAI发布首批认证课程\n18. 🔧 Google测试Veo 3.1模板功能\n19. 📈 OpenAI新图像模型疑似现身\n20. 📈 Meta Avocado模型延期至2026年\n21. 📈 阿里成立千问C端事业群\n22. 📈 印度拟推AI训练版权新规\n23. 📈 美国战争部推出GenAi.mil军事AI平台\n24. 📈 欧盟调查Google涉嫌反竞争行为\n25. 📈 fal完成1.4亿美元D轮融资",
-      "is_voice_generated": true
     }
   ],
   "page": 3,
   "total_pages": 6,
-  "total_count": 116,
-  "generated_time": "2026-02-16 09:22:52"
+  "total_count": 117,
+  "generated_time": "2026-02-17 08:53:20"
 }

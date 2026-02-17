@@ -116,13 +116,46 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 116 条早报</span>
+                        <span id="total-count">共 117 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-17.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">新年礼物：阿里千问开源 Qwen3.5-397B-A17B 模型【AI 早报 2026-02-17】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-17</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1uXZ3BfE6k</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 阿里千问开源Qwen3.5-397B-A17B大模型
+2. 🚀 蚂蚁百灵发布Ling-2.5-1T大模型
+3. 🚀 Manus推出Manus Agents智能体平台
+4. 🔧 Kilo上线优化版Grok Code Fast 1
+5. 📈 智谱启动合伙人计划应对GLM-5算力瓶颈
+6. 📈 ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    8 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-17 08:53:19
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-15.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">字节跳动发布豆包大模型2.0系列【AI 早报 2026-02-15】</h3>
@@ -542,37 +575,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-25.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">MiniMax上线角色扮演模型M2-her API【AI 早报 2026-01-25】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-25</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1wrzmBMEhS</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 MiniMax上线角色扮演模型M2-her API
-2. 🔧 字节跳动发布扩散代码模型Stable-DiffCoder-8B
-3. 🚀 MiroThinker新增报告生成与多格式上传功能
-4. 📈 OpenAI正为ChatGPT开发购物车功能...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    4 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-25 08:49:29
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -619,7 +621,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 116;
+        let totalCount = 117;
         let isLoading = false;
 
         // 工具函数
