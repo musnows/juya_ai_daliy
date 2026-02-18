@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱发布 GLM-4.7-Flash；华为云上线 CodeArts Doer 代码智能体公测版【AI 早报 2026-01-20】",
+      "publish_date": "2026-01-20",
+      "bv_id": "BV1qRkVB3Etd",
+      "organize_time": "2026-01-20 09:01:26",
+      "news_count": 11,
+      "overview": "1. 🚀 智谱AI发布GLM-4.7-Flash轻量级MoE模型\n2. 🚀 华为云上线CodeArts Doer代码智能体公测版\n3. 🚀 阶跃星辰发布阶跃AI桌面助手Windows版\n4. 🚀 扣子推出2.0版本并上线企业版\n5. 🚀 ManusAI上线App Publishing功能\n6. 🚀 昆仑万维发布Skywork Design Agent AI设计工具\n7. 📈 OpenAI阐述AI能力过剩与赋能理念\n8. 🔧 Anthropic揭示Assistant Axis对模型人格稳定性的影响\n9. 🔧 Google DeepMind提出新型探测架构提升长上下文泛化能力\n10. 🚀 安克创新与飞书发布AI录音豆\n11. 🔧 格灵深瞳发布丹青大规模中文视觉语言数据集",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI发文宣布2025年收入超200亿美元；谷歌称暂无在 Gemini 应用投放广告的计划【AI 早报 2026-01-19】",
       "publish_date": "2026-01-19",
       "bv_id": "BV1Fqk8BZE98",
@@ -170,19 +179,10 @@
       "news_count": 13,
       "overview": "1. 🚀 通义千问发布Qwen-Image-2512图像生成模型\n2. 🚀 腾讯开源Youtu-LLM-2B小型大语言模型\n3. 🔧 小米延长MiMo-V2-Flash模型免费公测至1月20日\n4. 🔧 Qwen Code发布v0.6.0版本，新增实验性Skills功能\n5. 🚀 SK Telecom开源A.X-K1大模型，支持13万上下文\n6. 🚀 LG AI Research发布K-EXAONE-236B-A23B混合专家模型\n7. 🚀 Upstage发布Solar-Open-100B商用开源模型\n8. 🚀 NC-AI consortium开源VAETKI-112B-A10B多语言模型\n9. 🚀 细红线发布AI讲书应用“且听”\n10. 📈 月之暗面完成5亿美元C轮融资，估值达43亿美元\n11. 📈 英伟达洽谈30亿美元收购AI21 Labs\n12. 📈 软银40亿美元收购DigitalBridge布局AI算力\n13. 📈 xAI建设第三座超大规模数据中心",
       "is_voice_generated": false
-    },
-    {
-      "title": "突发！DeepSeek 悄悄更新，用户热议！【AI 早报 2025-12-31】",
-      "publish_date": "2025-12-31",
-      "bv_id": "BV1QEiPBpEbN",
-      "organize_time": "2025-12-31 08:57:09",
-      "news_count": 12,
-      "overview": "1. 🔧 DeepSeek App新增语音输入功能，用户热议更新\n2. 🚀 腾讯开源HY-MT1.5翻译模型，支持33种语言互译\n3. 🚀 腾讯发布HY-Motion 1.0文生3D动作模型\n4. 🚀 字节跳动推出语音驱动AI工作空间AnyGen\n5. 🔧 通义千问即将发布Qwen-Image-2512图像生成模型\n6. 🔧 OpenBMB与THUNLP发布法律推理基准LexChain\n7. 🔧 X平台扩展Grok Imagine画幅选项至5种比例\n8. 🔧 Notion开发自定义AI Agent功能，支持自动化触发\n9. 📈 Adobe与Runway达成战略合作，集成Gen-4.5模型\n10. 📈 软银完成对OpenAI 400亿美元投资承诺\n11. 📈 智谱AI启动港股招股，预计1月8日挂牌上市\n12. 📈 MiniMax启动港股招股，预计1月9日挂牌上市",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 6,
-  "total_count": 117,
-  "generated_time": "2026-02-17 08:53:20"
+  "total_count": 118,
+  "generated_time": "2026-02-18 09:08:52"
 }

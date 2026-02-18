@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Anthropic 发布 Claude Sonnet 4.6；xAI 上线 Grok 4.20 测试版【AI 早报 2026-02-18】",
+      "publish_date": "2026-02-18",
+      "bv_id": "BV1uAZDBiEKF",
+      "organize_time": "2026-02-18 09:08:50",
+      "news_count": 12,
+      "overview": "1. 🚀 Anthropic 发布 Claude Sonnet 4.6，增强动态网页搜索能力\n2. 🚀 xAI 上线 Grok 4.20 测试版，马斯克确认发布\n3. 🔧 NotebookLM 新增幻灯片Prompt修订与PPTX导出功能\n4. 🔧 蚂蚁集团开源 Ming-omni-tts 音频生成模型\n5. 🚀 Cohere Labs 发布 Tiny Aya 多语言轻量模型\n6. 🔧 字节跳动开源 BitDance 多模态模型\n7. 🔧 Cursor 2.5 版本更新，推出插件市场\n8. 🔧 OpenAI 修复 GPT-5.3-Codex 请求重定向漏洞\n9. 📈 Cerebras 下调部分免费层级推理额度\n10. 🔧 Intelligent Internet 开源多Agent协作系统 Common Ground Core\n11. 📈 Nerve 加入 OpenAI，参与构建 ChatGPT 搜索功能\n12. 📈 传 Moonshot AI 完成7亿美元融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "新年礼物：阿里千问开源 Qwen3.5-397B-A17B 模型【AI 早报 2026-02-17】",
       "publish_date": "2026-02-17",
       "bv_id": "BV1uXZ3BfE6k",
@@ -170,19 +179,10 @@
       "news_count": 17,
       "overview": "1. 🚀 OpenAI 推出 ChatGPT 年龄预测功能\n2. 🚀 面壁智能发布 AgentCPM-Report 开源模型\n3. 🔧 Overworld 发布 Waypoint-1 实时扩散世界模型\n4. 🚀 Liquid AI 推出 LFM2.5-1.2B-Thinking 端侧推理模型\n5. 🚀 LightOn 发布 OCR 模型 LightOnOCR-2\n6. 🔧 llama.cpp 集成 Anthropic Messages API\n7. 🚀 Anthropic 宣布 Claude Code VS Code 扩展正式上线\n8. 🚀 Anthropic 推出 Claude 健康数据连接功能 Beta 版\n9. 🚀 MiniMax 发布 Agent 2.0 及桌面端 AI 工作空间\n10. 🚀 阿里巴巴推出 AIGC 创意设计平台呜哩\n11. 🔧 OpenRouter 发布 Response Healing 插件自动修复 JSON 格式错误\n12. 📈 Sam Altman 与 Elon Musk 就 ChatGPT 安全问题展开公开争论\n13. 📈 Sam Altman 确认 GPT-5.3 存在并征集用户反馈\n14. 🔧 Codex 将新增多智能体协同功能\n15. 📈 月之暗面估值达 48 亿美元并开启 Kimi 新模型 API 内测\n16. 🔧 X 公司开源 For You 推荐算法\n17. 🚀 Xiaomi MiMo API 开放充值与定价",
       "is_voice_generated": false
-    },
-    {
-      "title": "智谱发布 GLM-4.7-Flash；华为云上线 CodeArts Doer 代码智能体公测版【AI 早报 2026-01-20】",
-      "publish_date": "2026-01-20",
-      "bv_id": "BV1qRkVB3Etd",
-      "organize_time": "2026-01-20 09:01:26",
-      "news_count": 11,
-      "overview": "1. 🚀 智谱AI发布GLM-4.7-Flash轻量级MoE模型\n2. 🚀 华为云上线CodeArts Doer代码智能体公测版\n3. 🚀 阶跃星辰发布阶跃AI桌面助手Windows版\n4. 🚀 扣子推出2.0版本并上线企业版\n5. 🚀 ManusAI上线App Publishing功能\n6. 🚀 昆仑万维发布Skywork Design Agent AI设计工具\n7. 📈 OpenAI阐述AI能力过剩与赋能理念\n8. 🔧 Anthropic揭示Assistant Axis对模型人格稳定性的影响\n9. 🔧 Google DeepMind提出新型探测架构提升长上下文泛化能力\n10. 🚀 安克创新与飞书发布AI录音豆\n11. 🔧 格灵深瞳发布丹青大规模中文视觉语言数据集",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 117,
-  "generated_time": "2026-02-17 08:53:20"
+  "total_count": 118,
+  "generated_time": "2026-02-18 09:08:52"
 }

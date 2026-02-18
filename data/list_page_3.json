@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "突发！DeepSeek 悄悄更新，用户热议！【AI 早报 2025-12-31】",
+      "publish_date": "2025-12-31",
+      "bv_id": "BV1QEiPBpEbN",
+      "organize_time": "2025-12-31 08:57:09",
+      "news_count": 12,
+      "overview": "1. 🔧 DeepSeek App新增语音输入功能，用户热议更新\n2. 🚀 腾讯开源HY-MT1.5翻译模型，支持33种语言互译\n3. 🚀 腾讯发布HY-Motion 1.0文生3D动作模型\n4. 🚀 字节跳动推出语音驱动AI工作空间AnyGen\n5. 🔧 通义千问即将发布Qwen-Image-2512图像生成模型\n6. 🔧 OpenBMB与THUNLP发布法律推理基准LexChain\n7. 🔧 X平台扩展Grok Imagine画幅选项至5种比例\n8. 🔧 Notion开发自定义AI Agent功能，支持自动化触发\n9. 📈 Adobe与Runway达成战略合作，集成Gen-4.5模型\n10. 📈 软银完成对OpenAI 400亿美元投资承诺\n11. 📈 智谱AI启动港股招股，预计1月8日挂牌上市\n12. 📈 MiniMax启动港股招股，预计1月9日挂牌上市",
+      "is_voice_generated": false
+    },
+    {
       "title": "阿里通义开源GUI智能体MAI-UI模型；快手KwaiKAT推出Coding Plan订阅包【AI 早报 2025-12-30】",
       "publish_date": "2025-12-30",
       "bv_id": "BV1EHvbBeEuc",
@@ -170,19 +179,10 @@
       "news_count": 20,
       "overview": "1. 🚀 OpenAI发布GPT-5.2系列模型\n2. 📈 迪士尼与OpenAI达成十年协议\n3. 🚀 谷歌发布Gemini Deep Research API\n4. 🚀 Cursor推出Browser可视化编辑器\n5. 🚀 Augment Code发布AI代码审查工具\n6. 🔧 谷歌推出Disco与GenTabs实验项目\n7. 🚀 Google NotebookLM加入AI Ultra计划\n8. 🚀 Qwen Chat推出Learn Mode学习功能\n9. 🚀 Shisa AI发布V2.1日语模型\n10. 🔧 Sora 2 API发布增量模型更新\n11. 🚀 谷歌在印度推出Google AI Plus订阅\n12. 🔧 智谱将发布支持Claude Code思考的新模型\n13. 🔧 Google DeepMind研究Agent系统扩展\n14. 🔧 谷歌通过MCP开放AI模型基础设施\n15. 📈 雅虎等成立RSL联盟推出RSL 1.0\n16. 📈 ElevenLabs与Meta合作提供AI音频技术\n17. 📈 Google DeepMind加强与英国政府合作\n18. 📈 xAI与萨尔瓦多启动全国性AI教育项目\n19. 📈 MiniMax和智谱计划香港IPO\n20. 🔧 腾讯会员模型名称简化为Tencent t",
       "is_voice_generated": false
-    },
-    {
-      "title": "Adobe将Photoshop等功能集成至ChatGPT【AI 早报 2025-12-11】",
-      "publish_date": "2025-12-11",
-      "bv_id": "BV1vmmKBhEDp",
-      "organize_time": "2025-12-11 09:05:36",
-      "news_count": 23,
-      "overview": "1. 🚀 Adobe集成Photoshop至ChatGPT\n2. 🔧 智谱AI开源GLM-TTS语音模型\n3. 🔧 Google更新Gemini 2.5 TTS模型\n4. 🚀 Qwen发布Qwen3-Omni-Flash全模态模型\n5. 🔧 Claude Code升级Agent SDK\n6. 🔧 VS Code Agent体验重大升级\n7. 🔧 Cursor 2.2引入Debug Mode\n8. 🔧 Google Jules新增主动编程功能\n9. 🚀 智谱AI发布AI输入法\n10. 🔧 Google Pomelli引入动画功能\n11. 🔧 阿里开源Wan-Move视频模型\n12. 🚀 Motif发布12.7B推理模型\n13. 🔧 南贝格开源Nanbeige4-3B模型\n14. 🔧 thu-pacman发布PCMind-2.1模型\n15. 🚀 Arcee AI发布Trinity Mini模型\n16. 🔧 StarCloud卫星训练AI模型成功\n17. 🔧 Onsros AI发布新T内核\n18. 🔧 Google推出Acts事实准确性基准\n19. 📈 Google推广Preferred Sources功能\n20. 📈 OpenAI加强网络安全准备\n21. 📈 DeepMind训练下一代AI模型\n22. 🔧 NVIDIA开发AI芯片定位技术\n23. 📈 亚马逊投资印度350亿美元",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 6,
-  "total_count": 117,
-  "generated_time": "2026-02-17 08:53:20"
+  "total_count": 118,
+  "generated_time": "2026-02-18 09:08:52"
 }
