@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 推出 ChatGPT 年龄预测功能【AI 早报 2026-01-21】",
+      "publish_date": "2026-01-21",
+      "bv_id": "BV16JzGBvEDL",
+      "organize_time": "2026-01-21 09:17:03",
+      "news_count": 17,
+      "overview": "1. 🚀 OpenAI 推出 ChatGPT 年龄预测功能\n2. 🚀 面壁智能发布 AgentCPM-Report 开源模型\n3. 🔧 Overworld 发布 Waypoint-1 实时扩散世界模型\n4. 🚀 Liquid AI 推出 LFM2.5-1.2B-Thinking 端侧推理模型\n5. 🚀 LightOn 发布 OCR 模型 LightOnOCR-2\n6. 🔧 llama.cpp 集成 Anthropic Messages API\n7. 🚀 Anthropic 宣布 Claude Code VS Code 扩展正式上线\n8. 🚀 Anthropic 推出 Claude 健康数据连接功能 Beta 版\n9. 🚀 MiniMax 发布 Agent 2.0 及桌面端 AI 工作空间\n10. 🚀 阿里巴巴推出 AIGC 创意设计平台呜哩\n11. 🔧 OpenRouter 发布 Response Healing 插件自动修复 JSON 格式错误\n12. 📈 Sam Altman 与 Elon Musk 就 ChatGPT 安全问题展开公开争论\n13. 📈 Sam Altman 确认 GPT-5.3 存在并征集用户反馈\n14. 🔧 Codex 将新增多智能体协同功能\n15. 📈 月之暗面估值达 48 亿美元并开启 Kimi 新模型 API 内测\n16. 🔧 X 公司开源 For You 推荐算法\n17. 🚀 Xiaomi MiMo API 开放充值与定价",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱发布 GLM-4.7-Flash；华为云上线 CodeArts Doer 代码智能体公测版【AI 早报 2026-01-20】",
       "publish_date": "2026-01-20",
       "bv_id": "BV1qRkVB3Etd",
@@ -170,19 +179,10 @@
       "news_count": 7,
       "overview": "1. 🚀 至知创新研究院发布IQuest-Coder-V1开源代码大模型\n2. 🔧 DeepSeek发布mHC架构论文，梁文锋位列作者名单\n3. 🚀 iFlow上线iFlow-ROME-30B-A3B预览版模型\n4. 🔧 月之暗面kimi-cli新增视频支持，拟发布K2.1/K2.5新模型\n5. 🚀 Prime Intellect开源递归语言模型RLM\n6. 🚀 BlinkDL发布RWKV-7-G1系列模型，涵盖2.9B至13.3B规模\n7. 📈 OpenAI将发布新音频模型，预计2026年Q1亮相",
       "is_voice_generated": false
-    },
-    {
-      "title": "通义千问发布Qwen-Image-2512；腾讯混元开源Youtu-LLM-2B；小米延长MiMo-V2-Flash公测【AI 早报 2026-01-01】",
-      "publish_date": "2026-01-01",
-      "bv_id": "BV18WiLBUEP6",
-      "organize_time": "2026-01-01 09:12:59",
-      "news_count": 13,
-      "overview": "1. 🚀 通义千问发布Qwen-Image-2512图像生成模型\n2. 🚀 腾讯开源Youtu-LLM-2B小型大语言模型\n3. 🔧 小米延长MiMo-V2-Flash模型免费公测至1月20日\n4. 🔧 Qwen Code发布v0.6.0版本，新增实验性Skills功能\n5. 🚀 SK Telecom开源A.X-K1大模型，支持13万上下文\n6. 🚀 LG AI Research发布K-EXAONE-236B-A23B混合专家模型\n7. 🚀 Upstage发布Solar-Open-100B商用开源模型\n8. 🚀 NC-AI consortium开源VAETKI-112B-A10B多语言模型\n9. 🚀 细红线发布AI讲书应用“且听”\n10. 📈 月之暗面完成5亿美元C轮融资，估值达43亿美元\n11. 📈 英伟达洽谈30亿美元收购AI21 Labs\n12. 📈 软银40亿美元收购DigitalBridge布局AI算力\n13. 📈 xAI建设第三座超大规模数据中心",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 6,
-  "total_count": 118,
-  "generated_time": "2026-02-18 09:08:52"
+  "total_count": 119,
+  "generated_time": "2026-02-19 09:39:27"
 }

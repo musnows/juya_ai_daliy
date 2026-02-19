@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 118 条早报</span>
+                        <span id="total-count">共 119 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-19.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Google DeepMind 发布 Lyria 3 音乐生成模型并已上线 Gemini【AI 早报 2026-02-19】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-19</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1WfZ8BqEu6</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Google DeepMind 发布 Lyria 3 音乐生成模型并集成至 Gemini
+2. 🔧 xAI 推出 Grok 4.20 Heavy 支持16-Agent协作模式
+3. 🚀 Prime Intellect 开源106B参数 MoE 模型 INTELLECT-3.1
+4. 🚀 印...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    12 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-19 09:39:25
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-18.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Anthropic 发布 Claude Sonnet 4.6；xAI 上线 Grok 4.20 测试版【AI 早报 2026-02-18】</h3>
@@ -541,38 +572,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-01-29.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">腾讯开源HunyuanImage 3.0图像编辑模型【AI 早报 2026-01-29】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-01-29</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV19vzdB5EuS</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 腾讯开源HunyuanImage 3.0图像编辑模型
-2. 🚀 美团开源LongCat-Flash-Lite模型
-3. 🚀 MiniMax发布M2-her多角色交互模型
-4. 🔧 Cerebras推出MiniMax-M2.1-REAP剪枝模型
-5. 🚀 昆仑万维发布AI音乐生成模型Mure...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    18 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-01-29 09:09:58
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -619,7 +618,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 118;
+        let totalCount = 119;
         let isLoading = false;
 
         // 工具函数
