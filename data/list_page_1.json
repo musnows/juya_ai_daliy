@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Anthropic 发布 Claude Code Security【AI 早报 2026-02-21】",
+      "publish_date": "2026-02-21",
+      "bv_id": "BV1XAf7BnEy6",
+      "organize_time": "2026-02-21 09:13:37",
+      "news_count": 14,
+      "overview": "1. 🚀 Anthropic 发布 Claude Code Security 安全工具\n2. 🔧 Claude Code 桌面版迎来重大功能更新\n3. 📈 Anthropic 员工回应 Claude Agent SDK 与 OAuth 争议\n4. 🔧 GPT-5.3-Codex-Spark 实现超1200 tokens/s高速推理\n5. 🔧 Google CLI 开放 Gemini 3.1 Pro 访问权限\n6. 🔧 Ollama 新版原生集成 Cline 与 Pi 工具\n7. 📈 GGML 团队正式加入 Hugging Face 开源生态\n8. 📈 智谱 MiniMax 市值连续超越快手与京东\n9. 📈 Karpathy 预言传统 App Store 模式将过时\n10. 🚀 OpenAI 或将推出 ChatGPT Pro Lite 订阅服务\n11. 🚀 Google DeepMind 预告将发布新一代 Gemma 模型\n12. 🚀 传 OpenAI 正在研发首款AI摄像头智能音箱\n13. 📈 OpenAI 获软银领衔百亿美元战略注资\n14. 🔧 OpenAI 扩展 ChatGPT Thinking 模式上下文窗口",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google DeepMind 发布 Lyria 3 音乐生成模型并已上线 Gemini【AI 早报 2026-02-19】",
       "publish_date": "2026-02-19",
       "bv_id": "BV1WfZ8BqEu6",
@@ -170,19 +179,10 @@
       "news_count": 15,
       "overview": "1. 🚀 Qwen团队开源Qwen3-TTS多语言语音合成模型\n2. 🚀 百川智能发布医疗大模型M3 Plus\n3. 🚀 百度发布文心大模型5.0正式版\n4. 🔧 谷歌DeepMind推出D4RT 4D重建模型\n5. 🚀 Cua发布开源Computer-Use Agent基础设施\n6. 🔧 Gradium推出顶尖语音克隆技术\n7. 🔧 谷歌AI Mode in Search新增Personal Intelligence功能\n8. 🚀 秘塔AI推出MetaLaw免费合同审查功能\n9. 🔧 Anthropic发布Claude Code最佳实践指南\n10. 🚀 腾讯云发布CodeBuddy Code 2.0\n11. 🔧 Cursor 2.4发布引入subagents功能\n12. 🔧 OpenAI发布Codex CLI 0.89.0版本更新\n13. 🔧 JetBrains IDE集成OpenAI Codex\n14. 📈 OpenAI探索基于成果的盈利模式\n15. 📈 OpenAI寻求500亿美元新融资",
       "is_voice_generated": false
-    },
-    {
-      "title": "微软开源语音识别模型 VibeVoice-ASR【AI 早报 2026-01-22】",
-      "publish_date": "2026-01-22",
-      "bv_id": "BV1mHznBKEzj",
-      "organize_time": "2026-01-22 09:17:41",
-      "news_count": 19,
-      "overview": "1. 🚀 微软开源9B参数语音识别模型VibeVoice-ASR\n2. 🔧 Anthropic发布Claude新宪法规范AI行为\n3. 🚀 Cognition推出代码审查工具Devin Review\n4. 🚀 LangChain发布LangSmith Agent Builder智能体构建平台\n5. 🚀 FlashLabs发布开源语音对话模型Chroma 1.0\n6. 🚀 Vercel发布开源智能体技能生态系统\n7. 🚀 SweepAI发布15亿参数代码编辑模型\n8. 🚀 Inworld AI发布TTS-1.5语音合成模型\n9. 🔧 Ollama新增图像生成功能\n10. 🔧 Gemini CLI发布版本更新\n11. 🚀 Stitch推出Gemini扩展与服务器\n12. 🚀 LM Arena推出视频模型评测平台\n13. 📈 智谱AI语音输入法永久免费\n14. 📈 智谱AI限售编程计划额度\n15. 🔧 OpenAI推送ChatGPT语音更新\n16. 🔧 ChatGPT Atlas优化界面与搜索功能\n17. 🚀 谷歌教育版Workspace整合Gemini功能\n18. 🚀 谷歌推出免费SAT备考功能\n19. 📈 OpenAI扩展国家合作计划",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 6,
-  "total_count": 119,
-  "generated_time": "2026-02-20 09:12:59"
+  "total_count": 120,
+  "generated_time": "2026-02-21 09:13:39"
 }

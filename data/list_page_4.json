@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google 更新 Gemini 2.5 Flash Native Audio【AI 早报 2025-12-13】",
+      "publish_date": "2025-12-13",
+      "bv_id": "BV1qkmSB9EJ4",
+      "organize_time": "2025-12-13 09:37:53",
+      "news_count": 17,
+      "overview": "1. 🚀 Google更新Gemini 2.5 Flash音频模型\n2. 🔧 Claude Code新增Android支持与多项更新\n3. 🔧 OpenAI Codex CLI支持设备登录与Skills机制\n4. 🔧 Google Gemini CLI新增会话管理功能\n5. 🔧 Chrome DevTools集成AI调试与MCP支持\n6. 🔧 Kiro CLI集成代码智能与LSP支持\n7. 🚀 字节跳动开源Dolphin-v2文档解析模型\n8. 🚀 OpenAI为Sora推出三种新风格\n9. 🚀 Runway发布GWM-1通用世界模型\n10. 🚀 智谱AI上线AutoGLM-Phone智能助理框架\n11. 🔧 llama.cpp新增模型路由模式\n12. 🚀 Ai2发布Olmo 3.1模型系列\n13. 🔧 智谱开源四项视频生成核心技术\n14. 🔧 伯克利发布DS Serve高效检索框架\n15. 🚀 SCAIL发布角色动画新框架\n16. 🚀 Tinker平台正式发布并更新\n17. 🔧 Google DeepMind展示Veo机器人评估系统",
+      "is_voice_generated": false
+    },
+    {
       "title": "重归王座！OpenAI发布GPT-5.2系列；谷歌推出Gemini Deep Research API【AI早报 2025-12-12】",
       "publish_date": "2025-12-12",
       "bv_id": "BV1Sem5BGEnK",
@@ -170,19 +179,10 @@
       "news_count": 4,
       "overview": "1. 🔧 Google发布Nano Banana Pro开发者指南\n2. 🚀 Sentry推出AI代码审查功能\n3. 📈 Anthropic或即将发布Claude Opus 4.5\n4. 🔧 xAI开发Grok Code Remote功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "Qwen Coder 网页版上线【AI 早报 2025-11-23】",
-      "publish_date": "2025-11-23",
-      "bv_id": "BV14CUwBrEoF",
-      "organize_time": "2025-11-24 09:04:49",
-      "news_count": 10,
-      "overview": "1. 🚀 Qwen Coder网页版上线\n2. 🚀 Qwen新图像编辑模型将发布\n3. 🔧 OpenAI重置Codex用户速率限制\n4. 🚀 Meta发布WorldGen文本生成3D世界系统\n5. 🚀 MiroMind发布MiroThinker v1.0开源研究Agent\n6. 🔧 Anthropic研究揭示奖励骇客致AI失准\n7. 🔧 OpenAI与Anthropic联合提案MCP交互界面扩展\n8. 📈 谷歌搜索AI模式测试广告功能\n9. 🚀 Cerebras推理服务上线Microsoft Marketplace\n10. 📈 OpenAI与富士康合作开发AI基础设施",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 6,
-  "total_count": 119,
-  "generated_time": "2026-02-20 09:12:59"
+  "total_count": 120,
+  "generated_time": "2026-02-21 09:13:39"
 }
