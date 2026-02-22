@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱为 GLM Coding Plan 用户致歉并提出补偿方案【AI 早报 2026-02-22】",
+      "publish_date": "2026-02-22",
+      "bv_id": "BV1gLZfB8Ewq",
+      "organize_time": "2026-02-22 08:44:07",
+      "news_count": 11,
+      "overview": "1. 📈 智谱为GLM Coding Plan规则变动致歉并推补偿方案\n2. 🚀 阿里云千问发布Qwen Coding Plan编程助手\n3. 🔧 Claude Code新增内置Git Worktree支持\n4. 🔧 OpenAI扩展Batch API支持GPT图像模型\n5. 📈 微软确认Copilot默认共享Bing与Edge数据\n6. 🔧 OpenClaw发布v2026.2.21版本更新\n7. 🚀 Taalas发布HC1固化模型推理芯片\n8. 📈 Andrej Karpathy评析Claw技术及安全隐患\n9. 📈 OpenAI曾考虑就加拿大枪手聊天内容报警\n10. 📈 OpenAI文件显示五年收入预期上调\n11. 🚀 Anthropic拟推Claude CLI命令行工具",
+      "is_voice_generated": false
+    },
+    {
       "title": "Anthropic 发布 Claude Code Security【AI 早报 2026-02-21】",
       "publish_date": "2026-02-21",
       "bv_id": "BV1XAf7BnEy6",
@@ -170,19 +179,10 @@
       "news_count": 13,
       "overview": "1. 🚀 Anthropic 发布 Claude in Excel 预览版\n2. 🚀 Claude Cowork 向 Team 和 Enterprise 用户开放\n3. 🔧 Claude Code 整合命令并升级任务系统\n4. 🚀 JetBrains IDE 将推出 ACP Agent Registry\n5. 🔧 Stitch 发布 Agent Skills design-md 设计规范\n6. 🔧 Cerebras 推出 GLM-4.7-Flash-REAP 剪枝模型\n7. 🚀 Google Photos 推出 AI 生成表情包功能\n8. 🚀 OpenAI 将发布 Codex 相关新产品\n9. 🔧 OpenAI 发布 Codex 技术解析系列首篇文章\n10. 🔧 OpenAI 介绍 Eval 框架优化 Codex 技能\n11. 🔧 OpenAI 介绍 PostgreSQL 扩展至8亿用户架构\n12. 📈 Sakana AI 获 Google 投资并展开合作\n13. 📈 Meta 将暂停青少年访问 AI 角色功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "Qwen团队开源Qwen3-TTS多语言语音合成模型【AI 早报 1月23日】",
-      "publish_date": "2026-01-23",
-      "bv_id": "BV1MVzNB4EMT",
-      "organize_time": "2026-01-23 09:18:15",
-      "news_count": 15,
-      "overview": "1. 🚀 Qwen团队开源Qwen3-TTS多语言语音合成模型\n2. 🚀 百川智能发布医疗大模型M3 Plus\n3. 🚀 百度发布文心大模型5.0正式版\n4. 🔧 谷歌DeepMind推出D4RT 4D重建模型\n5. 🚀 Cua发布开源Computer-Use Agent基础设施\n6. 🔧 Gradium推出顶尖语音克隆技术\n7. 🔧 谷歌AI Mode in Search新增Personal Intelligence功能\n8. 🚀 秘塔AI推出MetaLaw免费合同审查功能\n9. 🔧 Anthropic发布Claude Code最佳实践指南\n10. 🚀 腾讯云发布CodeBuddy Code 2.0\n11. 🔧 Cursor 2.4发布引入subagents功能\n12. 🔧 OpenAI发布Codex CLI 0.89.0版本更新\n13. 🔧 JetBrains IDE集成OpenAI Codex\n14. 📈 OpenAI探索基于成果的盈利模式\n15. 📈 OpenAI寻求500亿美元新融资",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
-  "total_pages": 6,
-  "total_count": 120,
-  "generated_time": "2026-02-21 09:13:39"
+  "total_pages": 7,
+  "total_count": 121,
+  "generated_time": "2026-02-22 08:44:09"
 }
