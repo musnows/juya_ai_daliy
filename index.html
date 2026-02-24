@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 121 条早报</span>
+                        <span id="total-count">共 122 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-24.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI 上线 gpt-realtime-1.5 语音模型【AI 早报 2026-02-24】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-24</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1LHfrBxEUR</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI 上线 gpt-realtime-1.5 语音模型
+2. 🔧 Guide Labs 推出可解释因果扩散语言模型 Steerling-8B
+3. 🔧 OpenAI Responses API 新增 WebSocket 模式
+4. 📈 Google 回应封禁滥用 Antigravi...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    11 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-24 08:59:57
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-22.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">智谱为 GLM Coding Plan 用户致歉并提出补偿方案【AI 早报 2026-02-22】</h3>
@@ -538,39 +569,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-02.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">阿里 Qoder 发布 Qwen-Coder-Qoder【AI 早报 2026-02-02】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-02-02</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1iQ6hBJEDi</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 阿里Qoder发布Qwen-Coder-Qoder代码生成模型
-2. 🚀 CircleStone推出文生图模型Anima预览版
-3. 🔧 Claude Code团队分享内部使用技巧集
-4. 📈 Moltbook数据库发生数据泄露事件
-5. 📈 北京经开区颁发全国首个AI虚拟偶像身份认证
-6...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    8 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-02-02 08:44:54
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -617,7 +615,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 121;
+        let totalCount = 122;
         let isLoading = false;
 
         // 工具函数

@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 上线 gpt-realtime-1.5 语音模型【AI 早报 2026-02-24】",
+      "publish_date": "2026-02-24",
+      "bv_id": "BV1LHfrBxEUR",
+      "organize_time": "2026-02-24 08:59:57",
+      "news_count": 11,
+      "overview": "1. 🚀 OpenAI 上线 gpt-realtime-1.5 语音模型\n2. 🔧 Guide Labs 推出可解释因果扩散语言模型 Steerling-8B\n3. 🔧 OpenAI Responses API 新增 WebSocket 模式\n4. 📈 Google 回应封禁滥用 Antigravity 的 Gemini 订阅用户\n5. 📈 Anthropic 推广 COBOL 代码自动化迁移方案\n6. 🚀 Gemini 上线视频模板功能\n7. 🔧 openclaw 发布 2026.2.22 版本\n8. 📈 Anthropic 指控三家中国 AI 实验室进行工业级模型蒸馏攻击\n9. 📈 五角大楼考虑终止与 Anthropic 的 AI 军事合同\n10. 📈 OpenAI 联手四大咨询巨头组建 Frontier 企业 AI 联盟\n11. 📈 月之暗面 Kimi 近20天收入超2025全年",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱为 GLM Coding Plan 用户致歉并提出补偿方案【AI 早报 2026-02-22】",
       "publish_date": "2026-02-22",
       "bv_id": "BV1gLZfB8Ewq",
@@ -170,19 +179,10 @@
       "news_count": 4,
       "overview": "1. 🚀 MiniMax上线角色扮演模型M2-her API\n2. 🔧 字节跳动发布扩散代码模型Stable-DiffCoder-8B\n3. 🚀 MiroThinker新增报告生成与多格式上传功能\n4. 📈 OpenAI正为ChatGPT开发购物车功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "Anthropic 发布 Claude in Excel 预览版【AI 早报 2026-01-24】",
-      "publish_date": "2026-01-24",
-      "bv_id": "BV1B5z6BkEB8",
-      "organize_time": "2026-01-24 09:19:05",
-      "news_count": 13,
-      "overview": "1. 🚀 Anthropic 发布 Claude in Excel 预览版\n2. 🚀 Claude Cowork 向 Team 和 Enterprise 用户开放\n3. 🔧 Claude Code 整合命令并升级任务系统\n4. 🚀 JetBrains IDE 将推出 ACP Agent Registry\n5. 🔧 Stitch 发布 Agent Skills design-md 设计规范\n6. 🔧 Cerebras 推出 GLM-4.7-Flash-REAP 剪枝模型\n7. 🚀 Google Photos 推出 AI 生成表情包功能\n8. 🚀 OpenAI 将发布 Codex 相关新产品\n9. 🔧 OpenAI 发布 Codex 技术解析系列首篇文章\n10. 🔧 OpenAI 介绍 Eval 框架优化 Codex 技能\n11. 🔧 OpenAI 介绍 PostgreSQL 扩展至8亿用户架构\n12. 📈 Sakana AI 获 Google 投资并展开合作\n13. 📈 Meta 将暂停青少年访问 AI 角色功能",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 121,
-  "generated_time": "2026-02-23 08:59:30"
+  "total_count": 122,
+  "generated_time": "2026-02-24 08:59:58"
 }
