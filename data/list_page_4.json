@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "重磅！Gemini、Gemma、MiniMax 新模型将发！Google、阿里、OpenAI、NVIDIA大动作！【AI早报 2025-12-16】",
+      "publish_date": "2025-12-16",
+      "bv_id": "BV1CKqtBkELD",
+      "organize_time": "2025-12-16 09:10:27",
+      "news_count": 20,
+      "overview": "1. 🚀 阿里通义开源两款语音模型\n2. 🚀 OpenAI发布三款音频模型\n3. 🚀 AI2发布Bolmo字节级语言模型\n4. 🚀 NVIDIA推出Nemotron 3开源系列\n5. 🔧 KwaiKAT升级代码模型\n6. 🔧 LongCat启动Flash-Chat灰度更新\n7. 🚀 ResembleAI开源语音克隆模型\n8. 🔧 Google增强Gemini视觉报告功能\n9. 📰 Google Gemini Agent支持租车\n10. 📰 ChatGPT移动端支持分支对话\n11. 📰 Claude上线礼品卡服务\n12. 🚀 Manus发布1.6版本及移动开发功能\n13. 📰 蚂蚁集团AI应用升级为“阿福”\n14. 🚀 商汤发布Seko 2.0智能体\n15. 🚀 阿里云WAN 2.6即将发布\n16. 🔧 llama.cpp实现GPU内存自动化\n17. 🚀 IBM发布开源Agent CUGA\n18. 🚀 zai-org开源角色动画框架\n19. 🔧 RealGen提升图像生成真实感\n20. 🚀 苹果发布Sharp视图合成模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "xAI发布Grok应用更新【AI 早报 2025-12-15】",
       "publish_date": "2025-12-15",
       "bv_id": "BV1oumkBAEQM",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 阿里通义发布Z-Image图像生成模型\n2. 🚀 Google Gemini推出互动图像学习功能\n3. 📈 OpenAI将推Apps目录并预期2.2亿付费用户\n4. 🚀 Perplexity上线个性化记忆与语言导师功能\n5. 🚀 智谱AI发布小凹语音输入法\n6. 🚀 腾讯混元3D引擎上线国际站及API\n7. 🚀 AllenAI发布Deep Research Tulu Agent\n8. 🔧 Anthropic发布长效Agent工作流程方案\n9. 🔧 Gemini CLI发布v0.17.0扩展新功能\n10. 🔧 GitHub Mobile支持外部应用启动Copilot Agent\n11. 🚀 Adobe发布Project Graph节点式创作系统\n12. 📈 英伟达重申AI基础设施领先并计划生态投资",
       "is_voice_generated": false
-    },
-    {
-      "title": "Black Forest Labs 发布 FLUX.2 系列模型【AI 早报 2025-11-26】",
-      "publish_date": "2025-11-26",
-      "bv_id": "BV1rNU8B3EkQ",
-      "organize_time": "2025-11-26 09:21:03",
-      "news_count": 22,
-      "overview": "1. 🚀 Black Forest Labs发布FLUX.2模型\n2. 🔧 OpenAI集成ChatGPT语音模式至聊天界面\n3. 🚀 inclusionAI发布LLaDA2.0系列模型\n4. 🚀 Nari Labs发布流式对话TTS模型Dia2\n5. 🚀 腾讯混元开源HunyuanOCR专家模型\n6. 🔧 OpenAI改进Sora 2减少视频闪烁问题\n7. 🔧 Google推出Gemini交互式图像功能\n8. 🚀 Google发布agentic calling功能让AI致电商家\n9. 🚀 Claude发布桌面版Code及Plan Mode升级\n10. 🔧 GitHub发布Copilot自定义Agent编写指南\n11. 🚀 TRAE中国版上线SOLO模式\n12. 🔧 Kiro推出Multi-root workspaces功能\n13. 📈 MiniMax Coding Plan推出黑五促销活动\n14. 📈 Anthropic发布AI任务效率与诚实度研究报告\n15. 🚀 Rama Index推出Rama She的API\n16. 🔧 Telm发布Special SSR框架\n17. 🔧 Ons Labs推出FP8强化学习功能\n18. 📈 OpenAI发布AI评估框架指南\n19. 📈 马斯克计划让Grok 5挑战人类英雄联盟团队\n20. 📈 谷歌开发Luminary OS新操作系统\n21. 📈 陶哲轩使用AI助手解决数学问题\n22. 📈 美国启动创世使命AI科研计划",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 7,
-  "total_count": 122,
-  "generated_time": "2026-02-24 08:59:58"
+  "total_count": 123,
+  "generated_time": "2026-02-25 09:30:49"
 }

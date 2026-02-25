@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 122 条早报</span>
+                        <span id="total-count">共 123 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-25.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">阿里千问发布 Qwen3.5 模型系列多个模型【AI 早报 2026-02-25】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-02-25</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1hHfxBgEhb</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 阿里千问发布Qwen3.5模型系列
+2. 🔧 Anthropic推出Claude Code Remote Control功能
+3. 🔧 Anthropic发布Claude Cowork重大更新
+4. 🚀 OpenAI全面开放GPT-5.3-Codex模型API
+5. 🚀 Inception...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    28 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-02-25 09:30:48
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-24.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI 上线 gpt-realtime-1.5 语音模型【AI 早报 2026-02-24】</h3>
@@ -537,38 +569,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-03.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">OpenAI 发布 Codex App；SpaceX 收购 xAI【AI 早报 2026-02-03】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-02-03</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV14ZFGzwENR</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 OpenAI 发布 Codex App，推动代码生成工具普及
-2. 📈 SpaceX 正式收购 xAI，强化航天与AI融合布局
-3. 🔧 阶跃星辰开源 Step 3.5 Flash 模型，提升推理效率
-4. 🔧 智谱开源 GLM-OCR 模型，提升多模态文本识别能力
-5. 🚀 Eleven...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    12 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-02-03 09:00:27
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -615,7 +615,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 122;
+        let totalCount = 123;
         let isLoading = false;
 
         // 工具函数
