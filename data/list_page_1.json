@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 完成 1100 亿美元融资并与亚马逊达成战略合作【AI 早报 2026-02-28】",
+      "publish_date": "2026-02-28",
+      "bv_id": "BV1UPA4zLENA",
+      "organize_time": "2026-02-28 09:08:29",
+      "news_count": 8,
+      "overview": "1. 📈 OpenAI完成1100亿美元融资并与亚马逊达成战略合作\n2. 🔧 Google Antigravity恢复部分账户但重申禁用第三方工具\n3. 🔧 Anthropic重置Claude Code用户速率限制\n4. 🚀 谷歌将终止Gemini 3 Pro Preview服务\n5. 📈 Anthropic与美国战争部因AI安全限制爆发冲突\n6. 🚀 OpenAI发布心理健康功能更新并回应诉讼合并\n7. 📈 七家科技巨头将签署AI数据中心用电协议\n8. 🚀 阿里千问AI眼镜将于MWC亮相并开启预约",
+      "is_voice_generated": false
+    },
+    {
       "title": "阿里千问发布 Qwen3.5 模型系列多个模型【AI 早报 2026-02-25】",
       "publish_date": "2026-02-25",
       "bv_id": "BV1hHfxBgEhb",
@@ -170,19 +179,10 @@
       "news_count": 18,
       "overview": "1. 🚀 腾讯开源HunyuanImage 3.0图像编辑模型\n2. 🚀 美团开源LongCat-Flash-Lite模型\n3. 🚀 MiniMax发布M2-her多角色交互模型\n4. 🔧 Cerebras推出MiniMax-M2.1-REAP剪枝模型\n5. 🚀 昆仑万维发布AI音乐生成模型Mureka V8\n6. 🚀 Robbyant Team开源交互式世界模型LingBot-World\n7. 🚀 JetBrains推出ACP Agent Registry\n8. 🔧 Gemini CLI发布0.26.0版新增多项功能\n9. 🚀 月之暗面发布Kimi Agent SDK\n10. 🔧 LM Studio发布0.4.0版本\n11. 🚀 Google正式发布LiteRT框架\n12. 🚀 谷歌为Chrome上线Gemini侧边栏\n13. 🚀 微软在Excel推出Copilot Agent模式\n14. 🚀 谷歌为Gemini新增SAT与JEE备考功能\n15. 🚀 雅虎推出AI答案引擎Yahoo Scout\n16. 🚀 Genspark发布AI Workspace 2.0获3亿美元融资\n17. 🚀 Vidu AI发布Agent 1.0\n18. 📈 Arena品牌重塑聚焦AI技术前沿评估",
       "is_voice_generated": false
-    },
-    {
-      "title": "月之暗面发布并开源 Kimi K2.5【AI 早报 2026-01-28】",
-      "publish_date": "2026-01-28",
-      "bv_id": "BV1rQ65BLEe2",
-      "organize_time": "2026-01-28 09:39:20",
-      "news_count": 15,
-      "overview": "1. 🚀 月之暗面发布并开源 Kimi K2.5 模型\n2. 🚀 通义实验室发布图像生成模型 Z-Image 标准版\n3. 🚀 OpenAI推出免费AI科研协作平台Prism\n4. 🔧 Google调整AI订阅用户权益体系\n5. 🚀 DeepSeek开源DeepSeek-OCR 2模型\n6. 🚀 腾讯优图发布4B参数视觉语言模型\n7. 🚀 Jan团队发布Jan-v3-4B-base-instruct模型\n8. 🚀 Arcee AI发布Trinity Large稀疏MoE模型\n9. 🚀 艾伦AI发布开源编码模型SERA系列\n10. 🔧 Google AI Overviews升级支持对话交互\n11. 🔧 Gemini新增模型切换键盘快捷指令\n12. 🔧 Gemini 3 Flash引入Agentic Vision能力\n13. 🔧 GitHub仓库新增Agents管理标签页\n14. 🚀 Kilo Code发布AI代码审查工具\n15. 📈 Kiro调整免费用户Opus 4.5访问权限",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 123,
-  "generated_time": "2026-02-27 09:52:59"
+  "total_count": 124,
+  "generated_time": "2026-02-28 09:08:31"
 }

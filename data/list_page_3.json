@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "英伟达发布Rubin架构及系列开源AI模型；腾讯元宝回应AI助手辱骂用户事件【AI 早报 2026-01-06】",
+      "publish_date": "2026-01-06",
+      "bv_id": "BV1LgifB7E5t",
+      "organize_time": "2026-01-06 09:20:50",
+      "news_count": 15,
+      "overview": "1. 🚀 英伟达发布Rubin架构及四大开源AI模型\n2. 🔧 TII发布Falcon H1R 7B混合架构推理模型\n3. 🚀 华为开源openPangu-VL-7B多模态模型\n4. 🚀 亚马逊发布Alexa+网页版并重构移动端应用\n5. 📈 波士顿动力与谷歌DeepMind达成AI战略合作\n6. 🚀 谷歌发布Google TV版Gemini新功能\n7. 📈 谷歌DeepMind暗示将恢复产品发布节奏\n8. 🔧 OpenAI调整Codex CLI周限额机制\n9. 📈 Trae与Supabase达成深度集成合作\n10. 🚀 腾讯ima.copilot上线PPT生成功能\n11. 🔧 字节跳动发布SeedFold生物分子结构预测模型\n12. 📈 字节跳动回应豆包AI眼镜出货传闻不实\n13. 🔧 字节跳动豆包1.8大模型恢复公开API调用\n14. 📈 腾讯元宝回应AI助手辱骂用户事件\n15. 📈 微信启动2026年度AI小程序成长计划",
+      "is_voice_generated": true
+    },
+    {
       "title": "智谱或将发布 GLM-Image 图像生成模型；MiroMind 开源 MiroThinker-v1.5【AI 早报 2026-01-05】",
       "publish_date": "2026-01-05",
       "bv_id": "BV1H9iWBcEDX",
@@ -170,19 +179,10 @@
       "news_count": 22,
       "overview": "1. 🚀 Google发布Gemini 3 Flash模型\n2. 🔧 Gemini CLI集成Gemini 3 Flash\n3. 🚀 OpenAI开放ChatGPT应用提交\n4. 🚀 微软发布TRELLIS.2 3D生成模型\n5. 🚀 腾讯开源HY World 1.5世界模型\n6. 🚀 通义发布QwenLong-L1.5模型\n7. 🚀 Browser Use发布BU-30B-A3B模型\n8. 🔧 阶跃星辰升级Step-GUI模型\n9. 🚀 xAI发布Grok Voice Agent API\n10. 🚀 Exa AI发布十亿级人物搜索\n11. 🔧 蚂蚁开源A-Environment平台\n12. 🔧 SGL团队发布迷你SGL推理框架\n13. 🔧 昂斯老推出手机端微调方案\n14. 📈 论文揭示模型隐藏意图能力\n15. 📈 OpenAI拟升级Code模型至GPT5.2\n16. 📈 Minimax将发布M2.1模型\n17. 📈 字节将发布豆包Seed1.8模型\n18. 📈 OpenAI拟融资100亿美元\n19. 📈 英伟达拟削减RTX50供应\n20. 📈 Anthropic合作建70亿数据中心\n21. 📈 Firefox将进化为AI浏览器\n22. 📈 Lovable估值达66亿美元",
       "is_voice_generated": false
-    },
-    {
-      "title": "对标DeepSeek，API限时免费！小米开源 309B MoE 模型 MiMo-V2-Flash【AI 早报 2025-12-17】",
-      "publish_date": "2025-12-17",
-      "bv_id": "BV1Exq3BRE6k",
-      "organize_time": "2025-12-17 09:11:35",
-      "news_count": 18,
-      "overview": "1. 🚀 小米开源309B MoE模型MiMo-V2-Flash\n2. 🚀 OpenAI发布GPT Image 1.5图像模型\n3. 🚀 字节跳动发布Seedance 1.5 Pro音视频模型\n4. 🚀 阿里发布万相2.6视频生成模型\n5. 🚀 美团开源LongCat-Video-Avatar角色动画模型\n6. 🚀 NVIDIA发布Nemotron-Cascade推理模型\n7. 🚀 Ai2发布Molmo 2多模态模型\n8. 🚀 BFL发布FLUX.2 [max]图像生成模型\n9. 🚀 Meta发布SAM Audio音频分离模型\n10. 🔧 Claude Code发布多项功能更新\n11. 🚀 Google推出AI Agent CC邮箱助手\n12. 🔧 OpenAI推出Frontier Science基准\n13. 🚀 Video AI启动全球公测\n14. 🔧 AJS框架在OS World测试中超越人类\n15. 🔧 Cua发布跨NCH综合评估框架\n16. 📈 贝塔斯曼融资40亿美元估值1340亿\n17. 📈 No神以110亿美元估值进行融资\n18. 📈 NVIDIA收购Slurm开发商MD",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 7,
-  "total_count": 123,
-  "generated_time": "2026-02-27 09:52:59"
+  "total_count": 124,
+  "generated_time": "2026-02-28 09:08:31"
 }
