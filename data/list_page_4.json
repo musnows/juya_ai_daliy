@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "以下克上？Google发布Gemini 3 Flash模型；OpenAI开放 ChatGPT 应用提交【AI 早报 2025-12-18】",
+      "publish_date": "2025-12-18",
+      "bv_id": "BV1Y3qJBTER4",
+      "organize_time": "2025-12-18 09:12:55",
+      "news_count": 22,
+      "overview": "1. 🚀 Google发布Gemini 3 Flash模型\n2. 🔧 Gemini CLI集成Gemini 3 Flash\n3. 🚀 OpenAI开放ChatGPT应用提交\n4. 🚀 微软发布TRELLIS.2 3D生成模型\n5. 🚀 腾讯开源HY World 1.5世界模型\n6. 🚀 通义发布QwenLong-L1.5模型\n7. 🚀 Browser Use发布BU-30B-A3B模型\n8. 🔧 阶跃星辰升级Step-GUI模型\n9. 🚀 xAI发布Grok Voice Agent API\n10. 🚀 Exa AI发布十亿级人物搜索\n11. 🔧 蚂蚁开源A-Environment平台\n12. 🔧 SGL团队发布迷你SGL推理框架\n13. 🔧 昂斯老推出手机端微调方案\n14. 📈 论文揭示模型隐藏意图能力\n15. 📈 OpenAI拟升级Code模型至GPT5.2\n16. 📈 Minimax将发布M2.1模型\n17. 📈 字节将发布豆包Seed1.8模型\n18. 📈 OpenAI拟融资100亿美元\n19. 📈 英伟达拟削减RTX50供应\n20. 📈 Anthropic合作建70亿数据中心\n21. 📈 Firefox将进化为AI浏览器\n22. 📈 Lovable估值达66亿美元",
+      "is_voice_generated": false
+    },
+    {
       "title": "对标DeepSeek，API限时免费！小米开源 309B MoE 模型 MiMo-V2-Flash【AI 早报 2025-12-17】",
       "publish_date": "2025-12-17",
       "bv_id": "BV1Exq3BRE6k",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 LongCat上线AI生图功能\n2. 🔧 腾讯混元发布3D Studio 1.1及PolyGen 1.5\n3. 🚀 Kimi上线Agentic Slides并开发记忆功能\n4. 🚀 昆仑万维发布Mureka V7.6和O2音乐模型\n5. 🔧 快手开源Keye-VL-671B-A37B多模态模型\n6. 🚀 Grok Imagine推出文本到视频功能\n7. 📈 Kilo AI发布三大编码模型基准测试\n8. 📈 北京推进太空数据中心建设",
       "is_voice_generated": false
-    },
-    {
-      "title": "DeepSeek开源DeepSeekMath-V2数学推理模型【AI 早报 2025-11-28】",
-      "publish_date": "2025-11-28",
-      "bv_id": "BV1QCSGBLEjP",
-      "organize_time": "2025-11-28 08:52:47",
-      "news_count": 14,
-      "overview": "1. 🚀 DeepSeek开源数学推理模型DeepSeekMath-V2\n2. 🚀 阶跃星辰发布音频推理模型Step-Audio-R1\n3. 🚀 Prime Intellect开源INTELLECT-3模型\n4. 🔧 Google Antigravity提高Pro/Ultra用户速率限制\n5. 📈 智谱AI发布GLM Coding Plan黑五特惠\n6. 📈 Adobe推出网页版Photoshop限时免费计划\n7. 🔧 Manus上线自定义域名功能\n8. 🔧 Moondream发布分割功能\n9. 🔧 X平台使用Grok排序Following时间线\n10. 🔧 阿里巴巴发布Qwen3-VL技术报告\n11. 📈 OpenAI终止使用Mixpanel并通报安全事件\n12. 📈 Suno与华纳音乐集团达成战略合作\n13. 📈 中国开源模型下载量首超美国\n14. 📈 无问芯穹完成近5亿元A+轮融资",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 7,
-  "total_count": 124,
-  "generated_time": "2026-03-01 09:27:03"
+  "total_count": 125,
+  "generated_time": "2026-03-02 08:57:33"
 }

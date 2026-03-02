@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 124 条早报</span>
+                        <span id="total-count">共 125 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-02.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Cognition 发布 SWE-1.6 模型早期预览版【AI 早报 2026-03-02】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-02</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1FAPVzYEEX</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Cognition 发布 SWE-1.6 模型早期预览版
+2. 🚀 Claude 登顶 App Store 并上线记忆导入功能
+3. 🔧 Anthropic 研究揭示 LLM 低成本去匿名化风险
+4. 🔧 Anthropic 分享 Claude Code 工具开发经验
+5. 📈 美军在空袭...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    6 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-02 08:57:32
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-02-28.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI 完成 1100 亿美元融资并与亚马逊达成战略合作【AI 早报 2026-02-28】</h3>
@@ -538,37 +570,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-07.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">美团推出 LongCat-Flash-Lite，免费API可用；神秘模型上线 OpenRouter 与 Kilo Code【AI 早报 2026-02-07】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-02-07</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1pnFHzEEmw</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 美团发布LongCat-Flash-Lite模型，提供免费API服务
-2. 🚀 字节跳动发布视频生成模型Seedance 2.0
-3. 🔧 OpenRouter与Kilo Code联合上线Pony Alpha神秘模型
-4. 🔧 Waymo发布自动驾驶仿真系统Waymo World Mode...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    11 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-02-07 09:08:49
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -615,7 +616,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 124;
+        let totalCount = 125;
         let isLoading = false;
 
         // 工具函数

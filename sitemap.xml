@@ -3,9 +3,15 @@
 
   <url>
     <loc>https://your-domain.com/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/detail/2026-03-02.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://your-domain.com/detail/2026-02-28.html</loc>
@@ -750,6 +756,12 @@
     <lastmod>2025-10-14</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/archive/2026/03.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://your-domain.com/archive/2026/02.html</loc>

@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "腾讯开源HunyuanImage 3.0图像编辑模型【AI 早报 2026-01-29】",
+      "publish_date": "2026-01-29",
+      "bv_id": "BV19vzdB5EuS",
+      "organize_time": "2026-01-29 09:09:58",
+      "news_count": 18,
+      "overview": "1. 🚀 腾讯开源HunyuanImage 3.0图像编辑模型\n2. 🚀 美团开源LongCat-Flash-Lite模型\n3. 🚀 MiniMax发布M2-her多角色交互模型\n4. 🔧 Cerebras推出MiniMax-M2.1-REAP剪枝模型\n5. 🚀 昆仑万维发布AI音乐生成模型Mureka V8\n6. 🚀 Robbyant Team开源交互式世界模型LingBot-World\n7. 🚀 JetBrains推出ACP Agent Registry\n8. 🔧 Gemini CLI发布0.26.0版新增多项功能\n9. 🚀 月之暗面发布Kimi Agent SDK\n10. 🔧 LM Studio发布0.4.0版本\n11. 🚀 Google正式发布LiteRT框架\n12. 🚀 谷歌为Chrome上线Gemini侧边栏\n13. 🚀 微软在Excel推出Copilot Agent模式\n14. 🚀 谷歌为Gemini新增SAT与JEE备考功能\n15. 🚀 雅虎推出AI答案引擎Yahoo Scout\n16. 🚀 Genspark发布AI Workspace 2.0获3亿美元融资\n17. 🚀 Vidu AI发布Agent 1.0\n18. 📈 Arena品牌重塑聚焦AI技术前沿评估",
+      "is_voice_generated": false
+    },
+    {
       "title": "月之暗面发布并开源 Kimi K2.5【AI 早报 2026-01-28】",
       "publish_date": "2026-01-28",
       "bv_id": "BV1rQ65BLEe2",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 OpenAI 发布 ChatGPT Health 独立隐私健康空间\n2. 🔧 Gemini CLI 更新预览版支持 Agent Skills 功能\n3. 🚀 OpenBMB 发布 ChatDev 2.0 多智能体协作平台\n4. 🚀 Liquid AI 与 AMD 合作推出本地会议摘要模型 LFM-2\n5. 🔧 Andrej Karpathy 发布 nanochat 预训练研究成果\n6. 🚀 字节跳动提出 NextFlow 多模态统一生成模型\n7. 📈 中国要求科技公司减少采购英伟达 H200 芯片\n8. 📈 中国审查 Meta 收购 AI 初创公司 Manus 交易\n9. 📈 Anthropic 计划启动百亿美元新一轮融资\n10. 🚀 雷蛇发布 Forge AI 开发者工作站及开源 AIKit 平台\n11. 🚀 联想发布 AI 超级智能体天禧并宣布多项合作\n12. 📈 Ai2 报告揭示开源模型发展现状与中国模型全球渗透",
       "is_voice_generated": false
-    },
-    {
-      "title": "蚂蚁集团开源 AntAngelMed 医疗模型；Lightricks 开源 LTX-2 视频模型；xAI 完成 200 亿美元 E 轮融资【AI 早报 2026",
-      "publish_date": "2026-01-07",
-      "bv_id": "BV18dqKBfEcX",
-      "organize_time": "2026-01-07 09:06:51",
-      "news_count": 21,
-      "overview": "1. 🚀 蚂蚁集团与浙江卫健联合开源千亿参数医疗大模型AntAngelMed\n2. 🚀 Lightricks开源LTX-2音视频联合生成模型，支持4K 50帧原生视频生成\n3. 📈 xAI完成200亿美元E轮融资，资金用于扩建超算与训练Grok-5\n4. 🚀 Nous Research发布NousCoder-14B编程模型，强化学习优化竞赛级表现\n5. 🚀 Liquid AI发布LFM2.5端侧模型系列，覆盖语言、视觉与语音多模态\n6. 🔧 Anthropic发布Claude Code桌面端预览版，支持本地开发工具调用\n7. 🔧 Google AI Studio升级仪表盘，新增工具调用UI组件\n8. 🚀 Obsidian CEO开源Claude Skills插件，增强对Markdown与JSON文件编辑能力\n9. 🔧 Cursor推出动态上下文发现功能，降低47% token消耗\n10. 🔧 Z Lab发布DFlash推测解码框架，千问3模型实现6倍无损加速\n11. 🔧 vLLM发布Semantic Router v0.1 Iris版本，支持模型自动选择与幻觉检测\n12. 📈 Goldfish图像模型亮相Image Arena，展现强指令理解与绘图能力\n13. 📈 OpenAI澄清GPT-5.2-Codex-Max传闻，称相关标识为文字错误\n14. 📈 Artificial Analysis发布Intelligence Index 4.0，强化Agent与科学推理评估\n15. 📈 AI评估平台LM Arena完成1.5亿美元融资，估值达17亿美元\n16. 🚀 英伟达推出Blackwell架构桌面级AI超算，支持本地运行万亿参数模型\n17. 🚀 AMD发布MI455X旗舰加速卡，配备432GB显存并与OpenAI达成供货协议\n18. 🚀 英特尔发布Panther Lake处理器，18A工艺实现180TOPS AI算力\n19. 🚀 高通发布3nm PC处理器，NPU算力提升至80TOPS\n20. 📈 OpenAI研发副总裁Jerry Talbert宣布离职，Lex Fridman创始人将加入\n21. 📈 吴文达等专家呼吁建立全新AGI测试标准，推动AI向主动执行演进",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 7,
-  "total_count": 124,
-  "generated_time": "2026-03-01 09:27:03"
+  "total_count": 125,
+  "generated_time": "2026-03-02 08:57:33"
 }

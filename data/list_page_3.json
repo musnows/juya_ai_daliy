@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "蚂蚁集团开源 AntAngelMed 医疗模型；Lightricks 开源 LTX-2 视频模型；xAI 完成 200 亿美元 E 轮融资【AI 早报 2026",
+      "publish_date": "2026-01-07",
+      "bv_id": "BV18dqKBfEcX",
+      "organize_time": "2026-01-07 09:06:51",
+      "news_count": 21,
+      "overview": "1. 🚀 蚂蚁集团与浙江卫健联合开源千亿参数医疗大模型AntAngelMed\n2. 🚀 Lightricks开源LTX-2音视频联合生成模型，支持4K 50帧原生视频生成\n3. 📈 xAI完成200亿美元E轮融资，资金用于扩建超算与训练Grok-5\n4. 🚀 Nous Research发布NousCoder-14B编程模型，强化学习优化竞赛级表现\n5. 🚀 Liquid AI发布LFM2.5端侧模型系列，覆盖语言、视觉与语音多模态\n6. 🔧 Anthropic发布Claude Code桌面端预览版，支持本地开发工具调用\n7. 🔧 Google AI Studio升级仪表盘，新增工具调用UI组件\n8. 🚀 Obsidian CEO开源Claude Skills插件，增强对Markdown与JSON文件编辑能力\n9. 🔧 Cursor推出动态上下文发现功能，降低47% token消耗\n10. 🔧 Z Lab发布DFlash推测解码框架，千问3模型实现6倍无损加速\n11. 🔧 vLLM发布Semantic Router v0.1 Iris版本，支持模型自动选择与幻觉检测\n12. 📈 Goldfish图像模型亮相Image Arena，展现强指令理解与绘图能力\n13. 📈 OpenAI澄清GPT-5.2-Codex-Max传闻，称相关标识为文字错误\n14. 📈 Artificial Analysis发布Intelligence Index 4.0，强化Agent与科学推理评估\n15. 📈 AI评估平台LM Arena完成1.5亿美元融资，估值达17亿美元\n16. 🚀 英伟达推出Blackwell架构桌面级AI超算，支持本地运行万亿参数模型\n17. 🚀 AMD发布MI455X旗舰加速卡，配备432GB显存并与OpenAI达成供货协议\n18. 🚀 英特尔发布Panther Lake处理器，18A工艺实现180TOPS AI算力\n19. 🚀 高通发布3nm PC处理器，NPU算力提升至80TOPS\n20. 📈 OpenAI研发副总裁Jerry Talbert宣布离职，Lex Fridman创始人将加入\n21. 📈 吴文达等专家呼吁建立全新AGI测试标准，推动AI向主动执行演进",
+      "is_voice_generated": false
+    },
+    {
       "title": "英伟达发布Rubin架构及系列开源AI模型；腾讯元宝回应AI助手辱骂用户事件【AI 早报 2026-01-06】",
       "publish_date": "2026-01-06",
       "bv_id": "BV1LgifB7E5t",
@@ -170,19 +179,10 @@
       "news_count": 28,
       "overview": "1. 🚀 OpenAI发布GPT-5.2-Codex编码模型\n2. 🚀 字节跳动发布豆包大模型1.8版本\n3. 🚀 Mistral AI发布Mistral OCR 3文档理解模型\n4. 🔧 Claude向付费用户开放Chrome浏览器扩展\n5. 🔧 Anthropic发布Claude Code 2.0.72版本更新\n6. 📈 Anthropic发布Agent Skills开放标准\n7. 🔧 Google发布Gemini CLI扩展Conductor\n8. 🔧 Google NotebookLM新增Data Tables功能\n9. 🔧 Google Gemini应用新增AI视频验证功能\n10. 🔧 OpenAI推出ChatGPT聊天置顶功能\n11. 📈 OpenAI宣布Sora在拉美十国上线\n12. 🔧 OpenAI Atlas浏览器发布重要更新\n13. 🔧 JetBrains上线BYOK（自带密钥）功能\n14. 🔧 SGLang上线Ollama兼容API\n15. 🚀 Google发布T5Gemma 2系列模型\n16. 🚀 Google发布Jama 270M开源函数调用模型\n17. 🔧 MiniMax视频团队开源VTP视觉生成框架\n18. 🚀 Meta发布统一3D重建模型NerfBlend V1\n19. 🔧 Meta开源PerceptionDer Audio-VI多模态编码器\n20. 🚀 Meta发布PC系列自监督视觉基础模型\n21. 🔧 Mylab实现万亿参数混合专家模型强化学习系统\n22. 📈 Google DeepMind与OpenAI参与美国能源部科学计划\n23. 📈 Anthropic发布用户心理安全保护措施\n24. 🔧 OpenAI发布思维链可监控性评估研究成果\n25. 📈 OpenAI更新Model Policy新增UNDER18PS青少年保护条款\n26. 📈 OpenAI推出面向新闻机构的AI学习平台\n27. 📈 中科曙光展出SKYX万卡超集群智能计算系统\n28. 📈 苏黎世联邦理工学院与AI合作证明数学定理",
       "is_voice_generated": false
-    },
-    {
-      "title": "以下克上？Google发布Gemini 3 Flash模型；OpenAI开放 ChatGPT 应用提交【AI 早报 2025-12-18】",
-      "publish_date": "2025-12-18",
-      "bv_id": "BV1Y3qJBTER4",
-      "organize_time": "2025-12-18 09:12:55",
-      "news_count": 22,
-      "overview": "1. 🚀 Google发布Gemini 3 Flash模型\n2. 🔧 Gemini CLI集成Gemini 3 Flash\n3. 🚀 OpenAI开放ChatGPT应用提交\n4. 🚀 微软发布TRELLIS.2 3D生成模型\n5. 🚀 腾讯开源HY World 1.5世界模型\n6. 🚀 通义发布QwenLong-L1.5模型\n7. 🚀 Browser Use发布BU-30B-A3B模型\n8. 🔧 阶跃星辰升级Step-GUI模型\n9. 🚀 xAI发布Grok Voice Agent API\n10. 🚀 Exa AI发布十亿级人物搜索\n11. 🔧 蚂蚁开源A-Environment平台\n12. 🔧 SGL团队发布迷你SGL推理框架\n13. 🔧 昂斯老推出手机端微调方案\n14. 📈 论文揭示模型隐藏意图能力\n15. 📈 OpenAI拟升级Code模型至GPT5.2\n16. 📈 Minimax将发布M2.1模型\n17. 📈 字节将发布豆包Seed1.8模型\n18. 📈 OpenAI拟融资100亿美元\n19. 📈 英伟达拟削减RTX50供应\n20. 📈 Anthropic合作建70亿数据中心\n21. 📈 Firefox将进化为AI浏览器\n22. 📈 Lovable估值达66亿美元",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 7,
-  "total_count": 124,
-  "generated_time": "2026-03-01 09:27:03"
+  "total_count": 125,
+  "generated_time": "2026-03-02 08:57:33"
 }
