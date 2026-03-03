@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "在为Gemini3做准备？AI Studio 和 Gemini 应用同时发布重大更新！【AI 早报 2025-10-19】",
+      "publish_date": "2025-10-19",
+      "bv_id": "BV1dRWZzPEFc",
+      "organize_time": "2025-11-23 15:28:36",
+      "news_count": 4,
+      "overview": "1. 🚀 Google AI Studio新增系统提示保存功能\n2. 🔧 Gemini App增强LaTeX渲染与编辑能力\n3. 📈 OpenAI确认2025年不发布GPT-6模型\n4. 📈 OpenAI GPT-5数学突破被证实为误报",
+      "is_voice_generated": false
+    },
+    {
       "title": "黄仁勋称英伟达彻底退出中国市场，Nvidia 计算卡中国市场份额归零【AI 早报 2025-10-18】",
       "publish_date": "2025-10-18",
       "bv_id": "BV1kZWpzLETi",
@@ -48,6 +57,6 @@
   ],
   "page": 7,
   "total_pages": 7,
-  "total_count": 125,
-  "generated_time": "2026-03-02 08:57:33"
+  "total_count": 126,
+  "generated_time": "2026-03-03 09:43:13"
 }

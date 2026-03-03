@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱 GLM Coding Plan 套餐现已开启退款通道；千问团队开源 Qwen3.5 小尺寸模型系列【AI 早报 2026-03-03】",
+      "publish_date": "2026-03-03",
+      "bv_id": "BV1AHA9zUEaV",
+      "organize_time": "2026-03-03 09:43:12",
+      "news_count": 20,
+      "overview": "1. 📈 智谱GLM Coding Plan套餐开启退款通道\n2. 🚀 千问团队开源Qwen3.5小尺寸模型系列\n3. 🔧 阶跃星辰开源Step 3.5 Flash模型及训练框架\n4. 🚀 IQuestLab开源IQuest-Coder-V1系列代码模型权重\n5. 🚀 小红书开源FireRed-OCR模型\n6. 🚀 通义实验室发布Fun-CosyVoice 3.5与Fun-AudioGen-VD语音模型\n7. 🚀 Jan团队发布Jan-Code-4B模型\n8. 🔧 OpenClaw发布2026.3.1版本\n9. 🔧 agent-browse上线Electron技能\n10. 📈 Anthropic推出免费AI课程\n11. 📈 Kimi开放平台推出限时充值返券活动\n12. 📈 美团推出Tabbit浏览器并陷开源抄袭争议\n13. 🔧 Anthropic向免费用户开放Claude记忆功能\n14. 🚀 MiniMax推出移动端MaxClaw\n15. 🚀 千问发布AI眼镜，售价1997元\n16. 🔧 字节跳动联合清华发布CUDA Agent强化学习系统\n17. 📈 MiniMax发布2025财年全年业绩报告\n18. 📈 阿里巴巴统一AI品牌为千问\n19. 📈 智谱Z.ai启动AI创业者扶持计划\n20. 🚀 马斯克确认今日发布Grok 4.20 Beta 2",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cognition 发布 SWE-1.6 模型早期预览版【AI 早报 2026-03-02】",
       "publish_date": "2026-03-02",
       "bv_id": "BV1FAPVzYEEX",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 Gemini 测试从 ChatGPT 导入对话历史功能\n2. 🔧 LM Studio 更新支持本地运行 Claude Code\n3. 🚀 V0 新增导入 GitHub 项目功能\n4. 📈 英伟达据称搁置与 OpenAI 的千亿协议\n5. 📈 苹果 AI 核心团队动荡，多人转投 Meta 与谷歌\n6. 📈 SpaceX 申请部署百万卫星轨道数据中心\n7. 🔧 nanochat 以百美元内成本训练出 GPT-2 级别模型\n8. 🚀 快手可灵 AI 预告 Kling 3.0 全能视频模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "谷歌DeepMind发布实验性AI世界模型Project Genie ；通义千问开源Qwen3-ASR模型【AI 早报 2026-01-30】",
-      "publish_date": "2026-01-30",
-      "bv_id": "BV1jq6eB4EWM",
-      "organize_time": "2026-01-30 09:25:32",
-      "news_count": 12,
-      "overview": "1. 🚀 谷歌DeepMind发布实验性AI世界模型Project Genie\n2. 🚀 通义千问开源Qwen3-ASR语音识别模型\n3. 📈 OpenAI取消API验证并澄清用户发现所有权政策\n4. 🔧 Google DeepMind发布基因组预测模型AlphaGenome\n5. 🚀 Skywork AI开源SkyReels-V3多模态视频生成模型\n6. 🚀 OpenMOSS开源MOVA同步音视频生成模型\n7. 🔧 飞桨发布PaddleOCR-VL-1.5视觉语言OCR模型\n8. 🚀 MiniMax发布Music 2.5音乐生成模型\n9. 🚀 xAI正式发布Grok Imagine API图像生成接口\n10. 🔧 Cursor发布AI代码溯源标准Agent Trace\n11. 🔧 Gemini API上线Gemini 3系列模型与Computer Use工具\n12. 🚀 Gradio团队发布Daggr助力AI工作流开发",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 125,
-  "generated_time": "2026-03-02 08:57:33"
+  "total_count": 126,
+  "generated_time": "2026-03-03 09:43:13"
 }
