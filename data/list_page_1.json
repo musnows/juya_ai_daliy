@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI发布Windows版Codex应用【AI 早报 2026-03-05】",
+      "publish_date": "2026-03-05",
+      "bv_id": "BV1jJP6ziEaQ",
+      "organize_time": "2026-03-05 09:29:22",
+      "news_count": 18,
+      "overview": "1. 🚀 OpenAI发布Windows版Codex应用并开源原生Agent沙盒\n2. 🚀 MiniMax发布Music 2.5+纯音乐创作模型\n3. 🔧 北大字节Canva联合团队发布14B视频生成模型Helios\n4. 🔧 YuanLab.ai开源万亿参数多模态模型Yuan3.0 Ultra\n5. 🚀 Cursor正式登陆JetBrains IDE\n6. 📈 Antigravity提升非高峰期用户配额\n7. 🔧 Mistral发布Vibe 2.3.0版，新增网络搜索功能\n8. 🔧 OpenAI上线Symphony开源项目\n9. 🚀 Google AI Mode上线Canvas功能\n10. 🔧 NotebookLM发布Cinematic Video Overviews视频生成更新\n11. 🔧 OpenAI集成Codex升级Prism平台\n12. 🚀 Raycast发布AI对话构建桌面应用工具Glaze\n13. 🚀 Grok推出定制智能体功能\n14. 📈 高德纳验证Claude攻克图论难题\n15. 🔧 Black Forest Labs联合MIT发布多模态生成模型Self-Flow研究\n16. 📈 火山引擎公布Seedance2.0视频生成服务定价\n17. 🚀 Claude Code即将推出Auto Mode权限模式\n18. 📈 据称OpenAI研发代码托管平台以替代GitHub",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱 GLM Coding Plan 套餐现已开启退款通道；千问团队开源 Qwen3.5 小尺寸模型系列【AI 早报 2026-03-03】",
       "publish_date": "2026-03-03",
       "bv_id": "BV1AHA9zUEaV",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 阿里Qoder发布Qwen-Coder-Qoder代码生成模型\n2. 🚀 CircleStone推出文生图模型Anima预览版\n3. 🔧 Claude Code团队分享内部使用技巧集\n4. 📈 Moltbook数据库发生数据泄露事件\n5. 📈 北京经开区颁发全国首个AI虚拟偶像身份认证\n6. 🔧 Kimi与南大联合发布SimpleSeg图像分割模型\n7. 🔧 字节研究团队发布ConceptMoE提升AI推理能力\n8. 📈 谷歌员工暗示三周内将发布重大更新",
       "is_voice_generated": false
-    },
-    {
-      "title": "Gemini 正测试从 ChatGPT 导入对话的功能【AI 早报 2026-02-01】",
-      "publish_date": "2026-02-01",
-      "bv_id": "BV1xf6pBkEJm",
-      "organize_time": "2026-02-01 09:14:29",
-      "news_count": 8,
-      "overview": "1. 🚀 Gemini 测试从 ChatGPT 导入对话历史功能\n2. 🔧 LM Studio 更新支持本地运行 Claude Code\n3. 🚀 V0 新增导入 GitHub 项目功能\n4. 📈 英伟达据称搁置与 OpenAI 的千亿协议\n5. 📈 苹果 AI 核心团队动荡，多人转投 Meta 与谷歌\n6. 📈 SpaceX 申请部署百万卫星轨道数据中心\n7. 🔧 nanochat 以百美元内成本训练出 GPT-2 级别模型\n8. 🚀 快手可灵 AI 预告 Kling 3.0 全能视频模型",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 126,
-  "generated_time": "2026-03-04 09:43:36"
+  "total_count": 127,
+  "generated_time": "2026-03-05 09:29:24"
 }
