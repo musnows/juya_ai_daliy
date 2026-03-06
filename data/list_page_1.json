@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 发布 GPT-5.4 模型【AI 早报 2026-03-06】",
+      "publish_date": "2026-03-06",
+      "bv_id": "BV1b7PnzKEfi",
+      "organize_time": "2026-03-06 10:15:01",
+      "news_count": 19,
+      "overview": "1. 🚀 OpenAI 发布 GPT-5.4 模型\n2. 🚀 Lightricks 发布 LTX-2.3 音视频模型及开源编辑器\n3. 🚀 Ai2 发布全开源混合架构模型 Olmo Hybrid 7B\n4. 🔧 腾讯混元团队开源 HY-WU 可拓展框架\n5. 🚀 Luma AI 推出统一生成模型 Uni-1\n6. 🔧 Cursor 推出 Automations 功能\n7. 🔧 Google 开源通用命令行工具 gws\n8. 🔧 Google 发布 Gemini CLI v0.32.1\n9. 🔧 Android Developers 发布模型评估基准 Android Bench\n10. 🔧 FlashAttention-4 发布适配 Blackwell 架构\n11. 🔧 Unsloth 发布 Qwen3.5 全系模型 GGUF 最终量化版\n12. 📈 阿里 CEO 回应通义实验室核心人员离职风波\n13. 📈 Apple Music 推出 AI 内容透明度标签\n14. 📈 谷歌 Gemini 遭起诉被指诱导用户自杀\n15. 📈 Anthropic 正式被五角大楼列为供应链风险\n16. 📈 美国政府拟草案限制 AI 芯片全球销售\n17. 📈 传苹果将 Siri 及云服务托管至谷歌云\n18. 📈 OpenAI 传将推出双向音频模型\n19. 📈 OpenAI 传将缩减 ChatGPT 原生电商功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI发布Windows版Codex应用【AI 早报 2026-03-05】",
       "publish_date": "2026-03-05",
       "bv_id": "BV1jJP6ziEaQ",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 OpenAI 发布 Codex App，推动代码生成工具普及\n2. 📈 SpaceX 正式收购 xAI，强化航天与AI融合布局\n3. 🔧 阶跃星辰开源 Step 3.5 Flash 模型，提升推理效率\n4. 🔧 智谱开源 GLM-OCR 模型，提升多模态文本识别能力\n5. 🚀 ElevenLabs 正式上线 TTS 模型 Eleven v3\n6. 🚀 xAI 发布 Grok Imagine 1.0 视频生成模型\n7. 🔧 优必选开源具身智能大模型 Thinker\n8. 📈 阿里启动千问App春节请客计划，投入30亿元\n9. 📈 Snowflake 与 OpenAI 达成2亿美元模型集成合作\n10. 🔧 谷歌 Game Arena 新增狼人杀与扑克基准测试\n11. 🔧 Google Gemini 研究揭示数学猜想新解法\n12. 📈 多家厂商公布二月新模型发布计划",
       "is_voice_generated": false
-    },
-    {
-      "title": "阿里 Qoder 发布 Qwen-Coder-Qoder【AI 早报 2026-02-02】",
-      "publish_date": "2026-02-02",
-      "bv_id": "BV1iQ6hBJEDi",
-      "organize_time": "2026-02-02 08:44:54",
-      "news_count": 8,
-      "overview": "1. 🚀 阿里Qoder发布Qwen-Coder-Qoder代码生成模型\n2. 🚀 CircleStone推出文生图模型Anima预览版\n3. 🔧 Claude Code团队分享内部使用技巧集\n4. 📈 Moltbook数据库发生数据泄露事件\n5. 📈 北京经开区颁发全国首个AI虚拟偶像身份认证\n6. 🔧 Kimi与南大联合发布SimpleSeg图像分割模型\n7. 🔧 字节研究团队发布ConceptMoE提升AI推理能力\n8. 📈 谷歌员工暗示三周内将发布重大更新",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 127,
-  "generated_time": "2026-03-05 09:29:24"
+  "total_count": 128,
+  "generated_time": "2026-03-06 10:15:03"
 }
