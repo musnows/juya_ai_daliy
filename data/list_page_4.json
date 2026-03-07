@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "震惊！AI胡言乱语的真相找到了！清华揭秘LLM幻觉神经元【AI早报 2025-12-22】",
+      "publish_date": "2025-12-22",
+      "bv_id": "BV1GmBHB5Eny",
+      "organize_time": "2025-12-22 08:46:51",
+      "news_count": 6,
+      "overview": "1. 🔧 清华与OpenBMB发现LLM幻觉神经元\n2. 🚀 Google发布医学语音识别模型MedASR\n3. 🚀 纳瓦拉大学发布可解释AI工具RNACOREX\n4. 📈 xAI成立AI游戏工作室开发动态游戏世界\n5. 🚀 OpenAI开发ChatGPT视觉UI并洽谈电商合作\n6. 📈 MiniMax通过港交所上市聆讯",
+      "is_voice_generated": false
+    },
+    {
       "title": "Sam Altman：明年Q1将发布超越GPT-5.2的模型【AI 早报 2025-12-21】",
       "publish_date": "2025-12-21",
       "bv_id": "BV1r1q2BZEuY",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 📈 OpenAI紧急开发Garlic模型应对谷歌\n2. 🚀 Mistral AI发布Mistral 3模型家族\n3. 🚀 亚马逊发布Nova 2模型系列及服务\n4. 📈 Anthropic收购Bun并开源\n5. 🚀 苹果发布CLaRa-7B-Instruct和STARFlow-V\n6. 🔧 谷歌DeepMind发布DiscoRL强化学习算法\n7. 🔧 英伟达发布TiDAR AI解码方法\n8. 🚀 商汤开源原生多模态架构NEO",
       "is_voice_generated": false
-    },
-    {
-      "title": "DeepSeek 发布 V3.2 系列模型【AI 早报 2025-12-02】",
-      "publish_date": "2025-12-02",
-      "bv_id": "BV1xgSHBfEPW",
-      "organize_time": "2025-12-07 11:09:25",
-      "news_count": 28,
-      "overview": "1. 🚀 DeepSeek发布V3.2系列模型\n2. 🚀 字节跳动发布豆包手机助手技术预览版\n3. 🚀 Runway发布Gen-4.5视频模型\n4. 🚀 Kling AI发布O1视频模型\n5. 🚀 拍我AI发布PixVerse V5.5视频模型\n6. 🚀 阿里国际发布Ovis-Image-7B文声图模型\n7. 🔧 Vidu发布Q2生图模型并升级功能\n8. 🚀 Pruna AI发布P-Image与P-Image-Edit模型\n9. 🚀 Kilo Code上线免费Stealth模型Spectre\n10. 🔧 Cherry Studio发布v1.7.1版本\n11. 🚀 Arcee AI发布Trinity开源MoE模型\n12. 🔧 OpenAI启动对齐研究博客\n13. 📈 Anthropic发布智能合约漏洞利用研究\n14. 🔧 Hugging Face发布transformers v5\n15. 🔧 OpenBMB开源InfLLM-V2项目资源\n16. 🔧 vLLM发布vLLM-Omni多模态推理框架\n17. 🚀 OpenAGI发布Lux计算机使用模型\n18. 🔧 OPPO发布O-Mem全项记忆框架\n19. 🔧 复旦与美团提出R-HORIZON评测框架\n20. 🔧 Unsloth实现53万上下文窗口微调\n21. 📈 Artificial Analysis发布开放性指数\n22. 🔧 WebGPU获主流浏览器正式支持\n23. 📈 Anthropic证实Claude训练文档真实性\n24. 📈 字节跳动领先中国AI模型即服务市场\n25. 🚀 Mistral AI将发布Ministral 3与Large 3模型\n26. 📈 LTX-2开源发布推迟至2026年1月\n27. 📈 Thrive Holdings与OpenAI达成战略合作\n28. 📈 Accenture与OpenAI加速企业AI应用",
-      "is_voice_generated": true
     }
   ],
   "page": 4,
   "total_pages": 7,
-  "total_count": 128,
-  "generated_time": "2026-03-06 10:15:03"
+  "total_count": 129,
+  "generated_time": "2026-03-07 09:15:48"
 }

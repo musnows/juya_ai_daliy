@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 发布 Codex App；SpaceX 收购 xAI【AI 早报 2026-02-03】",
+      "publish_date": "2026-02-03",
+      "bv_id": "BV14ZFGzwENR",
+      "organize_time": "2026-02-03 09:00:27",
+      "news_count": 12,
+      "overview": "1. 🚀 OpenAI 发布 Codex App，推动代码生成工具普及\n2. 📈 SpaceX 正式收购 xAI，强化航天与AI融合布局\n3. 🔧 阶跃星辰开源 Step 3.5 Flash 模型，提升推理效率\n4. 🔧 智谱开源 GLM-OCR 模型，提升多模态文本识别能力\n5. 🚀 ElevenLabs 正式上线 TTS 模型 Eleven v3\n6. 🚀 xAI 发布 Grok Imagine 1.0 视频生成模型\n7. 🔧 优必选开源具身智能大模型 Thinker\n8. 📈 阿里启动千问App春节请客计划，投入30亿元\n9. 📈 Snowflake 与 OpenAI 达成2亿美元模型集成合作\n10. 🔧 谷歌 Game Arena 新增狼人杀与扑克基准测试\n11. 🔧 Google Gemini 研究揭示数学猜想新解法\n12. 📈 多家厂商公布二月新模型发布计划",
+      "is_voice_generated": false
+    },
+    {
       "title": "阿里 Qoder 发布 Qwen-Coder-Qoder【AI 早报 2026-02-02】",
       "publish_date": "2026-02-02",
       "bv_id": "BV1iQ6hBJEDi",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 🚀 美团开源EvoCUA多模态计算机操作模型\n2. 🔧 秘塔AI搜索学术库新增3000万篇论文\n3. 📈 智谱向订阅用户推出上市回馈活动\n4. 📈 AGI-Next峰会探讨AI新范式与中美竞争\n5. 🔧 UniCorn框架解决多模态模型传导性失语症\n6. 📈 谷歌移除部分医疗查询AI Overviews功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI与开源编程工具合作接入ChatGPT订阅【AI 早报 2026-01-11】",
-      "publish_date": "2026-01-11",
-      "bv_id": "BV1Tt6QB4Ej3",
-      "organize_time": "2026-01-11 09:10:25",
-      "news_count": 8,
-      "overview": "1. 🚀 OpenAI授权ChatGPT订阅接入开源编程工具\n2. 🚀 OpenAI推出MCP Server一站式开发者平台\n3. 🔧 Anthropic发布新一代AI安全防护系统\n4. 🔧 xAI重构X平台算法并承诺开源\n5. 🔧 Open WebUI发布重大版本更新\n6. 📈 OpenAI吸纳Convogos创始团队加入\n7. 📈 Meta签署6.6吉瓦核能供电协议\n8. 🔧 Linus Torvalds发布开源项目AudioNoise",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 7,
-  "total_count": 128,
-  "generated_time": "2026-03-06 10:15:03"
+  "total_count": 129,
+  "generated_time": "2026-03-07 09:15:48"
 }
