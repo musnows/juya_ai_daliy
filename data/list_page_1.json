@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱向部分用户发放 15 天订阅费用等值补偿赠金【AI 早报 2026-03-08】",
+      "publish_date": "2026-03-08",
+      "bv_id": "BV1azNTzqEw2",
+      "organize_time": "2026-03-08 09:02:07",
+      "news_count": 7,
+      "overview": "1. 📈 智谱向部分用户发放15天订阅费用等值补偿赠金\n2. 🚀 腾讯发布视觉语言模型Penguin-VL\n3. 🔧 Claude Code新增/Loop命令支持会话内周期性任务\n4. 🚀 xAI上线文本转语音API支持五种语音及情感控制\n5. 🔧 QQ支持接入OpenClaw\n6. 🔧 阿里巴巴与武汉大学联合推出AgeMem记忆框架\n7. 📈 Cursor加码自研模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "腾讯云推出 Coding Plan【AI 早报 2026-03-07】",
       "publish_date": "2026-03-07",
       "bv_id": "BV1sCPbznESN",
@@ -170,19 +179,10 @@
       "news_count": 11,
       "overview": "1. 🚀 美团发布LongCat-Flash-Lite模型，提供免费API服务\n2. 🚀 字节跳动发布视频生成模型Seedance 2.0\n3. 🔧 OpenRouter与Kilo Code联合上线Pony Alpha神秘模型\n4. 🔧 Waymo发布自动驾驶仿真系统Waymo World Model\n5. 🚀 X开发者平台上线API按量计费并支持xAI联动\n6. 🔧 OpenAI开放Sora真人角色视频生成功能\n7. 🚀 Perplexity推出多模型聚合问答功能Model Council\n8. 📈 中科曙光启用超三万卡国产AI算力池\n9. 📈 OpenAI内部转向Agent开发模式\n10. 🚀 OpenAI将于2026年推出Dime智能耳机\n11. 🚀 面壁智能发布首款AI硬件松果派",
       "is_voice_generated": false
-    },
-    {
-      "title": "Anthropic 发布 Claude Opus 4.6；OpenAI 发布 GPT-5.3-Codex【AI 早报 2026-02-06】",
-      "publish_date": "2026-02-06",
-      "bv_id": "BV1cYFqzxEWR",
-      "organize_time": "2026-02-06 09:08:19",
-      "news_count": 21,
-      "overview": "1. 🚀 Anthropic 发布 Claude Opus 4.6 模型\n2. 🚀 OpenAI 发布 GPT-5.3-Codex 编程专用模型\n3. 🔧 Claude Code 推出实验性功能 Agent teams\n4. 🚀 OpenAI 推出企业 AI Agent 平台 Frontier\n5. 📈 OpenAI 启动 Trusted Access for Cyber 试点项目\n6. 🔧 GitHub 升级 Copilot 并简化模型访问\n7. 🔧 Kiro CLI 引入 Agent Client Protocol 支持\n8. 📈 讯飞星辰 MaaS 平台推出模型限免优惠\n9. 🔧 Google 推出原生自适应无障碍框架\n10. 🚀 Figma 推出位图 AI 矢量化工具 Vectorize\n11. 🚀 魔搭开源 Singularity Cinema 视频生成器\n12. 📈 生数科技完成超6亿元A+轮融资\n13. 🚀 Fundamental 完成融资并推出表格模型\n14. 📈 阿里千问大模型成为冬奥首个官方大模型\n15. 🔧 OpenAI 揭晓 Codex 核心架构细节\n16. 🔧 Cursor 发布多智能体编程研究框架\n17. 🔧 Anthropic 揭示基础设施配置影响 Agent 评估\n18. 🚀 AI2 发布 OpenScholar 攻克学术“幻觉”问题\n19. 📈 OpenAI 与 Ginkgo 合作推出 AI 实验室降低合成成本40%\n20. 🔧 ChatGPT 安卓版测试看广告加额度功能\n21. 📈 Gemini 3 Pro GA 或已在 Arena 测试",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 129,
-  "generated_time": "2026-03-07 09:15:48"
+  "total_count": 130,
+  "generated_time": "2026-03-08 09:02:09"
 }
