@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "字节跳动发布图像模型Seedream 4.5【AI 早报 2025-12-04】",
+      "publish_date": "2025-12-04",
+      "bv_id": "BV1sy2hB2EST",
+      "organize_time": "2025-12-04 09:05:31",
+      "news_count": 17,
+      "overview": "1. 🚀 字节跳动发布Seedream 4.5图像模型\n2. 🚀 可灵AI 2.6模型实现音画同步生成\n3. 🚀 快手StreamLake发布CyberCut AI工具\n4. 🔧 Kiro发布Powers实现Agent动态加载\n5. 🔧 Gemini CLI v0.19.0版本功能更新\n6. 🚀 Claude Code Opus 4.5向Pro用户开放\n7. 🔧 OpenAI Codex新增Skills试验性支持\n8. 🚀 ManusAI推出Nano Banana Pro Slides工具\n9. 🔧 OpenAI发布Confessions方法\n10. 🔧 Perplexity发布BrowseSafe Agent防御模型\n11. 🚀 Nous Research发布Hermes 4.3模型\n12. 🔧 字节跳动Seed发布GR-RL模型\n13. 🚀 StepFun开源Open-Reasoner-Zero模型\n14. 🚀 Meta发布TUNA统一视觉表示模型\n15. 🚀 OpenAI四款新代号模型上线Designarena\n16. 🚀 Google Workspace Studio将推Agent工具\n17. 🔧 Google NotebookLM开发模型选择器",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI拉响“红色警报”！GPT-5.2代号Garlic紧急立项，再慢就要被谷歌团灭？【AI 早报 2025-12-03】",
       "publish_date": "2025-12-03",
       "bv_id": "BV1V9SaBgEos",
@@ -170,19 +179,10 @@
       "news_count": 17,
       "overview": "1. 🚀 OpenAI试点ChatGPT群聊功能\n2. 🚀 Google推出Code Wiki知识库\n3. 🔧 Google Colab开放Gemini与Gemma模型\n4. 🚀 美团发布CatPaw IDE Windows版\n5. 🚀 MiniMax推出Coding Plan订阅服务\n6. 🚀 智谱GLM Coding Plan特供版上线\n7. 🔧 小米开源Miloco智能家居AI内核\n8. 🔧 Claude平台推出结构化输出功能\n9. 🔧 NotebookLM支持图片上传作为信息源\n10. 🔧 Qwen Code发布v0.2.1版本\n11. 🔧 Google Gemini App更新Deep Research功能\n12. 🔧 Google Veo 3.1支持多图参考生成\n13. 📈 硅基流动平台服务与活动规则调整\n14. 🔧 OpenAI发布稀疏电路可解释性研究\n15. 🚀 UI2Code^N发布交互式UI-to-Code模型\n16. 🔧 Decart发布LSD v2实时视频风格化模型\n17. 📈 Kaggle发布《Prototype to Production》白皮书",
       "is_voice_generated": false
-    },
-    {
-      "title": "Gemini 3 现身 Gemini APP 的 Canvas 功能 【AI 早报 2025-11-14】",
-      "publish_date": "2025-11-14",
-      "bv_id": "BV1G5CPBrEmd",
-      "organize_time": "2025-11-22 20:35:31",
-      "news_count": 17,
-      "overview": "1. 🚀 Google DeepMind发布SIMA 2智能体\n2. 🚀 Lumine发布3D开放世界通用智能体\n3. 🚀 百度发布文心大模型5.0\n4. 🚀 OpenAI上线GPT-5.1模型API\n5. 🔧 Codex发布0.58.0支持GPT-5.1模型\n6. 🚀 OpenAI发布Apps SDK预览版\n7. 🔧 Gemini 3或上线Canvas功能\n8. 🔧 Google发布Gemini Live重大更新\n9. 🔧 Google升级Gemini CLI用户体验\n10. 🔧 NotebookLM推出Deep Research功能\n11. 📈 Google更新AI搜索购物体验\n12. 🚀 Anthropic扩展Claude Code网页版\n13. 🔧 VS Code发布1.106集成Agent管理\n14. 🔧 Qwen发布DeepResearch 2511升级\n15. 📈 阿里云调整通义千问3-Max价格\n16. 🚀 H Company发布Holo2模型系列\n17. 🚀 JanHQ发布Jan-v2-VL多模态Agent模型",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
   "total_pages": 7,
-  "total_count": 130,
-  "generated_time": "2026-03-08 09:02:09"
+  "total_count": 131,
+  "generated_time": "2026-03-09 09:02:37"
 }

@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Gemini 3 现身 Gemini APP 的 Canvas 功能 【AI 早报 2025-11-14】",
+      "publish_date": "2025-11-14",
+      "bv_id": "BV1G5CPBrEmd",
+      "organize_time": "2025-11-22 20:35:31",
+      "news_count": 17,
+      "overview": "1. 🚀 Google DeepMind发布SIMA 2智能体\n2. 🚀 Lumine发布3D开放世界通用智能体\n3. 🚀 百度发布文心大模型5.0\n4. 🚀 OpenAI上线GPT-5.1模型API\n5. 🔧 Codex发布0.58.0支持GPT-5.1模型\n6. 🚀 OpenAI发布Apps SDK预览版\n7. 🔧 Gemini 3或上线Canvas功能\n8. 🔧 Google发布Gemini Live重大更新\n9. 🔧 Google升级Gemini CLI用户体验\n10. 🔧 NotebookLM推出Deep Research功能\n11. 📈 Google更新AI搜索购物体验\n12. 🚀 Anthropic扩展Claude Code网页版\n13. 🔧 VS Code发布1.106集成Agent管理\n14. 🔧 Qwen发布DeepResearch 2511升级\n15. 📈 阿里云调整通义千问3-Max价格\n16. 🚀 H Company发布Holo2模型系列\n17. 🚀 JanHQ发布Jan-v2-VL多模态Agent模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI发布GPT-5.1系列模型【AI 早报 2025-11-13】",
       "publish_date": "2025-11-13",
       "bv_id": "BV1LkCpBNEf9",
@@ -170,19 +179,10 @@
       "news_count": 2,
       "overview": "1. 🚀 美团开源136亿参数视频生成模型\n2. 🔧 OpenAI演示双向语音实时翻译模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "硅谷裂开，国产开源新神 MiniMax M2 登场，超越DeepSeek。外网评论：中国模型统治开源世界。【AI 早报 2025-10-25】",
-      "publish_date": "2025-10-25",
-      "bv_id": "BV1xGs9z3Evt",
-      "organize_time": "2025-11-23 15:26:49",
-      "news_count": 14,
-      "overview": "1. 🚀 MiniMax发布M2大模型\n2. 🚀 月之暗面推出Kimi Coding权益与CLI工具\n3. 🚀 腾讯发布AI程序员ADA技术预览版\n4. 📈 GLM大模型推出Coding Plan限时特惠\n5. 🔧 OpenAI发布CodeX CLI 0.4.8.0版本\n6. 📈 Amazon宣布免费编码Agent无需训练授权\n7. 🔧 Google AI Studio支持Jina AI Pip额度切换\n8. 🚀 MRAI推出生产级AI平台Studio\n9. 🔧 Anti-Slop框架减少LLM重复输出\n10. 📈 GPT-5.1-mini名称现身OpenAI代码库\n11. 🚀 LightOn发布统一OCR模型OCREB\n12. 📈 AI基础设施公司KO完成13.8亿美元融资\n13. 📈 OpenAI开发AI音乐生成模型\n14. 📈 xAI为Grok开发新同伴Mika",
-      "is_voice_generated": true
     }
   ],
   "page": 6,
   "total_pages": 7,
-  "total_count": 130,
-  "generated_time": "2026-03-08 09:02:09"
+  "total_count": 131,
+  "generated_time": "2026-03-09 09:02:37"
 }
