@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "GitHub 大砍 Copilot 学生计划；Claude 上线生成交互式图表功能【AI 早报 2026-03-13】",
+      "publish_date": "2026-03-13",
+      "bv_id": "BV142c2zhELS",
+      "organize_time": "2026-03-13 09:29:37",
+      "news_count": 24,
+      "overview": "1. 🚀 GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限\n2. 🔧 Claude 支持生成式 UI，聊天界面构建交互式图表\n3. 🔧 OpenAI 视频 API 上线新功能\n4. 🚀 NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输入\n5. 🔧 Claude Code 推出语音模式，引入设置脚本功能\n6. 📈 Google 调整 Antigravity 计费，Pro 刷新周期延至 7 天\n7. 🔧 Google Gemini API 现可设置消费上限\n8. 🔧 OpenRouter 上线 Auto Exacto 降低工具调用错误率\n9. 🚀 Hermes Agent v0.2.0 发布，支持多 IDE 集成\n10. 🔧 斯坦福大学开源 OpenJarvis 框架支持本地优先个人 AI\n11. 🚀 谷歌地图集成 Gemini 推出十多年来最大规模升级\n12. 🔧 xAI 发布 Grok 新视频功能，支持 7 张参考图转视频\n13. 🚀 微软推出 Copilot Health 整合设备与健康记录数据\n14. 📈 OpenClaw 生态密集更新，百度联想阶跃发布新服务\n15. 🚀 Perplexity 向Pro 用户开放 Perplexity Computer\n16. 🔧 淘宝 PC 端支持 MCP，可接入 OpenClaw\n17. 🚀 ComfyUI 发布 App Mode 及 ComfyHub 支持工作流分享\n18. 🔧 Canva 推出 Magic Layers 支持平面图转多层可编辑\n19. 🔧 Cursor 发布 CursorBench 评测体系，优化 Agent 编程评估\n20. 📈 Google 完成收购 Wiz，将加入 Google Cloud 运营\n21. 📈 腾讯回应 OpenClaw 数据争议：称仅拉取 1GB 分担流量\n22. 🚀 智谱新模型启动内测，面向 Max 计划用户开放申请\n23. 📈 阿里 Qwen 后训练负责人郁博文加盟字节跳动 Seed 团队\n24. 📈 英伟达计划五年投入 260 亿美元研发开放权重 AI 模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "深圳龙岗拟扶持 OpenClaw；工信部预警其安全风险【AI 早报 2026-03-09】",
       "publish_date": "2026-03-09",
       "bv_id": "BV1jYPUzfES1",
@@ -170,19 +179,10 @@
       "news_count": 5,
       "overview": "1. 🚀 Qwen 3.5系列模型即将发布\n2. 🔧 xAI上线Grok Imagine Image Pro模型API\n3. 🚀 CodeBuddy发布AI桌面工作台WorkBuddy\n4. 🔧 字节跳动即将推出Seedream 5.0预览版\n5. 📈 Meta AI官网测试新模型Avocado",
       "is_voice_generated": false
-    },
-    {
-      "title": "天价AI？Anthropic 推出 Claude Opus 4.6 快速模式【AI 早报 2026-02-08】",
-      "publish_date": "2026-02-08",
-      "bv_id": "BV1U6FbzmEeJ",
-      "organize_time": "2026-02-08 09:24:15",
-      "news_count": 6,
-      "overview": "1. 🚀 Anthropic推出Claude Opus 4.6快速模式\n2. 🔧 Augment Code上线Context Engine MCP\n3. 📈 OpenAI引入性能专家优化数据中心成本\n4. 📈 OpenAI推进AI模型本土化策略\n5. 🔧 千问Qwen等联合推出法律评测基准PLawBench\n6. 📈 苹果计划为CarPlay引入第三方AI语音助手",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 131,
-  "generated_time": "2026-03-12 09:28:32"
+  "total_count": 132,
+  "generated_time": "2026-03-13 09:29:38"
 }
