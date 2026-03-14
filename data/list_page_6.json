@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenRouter 上线 Sherlock 系列测试模型【AI 早报 2025-11-16】",
+      "publish_date": "2025-11-16",
+      "bv_id": "BV1WjCDBdEeM",
+      "organize_time": "2025-11-22 20:34:31",
+      "news_count": 8,
+      "overview": "1. 🚀 OpenRouter上线Sherlock系列模型\n2. 🔧 GitHub Copilot公测Raptor mini模型\n3. 🔧 iFlow CLI免费开放MiniMax-M2与Kimi-K2-Thinking\n4. 🔧 Gemini CLI发布v0.15.1补丁\n5. 🚀 Factory推出Ultra订阅档\n6. 🔧 Cerebras发布MiniMax-M2-REAP-162B-A10B稀疏模型\n7. 📈 AMD启动高校春雨计划\n8. 📈 Similarweb：Gemini占比升至13.7%",
+      "is_voice_generated": false
+    },
+    {
       "title": "有望下周发布！Gemini3.0能碾压GPT-5.1吗！【AI 早报 2025-11-15】",
       "publish_date": "2025-11-15",
       "bv_id": "BV1G5CLB3EUa",
@@ -170,19 +179,10 @@
       "news_count": 16,
       "overview": "1. 🚀 Anthropic发布Claude for Excel\n2. 🔧 OpenAI更新模型强化敏感对话响应\n3. 🚀 Google Gemini集成Canvas增强演示文稿创建\n4. 🚀 xAI推出Grokipedia早期测试版\n5. 🚀 MiniMax开源模型MiniMax-M2\n6. 🚀 inclusionAI发布Ming-flash-omni Preview模型\n7. 🚀 inclusionAI发布LLaDA2.0-flash-preview模型\n8. 🚀 智谱发布Glyph模型权重\n9. 🚀 火山引擎上线豆包视频生成模型1.0 pro fast\n10. 🚀 Windsurf上线新stealth模型Falcon Alpha\n11. 📈 快手万擎StreamLake提供KAT-Coder-Pro V1限时免费\n12. 🔧 Hugging Face发布huggingface_hub v1.0版本\n13. 🔧 Windsurf宣布Cascade支持Jupyter Notebooks\n14. 🚀 Skywork AI上线网页复刻功能\n15. 📈 高通发布AI加速器芯片进军数据中心市场\n16. 📈 软银批准225亿美元投资OpenAI",
       "is_voice_generated": false
-    },
-    {
-      "title": "Cursor预告即将发布2.0版本【AI 早报 2025-10-27】",
-      "publish_date": "2025-10-27",
-      "bv_id": "BV1LaskzZEZj",
-      "organize_time": "2025-11-23 15:25:55",
-      "news_count": 3,
-      "overview": "1. 🚀 Cursor 2.0即将发布，AI编程体验再升级\n2. 🔧 谷歌预热Gemini 3.0，AI Studio强化vibe coding\n3. 🚀 Suno向所有用户开放v4.5all模型，免费可用",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 7,
-  "total_count": 132,
-  "generated_time": "2026-03-13 09:29:38"
+  "total_count": 133,
+  "generated_time": "2026-03-14 09:15:30"
 }

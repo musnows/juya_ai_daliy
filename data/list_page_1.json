@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Claude 正式上线 100 万 token 上下文，取消阶梯计费【AI 早报 2026-03-14】",
+      "publish_date": "2026-03-14",
+      "bv_id": "BV1LDwHz1E6Q",
+      "organize_time": "2026-03-14 09:15:28",
+      "news_count": 21,
+      "overview": "1. 🚀 Claude 正式上线 100 万 token 上下文，取消阶梯计费\n2. 🚀 上海人工智能实验室发布 InternVL-U 统一多模态模型\n3. 📈 智谱调整 GLM Coding Plan 折扣，拼好模门槛提高\n4. 🔧 Codex 应用正式上线自动化功能与主题个性化\n5. 🔧 Chrome 146 正式发布，支持 MCP 暴露会话供 CLI 使用\n6. 🚀 CopilotKit 开源 OpenGenerativeUI，支持 AI Agent 生成交互 UI\n7. 🚀 Vue 作者尤雨溪推出 Vite 原生部署平台 Void\n8. 🔧 Qoder 正式支持 BYOK 接入多家大模型\n9. 🔧 OpenClaw 发布 v2026.3.12，推出 Dashboard v2 调整架构\n10. 📈 绿联科技携手 MiniMax 合作，NAS 上线 OpenClaw\n11. 🚀 Genspark 发布 AI Workspace 3.0\n12. 📈 BrowserOS 宣布 Kimi K2.5 为默认提供商，开启 2 周限免\n13. 🚀 阿里云 JVS Claw 上线移动 App，配 12GB 内存独立云环境\n14. 🚀 谷歌推出 Groundsource，解析新闻数据预测城市山洪\n15. 📈 AWS 携手 Cerebras 整合 Trainium 与 CS-3，加速 AI 推理服务\n16. 📈 特斯拉与 xAI 启动数字擎天柱自动化办公系统\n17. 📈 xAI 全面重组，半数联合创始人离职\n18. 🚀 爱诗科技完成 C 轮融资，发布 PixVerse R1 实时模型\n19. 📈 杨植麟将于英伟达 GTC 演讲，或披露 Kimi K3 信息\n20. 📈 消息称 Meta 推迟 Avocado 模型发布，最早至五六月\n21. 📰 Fenz AI 发现 SkillHub 插件存 Prompt 注入风险",
+      "is_voice_generated": false
+    },
+    {
       "title": "GitHub 大砍 Copilot 学生计划；Claude 上线生成交互式图表功能【AI 早报 2026-03-13】",
       "publish_date": "2026-03-13",
       "bv_id": "BV142c2zhELS",
@@ -170,19 +179,10 @@
       "news_count": 10,
       "overview": "1. 📈 OpenAI正式启动ChatGPT广告测试\n2. 🔧 Sam Altman宣布Codex将保持免费用户可用\n3. 🚀 OpenRouter上线 stealth 模型 Aurora Alpha\n4. 🔧 Cursor上线编程模型Composer 1.5\n5. 🚀 OpenAI逐步向第三方开放GPT-5.3-Codex\n6. 🚀 美团AI编程工具CatPaw全量开放\n7. 🔧 Hugging Face发布Transformers.js v4预览版\n8. 🚀 魔搭ModelScope推出OpenAPI\n9. 🔧 Sora上线Extensions续写功能\n10. 🔧 智谱GLM-5架构细节曝光，总参数或达700B",
       "is_voice_generated": false
-    },
-    {
-      "title": "Qwen 3.5系列模型即将发布【AI 早报 2026-02-09】",
-      "publish_date": "2026-02-09",
-      "bv_id": "BV1sYcPzgEjR",
-      "organize_time": "2026-02-09 09:09:39",
-      "news_count": 5,
-      "overview": "1. 🚀 Qwen 3.5系列模型即将发布\n2. 🔧 xAI上线Grok Imagine Image Pro模型API\n3. 🚀 CodeBuddy发布AI桌面工作台WorkBuddy\n4. 🔧 字节跳动即将推出Seedream 5.0预览版\n5. 📈 Meta AI官网测试新模型Avocado",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 132,
-  "generated_time": "2026-03-13 09:29:38"
+  "total_count": 133,
+  "generated_time": "2026-03-14 09:15:30"
 }

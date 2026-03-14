@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "紧急！Codex额度翻倍，错过等一年！X平台AI编辑引爆版权争议！【AI早报 2025-12-26】",
+      "publish_date": "2025-12-26",
+      "bv_id": "BV1b7BZB6E7w",
+      "organize_time": "2025-12-26 09:08:35",
+      "news_count": 7,
+      "overview": "1. 🚀 Codex宣布额度翻倍至明年1月1日\n2. 📈 X平台AI图片编辑器引版权争议，创作者抗议\n3. 🚀 质普发布AI协同开发工具z code alpha版\n4. 🔧 OpenB与清华团队联合推出deep think v1模型\n5. 🔧 Liquid AI开源26亿参数强化学习模型\n6. 🚀 腾讯云推出ETC领域首款智能体\n7. 📈 硅基流动发布2025大模型使用年度报告",
+      "is_voice_generated": true
+    },
+    {
       "title": "大波福利来袭：TRAE CN宣布开放SOLO模式；Windsurf 上线 SWE-1.5 Free【AI 早报 2025-12-25】",
       "publish_date": "2025-12-25",
       "bv_id": "BV1L8BSB8EvX",
@@ -170,19 +179,10 @@
       "news_count": 9,
       "overview": "1. 🔧 Google削减Gemini API免费配额\n2. 🚀 Essential AI发布Rnj-1开源模型\n3. 🚀 OpenBMB发布VoxCPM1.5无分词器TTS系统\n4. 📈 OPPO AI揭示Agent系统编造缺陷\n5. 📈 LeCun创立AMI聚焦非生成世界模型\n6. 🚀 Live Avatar发布流式音驱Agent框架\n7. 🚀 Microsoft发布FoundryLocal本地AI推理框架\n8. 🔧 Poetiq在ARC-AGI基准确立新SOTA\n9. 🔧 Google发布Titans与MIRAS记忆框架",
       "is_voice_generated": false
-    },
-    {
-      "title": "GPT-5.2即将来袭？Altman被逼到\"code red\"！谷歌Gemini 3刚封神就要被秒？【AI早报 12月6日】",
-      "publish_date": "2025-12-06",
-      "bv_id": "BV1iw2nBvEWB",
-      "organize_time": "2025-12-06 09:07:38",
-      "news_count": 19,
-      "overview": "1. 🚀 OpenAI将发布GPT-5.2应对谷歌Gemini 3\n2. 🚀 腾讯发布混元HY 2.0大模型\n3. 🔧 美团开源LongCat-Image双语视觉模型\n4. 🔧 Qwen发布Qwen3-TTS语音合成模型升级\n5. 📈 React关键RCE漏洞影响Next.js及Dify\n6. 🚀 火山引擎发布豆包语音识别模型2.0\n7. 🔧 Google发布Gemini 3 Pro Vision多模态基准\n8. 📈 Google调整Antigravity平台rate limits政策\n9. 🔧 腾讯发布HunyuanVideo 1.5步数蒸馏模型\n10. 🔧 NotebookLM发布移动应用重大更新\n11. 📈 xAI宣布Live Search API移除并推荐Agent Tools\n12. 📈 yupp.ai发布SVG榜单Gemini 3 Pro登顶\n13. 📈 OpenAI在澳建550MW GPU超级集群\n14. 🚀 火山方舟上线DeepSeek-V3.2模型\n15. 📈 Google启动Gemini 3 Vibe Code黑客松\n16. 🔧 JetBrains IDEs集成Agent Client Protocol\n17. 📈 xAI实验性Grok 4.20模型夺冠Alpha Arena\n18. 🔧 Google开发Gemini网页实时翻译功能\n19. 📈 Meta收购Limitless并签署AI新闻协议",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 7,
-  "total_count": 132,
-  "generated_time": "2026-03-13 09:29:38"
+  "total_count": 133,
+  "generated_time": "2026-03-14 09:15:30"
 }

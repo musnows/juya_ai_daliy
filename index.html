@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 132 条早报</span>
+                        <span id="total-count">共 133 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-14.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Claude 正式上线 100 万 token 上下文，取消阶梯计费【AI 早报 2026-03-14】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-14</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1LDwHz1E6Q</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Claude 正式上线 100 万 token 上下文，取消阶梯计费
+2. 🚀 上海人工智能实验室发布 InternVL-U 统一多模态模型
+3. 📈 智谱调整 GLM Coding Plan 折扣，拼好模门槛提高
+4. 🔧 Codex 应用正式上线自动化功能与主题个性化
+5. 🔧 Chr...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    21 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-14 09:15:28
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-03-13.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">GitHub 大砍 Copilot 学生计划；Claude 上线生成交互式图表功能【AI 早报 2026-03-13】</h3>
@@ -537,37 +569,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-19.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Google DeepMind 发布 Lyria 3 音乐生成模型并已上线 Gemini【AI 早报 2026-02-19】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-02-19</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1WfZ8BqEu6</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Google DeepMind 发布 Lyria 3 音乐生成模型并集成至 Gemini
-2. 🔧 xAI 推出 Grok 4.20 Heavy 支持16-Agent协作模式
-3. 🚀 Prime Intellect 开源106B参数 MoE 模型 INTELLECT-3.1
-4. 🚀 印...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    12 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-02-19 09:39:25
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -614,7 +615,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 132;
+        let totalCount = 133;
         let isLoading = false;
 
         // 工具函数
