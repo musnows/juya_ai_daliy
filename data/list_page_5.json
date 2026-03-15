@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "白嫖党崩溃！Google 突然削减 Gemini API 免费配额【AI 早报 2025-12-07】",
+      "publish_date": "2025-12-07",
+      "bv_id": "BV1vL2fBgE3G",
+      "organize_time": "2025-12-07 08:53:27",
+      "news_count": 9,
+      "overview": "1. 🔧 Google削减Gemini API免费配额\n2. 🚀 Essential AI发布Rnj-1开源模型\n3. 🚀 OpenBMB发布VoxCPM1.5无分词器TTS系统\n4. 📈 OPPO AI揭示Agent系统编造缺陷\n5. 📈 LeCun创立AMI聚焦非生成世界模型\n6. 🚀 Live Avatar发布流式音驱Agent框架\n7. 🚀 Microsoft发布FoundryLocal本地AI推理框架\n8. 🔧 Poetiq在ARC-AGI基准确立新SOTA\n9. 🔧 Google发布Titans与MIRAS记忆框架",
+      "is_voice_generated": false
+    },
+    {
       "title": "GPT-5.2即将来袭？Altman被逼到\"code red\"！谷歌Gemini 3刚封神就要被秒？【AI早报 12月6日】",
       "publish_date": "2025-12-06",
       "bv_id": "BV1iw2nBvEWB",
@@ -170,19 +179,10 @@
       "news_count": 16,
       "overview": "1. 🚀 Grok 4.1模型正式发布\n2. 🔧 Google Gemini 3 Pro灰度推送\n3. 🚀 Google发布WeatherNext 2天气模型\n4. 🔧 Google Vids AI功能免费开放\n5. 🚀 Google推出AI旅行规划新功能\n6. 📈 Artificial Analysis发布AA-Omniscience基准\n7. 📈 LongCat发布AMO-Bench数学推理基准\n8. 🚀 阿里发布千问应用公测版\n9. 📈 阿里Qwen Chat用户突破千万\n10. 🔧 Google计划推出AI Studio移动应用\n11. 🔧 Google拟引入Gemini Enterprise Agent导入\n12. 🔧 Poe上线200人群聊功能\n13. 🔧 Cerebras发布REAP剪枝MiniMax-M2模型\n14. 📈 Google推出三项Gemini教育认证\n15. 📈 Replicate加入Cloudflare\n16. 📈 Jeff Bezos回归Project Prometheus联合CEO",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google将发Nano Banana Pro【AI 早报 2025-11-17】",
-      "publish_date": "2025-11-17",
-      "bv_id": "BV1rUChBAEGE",
-      "organize_time": "2025-11-22 20:34:17",
-      "news_count": 3,
-      "overview": "1. 🚀 Google将发布Nano Banana Pro\n2. 🔧 Google Enterprise内测多Agent锦标赛\n3. 🚀 EverMind AI开源智能记忆系统EverMemOS",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
   "total_pages": 7,
-  "total_count": 133,
-  "generated_time": "2026-03-14 09:15:30"
+  "total_count": 134,
+  "generated_time": "2026-03-15 09:16:00"
 }

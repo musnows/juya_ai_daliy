@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "超乎想象！MiniMax开启限时优惠；智谱AI赠送订阅用户奶茶【AI 早报 2025-12-27】",
+      "publish_date": "2025-12-27",
+      "bv_id": "BV1y9BBB5Ewq",
+      "organize_time": "2025-12-27 08:39:21",
+      "news_count": 6,
+      "overview": "1. 🚀 MiniMax开源M2.1编程模型并开启限时优惠\n2. 📈 智谱AI为GLM Coding Plan订阅用户赠送奶茶券\n3. 🔧 Antigravity无限期维持Flash模型高速率限制\n4. 🔧 Yann LeCun发布VL-JEPA实时视觉语言模型\n5. 🚀 Google新图像模型Nano Banana Pro Flash曝光\n6. 📈 日本政府通过AI基本计划拟投逾1万亿日元",
+      "is_voice_generated": true
+    },
+    {
       "title": "紧急！Codex额度翻倍，错过等一年！X平台AI编辑引爆版权争议！【AI早报 2025-12-26】",
       "publish_date": "2025-12-26",
       "bv_id": "BV1b7BZB6E7w",
@@ -170,19 +179,10 @@
       "news_count": 9,
       "overview": "1. 🚀 Gemini 3 Flash 或已上线 LM Arena\n2. 🚀 NewBieAi-lab 发布动漫图像生成模型\n3. 🚀 ServiceNow 发布多模态推理模型 Apriel-1.6-15B-Thinker\n4. 🚀 LLM360 发布完全开放模型 K2-V2-Instruct\n5. 🔧 ImageCritic 发布图像后编辑框架\n6. 🔧 Grok 深度集成 Tesla 并预告 4.20 版本\n7. 🚀 Stack Overflow 发布 AI Assist 工具\n8. 📈 Google 扩大 TPU 供应与数据中心部署\n9. 📈 d-Matrix 完成 2.75 亿美元 C 轮融资",
       "is_voice_generated": false
-    },
-    {
-      "title": "白嫖党崩溃！Google 突然削减 Gemini API 免费配额【AI 早报 2025-12-07】",
-      "publish_date": "2025-12-07",
-      "bv_id": "BV1vL2fBgE3G",
-      "organize_time": "2025-12-07 08:53:27",
-      "news_count": 9,
-      "overview": "1. 🔧 Google削减Gemini API免费配额\n2. 🚀 Essential AI发布Rnj-1开源模型\n3. 🚀 OpenBMB发布VoxCPM1.5无分词器TTS系统\n4. 📈 OPPO AI揭示Agent系统编造缺陷\n5. 📈 LeCun创立AMI聚焦非生成世界模型\n6. 🚀 Live Avatar发布流式音驱Agent框架\n7. 🚀 Microsoft发布FoundryLocal本地AI推理框架\n8. 🔧 Poetiq在ARC-AGI基准确立新SOTA\n9. 🔧 Google发布Titans与MIRAS记忆框架",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 7,
-  "total_count": 133,
-  "generated_time": "2026-03-14 09:15:30"
+  "total_count": 134,
+  "generated_time": "2026-03-15 09:16:00"
 }

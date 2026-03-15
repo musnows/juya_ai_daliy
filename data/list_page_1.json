@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Claude 推出限时促销，非高峰及周末使用额度翻倍【AI 早报 2026-03-15】",
+      "publish_date": "2026-03-15",
+      "bv_id": "BV1EBwKzBEHz",
+      "organize_time": "2026-03-15 09:15:58",
+      "news_count": 7,
+      "overview": "1. 📈 Claude 推出限时促销，非高峰及周末使用额度翻倍\n2. 🔧 智谱推迟 GLM Coding Plan 续订与回退窗口\n3. 🚀 StepFun 发布 Step 3.5 Flash 模型训练数据\n4. 🔧 Z Code 发布 V0.22.1，上线浅色主题并接入 OpenCode\n5. 📈 消息称字节跳动暂停 Seedance 2.0 全球发布，涉迪士尼版权纠纷\n6. 🔧 OpenClaw 发布更新，支持接入实时 Chrome 会话\n7. 📈 腾讯云启动“龙虾”全国免费安装，40 天覆盖 17 城",
+      "is_voice_generated": false
+    },
+    {
       "title": "Claude 正式上线 100 万 token 上下文，取消阶梯计费【AI 早报 2026-03-14】",
       "publish_date": "2026-03-14",
       "bv_id": "BV1LDwHz1E6Q",
@@ -170,19 +179,10 @@
       "news_count": 26,
       "overview": "1. 🚀 智谱AI发布并开源GLM-5模型\n2. 🔧 DeepSeek上线1M上下文窗口新模型\n3. 🚀 MiniMax上线MiniMax M2.5模型\n4. 🔧 OpenAI更新GPT-5.2 Instant模型\n5. 🚀 蚂蚁集团发布全模态大模型Ming-flash-omni 2.0\n6. 🚀 科大讯飞推出讯飞星火X2大模型\n7. 🚀 OpenBMB发布MiniCPM-SALA百万上下文模型\n8. 🚀 BOSS直聘推出Nanbeige4.1-3B模型\n9. 🚀 Soul推出SoulX-Singer歌声合成模型\n10. 🚀 智谱正式发布AI编程工具Z Code\n11. 📈 智谱AI上调GLM Coding Plan价格\n12. 🔧 Google AI Studio更新，新增omnibar功能\n13. 📈 Factory与JetBrains合作集成Droid Agent\n14. 🔧 Anthropic开放Claude免费版四项功能\n15. 🚀 智谱发布GLM in Excel插件\n16. 🚀 美团LongCat上线“深度研究”智能体\n17. 🚀 Stitch推出Ideate Agent\n18. 📈 Mistral AI投资12亿欧元瑞典数据中心\n19. 📈 OpenAI解散任务对齐团队\n20. 📈 xAI进行重组与人事变动\n21. 🚀 Prime Intellect推出全栈agentic训练平台\n22. 🔧 Gemini Deep Think攻克科研级难题\n23. 🔧 Karpathy开源243行纯Python GPT实现\n24. 📈 Anthropic发布Claude Opus 4.6破坏风险报告\n25. 🔧 OpenAI开放Windows版Codex Alpha候补\n26. 📈 传谷歌拟推出Gemini 3.1 Pro Preview",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI正式启动ChatGPT广告测试【AI 早报 2026-02-10】",
-      "publish_date": "2026-02-10",
-      "bv_id": "BV1PtFUzbELw",
-      "organize_time": "2026-02-10 09:10:09",
-      "news_count": 10,
-      "overview": "1. 📈 OpenAI正式启动ChatGPT广告测试\n2. 🔧 Sam Altman宣布Codex将保持免费用户可用\n3. 🚀 OpenRouter上线 stealth 模型 Aurora Alpha\n4. 🔧 Cursor上线编程模型Composer 1.5\n5. 🚀 OpenAI逐步向第三方开放GPT-5.3-Codex\n6. 🚀 美团AI编程工具CatPaw全量开放\n7. 🔧 Hugging Face发布Transformers.js v4预览版\n8. 🚀 魔搭ModelScope推出OpenAPI\n9. 🔧 Sora上线Extensions续写功能\n10. 🔧 智谱GLM-5架构细节曝光，总参数或达700B",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 133,
-  "generated_time": "2026-03-14 09:15:30"
+  "total_count": 134,
+  "generated_time": "2026-03-15 09:16:00"
 }

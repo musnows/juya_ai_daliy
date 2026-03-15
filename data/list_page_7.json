@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "API 限免大战来了，MiniMax VS 快手，你选哪个？【AI 早报 2025-10-28】",
+      "publish_date": "2025-10-28",
+      "bv_id": "BV1nUyqBnEvJ",
+      "organize_time": "2025-11-23 15:25:46",
+      "news_count": 16,
+      "overview": "1. 🚀 Anthropic发布Claude for Excel\n2. 🔧 OpenAI更新模型强化敏感对话响应\n3. 🚀 Google Gemini集成Canvas增强演示文稿创建\n4. 🚀 xAI推出Grokipedia早期测试版\n5. 🚀 MiniMax开源模型MiniMax-M2\n6. 🚀 inclusionAI发布Ming-flash-omni Preview模型\n7. 🚀 inclusionAI发布LLaDA2.0-flash-preview模型\n8. 🚀 智谱发布Glyph模型权重\n9. 🚀 火山引擎上线豆包视频生成模型1.0 pro fast\n10. 🚀 Windsurf上线新stealth模型Falcon Alpha\n11. 📈 快手万擎StreamLake提供KAT-Coder-Pro V1限时免费\n12. 🔧 Hugging Face发布huggingface_hub v1.0版本\n13. 🔧 Windsurf宣布Cascade支持Jupyter Notebooks\n14. 🚀 Skywork AI上线网页复刻功能\n15. 📈 高通发布AI加速器芯片进军数据中心市场\n16. 📈 软银批准225亿美元投资OpenAI",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cursor预告即将发布2.0版本【AI 早报 2025-10-27】",
       "publish_date": "2025-10-27",
       "bv_id": "BV1LaskzZEZj",
@@ -120,6 +129,6 @@
   ],
   "page": 7,
   "total_pages": 7,
-  "total_count": 133,
-  "generated_time": "2026-03-14 09:15:30"
+  "total_count": 134,
+  "generated_time": "2026-03-15 09:16:00"
 }
