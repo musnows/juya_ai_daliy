@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "xAI 发布 Grok 4.1 模型【AI 早报 2025-11-18】",
+      "publish_date": "2025-11-18",
+      "bv_id": "BV1jjCkB9ELZ",
+      "organize_time": "2025-11-22 20:34:08",
+      "news_count": 16,
+      "overview": "1. 🚀 Grok 4.1模型正式发布\n2. 🔧 Google Gemini 3 Pro灰度推送\n3. 🚀 Google发布WeatherNext 2天气模型\n4. 🔧 Google Vids AI功能免费开放\n5. 🚀 Google推出AI旅行规划新功能\n6. 📈 Artificial Analysis发布AA-Omniscience基准\n7. 📈 LongCat发布AMO-Bench数学推理基准\n8. 🚀 阿里发布千问应用公测版\n9. 📈 阿里Qwen Chat用户突破千万\n10. 🔧 Google计划推出AI Studio移动应用\n11. 🔧 Google拟引入Gemini Enterprise Agent导入\n12. 🔧 Poe上线200人群聊功能\n13. 🔧 Cerebras发布REAP剪枝MiniMax-M2模型\n14. 📈 Google推出三项Gemini教育认证\n15. 📈 Replicate加入Cloudflare\n16. 📈 Jeff Bezos回归Project Prometheus联合CEO",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google将发Nano Banana Pro【AI 早报 2025-11-17】",
       "publish_date": "2025-11-17",
       "bv_id": "BV1rUChBAEGE",
@@ -170,19 +179,10 @@
       "news_count": 13,
       "overview": "1. 🚀 Cursor发布2.0与自研Composer模型\n2. 🚀 Cognition发布SWE-1.5极速Agent模型\n3. 🚀 Sora更新并限时开放免邀请码注册\n4. 🔧 NotebookLM升级并开放自定义目标\n5. 🔧 OpenAI向Pro用户开放Pulse功能\n6. 🔧 Grok移动端上线视频超分功能\n7. 🚀 Google发布Jules Gemini CLI扩展\n8. 🚀 Microsoft 365 Copilot新增App Builder与Workflows\n9. 📈 Google上调Gemini 2.5缓存折扣至90%\n10. 🚀 Cherry Studio移动端内测招募启动\n11. 🚀 OpenAI发布gpt-oss-safeguard安全模型\n12. 🚀 Bria AI开源FIBO文生图模型\n13. 🚀 InternLM发布JanusCoder系列模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "Cursor 慌了，GitHub发布Agent HQ及Copilot重大更新【AI 早报 2025-10-29】",
-      "publish_date": "2025-10-29",
-      "bv_id": "BV1yRy1BEE47",
-      "organize_time": "2025-11-23 15:25:22",
-      "news_count": 27,
-      "overview": "1. 📈 OpenAI完成重组并更名基金会\n2. 🚀 GitHub发布Agent HQ与Copilot升级\n3. 🚀 NotebookLM新增Kawaii风格视频摘要\n4. 🚀 谷歌实验室推AI营销工具Pomelli\n5. 🚀 Flowith AI发布Agent操作系统FlowithOS\n6. 🔧 Anthropic发送Neptune V6模型进行安全测试\n7. 🔧 Claude Code 2.0.28引入Plan模式与子代理\n8. 🔧 NVIDIA发布NVQLink量子-GPU互联架构\n9. 🔧 NVIDIA开源OmniVinci-9B全模态大模型\n10. 🔧 NVIDIA开源Nemotron、Cosmos等AI模型\n11. 🚀 MiniMax发布Hailuo 2.3视频模型\n12. 🔧 Soul AI开源SoulX-Podcast-1.7B语音模型\n13. 🚀 Cartesia融资1亿并发布Sonic-3语音模型\n14. 🔧 IBM开源Granite 4.0 Nano系列模型\n15. 🚀 JetBrains发布DPAI Arena评测平台\n16. 🔧 NVIDIA推出ProfBench专业评测基准\n17. 🚀 Adobe升级Firefly为一站式AI创意平台\n18. 🚀 Pokee AI发布对话式Agent编排平台\n19. 🔧 谷歌Gemini 2.5 Flash Image接入Batch API\n20. 📈 OpenAI为印度用户推免费ChatGPT Go\n21. 🚀 Vidu Q2模型上线海艺AI平台\n22. 📈 Giga AI推免费调用Claude Code计划\n23. 📈 OpenAI公布AI研究员路线图\n24. 🔧 Thinking Machines提出On-Policy Distillation方法\n25. 🔧 复旦与美团发布R-HORIZON推理框架\n26. 📈 Mem0完成2400万美元融资\n27. 📈 xAI拟上线Grok Imagine文生视频功能",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 7,
-  "total_count": 134,
-  "generated_time": "2026-03-15 09:16:00"
+  "total_count": 135,
+  "generated_time": "2026-03-16 08:46:27"
 }

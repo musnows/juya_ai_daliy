@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cursor 慌了，GitHub发布Agent HQ及Copilot重大更新【AI 早报 2025-10-29】",
+      "publish_date": "2025-10-29",
+      "bv_id": "BV1yRy1BEE47",
+      "organize_time": "2025-11-23 15:25:22",
+      "news_count": 27,
+      "overview": "1. 📈 OpenAI完成重组并更名基金会\n2. 🚀 GitHub发布Agent HQ与Copilot升级\n3. 🚀 NotebookLM新增Kawaii风格视频摘要\n4. 🚀 谷歌实验室推AI营销工具Pomelli\n5. 🚀 Flowith AI发布Agent操作系统FlowithOS\n6. 🔧 Anthropic发送Neptune V6模型进行安全测试\n7. 🔧 Claude Code 2.0.28引入Plan模式与子代理\n8. 🔧 NVIDIA发布NVQLink量子-GPU互联架构\n9. 🔧 NVIDIA开源OmniVinci-9B全模态大模型\n10. 🔧 NVIDIA开源Nemotron、Cosmos等AI模型\n11. 🚀 MiniMax发布Hailuo 2.3视频模型\n12. 🔧 Soul AI开源SoulX-Podcast-1.7B语音模型\n13. 🚀 Cartesia融资1亿并发布Sonic-3语音模型\n14. 🔧 IBM开源Granite 4.0 Nano系列模型\n15. 🚀 JetBrains发布DPAI Arena评测平台\n16. 🔧 NVIDIA推出ProfBench专业评测基准\n17. 🚀 Adobe升级Firefly为一站式AI创意平台\n18. 🚀 Pokee AI发布对话式Agent编排平台\n19. 🔧 谷歌Gemini 2.5 Flash Image接入Batch API\n20. 📈 OpenAI为印度用户推免费ChatGPT Go\n21. 🚀 Vidu Q2模型上线海艺AI平台\n22. 📈 Giga AI推免费调用Claude Code计划\n23. 📈 OpenAI公布AI研究员路线图\n24. 🔧 Thinking Machines提出On-Policy Distillation方法\n25. 🔧 复旦与美团发布R-HORIZON推理框架\n26. 📈 Mem0完成2400万美元融资\n27. 📈 xAI拟上线Grok Imagine文生视频功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "API 限免大战来了，MiniMax VS 快手，你选哪个？【AI 早报 2025-10-28】",
       "publish_date": "2025-10-28",
       "bv_id": "BV1nUyqBnEvJ",
@@ -129,6 +138,6 @@
   ],
   "page": 7,
   "total_pages": 7,
-  "total_count": 134,
-  "generated_time": "2026-03-15 09:16:00"
+  "total_count": 135,
+  "generated_time": "2026-03-16 08:46:27"
 }
