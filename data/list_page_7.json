@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cursor 2.0发布，还带来了自研模型Composer【AI 早报 2025-10-30】",
+      "publish_date": "2025-10-30",
+      "bv_id": "BV18uy4BTEQm",
+      "organize_time": "2025-11-23 15:24:41",
+      "news_count": 13,
+      "overview": "1. 🚀 Cursor发布2.0与自研Composer模型\n2. 🚀 Cognition发布SWE-1.5极速Agent模型\n3. 🚀 Sora更新并限时开放免邀请码注册\n4. 🔧 NotebookLM升级并开放自定义目标\n5. 🔧 OpenAI向Pro用户开放Pulse功能\n6. 🔧 Grok移动端上线视频超分功能\n7. 🚀 Google发布Jules Gemini CLI扩展\n8. 🚀 Microsoft 365 Copilot新增App Builder与Workflows\n9. 📈 Google上调Gemini 2.5缓存折扣至90%\n10. 🚀 Cherry Studio移动端内测招募启动\n11. 🚀 OpenAI发布gpt-oss-safeguard安全模型\n12. 🚀 Bria AI开源FIBO文生图模型\n13. 🚀 InternLM发布JanusCoder系列模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cursor 慌了，GitHub发布Agent HQ及Copilot重大更新【AI 早报 2025-10-29】",
       "publish_date": "2025-10-29",
       "bv_id": "BV1yRy1BEE47",
@@ -138,6 +147,6 @@
   ],
   "page": 7,
   "total_pages": 7,
-  "total_count": 135,
-  "generated_time": "2026-03-16 08:46:27"
+  "total_count": 136,
+  "generated_time": "2026-03-17 09:16:51"
 }

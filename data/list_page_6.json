@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google 发布 Gemini 3 Pro【AI 早报 2025-11-19】",
+      "publish_date": "2025-11-19",
+      "bv_id": "BV12Jy7BBEkQ",
+      "organize_time": "2025-11-23 14:39:44",
+      "news_count": 21,
+      "overview": "1. 🚀 谷歌发布Gemini 3 Pro大模型\n2. 🔧 谷歌Gemini应用集成Gemini 3 Pro\n3. 🚀 谷歌发布AI辅助开发平台Antigrafty\n4. 🔧 谷歌推出Scholar Lapse学术AI功能\n5. 📈 Google DeepMind暗示新品发布\n6. 🔧 Kode AI推出终端AI Agent功能\n7. 🚀 昆仑万维发布Skywa Rev4 Light多模态智能体\n8. 🚀 Unio E2.0 Omni全模态大模型开源\n9. 🚀 蚂蚁集团发布灵光全模态AI助手\n10. 🔧 GitHub Copilot推出自动模型选择功能\n11. 🔧 Tra1 Solo功能转为付费并开放\n12. 📈 MiniMax M2模型限时免费\n13. 🔧 DeepSeek修复V3.2XP推理漏洞\n14. 🔧 微软推出Agent Workspace实验功能\n15. 🚀 Mans推出Browse Operator智能浏览器扩展\n16. 🚀 AI2推出Drr Trulo深度研究框架\n17. 🚀 OceanBase发布AI原生混合搜索数据库\n18. 🚀 微软推出H for Business企业浏览器\n19. 📈 马斯克确认Grok 4.20版本将至\n20. 📈 微软英伟达与Anthropic达成战略合作\n21. 🔧 Intuity整合GPT技术提供智能金融服务",
+      "is_voice_generated": true
+    },
+    {
       "title": "xAI 发布 Grok 4.1 模型【AI 早报 2025-11-18】",
       "publish_date": "2025-11-18",
       "bv_id": "BV1jjCkB9ELZ",
@@ -170,19 +179,10 @@
       "news_count": 21,
       "overview": "1. 🚀 MiniMax发布语音模型Speech 2.6\n2. 🚀 OpenAI发布Aardvark安全研究工具\n3. 🚀 Lumi AI论文阅读器上线\n4. 🔧 Sora新增付费生成额度功能\n5. 🔧 ChatGPT Plus推出积分付费选项\n6. 🔧 谷歌AI Studio上线日志与数据集功能\n7. 🚀 月之暗面开源Kimi-Linear-48B-A3B模型\n8. 🚀 智源发布多模态世界模型Emu3.5\n9. 🚀 英伟达发布ChronoEdit-14B多模态模型\n10. 🚀 ManifestAI开源Brumby-14B-Base模型\n11. 🔧 Cognition发布Devin公测版\n12. 🚀 Qoder发布Linux x64公测版\n13. 🚀 OpenRouter上线Sonar Pro Search\n14. 🚀 Perplexity发布专利研究智能体\n15. 🔧 OpenAI详解Atlas浏览器OWL架构\n16. 📈 OSWorld-MCP基准正式发布\n17. 📈 Hugging Face发布Smol训练手册\n18. 🔧 MiniMax披露M2模型全链路设计\n19. 🔧 SUSE集成MCP至Linux 16.0\n20. 🚀 腾讯发布DeepSeek-V3.1-Terminus量化模型\n21. 📈 AWS与Anthropic共建AI超级集群Rainier",
       "is_voice_generated": false
-    },
-    {
-      "title": "Cursor 2.0发布，还带来了自研模型Composer【AI 早报 2025-10-30】",
-      "publish_date": "2025-10-30",
-      "bv_id": "BV18uy4BTEQm",
-      "organize_time": "2025-11-23 15:24:41",
-      "news_count": 13,
-      "overview": "1. 🚀 Cursor发布2.0与自研Composer模型\n2. 🚀 Cognition发布SWE-1.5极速Agent模型\n3. 🚀 Sora更新并限时开放免邀请码注册\n4. 🔧 NotebookLM升级并开放自定义目标\n5. 🔧 OpenAI向Pro用户开放Pulse功能\n6. 🔧 Grok移动端上线视频超分功能\n7. 🚀 Google发布Jules Gemini CLI扩展\n8. 🚀 Microsoft 365 Copilot新增App Builder与Workflows\n9. 📈 Google上调Gemini 2.5缓存折扣至90%\n10. 🚀 Cherry Studio移动端内测招募启动\n11. 🚀 OpenAI发布gpt-oss-safeguard安全模型\n12. 🚀 Bria AI开源FIBO文生图模型\n13. 🚀 InternLM发布JanusCoder系列模型",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 7,
-  "total_count": 135,
-  "generated_time": "2026-03-16 08:46:27"
+  "total_count": 136,
+  "generated_time": "2026-03-17 09:16:51"
 }

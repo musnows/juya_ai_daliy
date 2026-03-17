@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google 逐步向香港用户开放 Gemini 应用【AI 早报 2026-03-17】",
+      "publish_date": "2026-03-17",
+      "bv_id": "BV1ZiwSzZEjK",
+      "organize_time": "2026-03-17 09:16:49",
+      "news_count": 1,
+      "overview": "1. 🚀 Google 逐步向香港用户开放 Gemini 应用",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱发布 GLM-5-Turbo，专为 OpenClaw 等 Agent 驱动环境优化【AI 早报 2026-03-16】",
       "publish_date": "2026-03-16",
       "bv_id": "BV1hxw5zUExG",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 阿里千问开源Qwen3.5-397B-A17B大模型\n2. 🚀 蚂蚁百灵发布Ling-2.5-1T大模型\n3. 🚀 Manus推出Manus Agents智能体平台\n4. 🔧 Kilo上线优化版Grok Code Fast 1\n5. 📈 智谱启动合伙人计划应对GLM-5算力瓶颈\n6. 📈 Flapping Airplanes获1.8亿美元融资\n7. 📈 Ricursive Intelligence完成3.35亿美元融资\n8. 📈 传Kimi K3计划于3月发布",
       "is_voice_generated": false
-    },
-    {
-      "title": "字节跳动发布豆包大模型2.0系列【AI 早报 2026-02-15】",
-      "publish_date": "2026-02-15",
-      "bv_id": "BV1feZpB6EJU",
-      "organize_time": "2026-02-15 09:19:14",
-      "news_count": 10,
-      "overview": "1. 🚀 字节跳动发布豆包大模型2.0系列\n2. 🔧 小红书开源图像编辑模型FireRed-Image-Edit-1.0\n3. 🚀 通义实验室推出CoPaw智能体工作台\n4. 🔧 ChatGPT新增Lockdown Mode与高风险标签\n5. 🚀 千问APP扩展“超级免单卡”使用范围\n6. 📈 中国首部AIGC动画电影定档2月28日\n7. 📈 字节跳动AI模型引发版权与肖像争议\n8. 🔧 OpenAI实现Codex驱动零代码开发\n9. 🔧 OpenAI内部模型生成研究级数学解法\n10. 📈 Anthropic或将上线新模型",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 135,
-  "generated_time": "2026-03-16 08:46:27"
+  "total_count": 136,
+  "generated_time": "2026-03-17 09:16:51"
 }

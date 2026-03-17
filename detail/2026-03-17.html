@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google 逐步向香港用户开放 Gemini 应用【AI 早报 2026-03-17】 - AI早报</title>
+    <link rel="icon" type="image/jpeg" href="../static/favicon.jpeg">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <meta name="description" content="1. 🚀 Google 逐步向香港用户开放 Gemini 应用...">
+    <meta name="keywords" content="AI,人工智能,科技资讯,技术前沿,早报,2026-03-17">
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="logo">
+                    <i class="fas fa-newspaper"></i>
+                    AI早报
+                </h1>
+                <p class="subtitle">每日AI资讯精选，把握技术前沿动态</p>
+            </div>
+        </header>
+
+        <!-- 主要内容区域 -->
+        <main class="main">
+            <!-- 详情视图 -->
+            <div class="detail-view">
+                <div class="detail-header">
+                    <button class="btn-back" onclick="window.location.href='../index.html'">
+                        返回首页
+                    </button>
+                    <div class="detail-actions">
+                        <button class="btn-share" onclick="copyUrl()">
+                            <i class="fas fa-share-alt"></i>
+                            分享链接
+                        </button>
+                    </div>
+                </div>
+
+                <div class="detail-content">
+                    <div class="newspaper-detail">
+                        <div class="detail-title">
+                            <h1>Google 逐步向香港用户开放 Gemini 应用【AI 早报 2026-03-17】</h1>
+                            <div class="detail-meta">
+                                <div class="meta-item">
+                                    <i class="fas fa-calendar"></i>
+                                    <span>2026-03-17</span>
+                                </div>
+                                <div class="meta-item">
+                                    <i class="fas fa-video"></i>
+                                    <span>
+                                        <a href="https://www.bilibili.com/video/BV1ZiwSzZEjK" target="_blank" class="bv-link">BV1ZiwSzZEjK</a>
+                                    </span>
+                                </div>
+                                <div class="meta-item">
+                                    <i class="fas fa-clock"></i>
+                                    <span>2026年03月17日 09:16</span>
+                                </div>
+                                <div class="meta-item">
+                                    <i class="fas fa-list"></i>
+                                    <span>1 条资讯</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="detail-body">
+                            <h2 id="_1">📋 本期概览</h2>
+<ol>
+<li>🚀 Google 逐步向香港用户开放 Gemini 应用</li>
+</ol>
+<hr />
+<h3 id="1-Google-逐步向香港用户开放-Gemini-应用">1. 🚀 Google 逐步向香港用户开放 Gemini 应用</h3>
+<p><strong>标签</strong>： <code>Google</code> <code>Gemini</code></p>
+<p>Google 正逐步向香港地区用户开放其人工智能助手 Gemini 应用的访问权限。此举标志着 Google 在亚太市场进一步推进其生成式 AI 产品的本地化部署。Gemini 作为 Google 的核心 AI 产品，整合了多模态理解、自然语言处理与代码生成能力，支持文本、图像和语音交互。此次在香港的逐步开放，可能意味着 Google 已完成对当地数据合规、语言支持（如粤语和繁体中文）及网络基础设施的适配。尽管未公布具体时间表，但用户已可通过 Google 账户在 Android 或 iOS 设备上申请访问。该扩展有助于提升 Google 在亚洲高端市场的 AI 服务竞争力，尤其在与本地科技公司的竞争中占据技术制高点。</p>
+<hr />
+<hr />
+<h2 id="_2">🎬 视频链接</h2>
+<p><strong>Bilibili</strong>： <a href="https://www.bilibili.com/video/BV1ZiwSzZEjK">https://www.bilibili.com/video/BV1ZiwSzZEjK</a></p>
+<hr />
+<p><em>整理自橘鸦AI早报 | BV号：BV1ZiwSzZEjK | 2026-03-17 09:16:49</em></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- 底部 -->
+        <footer class="footer">
+            <p>&copy; 2025 AI早报 - <a href="https://github.com/musnows/juya_agent" target="_blank">musnows/juya_agent</a> - 整理自橘鸦AI早报</p>
+        </footer>
+    </div>
+
+    <!-- 成功提示 -->
+    <div id="success-toast" class="toast success hidden">
+        <i class="fas fa-check-circle"></i>
+        <span id="success-message"></span>
+    </div>
+
+    <script>
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('success-toast');
+            const messageElement = document.getElementById('success-message');
+
+            messageElement.textContent = message;
+            toast.classList.remove('hidden');
+
+            setTimeout(() => {
+                toast.classList.add('hidden');
+            }, 3000);
+        }
+
+        function copyUrl() {
+            navigator.clipboard.writeText(window.location.href).then(() => {
+                showToast('链接已复制到剪贴板', 'success');
+            }).catch(() => {
+                showToast('复制失败，请手动复制链接', 'error');
+            });
+        }
+
+        // 键盘快捷键支持
+        document.addEventListener('keydown', function(e) {
+            // ESC键返回首页
+            if (e.key === 'Escape') {
+                window.location.href = '../index.html';
+            }
+        });
+    </script>
+</body>
+</html>
