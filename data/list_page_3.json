@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI发文宣布2025年收入超200亿美元；谷歌称暂无在 Gemini 应用投放广告的计划【AI 早报 2026-01-19】",
+      "publish_date": "2026-01-19",
+      "bv_id": "BV1Fqk8BZE98",
+      "organize_time": "2026-01-19 08:45:55",
+      "news_count": 6,
+      "overview": "1. 📈 OpenAI宣布2025年收入突破200亿美元\n2. 📈 谷歌确认Gemini应用暂无广告投放计划\n3. 🚀 Warp发布CLI编程Agent深度支持功能\n4. 🚀 GitLab发布GitLab Duo Agent Platform\n5. 🔧 Claude Code新增执行前自动清除Context功能\n6. 🔧 Anthropic正为Claude开发定制化命令功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "Vercel 发布 AI 技能管理工具 add-skill【AI 早报 2026-01-18】",
       "publish_date": "2026-01-18",
       "bv_id": "BV1DCkHBDE7W",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🔧 DeepSeek App新增语音输入功能，用户热议更新\n2. 🚀 腾讯开源HY-MT1.5翻译模型，支持33种语言互译\n3. 🚀 腾讯发布HY-Motion 1.0文生3D动作模型\n4. 🚀 字节跳动推出语音驱动AI工作空间AnyGen\n5. 🔧 通义千问即将发布Qwen-Image-2512图像生成模型\n6. 🔧 OpenBMB与THUNLP发布法律推理基准LexChain\n7. 🔧 X平台扩展Grok Imagine画幅选项至5种比例\n8. 🔧 Notion开发自定义AI Agent功能，支持自动化触发\n9. 📈 Adobe与Runway达成战略合作，集成Gen-4.5模型\n10. 📈 软银完成对OpenAI 400亿美元投资承诺\n11. 📈 智谱AI启动港股招股，预计1月8日挂牌上市\n12. 📈 MiniMax启动港股招股，预计1月9日挂牌上市",
       "is_voice_generated": false
-    },
-    {
-      "title": "阿里通义开源GUI智能体MAI-UI模型；快手KwaiKAT推出Coding Plan订阅包【AI 早报 2025-12-30】",
-      "publish_date": "2025-12-30",
-      "bv_id": "BV1EHvbBeEuc",
-      "organize_time": "2025-12-30 09:11:23",
-      "news_count": 10,
-      "overview": "1. 🚀 阿里通义开源GUI智能体MAI-UI模型\n2. 🚀 快手KwaiKAT推出Coding Plan订阅包\n3. 🔧 Antigravity回应Agent报错配额问题\n4. 🔧 OpenAI移动端ChatGPT新增Thinking时长切换功能\n5. 🚀 Naver开源HyperCLOVA X SEED系列模型\n6. 🚀 fal开源FLUX.2-dev-Turbo图像生成模型\n7. 🚀 腾讯开源WeDLM-8B-Instruct扩散语言模型\n8. 🔧 腾讯元宝上线任务管理功能\n9. 📈 Meta收购AI Agent初创公司Manus\n10. 📈 火山引擎成为2026年总台春晚独家AI云合作伙伴",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 7,
-  "total_count": 136,
-  "generated_time": "2026-03-17 09:16:51"
+  "total_count": 137,
+  "generated_time": "2026-03-18 09:47:17"
 }

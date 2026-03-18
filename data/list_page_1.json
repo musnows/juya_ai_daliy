@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型【AI 早报 2026-03-18】",
+      "publish_date": "2026-03-18",
+      "bv_id": "BV1iQwYzCEh6",
+      "organize_time": "2026-03-18 09:47:16",
+      "news_count": 1,
+      "overview": "1. 🚀 OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google 逐步向香港用户开放 Gemini 应用【AI 早报 2026-03-17】",
       "publish_date": "2026-03-17",
       "bv_id": "BV1ZiwSzZEjK",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 Anthropic 发布 Claude Sonnet 4.6，增强动态网页搜索能力\n2. 🚀 xAI 上线 Grok 4.20 测试版，马斯克确认发布\n3. 🔧 NotebookLM 新增幻灯片Prompt修订与PPTX导出功能\n4. 🔧 蚂蚁集团开源 Ming-omni-tts 音频生成模型\n5. 🚀 Cohere Labs 发布 Tiny Aya 多语言轻量模型\n6. 🔧 字节跳动开源 BitDance 多模态模型\n7. 🔧 Cursor 2.5 版本更新，推出插件市场\n8. 🔧 OpenAI 修复 GPT-5.3-Codex 请求重定向漏洞\n9. 📈 Cerebras 下调部分免费层级推理额度\n10. 🔧 Intelligent Internet 开源多Agent协作系统 Common Ground Core\n11. 📈 Nerve 加入 OpenAI，参与构建 ChatGPT 搜索功能\n12. 📈 传 Moonshot AI 完成7亿美元融资",
       "is_voice_generated": false
-    },
-    {
-      "title": "新年礼物：阿里千问开源 Qwen3.5-397B-A17B 模型【AI 早报 2026-02-17】",
-      "publish_date": "2026-02-17",
-      "bv_id": "BV1uXZ3BfE6k",
-      "organize_time": "2026-02-17 08:53:19",
-      "news_count": 8,
-      "overview": "1. 🚀 阿里千问开源Qwen3.5-397B-A17B大模型\n2. 🚀 蚂蚁百灵发布Ling-2.5-1T大模型\n3. 🚀 Manus推出Manus Agents智能体平台\n4. 🔧 Kilo上线优化版Grok Code Fast 1\n5. 📈 智谱启动合伙人计划应对GLM-5算力瓶颈\n6. 📈 Flapping Airplanes获1.8亿美元融资\n7. 📈 Ricursive Intelligence完成3.35亿美元融资\n8. 📈 传Kimi K3计划于3月发布",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 136,
-  "generated_time": "2026-03-17 09:16:51"
+  "total_count": 137,
+  "generated_time": "2026-03-18 09:47:17"
 }

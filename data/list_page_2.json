@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "新年礼物：阿里千问开源 Qwen3.5-397B-A17B 模型【AI 早报 2026-02-17】",
+      "publish_date": "2026-02-17",
+      "bv_id": "BV1uXZ3BfE6k",
+      "organize_time": "2026-02-17 08:53:19",
+      "news_count": 8,
+      "overview": "1. 🚀 阿里千问开源Qwen3.5-397B-A17B大模型\n2. 🚀 蚂蚁百灵发布Ling-2.5-1T大模型\n3. 🚀 Manus推出Manus Agents智能体平台\n4. 🔧 Kilo上线优化版Grok Code Fast 1\n5. 📈 智谱启动合伙人计划应对GLM-5算力瓶颈\n6. 📈 Flapping Airplanes获1.8亿美元融资\n7. 📈 Ricursive Intelligence完成3.35亿美元融资\n8. 📈 传Kimi K3计划于3月发布",
+      "is_voice_generated": false
+    },
+    {
       "title": "字节跳动发布豆包大模型2.0系列【AI 早报 2026-02-15】",
       "publish_date": "2026-02-15",
       "bv_id": "BV1feZpB6EJU",
@@ -170,19 +179,10 @@
       "news_count": 11,
       "overview": "1. 🚀 智谱AI发布GLM-4.7-Flash轻量级MoE模型\n2. 🚀 华为云上线CodeArts Doer代码智能体公测版\n3. 🚀 阶跃星辰发布阶跃AI桌面助手Windows版\n4. 🚀 扣子推出2.0版本并上线企业版\n5. 🚀 ManusAI上线App Publishing功能\n6. 🚀 昆仑万维发布Skywork Design Agent AI设计工具\n7. 📈 OpenAI阐述AI能力过剩与赋能理念\n8. 🔧 Anthropic揭示Assistant Axis对模型人格稳定性的影响\n9. 🔧 Google DeepMind提出新型探测架构提升长上下文泛化能力\n10. 🚀 安克创新与飞书发布AI录音豆\n11. 🔧 格灵深瞳发布丹青大规模中文视觉语言数据集",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI发文宣布2025年收入超200亿美元；谷歌称暂无在 Gemini 应用投放广告的计划【AI 早报 2026-01-19】",
-      "publish_date": "2026-01-19",
-      "bv_id": "BV1Fqk8BZE98",
-      "organize_time": "2026-01-19 08:45:55",
-      "news_count": 6,
-      "overview": "1. 📈 OpenAI宣布2025年收入突破200亿美元\n2. 📈 谷歌确认Gemini应用暂无广告投放计划\n3. 🚀 Warp发布CLI编程Agent深度支持功能\n4. 🚀 GitLab发布GitLab Duo Agent Platform\n5. 🔧 Claude Code新增执行前自动清除Context功能\n6. 🔧 Anthropic正为Claude开发定制化命令功能",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 7,
-  "total_count": 136,
-  "generated_time": "2026-03-17 09:16:51"
+  "total_count": 137,
+  "generated_time": "2026-03-18 09:47:17"
 }
