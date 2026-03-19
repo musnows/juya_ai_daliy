@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 137 条早报</span>
+                        <span id="total-count">共 138 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-19.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">MiniMax 正式发布 M2.7 模型，同步推出 Token Plan【AI 早报 2026-03-19】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-19</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1DjwkzbEZ4</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 MiniMax 发布 M2.7 模型，SWE-Pro 得分 56.22%
+2. 🚀 MiniMax 推出 Token Plan，支持全模态统一访问
+3. 🚀 小米发布 MiMo 系列三款模型并开放 API
+4. 🔧 Midjourney V8 模型开启早期测试，生成速度提升五倍
+5. 🚀 ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    25 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-19 09:18:14
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-03-18.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型【AI 早报 2026-03-18】</h3>
@@ -531,38 +563,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-02-28.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">OpenAI 完成 1100 亿美元融资并与亚马逊达成战略合作【AI 早报 2026-02-28】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-02-28</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1UPA4zLENA</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 📈 OpenAI完成1100亿美元融资并与亚马逊达成战略合作
-2. 🔧 Google Antigravity恢复部分账户但重申禁用第三方工具
-3. 🔧 Anthropic重置Claude Code用户速率限制
-4. 🚀 谷歌将终止Gemini 3 Pro Preview服务
-5. 📈 Anth...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    8 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-02-28 09:08:29
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -609,7 +609,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 137;
+        let totalCount = 138;
         let isLoading = false;
 
         // 工具函数

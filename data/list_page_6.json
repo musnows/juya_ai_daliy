@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google发布Gemini 3 Pro Image模型（Nano Banana Pro）【AI 早报 2025-11-21】",
+      "publish_date": "2025-11-21",
+      "bv_id": "BV1S9yKB1Ekb",
+      "organize_time": "2025-11-24 09:06:32",
+      "news_count": 25,
+      "overview": "1. 🚀 Google发布Gemini 3 Pro图像模型\n2. 🔧 OpenAI ChatGPT群聊功能全球上线\n3. 🔧 OpenAI更新Mac版ChatGPT Atlas浏览器\n4. 🚀 Perplexity发布Comet浏览器Android版\n5. 📈 OpenAI发布GPT-5科研加速实验报告\n6. 🚀 腾讯混元发布HunyuanVideo 1.5\n7. 🔧 NotebookLM推出Slide Decks与Infographics\n8. 🔧 Gemini CLI逐步开放Gemini 3 Pro访问\n9. 🔧 Jules推出Repoless无仓库功能\n10. 🔧 Google Stitch Flow功能升级\n11. 🔧 Google推出Gemini图像AI验证功能\n12. 🔧 MiniMax开放M2识图搜索MCP内测\n13. 🔧 Manus为Slides添加speaker notes功能\n14. 🚀 Jes SPA AI发布AI Sheets 2.0\n15. 🔧 Glep.com升级至0.2版本\n16. 🔧 Rock Imagine视频生成功能升级\n17. 🔧 Gemini登陆Android Auto\n18. 🔧 Docker Model Runner集成VLLM引擎\n19. 🚀 艾伦研究所发布OLMo 3系列模型\n20. 🚀 Mividia发布DocParse V1.1模型\n21. 🚀 Lowga Chat 702B模型发布\n22. 🔧 TI.ai发布CR同步强化学习系统\n23. 📈 Anthropic将发布Cloud 4.5与桌面应用\n24. 📈 杨立昆离职创办先进AI初创公司\n25. 📈 Suno完成2.5亿美元C轮融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI发布 GPT-5.1-Codex-Max、上线GPT-5.1 Pro；xAI发布 Grok 4.1 Fast【AI 早报 2025-11-20】",
       "publish_date": "2025-11-20",
       "bv_id": "BV1PSCZB7EST",
@@ -170,19 +179,10 @@
       "news_count": 5,
       "overview": "1. 🔧 Codex CLI v0.53发布实验性沙盒功能\n2. 🔧 Qwen3-VL获llama.cpp全面支持\n3. 📈 英特尔拟50亿美元收购SambaNova\n4. 📈 Cursor Composer-1模型疑基于中文模型微调\n5. 📈 AI艺人Xania Monet首登Billboard电台榜",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google紧急下架，AI Studio这系列模型将不可用！【AI 早报 2025-11-01】",
-      "publish_date": "2025-11-01",
-      "bv_id": "BV1Yt1VB6Eh8",
-      "organize_time": "2025-11-22 20:39:28",
-      "news_count": 18,
-      "overview": "1. 🚀 美团发布Flash-Omni多模态模型\n2. 🚀 MiniMax发布Music2.0模型\n3. 🚀 字节跳动发布Ouro系列循环语言模型\n4. 🔧 Claude发布原生安装程序\n5. 🔧 Google更新Gemini命令行工具\n6. 📈 Google关闭AI Studio的Gemma入口\n7. 🔧 Ollama桌面应用更新\n8. 🚀 Cherry Studio发布移动端首个内测版\n9. 📈 Warp调整定价结构并推出Build计划\n10. 🔧 Qoder将为JetBrains IDE推出原生支持\n11. 🚀 Perplexity推出航班实时追踪功能\n12. 📈 Udio被环球音乐收购后禁用下载功能\n13. 📈 Affinity宣布永久免费\n14. 🔧 微软在Win11预览版中推出任务栏Ask Copilot功能\n15. 🚀 OpenRouter上线嵌入模型\n16. 🚀 Opera Neon推出深度研究工具\n17. 📈 Fireworks AI完成2.5亿美元C轮融资\n18. 📈 Genspark完成超2亿美元融资",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 7,
-  "total_count": 137,
-  "generated_time": "2026-03-18 09:47:17"
+  "total_count": 138,
+  "generated_time": "2026-03-19 09:18:16"
 }

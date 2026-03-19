@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Adobe将Photoshop等功能集成至ChatGPT【AI 早报 2025-12-11】",
+      "publish_date": "2025-12-11",
+      "bv_id": "BV1vmmKBhEDp",
+      "organize_time": "2025-12-11 09:05:36",
+      "news_count": 23,
+      "overview": "1. 🚀 Adobe集成Photoshop至ChatGPT\n2. 🔧 智谱AI开源GLM-TTS语音模型\n3. 🔧 Google更新Gemini 2.5 TTS模型\n4. 🚀 Qwen发布Qwen3-Omni-Flash全模态模型\n5. 🔧 Claude Code升级Agent SDK\n6. 🔧 VS Code Agent体验重大升级\n7. 🔧 Cursor 2.2引入Debug Mode\n8. 🔧 Google Jules新增主动编程功能\n9. 🚀 智谱AI发布AI输入法\n10. 🔧 Google Pomelli引入动画功能\n11. 🔧 阿里开源Wan-Move视频模型\n12. 🚀 Motif发布12.7B推理模型\n13. 🔧 南贝格开源Nanbeige4-3B模型\n14. 🔧 thu-pacman发布PCMind-2.1模型\n15. 🚀 Arcee AI发布Trinity Mini模型\n16. 🔧 StarCloud卫星训练AI模型成功\n17. 🔧 Onsros AI发布新T内核\n18. 🔧 Google推出Acts事实准确性基准\n19. 📈 Google推广Preferred Sources功能\n20. 📈 OpenAI加强网络安全准备\n21. 📈 DeepMind训练下一代AI模型\n22. 🔧 NVIDIA开发AI芯片定位技术\n23. 📈 亚马逊投资印度350亿美元",
+      "is_voice_generated": false
+    },
+    {
       "title": "Gemini 3 官方免费资格最后上车机会！本周五通道关闭！OpenAI Whisper 被拉下神坛？智谱发布 1.5B “小钢炮”！【AI早报 12月10日】",
       "publish_date": "2025-12-10",
       "bv_id": "BV1zVmxBxEmE",
@@ -170,19 +179,10 @@
       "news_count": 18,
       "overview": "1. 🚀 腾讯开源HunyuanVideo-1.5视频模型\n2. 🚀 小米发布跨具身基础模型MiMo-Embodied\n3. 🚀 ServiceNow-AI发布Apriel-H1模型系列\n4. 🚀 豆包输入法上线多语种语音输入\n5. 🔧 Gemini CLI开放Gemini 3 Pro访问\n6. 🔧 智谱AI升级GLM Coding Plan\n7. 🔧 Cursor发布2.1版本更新\n8. 🔧 Claude Code CLI新增后台任务转移\n9. 🔧 Sora 2更新故事板块功能\n10. 📈 OpenAI发布AI原生工程团队指南\n11. 🔧 Dify发布v1.10.0工作流触发器\n12. 📈 Genspark完成B轮融资并推AI工作空间\n13. 🔧 Ollama v0.13支持DeepSeek-OCR\n14. 🔧 Hugging Face更新Open ASR Leaderboard\n15. 🚀 OCR Arena上线VLM与OCR对比平台\n16. 🔧 Gradio 6发布性能重大更新\n17. 📈 Brookfield联合NVIDIA启动千亿AI基建\n18. 📈 Adobe收购AI营销公司Semrush",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google发布Gemini 3 Pro Image模型（Nano Banana Pro）【AI 早报 2025-11-21】",
-      "publish_date": "2025-11-21",
-      "bv_id": "BV1S9yKB1Ekb",
-      "organize_time": "2025-11-24 09:06:32",
-      "news_count": 25,
-      "overview": "1. 🚀 Google发布Gemini 3 Pro图像模型\n2. 🔧 OpenAI ChatGPT群聊功能全球上线\n3. 🔧 OpenAI更新Mac版ChatGPT Atlas浏览器\n4. 🚀 Perplexity发布Comet浏览器Android版\n5. 📈 OpenAI发布GPT-5科研加速实验报告\n6. 🚀 腾讯混元发布HunyuanVideo 1.5\n7. 🔧 NotebookLM推出Slide Decks与Infographics\n8. 🔧 Gemini CLI逐步开放Gemini 3 Pro访问\n9. 🔧 Jules推出Repoless无仓库功能\n10. 🔧 Google Stitch Flow功能升级\n11. 🔧 Google推出Gemini图像AI验证功能\n12. 🔧 MiniMax开放M2识图搜索MCP内测\n13. 🔧 Manus为Slides添加speaker notes功能\n14. 🚀 Jes SPA AI发布AI Sheets 2.0\n15. 🔧 Glep.com升级至0.2版本\n16. 🔧 Rock Imagine视频生成功能升级\n17. 🔧 Gemini登陆Android Auto\n18. 🔧 Docker Model Runner集成VLLM引擎\n19. 🚀 艾伦研究所发布OLMo 3系列模型\n20. 🚀 Mividia发布DocParse V1.1模型\n21. 🚀 Lowga Chat 702B模型发布\n22. 🔧 TI.ai发布CR同步强化学习系统\n23. 📈 Anthropic将发布Cloud 4.5与桌面应用\n24. 📈 杨立昆离职创办先进AI初创公司\n25. 📈 Suno完成2.5亿美元C轮融资",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
   "total_pages": 7,
-  "total_count": 137,
-  "generated_time": "2026-03-18 09:47:17"
+  "total_count": 138,
+  "generated_time": "2026-03-19 09:18:16"
 }
