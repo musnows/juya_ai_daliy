@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cursor新模型被指基于中国模型构建【AI 早报 2025-11-02】",
+      "publish_date": "2025-11-02",
+      "bv_id": "BV1tPyRBLEZY",
+      "organize_time": "2025-11-22 20:39:04",
+      "news_count": 5,
+      "overview": "1. 🔧 Codex CLI v0.53发布实验性沙盒功能\n2. 🔧 Qwen3-VL获llama.cpp全面支持\n3. 📈 英特尔拟50亿美元收购SambaNova\n4. 📈 Cursor Composer-1模型疑基于中文模型微调\n5. 📈 AI艺人Xania Monet首登Billboard电台榜",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google紧急下架，AI Studio这系列模型将不可用！【AI 早报 2025-11-01】",
       "publish_date": "2025-11-01",
       "bv_id": "BV1Yt1VB6Eh8",
@@ -165,6 +174,6 @@
   ],
   "page": 7,
   "total_pages": 7,
-  "total_count": 138,
-  "generated_time": "2026-03-19 09:18:16"
+  "total_count": 139,
+  "generated_time": "2026-03-20 08:48:59"
 }

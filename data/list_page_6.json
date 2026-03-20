@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "腾讯开源HunyuanVideo-1.5视频模型；小米发布跨具身基础模型MiMo-Embodied【AI 早报 2025-11-22】",
+      "publish_date": "2025-11-22",
+      "bv_id": "BV1a3UHBNENX",
+      "organize_time": "2025-11-24 09:05:33",
+      "news_count": 18,
+      "overview": "1. 🚀 腾讯开源HunyuanVideo-1.5视频模型\n2. 🚀 小米发布跨具身基础模型MiMo-Embodied\n3. 🚀 ServiceNow-AI发布Apriel-H1模型系列\n4. 🚀 豆包输入法上线多语种语音输入\n5. 🔧 Gemini CLI开放Gemini 3 Pro访问\n6. 🔧 智谱AI升级GLM Coding Plan\n7. 🔧 Cursor发布2.1版本更新\n8. 🔧 Claude Code CLI新增后台任务转移\n9. 🔧 Sora 2更新故事板块功能\n10. 📈 OpenAI发布AI原生工程团队指南\n11. 🔧 Dify发布v1.10.0工作流触发器\n12. 📈 Genspark完成B轮融资并推AI工作空间\n13. 🔧 Ollama v0.13支持DeepSeek-OCR\n14. 🔧 Hugging Face更新Open ASR Leaderboard\n15. 🚀 OCR Arena上线VLM与OCR对比平台\n16. 🔧 Gradio 6发布性能重大更新\n17. 📈 Brookfield联合NVIDIA启动千亿AI基建\n18. 📈 Adobe收购AI营销公司Semrush",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google发布Gemini 3 Pro Image模型（Nano Banana Pro）【AI 早报 2025-11-21】",
       "publish_date": "2025-11-21",
       "bv_id": "BV1S9yKB1Ekb",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 🚀 Qwen-3 Max上线thinking功能\n2. 🚀 MiniMax预告M2.1模型并推进开源\n3. 🔧 谷歌实验性AI模式登陆欧洲部分国家\n4. 📈 Codex因计费错误超额收费并退款\n5. 🔧 Google AI Studio新增Markdown导出功能\n6. 📈 苹果拟用定制Gemini模型驱动Siri",
       "is_voice_generated": false
-    },
-    {
-      "title": "Cursor新模型被指基于中国模型构建【AI 早报 2025-11-02】",
-      "publish_date": "2025-11-02",
-      "bv_id": "BV1tPyRBLEZY",
-      "organize_time": "2025-11-22 20:39:04",
-      "news_count": 5,
-      "overview": "1. 🔧 Codex CLI v0.53发布实验性沙盒功能\n2. 🔧 Qwen3-VL获llama.cpp全面支持\n3. 📈 英特尔拟50亿美元收购SambaNova\n4. 📈 Cursor Composer-1模型疑基于中文模型微调\n5. 📈 AI艺人Xania Monet首登Billboard电台榜",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 7,
-  "total_count": 138,
-  "generated_time": "2026-03-19 09:18:16"
+  "total_count": 139,
+  "generated_time": "2026-03-20 08:48:59"
 }

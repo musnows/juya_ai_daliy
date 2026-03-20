@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cursor 发布 Composer 2 模型，Claude Code 推出 Channels 功能【AI 早报 2026-03-20】",
+      "publish_date": "2026-03-20",
+      "bv_id": "BV1K3A7zSEA2",
+      "organize_time": "2026-03-20 08:48:57",
+      "news_count": 18,
+      "overview": "1. 🚀 Cursor 发布 Composer 2 模型，强化学习提升长周期编程能力\n2. 🔧 Claude Code 推出 Channels 功能，支持手机远程操控\n3. 🚀 Google AI Studio 上线全栈 Vibe Coding 功能\n4. 🚀 微软 AI 发布 MAI-Image-2 文生图模型\n5. 🔧 小红书 rednote-hilab 发布 dots.mocr，3B 参数支持图像转 SVG\n6. 🔧 TRAE IDE 登陆 Linux 平台，实现三大系统兼容\n7. 📈 Gemini API 更新计费策略，2026年4月设支出上限\n8. 📈 Windsurf 启用新定价，推出200美元Max计划\n9. 🔧 Cursor 发布早期 Alpha 版界面 Glass\n10. 🔧 LlamaIndex 开源 LiteParse，无需GPU秒解析五百页文档\n11. 🚀 字节小云雀 AI 上线短剧 Agent，全流程自动制作\n12. 🚀 阶跃星辰正式上线本地 AI Agent StepClaw\n13. 📈 OpenAI 披露内部 Agent 监控，覆盖99.9%流量未现高风险\n14. 📈 OpenAI 宣布收购 Astral，整合开源工具至 Codex 生态\n15. 📈 MiniMax 对 M2.7 实行高峰时段限流，新购用户增加周限\n16. 📈 昆仑万维天工 SkyReels V4 获 Artificial Analysis 视频榜第一\n17. 🚀 阿里千问官宣 Qwen3.5-Max-Preview 模型亮相 LM Arena\n18. 📈 腾讯确认研发微信 AI 智能体，或于第三季度上线",
+      "is_voice_generated": false
+    },
+    {
       "title": "MiniMax 正式发布 M2.7 模型，同步推出 Token Plan【AI 早报 2026-03-19】",
       "publish_date": "2026-03-19",
       "bv_id": "BV1DjwkzbEZ4",
@@ -170,19 +179,10 @@
       "news_count": 14,
       "overview": "1. 🚀 Anthropic 发布 Claude Code Security 安全工具\n2. 🔧 Claude Code 桌面版迎来重大功能更新\n3. 📈 Anthropic 员工回应 Claude Agent SDK 与 OAuth 争议\n4. 🔧 GPT-5.3-Codex-Spark 实现超1200 tokens/s高速推理\n5. 🔧 Google CLI 开放 Gemini 3.1 Pro 访问权限\n6. 🔧 Ollama 新版原生集成 Cline 与 Pi 工具\n7. 📈 GGML 团队正式加入 Hugging Face 开源生态\n8. 📈 智谱 MiniMax 市值连续超越快手与京东\n9. 📈 Karpathy 预言传统 App Store 模式将过时\n10. 🚀 OpenAI 或将推出 ChatGPT Pro Lite 订阅服务\n11. 🚀 Google DeepMind 预告将发布新一代 Gemma 模型\n12. 🚀 传 OpenAI 正在研发首款AI摄像头智能音箱\n13. 📈 OpenAI 获软银领衔百亿美元战略注资\n14. 🔧 OpenAI 扩展 ChatGPT Thinking 模式上下文窗口",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google DeepMind 发布 Lyria 3 音乐生成模型并已上线 Gemini【AI 早报 2026-02-19】",
-      "publish_date": "2026-02-19",
-      "bv_id": "BV1WfZ8BqEu6",
-      "organize_time": "2026-02-19 09:39:25",
-      "news_count": 12,
-      "overview": "1. 🚀 Google DeepMind 发布 Lyria 3 音乐生成模型并集成至 Gemini\n2. 🔧 xAI 推出 Grok 4.20 Heavy 支持16-Agent协作模式\n3. 🚀 Prime Intellect 开源106B参数 MoE 模型 INTELLECT-3.1\n4. 🚀 印度AI企业 Sarvam 发布 Sarvam-30B 与 105B 大模型\n5. 🔧 OpenAI 开源 Codex App Server 支持 ChatGPT 登录\n6. 🚀 Figma 推出 Claude Code to Figma 功能\n7. 🔧 OpenAI 发布智能合约安全基准 EVMbench\n8. 🔧 Gemini CLI 更新至 v0.29.0 实现每周迭代发布\n9. 📈 谷歌、OpenAI 与微软宣布在印度扩大AI布局\n10. 📈 Perplexity 移除搜索平台广告以优化用户体验\n11. 📈 World Labs 完成融资并与 Autodesk 达成战略合作\n12. 🔧 智谱AI 发布 GLM-5 技术报告展示多模态能力突破",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 138,
-  "generated_time": "2026-03-19 09:18:16"
+  "total_count": 139,
+  "generated_time": "2026-03-20 08:48:59"
 }

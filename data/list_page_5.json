@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "重归王座！OpenAI发布GPT-5.2系列；谷歌推出Gemini Deep Research API【AI早报 2025-12-12】",
+      "publish_date": "2025-12-12",
+      "bv_id": "BV1Sem5BGEnK",
+      "organize_time": "2025-12-12 09:06:43",
+      "news_count": 20,
+      "overview": "1. 🚀 OpenAI发布GPT-5.2系列模型\n2. 📈 迪士尼与OpenAI达成十年协议\n3. 🚀 谷歌发布Gemini Deep Research API\n4. 🚀 Cursor推出Browser可视化编辑器\n5. 🚀 Augment Code发布AI代码审查工具\n6. 🔧 谷歌推出Disco与GenTabs实验项目\n7. 🚀 Google NotebookLM加入AI Ultra计划\n8. 🚀 Qwen Chat推出Learn Mode学习功能\n9. 🚀 Shisa AI发布V2.1日语模型\n10. 🔧 Sora 2 API发布增量模型更新\n11. 🚀 谷歌在印度推出Google AI Plus订阅\n12. 🔧 智谱将发布支持Claude Code思考的新模型\n13. 🔧 Google DeepMind研究Agent系统扩展\n14. 🔧 谷歌通过MCP开放AI模型基础设施\n15. 📈 雅虎等成立RSL联盟推出RSL 1.0\n16. 📈 ElevenLabs与Meta合作提供AI音频技术\n17. 📈 Google DeepMind加强与英国政府合作\n18. 📈 xAI与萨尔瓦多启动全国性AI教育项目\n19. 📈 MiniMax和智谱计划香港IPO\n20. 🔧 腾讯会员模型名称简化为Tencent t",
+      "is_voice_generated": false
+    },
+    {
       "title": "Adobe将Photoshop等功能集成至ChatGPT【AI 早报 2025-12-11】",
       "publish_date": "2025-12-11",
       "bv_id": "BV1vmmKBhEDp",
@@ -170,19 +179,10 @@
       "news_count": 10,
       "overview": "1. 🚀 Qwen Coder网页版上线\n2. 🚀 Qwen新图像编辑模型将发布\n3. 🔧 OpenAI重置Codex用户速率限制\n4. 🚀 Meta发布WorldGen文本生成3D世界系统\n5. 🚀 MiroMind发布MiroThinker v1.0开源研究Agent\n6. 🔧 Anthropic研究揭示奖励骇客致AI失准\n7. 🔧 OpenAI与Anthropic联合提案MCP交互界面扩展\n8. 📈 谷歌搜索AI模式测试广告功能\n9. 🚀 Cerebras推理服务上线Microsoft Marketplace\n10. 📈 OpenAI与富士康合作开发AI基础设施",
       "is_voice_generated": false
-    },
-    {
-      "title": "腾讯开源HunyuanVideo-1.5视频模型；小米发布跨具身基础模型MiMo-Embodied【AI 早报 2025-11-22】",
-      "publish_date": "2025-11-22",
-      "bv_id": "BV1a3UHBNENX",
-      "organize_time": "2025-11-24 09:05:33",
-      "news_count": 18,
-      "overview": "1. 🚀 腾讯开源HunyuanVideo-1.5视频模型\n2. 🚀 小米发布跨具身基础模型MiMo-Embodied\n3. 🚀 ServiceNow-AI发布Apriel-H1模型系列\n4. 🚀 豆包输入法上线多语种语音输入\n5. 🔧 Gemini CLI开放Gemini 3 Pro访问\n6. 🔧 智谱AI升级GLM Coding Plan\n7. 🔧 Cursor发布2.1版本更新\n8. 🔧 Claude Code CLI新增后台任务转移\n9. 🔧 Sora 2更新故事板块功能\n10. 📈 OpenAI发布AI原生工程团队指南\n11. 🔧 Dify发布v1.10.0工作流触发器\n12. 📈 Genspark完成B轮融资并推AI工作空间\n13. 🔧 Ollama v0.13支持DeepSeek-OCR\n14. 🔧 Hugging Face更新Open ASR Leaderboard\n15. 🚀 OCR Arena上线VLM与OCR对比平台\n16. 🔧 Gradio 6发布性能重大更新\n17. 📈 Brookfield联合NVIDIA启动千亿AI基建\n18. 📈 Adobe收购AI营销公司Semrush",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
   "total_pages": 7,
-  "total_count": 138,
-  "generated_time": "2026-03-19 09:18:16"
+  "total_count": 139,
+  "generated_time": "2026-03-20 08:48:59"
 }

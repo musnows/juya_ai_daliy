@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google DeepMind 发布 Lyria 3 音乐生成模型并已上线 Gemini【AI 早报 2026-02-19】",
+      "publish_date": "2026-02-19",
+      "bv_id": "BV1WfZ8BqEu6",
+      "organize_time": "2026-02-19 09:39:25",
+      "news_count": 12,
+      "overview": "1. 🚀 Google DeepMind 发布 Lyria 3 音乐生成模型并集成至 Gemini\n2. 🔧 xAI 推出 Grok 4.20 Heavy 支持16-Agent协作模式\n3. 🚀 Prime Intellect 开源106B参数 MoE 模型 INTELLECT-3.1\n4. 🚀 印度AI企业 Sarvam 发布 Sarvam-30B 与 105B 大模型\n5. 🔧 OpenAI 开源 Codex App Server 支持 ChatGPT 登录\n6. 🚀 Figma 推出 Claude Code to Figma 功能\n7. 🔧 OpenAI 发布智能合约安全基准 EVMbench\n8. 🔧 Gemini CLI 更新至 v0.29.0 实现每周迭代发布\n9. 📈 谷歌、OpenAI 与微软宣布在印度扩大AI布局\n10. 📈 Perplexity 移除搜索平台广告以优化用户体验\n11. 📈 World Labs 完成融资并与 Autodesk 达成战略合作\n12. 🔧 智谱AI 发布 GLM-5 技术报告展示多模态能力突破",
+      "is_voice_generated": false
+    },
+    {
       "title": "Anthropic 发布 Claude Sonnet 4.6；xAI 上线 Grok 4.20 测试版【AI 早报 2026-02-18】",
       "publish_date": "2026-02-18",
       "bv_id": "BV1uAZDBiEKF",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 🚀 微软开源9B参数语音识别模型VibeVoice-ASR\n2. 🔧 Anthropic发布Claude新宪法规范AI行为\n3. 🚀 Cognition推出代码审查工具Devin Review\n4. 🚀 LangChain发布LangSmith Agent Builder智能体构建平台\n5. 🚀 FlashLabs发布开源语音对话模型Chroma 1.0\n6. 🚀 Vercel发布开源智能体技能生态系统\n7. 🚀 SweepAI发布15亿参数代码编辑模型\n8. 🚀 Inworld AI发布TTS-1.5语音合成模型\n9. 🔧 Ollama新增图像生成功能\n10. 🔧 Gemini CLI发布版本更新\n11. 🚀 Stitch推出Gemini扩展与服务器\n12. 🚀 LM Arena推出视频模型评测平台\n13. 📈 智谱AI语音输入法永久免费\n14. 📈 智谱AI限售编程计划额度\n15. 🔧 OpenAI推送ChatGPT语音更新\n16. 🔧 ChatGPT Atlas优化界面与搜索功能\n17. 🚀 谷歌教育版Workspace整合Gemini功能\n18. 🚀 谷歌推出免费SAT备考功能\n19. 📈 OpenAI扩展国家合作计划",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI 推出 ChatGPT 年龄预测功能【AI 早报 2026-01-21】",
-      "publish_date": "2026-01-21",
-      "bv_id": "BV16JzGBvEDL",
-      "organize_time": "2026-01-21 09:17:03",
-      "news_count": 17,
-      "overview": "1. 🚀 OpenAI 推出 ChatGPT 年龄预测功能\n2. 🚀 面壁智能发布 AgentCPM-Report 开源模型\n3. 🔧 Overworld 发布 Waypoint-1 实时扩散世界模型\n4. 🚀 Liquid AI 推出 LFM2.5-1.2B-Thinking 端侧推理模型\n5. 🚀 LightOn 发布 OCR 模型 LightOnOCR-2\n6. 🔧 llama.cpp 集成 Anthropic Messages API\n7. 🚀 Anthropic 宣布 Claude Code VS Code 扩展正式上线\n8. 🚀 Anthropic 推出 Claude 健康数据连接功能 Beta 版\n9. 🚀 MiniMax 发布 Agent 2.0 及桌面端 AI 工作空间\n10. 🚀 阿里巴巴推出 AIGC 创意设计平台呜哩\n11. 🔧 OpenRouter 发布 Response Healing 插件自动修复 JSON 格式错误\n12. 📈 Sam Altman 与 Elon Musk 就 ChatGPT 安全问题展开公开争论\n13. 📈 Sam Altman 确认 GPT-5.3 存在并征集用户反馈\n14. 🔧 Codex 将新增多智能体协同功能\n15. 📈 月之暗面估值达 48 亿美元并开启 Kimi 新模型 API 内测\n16. 🔧 X 公司开源 For You 推荐算法\n17. 🚀 Xiaomi MiMo API 开放充值与定价",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 7,
-  "total_count": 138,
-  "generated_time": "2026-03-19 09:18:16"
+  "total_count": 139,
+  "generated_time": "2026-03-20 08:48:59"
 }
