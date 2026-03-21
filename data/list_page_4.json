@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "DeepSeek 发布 mHC 架构论文；至知创新研究院发布 IQuest-Coder-V1 开源代码大模型【AI 早报 2026-01-02】",
+      "publish_date": "2026-01-02",
+      "bv_id": "BV1xovdBsEsz",
+      "organize_time": "2026-01-02 08:58:42",
+      "news_count": 7,
+      "overview": "1. 🚀 至知创新研究院发布IQuest-Coder-V1开源代码大模型\n2. 🔧 DeepSeek发布mHC架构论文，梁文锋位列作者名单\n3. 🚀 iFlow上线iFlow-ROME-30B-A3B预览版模型\n4. 🔧 月之暗面kimi-cli新增视频支持，拟发布K2.1/K2.5新模型\n5. 🚀 Prime Intellect开源递归语言模型RLM\n6. 🚀 BlinkDL发布RWKV-7-G1系列模型，涵盖2.9B至13.3B规模\n7. 📈 OpenAI将发布新音频模型，预计2026年Q1亮相",
+      "is_voice_generated": false
+    },
+    {
       "title": "通义千问发布Qwen-Image-2512；腾讯混元开源Youtu-LLM-2B；小米延长MiMo-V2-Flash公测【AI 早报 2026-01-01】",
       "publish_date": "2026-01-01",
       "bv_id": "BV18WiLBUEP6",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 🚀 Gemini集成Google Maps提供视觉化本地搜索\n2. 🔧 Google推出NotebookLM与Gemini集成功能\n3. 🔧 Gemini Web界面出现Gemini 3 Flash字样\n4. 🚀 SID发布SID-1检索模型技术报告\n5. 🚀 NVIDIA发布gpt-oss-120b Eagle3吞吐量优化模型\n6. 🔧 MotionEdit发布运动中心图像编辑数据集与框架\n7. 📈 英特尔拟16亿美元收购SambaNova\n8. 📈 英伟达否认DeepSeek使用禁售Blackwell芯片传闻",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google 更新 Gemini 2.5 Flash Native Audio【AI 早报 2025-12-13】",
-      "publish_date": "2025-12-13",
-      "bv_id": "BV1qkmSB9EJ4",
-      "organize_time": "2025-12-13 09:37:53",
-      "news_count": 17,
-      "overview": "1. 🚀 Google更新Gemini 2.5 Flash音频模型\n2. 🔧 Claude Code新增Android支持与多项更新\n3. 🔧 OpenAI Codex CLI支持设备登录与Skills机制\n4. 🔧 Google Gemini CLI新增会话管理功能\n5. 🔧 Chrome DevTools集成AI调试与MCP支持\n6. 🔧 Kiro CLI集成代码智能与LSP支持\n7. 🚀 字节跳动开源Dolphin-v2文档解析模型\n8. 🚀 OpenAI为Sora推出三种新风格\n9. 🚀 Runway发布GWM-1通用世界模型\n10. 🚀 智谱AI上线AutoGLM-Phone智能助理框架\n11. 🔧 llama.cpp新增模型路由模式\n12. 🚀 Ai2发布Olmo 3.1模型系列\n13. 🔧 智谱开源四项视频生成核心技术\n14. 🔧 伯克利发布DS Serve高效检索框架\n15. 🚀 SCAIL发布角色动画新框架\n16. 🚀 Tinker平台正式发布并更新\n17. 🔧 Google DeepMind展示Veo机器人评估系统",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 7,
-  "total_count": 139,
-  "generated_time": "2026-03-20 08:48:59"
+  "total_count": 140,
+  "generated_time": "2026-03-21 09:04:45"
 }

@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "微软开源语音识别模型 VibeVoice-ASR【AI 早报 2026-01-22】",
+      "publish_date": "2026-01-22",
+      "bv_id": "BV1mHznBKEzj",
+      "organize_time": "2026-01-22 09:17:41",
+      "news_count": 19,
+      "overview": "1. 🚀 微软开源9B参数语音识别模型VibeVoice-ASR\n2. 🔧 Anthropic发布Claude新宪法规范AI行为\n3. 🚀 Cognition推出代码审查工具Devin Review\n4. 🚀 LangChain发布LangSmith Agent Builder智能体构建平台\n5. 🚀 FlashLabs发布开源语音对话模型Chroma 1.0\n6. 🚀 Vercel发布开源智能体技能生态系统\n7. 🚀 SweepAI发布15亿参数代码编辑模型\n8. 🚀 Inworld AI发布TTS-1.5语音合成模型\n9. 🔧 Ollama新增图像生成功能\n10. 🔧 Gemini CLI发布版本更新\n11. 🚀 Stitch推出Gemini扩展与服务器\n12. 🚀 LM Arena推出视频模型评测平台\n13. 📈 智谱AI语音输入法永久免费\n14. 📈 智谱AI限售编程计划额度\n15. 🔧 OpenAI推送ChatGPT语音更新\n16. 🔧 ChatGPT Atlas优化界面与搜索功能\n17. 🚀 谷歌教育版Workspace整合Gemini功能\n18. 🚀 谷歌推出免费SAT备考功能\n19. 📈 OpenAI扩展国家合作计划",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 推出 ChatGPT 年龄预测功能【AI 早报 2026-01-21】",
       "publish_date": "2026-01-21",
       "bv_id": "BV16JzGBvEDL",
@@ -170,19 +179,10 @@
       "news_count": 4,
       "overview": "1. 🔧 Claude Code缔造者分享高效开发方案\n2. 🚀 斯坦福等发布TTTE2E长文本模型\n3. 🔧 字节跳动推出层级化DLCM语言模型架构\n4. 📈 杨立昆指Llama 4基准测试结果被粉饰",
       "is_voice_generated": false
-    },
-    {
-      "title": "DeepSeek 发布 mHC 架构论文；至知创新研究院发布 IQuest-Coder-V1 开源代码大模型【AI 早报 2026-01-02】",
-      "publish_date": "2026-01-02",
-      "bv_id": "BV1xovdBsEsz",
-      "organize_time": "2026-01-02 08:58:42",
-      "news_count": 7,
-      "overview": "1. 🚀 至知创新研究院发布IQuest-Coder-V1开源代码大模型\n2. 🔧 DeepSeek发布mHC架构论文，梁文锋位列作者名单\n3. 🚀 iFlow上线iFlow-ROME-30B-A3B预览版模型\n4. 🔧 月之暗面kimi-cli新增视频支持，拟发布K2.1/K2.5新模型\n5. 🚀 Prime Intellect开源递归语言模型RLM\n6. 🚀 BlinkDL发布RWKV-7-G1系列模型，涵盖2.9B至13.3B规模\n7. 📈 OpenAI将发布新音频模型，预计2026年Q1亮相",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 7,
-  "total_count": 139,
-  "generated_time": "2026-03-20 08:48:59"
+  "total_count": 140,
+  "generated_time": "2026-03-21 09:04:45"
 }

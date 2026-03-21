@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Qwen3-Max-Thinking上线【AI 早报 2025-11-03】",
+      "publish_date": "2025-11-03",
+      "bv_id": "BV1kU1wB4EZC",
+      "organize_time": "2025-11-22 20:38:52",
+      "news_count": 6,
+      "overview": "1. 🚀 Qwen-3 Max上线thinking功能\n2. 🚀 MiniMax预告M2.1模型并推进开源\n3. 🔧 谷歌实验性AI模式登陆欧洲部分国家\n4. 📈 Codex因计费错误超额收费并退款\n5. 🔧 Google AI Studio新增Markdown导出功能\n6. 📈 苹果拟用定制Gemini模型驱动Siri",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cursor新模型被指基于中国模型构建【AI 早报 2025-11-02】",
       "publish_date": "2025-11-02",
       "bv_id": "BV1tPyRBLEZY",
@@ -174,6 +183,6 @@
   ],
   "page": 7,
   "total_pages": 7,
-  "total_count": 139,
-  "generated_time": "2026-03-20 08:48:59"
+  "total_count": 140,
+  "generated_time": "2026-03-21 09:04:45"
 }

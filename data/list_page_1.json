@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作【AI 早报 2026-03-21】",
+      "publish_date": "2026-03-21",
+      "bv_id": "BV1kQAszvEXR",
+      "organize_time": "2026-03-21 09:04:43",
+      "news_count": 18,
+      "overview": "1. 🚀 Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作\n2. 🔧 Claude Code 上线云端定时任务，桌面版支持直接选择 DOM\n3. 📈 智谱与小米确认将继续推进开源模型战略\n4. 🚀 美团开源 LongCat-Flash-Prover 数学推理模型\n5. 🔧 英伟达发布 30B MoE 模型，IMO 与 IOI 竞赛获金牌成绩\n6. 🚀 Windsurf 向付费用户限免开放 Kimi K2.5 模型\n7. 🚀 OpenAI 推出面向学生的 Codex for Students 项目\n8. 📈 心流团队宣布 iFlow CLI 服务将于 2026 年 4 月关闭\n9. 🔧 Claude Cowork 推出 Projects 功能支持团队协作\n10. 🚀 腾讯 QClaw 开启全量公测，免邀请码打通五大平台\n11. 🔧 Lovable 拓展通用任务处理能力\n12. 🔧 OpenAI 构建 AI 研究员，2028 年拟发布全自动化系统\n13. 📈 蓝色起源申请部署近五万二千颗 AI 计算卫星\n14. 🚀 豆包开启 AI 电商功能内测，预计 3 月正式上线\n15. 📈 元宝宣布品牌标识升级，以全新形象面向用户\n16. 🔧 微软优化 Windows 11，削减 Copilot 集成并允许暂停更新\n17. 📈 消息称 OpenAI 将推超级应用整合 ChatGPT 等功能\n18. 📈 深度求索核心研究员郭达雅离职，或将加盟大厂负责 Code 业务",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cursor 发布 Composer 2 模型，Claude Code 推出 Channels 功能【AI 早报 2026-03-20】",
       "publish_date": "2026-03-20",
       "bv_id": "BV1K3A7zSEA2",
@@ -170,19 +179,10 @@
       "news_count": 11,
       "overview": "1. 📈 智谱为GLM Coding Plan规则变动致歉并推补偿方案\n2. 🚀 阿里云千问发布Qwen Coding Plan编程助手\n3. 🔧 Claude Code新增内置Git Worktree支持\n4. 🔧 OpenAI扩展Batch API支持GPT图像模型\n5. 📈 微软确认Copilot默认共享Bing与Edge数据\n6. 🔧 OpenClaw发布v2026.2.21版本更新\n7. 🚀 Taalas发布HC1固化模型推理芯片\n8. 📈 Andrej Karpathy评析Claw技术及安全隐患\n9. 📈 OpenAI曾考虑就加拿大枪手聊天内容报警\n10. 📈 OpenAI文件显示五年收入预期上调\n11. 🚀 Anthropic拟推Claude CLI命令行工具",
       "is_voice_generated": false
-    },
-    {
-      "title": "Anthropic 发布 Claude Code Security【AI 早报 2026-02-21】",
-      "publish_date": "2026-02-21",
-      "bv_id": "BV1XAf7BnEy6",
-      "organize_time": "2026-02-21 09:13:37",
-      "news_count": 14,
-      "overview": "1. 🚀 Anthropic 发布 Claude Code Security 安全工具\n2. 🔧 Claude Code 桌面版迎来重大功能更新\n3. 📈 Anthropic 员工回应 Claude Agent SDK 与 OAuth 争议\n4. 🔧 GPT-5.3-Codex-Spark 实现超1200 tokens/s高速推理\n5. 🔧 Google CLI 开放 Gemini 3.1 Pro 访问权限\n6. 🔧 Ollama 新版原生集成 Cline 与 Pi 工具\n7. 📈 GGML 团队正式加入 Hugging Face 开源生态\n8. 📈 智谱 MiniMax 市值连续超越快手与京东\n9. 📈 Karpathy 预言传统 App Store 模式将过时\n10. 🚀 OpenAI 或将推出 ChatGPT Pro Lite 订阅服务\n11. 🚀 Google DeepMind 预告将发布新一代 Gemma 模型\n12. 🚀 传 OpenAI 正在研发首款AI摄像头智能音箱\n13. 📈 OpenAI 获软银领衔百亿美元战略注资\n14. 🔧 OpenAI 扩展 ChatGPT Thinking 模式上下文窗口",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 7,
-  "total_count": 139,
-  "generated_time": "2026-03-20 08:48:59"
+  "total_count": 140,
+  "generated_time": "2026-03-21 09:04:45"
 }
