@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "英伟达否认DeepSeek使用禁售Blackwell芯片传闻【AI 早报 2025-12-14】",
+      "publish_date": "2025-12-14",
+      "bv_id": "BV1rWmeBDEUV",
+      "organize_time": "2025-12-14 08:53:43",
+      "news_count": 8,
+      "overview": "1. 🚀 Gemini集成Google Maps提供视觉化本地搜索\n2. 🔧 Google推出NotebookLM与Gemini集成功能\n3. 🔧 Gemini Web界面出现Gemini 3 Flash字样\n4. 🚀 SID发布SID-1检索模型技术报告\n5. 🚀 NVIDIA发布gpt-oss-120b Eagle3吞吐量优化模型\n6. 🔧 MotionEdit发布运动中心图像编辑数据集与框架\n7. 📈 英特尔拟16亿美元收购SambaNova\n8. 📈 英伟达否认DeepSeek使用禁售Blackwell芯片传闻",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google 更新 Gemini 2.5 Flash Native Audio【AI 早报 2025-12-13】",
       "publish_date": "2025-12-13",
       "bv_id": "BV1qkmSB9EJ4",
@@ -170,19 +179,10 @@
       "news_count": 15,
       "overview": "1. 🚀 Anthropic发布Claude Opus 4.5模型\n2. 🔧 Anthropic推出高级工具使用功能\n3. 🚀 OpenAI推出ChatGPT购物研究功能\n4. 🔧 OpenAI Sora推出Sora styles功能\n5. 🚀 Google Gemini 3 CLI全付费计划开放\n6. 🔧 龙猫LongCat App上线视频与深度思考功能\n7. 🚀 Andrew Ng发布Agentic Reviewer工具\n8. 🚀 Zyphra联合AMD/IBM发布ZAYA1 MoE模型\n9. 🚀 Microsoft发布Fara-7B Agentic模型\n10. 🔧 谷歌安卓Chrome Canary集成AI生图\n11. 🚀 Openrouter上线Bert-Nebulon Alpha模型\n12. 🔧 Windsurf测试Penguin Alpha模型\n13. 📈 Ive与Altman确认AI硬件原型机\n14. 📈 Google商谈AI芯片进驻客户数据中心\n15. 🔧 Google开发NotebookLM导入Gemini选项",
       "is_voice_generated": false
-    },
-    {
-      "title": "Google 发布 Nano Banana Pro 开发者指南【AI 早报 2025-11-24】",
-      "publish_date": "2025-11-24",
-      "bv_id": "BV1zeUgBSEt7",
-      "organize_time": "2025-11-24 09:18:57",
-      "news_count": 4,
-      "overview": "1. 🔧 Google发布Nano Banana Pro开发者指南\n2. 🚀 Sentry推出AI代码审查功能\n3. 📈 Anthropic或即将发布Claude Opus 4.5\n4. 🔧 xAI开发Grok Code Remote功能",
-      "is_voice_generated": false
     }
   ],
   "page": 5,
-  "total_pages": 7,
-  "total_count": 140,
-  "generated_time": "2026-03-21 09:04:45"
+  "total_pages": 8,
+  "total_count": 141,
+  "generated_time": "2026-03-22 08:50:21"
 }

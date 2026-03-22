@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 140 条早报</span>
+                        <span id="total-count">共 141 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-22.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI 发布 GPT-5.4 前端设计指南，推出配套 frontend-skill【AI 早报 2026-03-22】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-22</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1VvAKzeEqs</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 OpenAI 发布 GPT-5.4 前端设计指南及配套前端技能包
+2. 🔧 OpenAI 详解 Responses API 的 Agent 执行层构建路径
+3. 🔧 Browser Use 发布 CLI 2.0，性能提升显著
+4. 📈 WordPress.com 扩展 MCP 支持，AI ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    8 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-22 08:50:19
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-03-21.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作【AI 早报 2026-03-21】</h3>
@@ -529,38 +560,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-05.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">OpenAI发布Windows版Codex应用【AI 早报 2026-03-05】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-03-05</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1jJP6ziEaQ</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 OpenAI发布Windows版Codex应用并开源原生Agent沙盒
-2. 🚀 MiniMax发布Music 2.5+纯音乐创作模型
-3. 🔧 北大字节Canva联合团队发布14B视频生成模型Helios
-4. 🔧 YuanLab.ai开源万亿参数多模态模型Yuan3.0 Ultra
-5...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    18 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-03-05 09:29:22
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -607,7 +606,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 140;
+        let totalCount = 141;
         let isLoading = false;
 
         // 工具函数

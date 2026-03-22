@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 发布 GPT-5.4 前端设计指南，推出配套 frontend-skill【AI 早报 2026-03-22】",
+      "publish_date": "2026-03-22",
+      "bv_id": "BV1VvAKzeEqs",
+      "organize_time": "2026-03-22 08:50:19",
+      "news_count": 8,
+      "overview": "1. 🚀 OpenAI 发布 GPT-5.4 前端设计指南及配套前端技能包\n2. 🔧 OpenAI 详解 Responses API 的 Agent 执行层构建路径\n3. 🔧 Browser Use 发布 CLI 2.0，性能提升显著\n4. 📈 WordPress.com 扩展 MCP 支持，AI Agent 获内容写入权限\n5. 🚀 智谱推出 GLM-Claw，定位为成长型 AI 生命体\n6. 📈 Anthropic 提出大模型时代产品管理四大核心原则\n7. 📈 美国发布国家 AI 立法框架，规范技术发展路径\n8. 📈 OpenAI 将向美国 ChatGPT 免费版和 Go 版用户展示广告",
+      "is_voice_generated": false
+    },
+    {
       "title": "Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作【AI 早报 2026-03-21】",
       "publish_date": "2026-03-21",
       "bv_id": "BV1kQAszvEXR",
@@ -170,19 +179,10 @@
       "news_count": 11,
       "overview": "1. 🚀 OpenAI 上线 gpt-realtime-1.5 语音模型\n2. 🔧 Guide Labs 推出可解释因果扩散语言模型 Steerling-8B\n3. 🔧 OpenAI Responses API 新增 WebSocket 模式\n4. 📈 Google 回应封禁滥用 Antigravity 的 Gemini 订阅用户\n5. 📈 Anthropic 推广 COBOL 代码自动化迁移方案\n6. 🚀 Gemini 上线视频模板功能\n7. 🔧 openclaw 发布 2026.2.22 版本\n8. 📈 Anthropic 指控三家中国 AI 实验室进行工业级模型蒸馏攻击\n9. 📈 五角大楼考虑终止与 Anthropic 的 AI 军事合同\n10. 📈 OpenAI 联手四大咨询巨头组建 Frontier 企业 AI 联盟\n11. 📈 月之暗面 Kimi 近20天收入超2025全年",
       "is_voice_generated": false
-    },
-    {
-      "title": "智谱为 GLM Coding Plan 用户致歉并提出补偿方案【AI 早报 2026-02-22】",
-      "publish_date": "2026-02-22",
-      "bv_id": "BV1gLZfB8Ewq",
-      "organize_time": "2026-02-22 08:44:07",
-      "news_count": 11,
-      "overview": "1. 📈 智谱为GLM Coding Plan规则变动致歉并推补偿方案\n2. 🚀 阿里云千问发布Qwen Coding Plan编程助手\n3. 🔧 Claude Code新增内置Git Worktree支持\n4. 🔧 OpenAI扩展Batch API支持GPT图像模型\n5. 📈 微软确认Copilot默认共享Bing与Edge数据\n6. 🔧 OpenClaw发布v2026.2.21版本更新\n7. 🚀 Taalas发布HC1固化模型推理芯片\n8. 📈 Andrej Karpathy评析Claw技术及安全隐患\n9. 📈 OpenAI曾考虑就加拿大枪手聊天内容报警\n10. 📈 OpenAI文件显示五年收入预期上调\n11. 🚀 Anthropic拟推Claude CLI命令行工具",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
-  "total_pages": 7,
-  "total_count": 140,
-  "generated_time": "2026-03-21 09:04:45"
+  "total_pages": 8,
+  "total_count": 141,
+  "generated_time": "2026-03-22 08:50:21"
 }

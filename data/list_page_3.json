@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Qwen团队开源Qwen3-TTS多语言语音合成模型【AI 早报 1月23日】",
+      "publish_date": "2026-01-23",
+      "bv_id": "BV1MVzNB4EMT",
+      "organize_time": "2026-01-23 09:18:15",
+      "news_count": 15,
+      "overview": "1. 🚀 Qwen团队开源Qwen3-TTS多语言语音合成模型\n2. 🚀 百川智能发布医疗大模型M3 Plus\n3. 🚀 百度发布文心大模型5.0正式版\n4. 🔧 谷歌DeepMind推出D4RT 4D重建模型\n5. 🚀 Cua发布开源Computer-Use Agent基础设施\n6. 🔧 Gradium推出顶尖语音克隆技术\n7. 🔧 谷歌AI Mode in Search新增Personal Intelligence功能\n8. 🚀 秘塔AI推出MetaLaw免费合同审查功能\n9. 🔧 Anthropic发布Claude Code最佳实践指南\n10. 🚀 腾讯云发布CodeBuddy Code 2.0\n11. 🔧 Cursor 2.4发布引入subagents功能\n12. 🔧 OpenAI发布Codex CLI 0.89.0版本更新\n13. 🔧 JetBrains IDE集成OpenAI Codex\n14. 📈 OpenAI探索基于成果的盈利模式\n15. 📈 OpenAI寻求500亿美元新融资",
+      "is_voice_generated": false
+    },
+    {
       "title": "微软开源语音识别模型 VibeVoice-ASR【AI 早报 2026-01-22】",
       "publish_date": "2026-01-22",
       "bv_id": "BV1mHznBKEzj",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 🚀 元象开源XVERSE-Ent泛娱乐大模型，支持免费商用\n2. 🔧 IQuestLab修正IQuest-Coder-V1基准测试得分至76.2%\n3. 📈 Anthropic拟斥资210亿美元采购100万颗TPU v7芯片\n4. 📈 Claude Code一小时完成谷歌团队一年开发的分布式Agents方案\n5. 🔧 xAI疑似新模型Grok 4.20现身竞技场进行隐形测试\n6. 🚀 英伟达NIM API新增GLM-4.7与MiniMax-M2.1免费调用服务",
       "is_voice_generated": true
-    },
-    {
-      "title": "Claude Code缔造者分享开发方案【AI早报 2026-01-03】",
-      "publish_date": "2026-01-03",
-      "bv_id": "BV1zRihBCEK9",
-      "organize_time": "2026-01-03 08:59:21",
-      "news_count": 4,
-      "overview": "1. 🔧 Claude Code缔造者分享高效开发方案\n2. 🚀 斯坦福等发布TTTE2E长文本模型\n3. 🔧 字节跳动推出层级化DLCM语言模型架构\n4. 📈 杨立昆指Llama 4基准测试结果被粉饰",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
-  "total_pages": 7,
-  "total_count": 140,
-  "generated_time": "2026-03-21 09:04:45"
+  "total_pages": 8,
+  "total_count": 141,
+  "generated_time": "2026-03-22 08:50:21"
 }
