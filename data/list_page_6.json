@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Anthropic 发布 Claude Opus 4.5 模型【AI 早报 2025-11-25】",
+      "publish_date": "2025-11-25",
+      "bv_id": "BV1UxUUBzEG9",
+      "organize_time": "2025-11-25 09:19:50",
+      "news_count": 15,
+      "overview": "1. 🚀 Anthropic发布Claude Opus 4.5模型\n2. 🔧 Anthropic推出高级工具使用功能\n3. 🚀 OpenAI推出ChatGPT购物研究功能\n4. 🔧 OpenAI Sora推出Sora styles功能\n5. 🚀 Google Gemini 3 CLI全付费计划开放\n6. 🔧 龙猫LongCat App上线视频与深度思考功能\n7. 🚀 Andrew Ng发布Agentic Reviewer工具\n8. 🚀 Zyphra联合AMD/IBM发布ZAYA1 MoE模型\n9. 🚀 Microsoft发布Fara-7B Agentic模型\n10. 🔧 谷歌安卓Chrome Canary集成AI生图\n11. 🚀 Openrouter上线Bert-Nebulon Alpha模型\n12. 🔧 Windsurf测试Penguin Alpha模型\n13. 📈 Ive与Altman确认AI硬件原型机\n14. 📈 Google商谈AI芯片进驻客户数据中心\n15. 🔧 Google开发NotebookLM导入Gemini选项",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google 发布 Nano Banana Pro 开发者指南【AI 早报 2025-11-24】",
       "publish_date": "2025-11-24",
       "bv_id": "BV1zeUgBSEt7",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 🔧 OpenAI推出ChatGPT查询中断续传功能\n2. 🚀 谷歌Gemini 3预览模型ID现身Vertex AI\n3. 🔧 Kimi K2 Reasoning模型代码并入VLLM项目\n4. 🔧 谷歌Gemini API增强结构化输出与JSON Schema支持\n5. 🔧 Gemini CLI发布v0.12.0版本，新增模型路由与子代理\n6. 🔧 Gemini Deep Research集成Google Workspace\n7. 🔧 NotebookLM新增自定义提示可见性与样式开发\n8. 🔧 谷歌简化Chrome移动端AI Mode访问方式\n9. 🔧 Google Maps集成Gemini，支持对话式驾驶体验\n10. 🔧 Manus AI支持上传自定义幻灯片模板\n11. 🚀 Isoform发布Yansu编程AI平台\n12. 🔧 Perplexity发布定制MoE内核支持万亿参数部署\n13. 🔧 Cursor引入语义搜索与自研嵌入模型\n14. 🚀 美团LongCat推出UNO-Bench中文多模态基准\n15. 🚀 CodeClash基准测试揭示模型软件工程局限\n16. 📈 Anthropic上调营收预期至47亿美元\n17. 📈 OpenAI全球企业客户超100万\n18. 🚀 谷歌拟发布新图像模型Nano Banana 2或GEMPIX-2\n19. 🚀 OpenAI将推GPT-5新快照与数据分析模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "字节跳动Trae不再可用Claude系列模型【AI 早报 2025-11-05】",
-      "publish_date": "2025-11-05",
-      "bv_id": "BV1jd1nBvEcJ",
-      "organize_time": "2025-11-22 20:38:24",
-      "news_count": 20,
-      "overview": "1. 📈 TRAE停止提供Claude模型\n2. 🚀 Sora 2安卓版多地上线\n3. 📈 OpenAI将发布系列新模型\n4. 🚀 Claude推出Code限时促销\n5. 🔧 Cognition发布Windsurf Codemaps\n6. 🔧 Google AI Studio新增URL预填充\n7. 🚀 Ai2发布OlmoEarth平台\n8. 🔧 腾讯文档与ima功能打通\n9. 🚀 昆仑万维SkyReels正式上线\n10. 🔧 微信支付接入腾讯元宝\n11. 🔧 OpenAI发布印度文化理解基准IndQA\n12. 🔧 llama.cpp发布新WebUI\n13. 🔧 Anthropic发布MCP代码执行新方案\n14. 📈 Anthropic承诺保留已弃用模型\n15. 📈 Anthropic与冰岛启动AI教育试点\n16. 🔧 谷歌DeepMind发布IMO-Bench数学基准\n17. 🔧 大模型Cache-to-Cache通信框架提出\n18. 📈 谷歌公布太空AI计算项目Suncatcher\n19. 📈 Starcloud计划将数据中心送入太空\n20. 📈 苹果Apple Intelligence入华或推迟至iOS 26.4",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 8,
-  "total_count": 141,
-  "generated_time": "2026-03-22 08:50:21"
+  "total_count": 142,
+  "generated_time": "2026-03-23 08:35:53"
 }

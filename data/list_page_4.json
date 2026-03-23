@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "元象开源 XVERSE-Ent 泛娱乐大模型；IQuestLab 修正 IQuest-Coder-V1 模型基准测试得分【AI 早报 2026-01-04】",
+      "publish_date": "2026-01-04",
+      "bv_id": "BV1NoizB5EGR",
+      "organize_time": "2026-01-04 09:00:02",
+      "news_count": 6,
+      "overview": "1. 🚀 元象开源XVERSE-Ent泛娱乐大模型，支持免费商用\n2. 🔧 IQuestLab修正IQuest-Coder-V1基准测试得分至76.2%\n3. 📈 Anthropic拟斥资210亿美元采购100万颗TPU v7芯片\n4. 📈 Claude Code一小时完成谷歌团队一年开发的分布式Agents方案\n5. 🔧 xAI疑似新模型Grok 4.20现身竞技场进行隐形测试\n6. 🚀 英伟达NIM API新增GLM-4.7与MiniMax-M2.1免费调用服务",
+      "is_voice_generated": true
+    },
+    {
       "title": "Claude Code缔造者分享开发方案【AI早报 2026-01-03】",
       "publish_date": "2026-01-03",
       "bv_id": "BV1zRihBCEK9",
@@ -170,19 +179,10 @@
       "news_count": 20,
       "overview": "1. 🚀 阿里通义开源两款语音模型\n2. 🚀 OpenAI发布三款音频模型\n3. 🚀 AI2发布Bolmo字节级语言模型\n4. 🚀 NVIDIA推出Nemotron 3开源系列\n5. 🔧 KwaiKAT升级代码模型\n6. 🔧 LongCat启动Flash-Chat灰度更新\n7. 🚀 ResembleAI开源语音克隆模型\n8. 🔧 Google增强Gemini视觉报告功能\n9. 📰 Google Gemini Agent支持租车\n10. 📰 ChatGPT移动端支持分支对话\n11. 📰 Claude上线礼品卡服务\n12. 🚀 Manus发布1.6版本及移动开发功能\n13. 📰 蚂蚁集团AI应用升级为“阿福”\n14. 🚀 商汤发布Seko 2.0智能体\n15. 🚀 阿里云WAN 2.6即将发布\n16. 🔧 llama.cpp实现GPU内存自动化\n17. 🚀 IBM发布开源Agent CUGA\n18. 🚀 zai-org开源角色动画框架\n19. 🔧 RealGen提升图像生成真实感\n20. 🚀 苹果发布Sharp视图合成模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "xAI发布Grok应用更新【AI 早报 2025-12-15】",
-      "publish_date": "2025-12-15",
-      "bv_id": "BV1oumkBAEQM",
-      "organize_time": "2025-12-15 08:39:25",
-      "news_count": 5,
-      "overview": "1. 🚀 xAI发布Grok应用更新，支持多图回复\n2. 📈 OpenAI员工离职指控公司回避AI负面经济研究\n3. 🔧 Anthropic提出SGTM方法实现LLM知识移除\n4. 🚀 MiniGuard-v0.1安全分类器模型发布\n5. 🔧 CKA-Agent提出LLM安全护栏绕过框架",
-      "is_voice_generated": false
     }
   ],
   "page": 4,
   "total_pages": 8,
-  "total_count": 141,
-  "generated_time": "2026-03-22 08:50:21"
+  "total_count": 142,
+  "generated_time": "2026-03-23 08:35:53"
 }
