@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "MiniMax上线角色扮演模型M2-her API【AI 早报 2026-01-25】",
+      "publish_date": "2026-01-25",
+      "bv_id": "BV1wrzmBMEhS",
+      "organize_time": "2026-01-25 08:49:29",
+      "news_count": 4,
+      "overview": "1. 🚀 MiniMax上线角色扮演模型M2-her API\n2. 🔧 字节跳动发布扩散代码模型Stable-DiffCoder-8B\n3. 🚀 MiroThinker新增报告生成与多格式上传功能\n4. 📈 OpenAI正为ChatGPT开发购物车功能",
+      "is_voice_generated": false
+    },
+    {
       "title": "Anthropic 发布 Claude in Excel 预览版【AI 早报 2026-01-24】",
       "publish_date": "2026-01-24",
       "bv_id": "BV1B5z6BkEB8",
@@ -170,19 +179,10 @@
       "news_count": 15,
       "overview": "1. 🚀 英伟达发布Rubin架构及四大开源AI模型\n2. 🔧 TII发布Falcon H1R 7B混合架构推理模型\n3. 🚀 华为开源openPangu-VL-7B多模态模型\n4. 🚀 亚马逊发布Alexa+网页版并重构移动端应用\n5. 📈 波士顿动力与谷歌DeepMind达成AI战略合作\n6. 🚀 谷歌发布Google TV版Gemini新功能\n7. 📈 谷歌DeepMind暗示将恢复产品发布节奏\n8. 🔧 OpenAI调整Codex CLI周限额机制\n9. 📈 Trae与Supabase达成深度集成合作\n10. 🚀 腾讯ima.copilot上线PPT生成功能\n11. 🔧 字节跳动发布SeedFold生物分子结构预测模型\n12. 📈 字节跳动回应豆包AI眼镜出货传闻不实\n13. 🔧 字节跳动豆包1.8大模型恢复公开API调用\n14. 📈 腾讯元宝回应AI助手辱骂用户事件\n15. 📈 微信启动2026年度AI小程序成长计划",
       "is_voice_generated": true
-    },
-    {
-      "title": "智谱或将发布 GLM-Image 图像生成模型；MiroMind 开源 MiroThinker-v1.5【AI 早报 2026-01-05】",
-      "publish_date": "2026-01-05",
-      "bv_id": "BV1H9iWBcEDX",
-      "organize_time": "2026-01-05 09:00:49",
-      "news_count": 4,
-      "overview": "1. 🚀 智谱AI即将发布GLM-Image图像生成模型并适配Hugging Face\n2. 🚀 MiroMind开源MiroThinker-v1.5系列Agent模型\n3. 🚀 YuanLab.ai开源Yuan3.0 Flash多模态大模型\n4. 🚀 中国电信开源TeleChat3系列千亿级语义大模型",
-      "is_voice_generated": false
     }
   ],
   "page": 3,
   "total_pages": 8,
-  "total_count": 142,
-  "generated_time": "2026-03-23 08:35:53"
+  "total_count": 143,
+  "generated_time": "2026-03-24 08:51:29"
 }

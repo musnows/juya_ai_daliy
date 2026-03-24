@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "阿里千问发布 Qwen3.5 模型系列多个模型【AI 早报 2026-02-25】",
+      "publish_date": "2026-02-25",
+      "bv_id": "BV1hHfxBgEhb",
+      "organize_time": "2026-02-25 09:30:48",
+      "news_count": 28,
+      "overview": "1. 🚀 阿里千问发布Qwen3.5模型系列\n2. 🔧 Anthropic推出Claude Code Remote Control功能\n3. 🔧 Anthropic发布Claude Cowork重大更新\n4. 🚀 OpenAI全面开放GPT-5.3-Codex模型API\n5. 🚀 Inception发布Mercury 2扩散架构推理模型\n6. 🚀 Liquid AI发布LFM2-24B-A2B模型\n7. 🚀 Reve推出4K图像生成模型Reve V1.5\n8. 🔧 Cursor推出新版Cloud Agents\n9. 🔧 Cognition发布Devin 2.2版本\n10. 🔧 OpenAI扩展Responses API支持多格式输入\n11. 🔧 OpenRouter推出Effective Pricing参数\n12. 🚀 MiniMax推出MaxClaw模型\n13. 📈 TRAE发布国产模型选择建议\n14. 🚀 Google Labs上线AI音乐创作平台ProducerAI\n15. 🔧 Google升级Opal推出Agent Step\n16. 🔧 Notion在3.3版本推出Custom Agents\n17. 🔧 DeepSeek应用上线界面与功能优化\n18. 🔧 Perplexity推出OpenAI Realtime驱动语音模式\n19. 🔧 OpenClaw发布2026.2.23版本\n20. 📈 Meta与AMD签署AI基础设施战略合作协议\n21. 📈 xAI与美军签约部署Grok模型\n22. 🔧 Microsoft主权云支持本地断网运行AI模型\n23. 📈 英伟达与联发科合作开发Arm架构PC芯片\n24. 🚀 SambaNova发布SN50 AI芯片并与Intel达成合作\n25. 📈 MatX完成5亿美元B轮融资\n26. 📈 Canva收购Cavalry与Mango AI\n27. 🔧 Anthropic提出人格选择模型PSM解释AI拟人化行为\n28. 📈 Anthropic发布负责任扩展政策RSP 3.0",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 上线 gpt-realtime-1.5 语音模型【AI 早报 2026-02-24】",
       "publish_date": "2026-02-24",
       "bv_id": "BV1LHfrBxEUR",
@@ -170,19 +179,10 @@
       "news_count": 15,
       "overview": "1. 🚀 月之暗面发布并开源 Kimi K2.5 模型\n2. 🚀 通义实验室发布图像生成模型 Z-Image 标准版\n3. 🚀 OpenAI推出免费AI科研协作平台Prism\n4. 🔧 Google调整AI订阅用户权益体系\n5. 🚀 DeepSeek开源DeepSeek-OCR 2模型\n6. 🚀 腾讯优图发布4B参数视觉语言模型\n7. 🚀 Jan团队发布Jan-v3-4B-base-instruct模型\n8. 🚀 Arcee AI发布Trinity Large稀疏MoE模型\n9. 🚀 艾伦AI发布开源编码模型SERA系列\n10. 🔧 Google AI Overviews升级支持对话交互\n11. 🔧 Gemini新增模型切换键盘快捷指令\n12. 🔧 Gemini 3 Flash引入Agentic Vision能力\n13. 🔧 GitHub仓库新增Agents管理标签页\n14. 🚀 Kilo Code发布AI代码审查工具\n15. 📈 Kiro调整免费用户Opus 4.5访问权限",
       "is_voice_generated": false
-    },
-    {
-      "title": "MiniMax上线角色扮演模型M2-her API【AI 早报 2026-01-25】",
-      "publish_date": "2026-01-25",
-      "bv_id": "BV1wrzmBMEhS",
-      "organize_time": "2026-01-25 08:49:29",
-      "news_count": 4,
-      "overview": "1. 🚀 MiniMax上线角色扮演模型M2-her API\n2. 🔧 字节跳动发布扩散代码模型Stable-DiffCoder-8B\n3. 🚀 MiroThinker新增报告生成与多格式上传功能\n4. 📈 OpenAI正为ChatGPT开发购物车功能",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 8,
-  "total_count": 142,
-  "generated_time": "2026-03-23 08:35:53"
+  "total_count": 143,
+  "generated_time": "2026-03-24 08:51:29"
 }

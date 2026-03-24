@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Claude 桌面端上线电脑操控功能；OpenClaw 连更两版【AI 早报 2026-03-24】",
+      "publish_date": "2026-03-24",
+      "bv_id": "BV12EXABHEmG",
+      "organize_time": "2026-03-24 08:51:28",
+      "news_count": 7,
+      "overview": "1. 🚀 Claude 桌面端上线电脑操控功能，限 macOS 系统\n2. 🔧 OpenClaw 连更两个版本，功能大幅增强\n3. 🚀 Luma AI 发布 Uni-1 模型，实现推理与视觉同步处理\n4. 🚀 OpenAI 推出 ChatGPT Library 功能，面向付费用户推送\n5. 🔧 网易云音乐推出 CLI 工具，集成 OpenClaw 实现自动化\n6. 🚀 千问上线打车能力，支持自然语言叫车与支付\n7. 🔧 Cursor 介绍新型文本索引技术，降低 Agent 搜索延迟",
+      "is_voice_generated": false
+    },
+    {
       "title": "微信正式推出 ClawBot 插件；阶跃星辰上线 Step Plan 订阅套餐【AI 早报 2026-03-23】AI日报",
       "publish_date": "2026-03-23",
       "bv_id": "BV1avQRBBEsr",
@@ -170,19 +179,10 @@
       "news_count": 8,
       "overview": "1. 📈 OpenAI完成1100亿美元融资并与亚马逊达成战略合作\n2. 🔧 Google Antigravity恢复部分账户但重申禁用第三方工具\n3. 🔧 Anthropic重置Claude Code用户速率限制\n4. 🚀 谷歌将终止Gemini 3 Pro Preview服务\n5. 📈 Anthropic与美国战争部因AI安全限制爆发冲突\n6. 🚀 OpenAI发布心理健康功能更新并回应诉讼合并\n7. 📈 七家科技巨头将签署AI数据中心用电协议\n8. 🚀 阿里千问AI眼镜将于MWC亮相并开启预约",
       "is_voice_generated": false
-    },
-    {
-      "title": "阿里千问发布 Qwen3.5 模型系列多个模型【AI 早报 2026-02-25】",
-      "publish_date": "2026-02-25",
-      "bv_id": "BV1hHfxBgEhb",
-      "organize_time": "2026-02-25 09:30:48",
-      "news_count": 28,
-      "overview": "1. 🚀 阿里千问发布Qwen3.5模型系列\n2. 🔧 Anthropic推出Claude Code Remote Control功能\n3. 🔧 Anthropic发布Claude Cowork重大更新\n4. 🚀 OpenAI全面开放GPT-5.3-Codex模型API\n5. 🚀 Inception发布Mercury 2扩散架构推理模型\n6. 🚀 Liquid AI发布LFM2-24B-A2B模型\n7. 🚀 Reve推出4K图像生成模型Reve V1.5\n8. 🔧 Cursor推出新版Cloud Agents\n9. 🔧 Cognition发布Devin 2.2版本\n10. 🔧 OpenAI扩展Responses API支持多格式输入\n11. 🔧 OpenRouter推出Effective Pricing参数\n12. 🚀 MiniMax推出MaxClaw模型\n13. 📈 TRAE发布国产模型选择建议\n14. 🚀 Google Labs上线AI音乐创作平台ProducerAI\n15. 🔧 Google升级Opal推出Agent Step\n16. 🔧 Notion在3.3版本推出Custom Agents\n17. 🔧 DeepSeek应用上线界面与功能优化\n18. 🔧 Perplexity推出OpenAI Realtime驱动语音模式\n19. 🔧 OpenClaw发布2026.2.23版本\n20. 📈 Meta与AMD签署AI基础设施战略合作协议\n21. 📈 xAI与美军签约部署Grok模型\n22. 🔧 Microsoft主权云支持本地断网运行AI模型\n23. 📈 英伟达与联发科合作开发Arm架构PC芯片\n24. 🚀 SambaNova发布SN50 AI芯片并与Intel达成合作\n25. 📈 MatX完成5亿美元B轮融资\n26. 📈 Canva收购Cavalry与Mango AI\n27. 🔧 Anthropic提出人格选择模型PSM解释AI拟人化行为\n28. 📈 Anthropic发布负责任扩展政策RSP 3.0",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 8,
-  "total_count": 142,
-  "generated_time": "2026-03-23 08:35:53"
+  "total_count": 143,
+  "generated_time": "2026-03-24 08:51:29"
 }
