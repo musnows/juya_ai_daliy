@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 143 条早报</span>
+                        <span id="total-count">共 144 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-25.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">OpenAI 官方宣布关停 Sora 【AI 早报 2026-03-25】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-25</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV17WQCB7E4d</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 📈 OpenAI 官方宣布关停 Sora 应用
+2. 📈 LiteLLM 遭遇供应链攻击，两版本含窃凭证恶意代码
+3. 🚀 阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026
+4. 🚀 Ai2 发布 MolmoWeb 开源视觉模型及数据集
+5. 🔧 英伟达开源 Kimodo...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    16 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-25 09:07:10
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-03-24.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Claude 桌面端上线电脑操控功能；OpenClaw 连更两版【AI 早报 2026-03-24】</h3>
@@ -526,39 +558,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-08.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">智谱向部分用户发放 15 天订阅费用等值补偿赠金【AI 早报 2026-03-08】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-03-08</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1azNTzqEw2</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 📈 智谱向部分用户发放15天订阅费用等值补偿赠金
-2. 🚀 腾讯发布视觉语言模型Penguin-VL
-3. 🔧 Claude Code新增/Loop命令支持会话内周期性任务
-4. 🚀 xAI上线文本转语音API支持五种语音及情感控制
-5. 🔧 QQ支持接入OpenClaw
-6. 🔧 阿里巴巴与...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    7 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-03-08 09:02:07
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -605,7 +604,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 143;
+        let totalCount = 144;
         let isLoading = false;
 
         // 工具函数

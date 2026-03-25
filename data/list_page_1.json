@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 官方宣布关停 Sora 【AI 早报 2026-03-25】",
+      "publish_date": "2026-03-25",
+      "bv_id": "BV17WQCB7E4d",
+      "organize_time": "2026-03-25 09:07:10",
+      "news_count": 16,
+      "overview": "1. 📈 OpenAI 官方宣布关停 Sora 应用\n2. 📈 LiteLLM 遭遇供应链攻击，两版本含窃凭证恶意代码\n3. 🚀 阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026\n4. 🚀 Ai2 发布 MolmoWeb 开源视觉模型及数据集\n5. 🔧 英伟达开源 Kimodo 动作生成工具，适配类人机器人\n6. 🚀 京东云 JoyBuilder 上线 AI 编程订阅服务\n7. 🔧 Anthropic 发布 Claude Code 自动模式，支持安全权限自主决策\n8. 🔧 Adobe 升级 Firefly 平台，推出自定义模型功能\n9. 🚀 Linear 称 Issue Tracking 已死，推出 Agent 新功能\n10. 🔧 Anthropic 介绍 Harness 方案，优化 Claude 长流程开发能力\n11. 📈 国家数据局明确词元命名规范，日均调用量两年增长超千倍\n12. 📈 OpenAI 基金会启动运作，计划一年投资十亿美元推进 AGI\n13. 📈 OpenAI 调整 ChatGPT 电商战略，弱化结账功能转向产品发现\n14. 🚀 Arm 推出首款自研数据中心芯片 AGI CPU\n15. 📈 Agile Robots 与 Google DeepMind 达成战略合作\n16. 📈 Dreamer 团队加入 Meta，技术授权专注 AI Agent 开发",
+      "is_voice_generated": false
+    },
+    {
       "title": "Claude 桌面端上线电脑操控功能；OpenClaw 连更两版【AI 早报 2026-03-24】",
       "publish_date": "2026-03-24",
       "bv_id": "BV12EXABHEmG",
@@ -170,19 +179,10 @@
       "news_count": 6,
       "overview": "1. 🚀 Cognition 发布 SWE-1.6 模型早期预览版\n2. 🚀 Claude 登顶 App Store 并上线记忆导入功能\n3. 🔧 Anthropic 研究揭示 LLM 低成本去匿名化风险\n4. 🔧 Anthropic 分享 Claude Code 工具开发经验\n5. 📈 美军在空袭伊朗行动中使用 Claude 模型\n6. 🚀 Qwen 3.5 将推四款小型稠密开源模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI 完成 1100 亿美元融资并与亚马逊达成战略合作【AI 早报 2026-02-28】",
-      "publish_date": "2026-02-28",
-      "bv_id": "BV1UPA4zLENA",
-      "organize_time": "2026-02-28 09:08:29",
-      "news_count": 8,
-      "overview": "1. 📈 OpenAI完成1100亿美元融资并与亚马逊达成战略合作\n2. 🔧 Google Antigravity恢复部分账户但重申禁用第三方工具\n3. 🔧 Anthropic重置Claude Code用户速率限制\n4. 🚀 谷歌将终止Gemini 3 Pro Preview服务\n5. 📈 Anthropic与美国战争部因AI安全限制爆发冲突\n6. 🚀 OpenAI发布心理健康功能更新并回应诉讼合并\n7. 📈 七家科技巨头将签署AI数据中心用电协议\n8. 🚀 阿里千问AI眼镜将于MWC亮相并开启预约",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 8,
-  "total_count": 143,
-  "generated_time": "2026-03-24 08:51:29"
+  "total_count": 144,
+  "generated_time": "2026-03-25 09:07:12"
 }

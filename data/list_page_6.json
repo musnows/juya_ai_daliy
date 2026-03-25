@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "阿里巴巴通义实验室发布Z-Image图像生成模型【AI 早报 2025-11-27】",
+      "publish_date": "2025-11-27",
+      "bv_id": "BV1Z2UqBxEhM",
+      "organize_time": "2025-11-27 09:06:59",
+      "news_count": 12,
+      "overview": "1. 🚀 阿里通义发布Z-Image图像生成模型\n2. 🚀 Google Gemini推出互动图像学习功能\n3. 📈 OpenAI将推Apps目录并预期2.2亿付费用户\n4. 🚀 Perplexity上线个性化记忆与语言导师功能\n5. 🚀 智谱AI发布小凹语音输入法\n6. 🚀 腾讯混元3D引擎上线国际站及API\n7. 🚀 AllenAI发布Deep Research Tulu Agent\n8. 🔧 Anthropic发布长效Agent工作流程方案\n9. 🔧 Gemini CLI发布v0.17.0扩展新功能\n10. 🔧 GitHub Mobile支持外部应用启动Copilot Agent\n11. 🚀 Adobe发布Project Graph节点式创作系统\n12. 📈 英伟达重申AI基础设施领先并计划生态投资",
+      "is_voice_generated": false
+    },
+    {
       "title": "Black Forest Labs 发布 FLUX.2 系列模型【AI 早报 2025-11-26】",
       "publish_date": "2025-11-26",
       "bv_id": "BV1rNU8B3EkQ",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 OpenAI发布GPT-5-Codex-Mini及Codex升级\n2. 🔧 MiniMax公布M2模型API计费与编程套餐\n3. 🔧 腾讯开源Hunyuan World 1.1训练代码\n4. 🚀 StepFun开源Step-Audio-EditX音频编辑模型\n5. 🚀 Cursor推出composer-1模型限时免费\n6. 🔧 SGLang发布Diffusion引擎加速图像生成\n7. 📈 百度ERNIE-5.0-Preview登顶LMArena文本榜第二\n8. 📈 OpenAI泄露GPT-5.1型号及发布日期\n9. 🚀 Cerebras发布Kimi-Linear-REAP-35B-A3B-Instruct模型\n10. 🔧 Google发布Nested Learning新范式及Hope模型\n11. 🔧 NotebookLM支持Google Drive文件上传\n12. 📈 Kosmos AI科学家实现自主科学发现",
       "is_voice_generated": false
-    },
-    {
-      "title": "硅谷地震！Kimi K2 Thinking 炸裂登场；GPT 5.1吗？OpenRouter上线Polaris Alpha【AI 早报 2025-11-07】",
-      "publish_date": "2025-11-07",
-      "bv_id": "BV1PP2MB1EPN",
-      "organize_time": "2025-11-22 20:37:24",
-      "news_count": 14,
-      "overview": "1. 🚀 月之暗面发布Kimi K2 Thinking模型\n2. 🚀 OpenRouter上线Polaris Alpha隐身模型\n3. 🚀 科大讯飞发布讯飞星火X1.5及AI产品\n4. 🚀 inceptionlabs发布下一代扩散模型Mercury\n5. 🔧 Gemini API发布文件搜索工具\n6. 📈 OpenAI修复云任务问题并补偿免费积分\n7. 🔧 VS Code内联补全功能正式开源\n8. 🔧 Zed编辑器新增Auggie CLI与Opencode智能体\n9. 📈 Novita AI宣布KAT-Coder API限时免费\n10. 🚀 CodeBuddy国内版上线GLM-4.6模型\n11. 🔧 LMArena发布Arena Expert专家评估框架\n12. 🔧 NotebookLM手机应用新增测验与闪卡功能\n13. 🔧 Google Finance新增Deep Search功能\n14. 📈 Google Labs将Opal扩展至160+国家",
-      "is_voice_generated": false
     }
   ],
   "page": 6,
   "total_pages": 8,
-  "total_count": 143,
-  "generated_time": "2026-03-24 08:51:29"
+  "total_count": 144,
+  "generated_time": "2026-03-25 09:07:12"
 }
