@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Cognition 发布 SWE-1.6 模型早期预览版【AI 早报 2026-03-02】",
+      "publish_date": "2026-03-02",
+      "bv_id": "BV1FAPVzYEEX",
+      "organize_time": "2026-03-02 08:57:32",
+      "news_count": 6,
+      "overview": "1. 🚀 Cognition 发布 SWE-1.6 模型早期预览版\n2. 🚀 Claude 登顶 App Store 并上线记忆导入功能\n3. 🔧 Anthropic 研究揭示 LLM 低成本去匿名化风险\n4. 🔧 Anthropic 分享 Claude Code 工具开发经验\n5. 📈 美军在空袭伊朗行动中使用 Claude 模型\n6. 🚀 Qwen 3.5 将推四款小型稠密开源模型",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 完成 1100 亿美元融资并与亚马逊达成战略合作【AI 早报 2026-02-28】",
       "publish_date": "2026-02-28",
       "bv_id": "BV1UPA4zLENA",
@@ -170,19 +179,10 @@
       "news_count": 12,
       "overview": "1. 🚀 谷歌DeepMind发布实验性AI世界模型Project Genie\n2. 🚀 通义千问开源Qwen3-ASR语音识别模型\n3. 📈 OpenAI取消API验证并澄清用户发现所有权政策\n4. 🔧 Google DeepMind发布基因组预测模型AlphaGenome\n5. 🚀 Skywork AI开源SkyReels-V3多模态视频生成模型\n6. 🚀 OpenMOSS开源MOVA同步音视频生成模型\n7. 🔧 飞桨发布PaddleOCR-VL-1.5视觉语言OCR模型\n8. 🚀 MiniMax发布Music 2.5音乐生成模型\n9. 🚀 xAI正式发布Grok Imagine API图像生成接口\n10. 🔧 Cursor发布AI代码溯源标准Agent Trace\n11. 🔧 Gemini API上线Gemini 3系列模型与Computer Use工具\n12. 🚀 Gradio团队发布Daggr助力AI工作流开发",
       "is_voice_generated": false
-    },
-    {
-      "title": "腾讯开源HunyuanImage 3.0图像编辑模型【AI 早报 2026-01-29】",
-      "publish_date": "2026-01-29",
-      "bv_id": "BV19vzdB5EuS",
-      "organize_time": "2026-01-29 09:09:58",
-      "news_count": 18,
-      "overview": "1. 🚀 腾讯开源HunyuanImage 3.0图像编辑模型\n2. 🚀 美团开源LongCat-Flash-Lite模型\n3. 🚀 MiniMax发布M2-her多角色交互模型\n4. 🔧 Cerebras推出MiniMax-M2.1-REAP剪枝模型\n5. 🚀 昆仑万维发布AI音乐生成模型Mureka V8\n6. 🚀 Robbyant Team开源交互式世界模型LingBot-World\n7. 🚀 JetBrains推出ACP Agent Registry\n8. 🔧 Gemini CLI发布0.26.0版新增多项功能\n9. 🚀 月之暗面发布Kimi Agent SDK\n10. 🔧 LM Studio发布0.4.0版本\n11. 🚀 Google正式发布LiteRT框架\n12. 🚀 谷歌为Chrome上线Gemini侧边栏\n13. 🚀 微软在Excel推出Copilot Agent模式\n14. 🚀 谷歌为Gemini新增SAT与JEE备考功能\n15. 🚀 雅虎推出AI答案引擎Yahoo Scout\n16. 🚀 Genspark发布AI Workspace 2.0获3亿美元融资\n17. 🚀 Vidu AI发布Agent 1.0\n18. 📈 Arena品牌重塑聚焦AI技术前沿评估",
-      "is_voice_generated": false
     }
   ],
   "page": 2,
   "total_pages": 8,
-  "total_count": 144,
-  "generated_time": "2026-03-25 09:07:12"
+  "total_count": 145,
+  "generated_time": "2026-03-26 09:22:56"
 }

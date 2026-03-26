@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "黄仁勋称英伟达彻底退出中国市场，Nvidia 计算卡中国市场份额归零【AI 早报 2025-10-18】",
+      "publish_date": "2025-10-18",
+      "bv_id": "BV1kZWpzLETi",
+      "organize_time": "2025-11-23 15:28:56",
+      "news_count": 14,
+      "overview": "1. 🔧 Google Gemini API集成Maps Grounding\n2. 🚀 豆包开启长期记忆功能众测\n3. 🔧 Cerebras发布REAP MoE压缩方法\n4. 🔧 美团LongCat开源音频编解码器\n5. 🚀 GitHub Copilot更新GPT-4.1模型\n6. 🔧 Firecrawl开源Open Agent Builder\n7. 🚀 李飞飞团队发布RTFM世界模型\n8. 🚀 DiffSynth发布Face-to-Photo模型\n9. 🚀 Hunyuan发布FlashWorld模型\n10. 🚀 OpenAI推出企业版MCP支持\n11. 🔧 xAI API支持服务端工具调用\n12. 📈 Nvidia中国市场份额归零\n13. 📈 Google CEO确认Gemini 3.0年内发布\n14. 📰 宾大研究称粗鲁提示提升ChatGPT准确率",
+      "is_voice_generated": false
+    },
+    {
       "title": "MCP落幕！Claude Skills新神登场！【AI 早报 2025-10-17】",
       "publish_date": "2025-10-17",
       "bv_id": "BV1b7Wkz5E5r",
@@ -39,6 +48,6 @@
   ],
   "page": 8,
   "total_pages": 8,
-  "total_count": 144,
-  "generated_time": "2026-03-25 09:07:12"
+  "total_count": 145,
+  "generated_time": "2026-03-26 09:22:56"
 }

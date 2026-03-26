@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google 发布音乐生成模型 Lyria 3 Pro 和 Lyria 3 Clip【AI 早报 2026-03-26】",
+      "publish_date": "2026-03-26",
+      "bv_id": "BV1fbXHB4EEa",
+      "organize_time": "2026-03-26 09:22:54",
+      "news_count": 20,
+      "overview": "1. 🚀 Google 发布 Lyria 3 Pro 和 Lyria 3 Clip 音乐生成模型\n2. 🔧 美团开源 LongCat-Next 多模态离散自回归模型\n3. 🚀 北大与字节跳动联合发布开源视频生成模型 Helios\n4. 🔧 Google 明确 Gemini CLI 支持 ACP、A2A 及 Headless 模式\n5. 📈 GitHub 更新 Copilot 政策，个人版默认用于模型训练\n6. 🔧 Figma 向 AI agents 开放 Canvas 接口\n7. 🚀 谷歌推出 Vibe Coding XR，自然语言生成 WebXR 应用\n8. 🔧 Mozilla 推出 cq 项目实现 Agent 知识共享标准\n9. 🔧 Anthropic 为 Claude 移动端新增工作相关功能\n10. 🔧 OpenClaw 发布新版，增强兼容性并支持 Teams 与 Slack\n11. 🔧 Nous Research 发布 Hermes Agent v0.4.0\n12. 🔧 MiniMax 开源 Office Skills，支持四大办公文档格式\n13. 📈 阿里云 JVSClaw 全面开放，取消邀请码并新增 5GB 存储\n14. 🔧 Google Research 发布 TurboQuant，KV 缓存降低6倍\n15. 📈 OpenAI 披露 Model Spec 制定逻辑与评估套件\n16. 📈 ARC 发布 ARC-AGI-3 基准，现有模型得分均不足1%\n17. 📈 OpenAI 节省算力研发下代模型，Sam Altman 转攻数据中心建设\n18. 📈 OpenAI 推出安全漏洞赏金计划，聚焦AI滥用风险\n19. 🚀 英特尔发布 Arc Pro B70 显卡，售价949美元配32GB显存\n20. 📈 苹果据报重构 Siri，将推出独立应用",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 官方宣布关停 Sora 【AI 早报 2026-03-25】",
       "publish_date": "2026-03-25",
       "bv_id": "BV17WQCB7E4d",
@@ -170,19 +179,10 @@
       "news_count": 20,
       "overview": "1. 📈 智谱GLM Coding Plan套餐开启退款通道\n2. 🚀 千问团队开源Qwen3.5小尺寸模型系列\n3. 🔧 阶跃星辰开源Step 3.5 Flash模型及训练框架\n4. 🚀 IQuestLab开源IQuest-Coder-V1系列代码模型权重\n5. 🚀 小红书开源FireRed-OCR模型\n6. 🚀 通义实验室发布Fun-CosyVoice 3.5与Fun-AudioGen-VD语音模型\n7. 🚀 Jan团队发布Jan-Code-4B模型\n8. 🔧 OpenClaw发布2026.3.1版本\n9. 🔧 agent-browse上线Electron技能\n10. 📈 Anthropic推出免费AI课程\n11. 📈 Kimi开放平台推出限时充值返券活动\n12. 📈 美团推出Tabbit浏览器并陷开源抄袭争议\n13. 🔧 Anthropic向免费用户开放Claude记忆功能\n14. 🚀 MiniMax推出移动端MaxClaw\n15. 🚀 千问发布AI眼镜，售价1997元\n16. 🔧 字节跳动联合清华发布CUDA Agent强化学习系统\n17. 📈 MiniMax发布2025财年全年业绩报告\n18. 📈 阿里巴巴统一AI品牌为千问\n19. 📈 智谱Z.ai启动AI创业者扶持计划\n20. 🚀 马斯克确认今日发布Grok 4.20 Beta 2",
       "is_voice_generated": false
-    },
-    {
-      "title": "Cognition 发布 SWE-1.6 模型早期预览版【AI 早报 2026-03-02】",
-      "publish_date": "2026-03-02",
-      "bv_id": "BV1FAPVzYEEX",
-      "organize_time": "2026-03-02 08:57:32",
-      "news_count": 6,
-      "overview": "1. 🚀 Cognition 发布 SWE-1.6 模型早期预览版\n2. 🚀 Claude 登顶 App Store 并上线记忆导入功能\n3. 🔧 Anthropic 研究揭示 LLM 低成本去匿名化风险\n4. 🔧 Anthropic 分享 Claude Code 工具开发经验\n5. 📈 美军在空袭伊朗行动中使用 Claude 模型\n6. 🚀 Qwen 3.5 将推四款小型稠密开源模型",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 8,
-  "total_count": 144,
-  "generated_time": "2026-03-25 09:07:12"
+  "total_count": 145,
+  "generated_time": "2026-03-26 09:22:56"
 }

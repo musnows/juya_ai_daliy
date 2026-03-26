@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "狙击谷歌，OpenAI发布GPT-5-Codex-Mini模型及Codex服务升级【AI 早报 2025-11-08】",
+      "publish_date": "2025-11-08",
+      "bv_id": "BV1FB1UBDEct",
+      "organize_time": "2025-11-22 20:36:56",
+      "news_count": 12,
+      "overview": "1. 🚀 OpenAI发布GPT-5-Codex-Mini及Codex升级\n2. 🔧 MiniMax公布M2模型API计费与编程套餐\n3. 🔧 腾讯开源Hunyuan World 1.1训练代码\n4. 🚀 StepFun开源Step-Audio-EditX音频编辑模型\n5. 🚀 Cursor推出composer-1模型限时免费\n6. 🔧 SGLang发布Diffusion引擎加速图像生成\n7. 📈 百度ERNIE-5.0-Preview登顶LMArena文本榜第二\n8. 📈 OpenAI泄露GPT-5.1型号及发布日期\n9. 🚀 Cerebras发布Kimi-Linear-REAP-35B-A3B-Instruct模型\n10. 🔧 Google发布Nested Learning新范式及Hope模型\n11. 🔧 NotebookLM支持Google Drive文件上传\n12. 📈 Kosmos AI科学家实现自主科学发现",
+      "is_voice_generated": false
+    },
+    {
       "title": "硅谷地震！Kimi K2 Thinking 炸裂登场；GPT 5.1吗？OpenRouter上线Polaris Alpha【AI 早报 2025-11-07】",
       "publish_date": "2025-11-07",
       "bv_id": "BV1PP2MB1EPN",
@@ -170,19 +179,10 @@
       "news_count": 4,
       "overview": "1. 🚀 Google AI Studio新增系统提示保存功能\n2. 🔧 Gemini App增强LaTeX渲染与编辑能力\n3. 📈 OpenAI确认2025年不发布GPT-6模型\n4. 📈 OpenAI GPT-5数学突破被证实为误报",
       "is_voice_generated": false
-    },
-    {
-      "title": "黄仁勋称英伟达彻底退出中国市场，Nvidia 计算卡中国市场份额归零【AI 早报 2025-10-18】",
-      "publish_date": "2025-10-18",
-      "bv_id": "BV1kZWpzLETi",
-      "organize_time": "2025-11-23 15:28:56",
-      "news_count": 14,
-      "overview": "1. 🔧 Google Gemini API集成Maps Grounding\n2. 🚀 豆包开启长期记忆功能众测\n3. 🔧 Cerebras发布REAP MoE压缩方法\n4. 🔧 美团LongCat开源音频编解码器\n5. 🚀 GitHub Copilot更新GPT-4.1模型\n6. 🔧 Firecrawl开源Open Agent Builder\n7. 🚀 李飞飞团队发布RTFM世界模型\n8. 🚀 DiffSynth发布Face-to-Photo模型\n9. 🚀 Hunyuan发布FlashWorld模型\n10. 🚀 OpenAI推出企业版MCP支持\n11. 🔧 xAI API支持服务端工具调用\n12. 📈 Nvidia中国市场份额归零\n13. 📈 Google CEO确认Gemini 3.0年内发布\n14. 📰 宾大研究称粗鲁提示提升ChatGPT准确率",
-      "is_voice_generated": false
     }
   ],
   "page": 7,
   "total_pages": 8,
-  "total_count": 144,
-  "generated_time": "2026-03-25 09:07:12"
+  "total_count": 145,
+  "generated_time": "2026-03-26 09:22:56"
 }
