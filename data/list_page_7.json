@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "Google发布Gemini多光谱数据分析方法【AI 早报 2025-11-09】",
+      "publish_date": "2025-11-09",
+      "bv_id": "BV1jE1oBiEN5",
+      "organize_time": "2025-11-22 20:36:37",
+      "news_count": 8,
+      "overview": "1. 🔧 Google发布Gemini多光谱数据分析方法\n2. 🚀 OpenRouter新增视频输入支持\n3. 🔧 xAI优化Grok-4-Fast提示词降低拒答率\n4. 🚀 Cerebras Code集成GLM-4.6模型\n5. 🚀 Letta发布Context-Bench技能评估套件\n6. 📈 OpenAI发布AI进展与建议报告\n7. 📈 OpenAI澄清政府支持与贷款担保区别\n8. 🚀 Movement Labs发布Momentum模型与MPU芯片",
+      "is_voice_generated": false
+    },
+    {
       "title": "狙击谷歌，OpenAI发布GPT-5-Codex-Mini模型及Codex服务升级【AI 早报 2025-11-08】",
       "publish_date": "2025-11-08",
       "bv_id": "BV1FB1UBDEct",
@@ -170,19 +179,10 @@
       "news_count": 4,
       "overview": "1. 🚀 Google新模型现身LMArena或命名Gemini 3\n2. 🔧 Google AI Studio更新API密钥管理界面\n3. 🔧 谷歌为NotebookLM开发Slides生成功能\n4. 📈 Meta将禁用WhatsApp第三方通用聊天机器人",
       "is_voice_generated": false
-    },
-    {
-      "title": "在为Gemini3做准备？AI Studio 和 Gemini 应用同时发布重大更新！【AI 早报 2025-10-19】",
-      "publish_date": "2025-10-19",
-      "bv_id": "BV1dRWZzPEFc",
-      "organize_time": "2025-11-23 15:28:36",
-      "news_count": 4,
-      "overview": "1. 🚀 Google AI Studio新增系统提示保存功能\n2. 🔧 Gemini App增强LaTeX渲染与编辑能力\n3. 📈 OpenAI确认2025年不发布GPT-6模型\n4. 📈 OpenAI GPT-5数学突破被证实为误报",
-      "is_voice_generated": false
     }
   ],
   "page": 7,
   "total_pages": 8,
-  "total_count": 145,
-  "generated_time": "2026-03-26 09:22:56"
+  "total_count": 146,
+  "generated_time": "2026-03-27 09:08:52"
 }

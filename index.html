@@ -116,13 +116,44 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 145 条早报</span>
+                        <span id="total-count">共 146 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-27.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">Google 发布 Gemini 3.1 Flash Live 实时音频模型【AI 早报 2026-03-27】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-27</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV19LX8BuE8m</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 Google 发布 Gemini 3.1 Flash Live 实时音频模型
+2. 🚀 Suno 推出 Suno v5.5 模型及个性化声音功能
+3. 🔧 Cohere 发布开源语音识别模型 Cohere Transcribe
+4. 🚀 Mistral AI 发布 Voxtral TTS ...
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    22 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-27 09:08:50
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-03-26.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google 发布音乐生成模型 Lyria 3 Pro 和 Lyria 3 Clip【AI 早报 2026-03-26】</h3>
@@ -526,37 +557,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-13.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">GitHub 大砍 Copilot 学生计划；Claude 上线生成交互式图表功能【AI 早报 2026-03-13】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-03-13</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV142c2zhELS</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限
-2. 🔧 Claude 支持生成式 UI，聊天界面构建交互式图表
-3. 🔧 OpenAI 视频 API 上线新功能
-4. 🚀 NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    24 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-03-13 09:29:37
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -603,7 +603,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 145;
+        let totalCount = 146;
         let isLoading = false;
 
         // 工具函数
