@@ -116,13 +116,45 @@
                         刷新
                     </button>
                     <div class="stats">
-                        <span id="total-count">共 146 条早报</span>
+                        <span id="total-count">共 147 条早报</span>
                     </div>
                 </div>
 
                 <!-- 早报列表 -->
                 <div id="newspapers-list" class="newspapers-list">
                     
+        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-28.html'">
+            <div class="newspaper-header">
+                <h3 class="newspaper-title">智谱向 GLM Coding Plan 用户开放 GLM-5.1 模型使用【AI 早报 2026-03-28】</h3>
+                <div class="newspaper-meta">
+                    <div class="meta-item">
+                        <i class="fas fa-calendar"></i>
+                        <span>2026-03-28</span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-video"></i>
+                        <span>BV1TXXgBGE6a</span>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="newspaper-overview">
+                1. 🚀 智谱向GLM Coding Plan用户开放GLM-5.1模型使用
+2. 🚀 KwaiKAT发布KAT-Coder-Pro V2代码模型
+3. 🔧 Meta发布SAM 3.1，支持单次追踪16个目标
+4. 🔧 Claude Code上线Windows PowerShell原生运行支持
+5....
+            </div>
+            <div class="newspaper-stats">
+                <div class="stats-count">
+                    <i class="fas fa-list"></i>
+                    12 条资讯
+                </div>
+                <div style="color: #999; font-size: 12px;">
+                    2026-03-28 08:54:37
+                </div>
+            </div>
+        </div>
         <div class="newspaper-card" onclick="window.location.href='detail/2026-03-27.html'">
             <div class="newspaper-header">
                 <h3 class="newspaper-title">Google 发布 Gemini 3.1 Flash Live 实时音频模型【AI 早报 2026-03-27】</h3>
@@ -525,38 +557,6 @@
                 </div>
             </div>
         </div>
-        <div class="newspaper-card" onclick="window.location.href='detail/2026-03-14.html'">
-            <div class="newspaper-header">
-                <h3 class="newspaper-title">Claude 正式上线 100 万 token 上下文，取消阶梯计费【AI 早报 2026-03-14】</h3>
-                <div class="newspaper-meta">
-                    <div class="meta-item">
-                        <i class="fas fa-calendar"></i>
-                        <span>2026-03-14</span>
-                    </div>
-                    <div class="meta-item">
-                        <i class="fas fa-video"></i>
-                        <span>BV1LDwHz1E6Q</span>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="newspaper-overview">
-                1. 🚀 Claude 正式上线 100 万 token 上下文，取消阶梯计费
-2. 🚀 上海人工智能实验室发布 InternVL-U 统一多模态模型
-3. 📈 智谱调整 GLM Coding Plan 折扣，拼好模门槛提高
-4. 🔧 Codex 应用正式上线自动化功能与主题个性化
-5. 🔧 Chr...
-            </div>
-            <div class="newspaper-stats">
-                <div class="stats-count">
-                    <i class="fas fa-list"></i>
-                    21 条资讯
-                </div>
-                <div style="color: #999; font-size: 12px;">
-                    2026-03-14 09:15:28
-                </div>
-            </div>
-        </div>
                 </div>
 
                 <!-- 查看更多按钮 -->
@@ -603,7 +603,7 @@
     <script>
         let currentPage = 1;
         let pageSize = 15;
-        let totalCount = 146;
+        let totalCount = 147;
         let isLoading = false;
 
         // 工具函数

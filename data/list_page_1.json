@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "智谱向 GLM Coding Plan 用户开放 GLM-5.1 模型使用【AI 早报 2026-03-28】",
+      "publish_date": "2026-03-28",
+      "bv_id": "BV1TXXgBGE6a",
+      "organize_time": "2026-03-28 08:54:37",
+      "news_count": 12,
+      "overview": "1. 🚀 智谱向GLM Coding Plan用户开放GLM-5.1模型使用\n2. 🚀 KwaiKAT发布KAT-Coder-Pro V2代码模型\n3. 🔧 Meta发布SAM 3.1，支持单次追踪16个目标\n4. 🔧 Claude Code上线Windows PowerShell原生运行支持\n5. 📈 OpenRouter限制多地用户调用部分模型，称遵上游要求\n6. 📈 OpenAI重置Codex限额，调整开发者访问策略\n7. 🔧 NotebookLM支持后台生成与移动端推送通知\n8. 🚀 钉钉开源dws跨平台命令行工具，面向AI Agent场景\n9. 🚀 硅基流动推出AI算力运营服务\n10. 📈 Anthropic胜诉，拟四季度筹资600亿美元上市\n11. 📈 OpenAI ChatGPT广告年化收入突破1亿美元\n12. 📈 Anthropic泄露未发布模型Claude Mythos",
+      "is_voice_generated": false
+    },
+    {
       "title": "Google 发布 Gemini 3.1 Flash Live 实时音频模型【AI 早报 2026-03-27】",
       "publish_date": "2026-03-27",
       "bv_id": "BV19LX8BuE8m",
@@ -170,19 +179,10 @@
       "news_count": 19,
       "overview": "1. 🚀 OpenAI 发布 GPT-5.4 模型\n2. 🚀 Lightricks 发布 LTX-2.3 音视频模型及开源编辑器\n3. 🚀 Ai2 发布全开源混合架构模型 Olmo Hybrid 7B\n4. 🔧 腾讯混元团队开源 HY-WU 可拓展框架\n5. 🚀 Luma AI 推出统一生成模型 Uni-1\n6. 🔧 Cursor 推出 Automations 功能\n7. 🔧 Google 开源通用命令行工具 gws\n8. 🔧 Google 发布 Gemini CLI v0.32.1\n9. 🔧 Android Developers 发布模型评估基准 Android Bench\n10. 🔧 FlashAttention-4 发布适配 Blackwell 架构\n11. 🔧 Unsloth 发布 Qwen3.5 全系模型 GGUF 最终量化版\n12. 📈 阿里 CEO 回应通义实验室核心人员离职风波\n13. 📈 Apple Music 推出 AI 内容透明度标签\n14. 📈 谷歌 Gemini 遭起诉被指诱导用户自杀\n15. 📈 Anthropic 正式被五角大楼列为供应链风险\n16. 📈 美国政府拟草案限制 AI 芯片全球销售\n17. 📈 传苹果将 Siri 及云服务托管至谷歌云\n18. 📈 OpenAI 传将推出双向音频模型\n19. 📈 OpenAI 传将缩减 ChatGPT 原生电商功能",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI发布Windows版Codex应用【AI 早报 2026-03-05】",
-      "publish_date": "2026-03-05",
-      "bv_id": "BV1jJP6ziEaQ",
-      "organize_time": "2026-03-05 09:29:22",
-      "news_count": 18,
-      "overview": "1. 🚀 OpenAI发布Windows版Codex应用并开源原生Agent沙盒\n2. 🚀 MiniMax发布Music 2.5+纯音乐创作模型\n3. 🔧 北大字节Canva联合团队发布14B视频生成模型Helios\n4. 🔧 YuanLab.ai开源万亿参数多模态模型Yuan3.0 Ultra\n5. 🚀 Cursor正式登陆JetBrains IDE\n6. 📈 Antigravity提升非高峰期用户配额\n7. 🔧 Mistral发布Vibe 2.3.0版，新增网络搜索功能\n8. 🔧 OpenAI上线Symphony开源项目\n9. 🚀 Google AI Mode上线Canvas功能\n10. 🔧 NotebookLM发布Cinematic Video Overviews视频生成更新\n11. 🔧 OpenAI集成Codex升级Prism平台\n12. 🚀 Raycast发布AI对话构建桌面应用工具Glaze\n13. 🚀 Grok推出定制智能体功能\n14. 📈 高德纳验证Claude攻克图论难题\n15. 🔧 Black Forest Labs联合MIT发布多模态生成模型Self-Flow研究\n16. 📈 火山引擎公布Seedance2.0视频生成服务定价\n17. 🚀 Claude Code即将推出Auto Mode权限模式\n18. 📈 据称OpenAI研发代码托管平台以替代GitHub",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 8,
-  "total_count": 146,
-  "generated_time": "2026-03-27 09:08:52"
+  "total_count": 147,
+  "generated_time": "2026-03-28 08:54:39"
 }
