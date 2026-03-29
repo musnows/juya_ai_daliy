@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "OpenAI 推出 Codex 用例库；Gemma 4 或将发布【AI 早报 2026-03-29】AI日报",
+      "publish_date": "2026-03-29",
+      "bv_id": "BV1zQX1BfE4j",
+      "organize_time": "2026-03-29 08:40:09",
+      "news_count": 7,
+      "overview": "1. 🚀 OpenAI 推出 Codex 用例库，展示应用场景与使用技巧\n2. 🔧 飞书开源 lark-cli，支持 AI Agent 覆盖11个业务域\n3. 📈 OpenAI 明确 Sora 应用4月停服，API将于9月下线\n4. 🔧 fnOS 新增 OpenClaw 应用中心安装支持\n5. 📈 RaBitQ 团队质疑 Google TurboQuant 论文存在学术不端\n6. 📈 谷歌拟出资数十亿支持 Anthropic 得州数据中心建设\n7. 🚀 Google 新一代开源模型 Gemma 4 或将发布",
+      "is_voice_generated": false
+    },
+    {
       "title": "智谱向 GLM Coding Plan 用户开放 GLM-5.1 模型使用【AI 早报 2026-03-28】",
       "publish_date": "2026-03-28",
       "bv_id": "BV1TXXgBGE6a",
@@ -170,19 +179,10 @@
       "news_count": 17,
       "overview": "1. 🚀 腾讯云推出 Coding Plan 开发者支持计划\n2. 📈 研究曝光 Shadow API 模型欺诈风险\n3. 🔧 印企 Sarvam AI 开源 30B 与 105B 大模型\n4. 🔧 OpenVGLab 开源动画生成模型 OmniLottie\n5. 🚀 OpenAI 发布代码安全工具 Codex Security\n6. 📈 OpenAI 启动开源维护者支持计划\n7. 🔧 Claude Code 桌面版新增本地定时任务功能\n8. 🚀 飞书升级免费版 API 额度并推 OpenClaw 插件\n9. 🔧 阿里发布纯 JavaScript GUI Agent Page Agent\n10. 🔧 OpenAI 发布 GPT-5.4 提示词工程指南\n11. 🔧 小米测试移动端系统智能体 Xiaomi miclaw\n12. 🚀 OpenAI 发布 ChatGPT for Excel 测试版及金融数据集成\n13. 🚀 Anthropic 推出企业级 Claude Marketplace\n14. 📈 Anthropic 发布 AI 劳动力市场影响研究报告\n15. 🔧 Anthropic 发现 AI 存在“评估感知”现象\n16. 🔧 OpenAI 称前沿模型推理可控性显著偏低\n17. 🚀 OpenAI 发布教育成果测量套件",
       "is_voice_generated": false
-    },
-    {
-      "title": "OpenAI 发布 GPT-5.4 模型【AI 早报 2026-03-06】",
-      "publish_date": "2026-03-06",
-      "bv_id": "BV1b7PnzKEfi",
-      "organize_time": "2026-03-06 10:15:01",
-      "news_count": 19,
-      "overview": "1. 🚀 OpenAI 发布 GPT-5.4 模型\n2. 🚀 Lightricks 发布 LTX-2.3 音视频模型及开源编辑器\n3. 🚀 Ai2 发布全开源混合架构模型 Olmo Hybrid 7B\n4. 🔧 腾讯混元团队开源 HY-WU 可拓展框架\n5. 🚀 Luma AI 推出统一生成模型 Uni-1\n6. 🔧 Cursor 推出 Automations 功能\n7. 🔧 Google 开源通用命令行工具 gws\n8. 🔧 Google 发布 Gemini CLI v0.32.1\n9. 🔧 Android Developers 发布模型评估基准 Android Bench\n10. 🔧 FlashAttention-4 发布适配 Blackwell 架构\n11. 🔧 Unsloth 发布 Qwen3.5 全系模型 GGUF 最终量化版\n12. 📈 阿里 CEO 回应通义实验室核心人员离职风波\n13. 📈 Apple Music 推出 AI 内容透明度标签\n14. 📈 谷歌 Gemini 遭起诉被指诱导用户自杀\n15. 📈 Anthropic 正式被五角大楼列为供应链风险\n16. 📈 美国政府拟草案限制 AI 芯片全球销售\n17. 📈 传苹果将 Siri 及云服务托管至谷歌云\n18. 📈 OpenAI 传将推出双向音频模型\n19. 📈 OpenAI 传将缩减 ChatGPT 原生电商功能",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 8,
-  "total_count": 147,
-  "generated_time": "2026-03-28 08:54:39"
+  "total_count": 148,
+  "generated_time": "2026-03-29 08:40:10"
 }
