@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "DeepSeek 网页与App端对话服务屡现异常【AI 早报 2026-03-30】",
+      "publish_date": "2026-03-30",
+      "bv_id": "BV1qdXoBdEYy",
+      "organize_time": "2026-03-30 08:40:31",
+      "news_count": 4,
+      "overview": "1. 📈 DeepSeek 网页与App端对话服务频繁出现异常\n2. 🔧 OpenClaw 更新集成 xAI 及插件审批功能\n3. 🚀 OpenAI 拟推出 Codex-only 订阅计划\n4. 🔧 Meta 测试 Avocado 模型，性能仍落后于主流",
+      "is_voice_generated": false
+    },
+    {
       "title": "OpenAI 推出 Codex 用例库；Gemma 4 或将发布【AI 早报 2026-03-29】AI日报",
       "publish_date": "2026-03-29",
       "bv_id": "BV1zQX1BfE4j",
@@ -170,19 +179,10 @@
       "news_count": 7,
       "overview": "1. 📈 智谱向部分用户发放15天订阅费用等值补偿赠金\n2. 🚀 腾讯发布视觉语言模型Penguin-VL\n3. 🔧 Claude Code新增/Loop命令支持会话内周期性任务\n4. 🚀 xAI上线文本转语音API支持五种语音及情感控制\n5. 🔧 QQ支持接入OpenClaw\n6. 🔧 阿里巴巴与武汉大学联合推出AgeMem记忆框架\n7. 📈 Cursor加码自研模型",
       "is_voice_generated": false
-    },
-    {
-      "title": "腾讯云推出 Coding Plan【AI 早报 2026-03-07】",
-      "publish_date": "2026-03-07",
-      "bv_id": "BV1sCPbznESN",
-      "organize_time": "2026-03-07 09:15:46",
-      "news_count": 17,
-      "overview": "1. 🚀 腾讯云推出 Coding Plan 开发者支持计划\n2. 📈 研究曝光 Shadow API 模型欺诈风险\n3. 🔧 印企 Sarvam AI 开源 30B 与 105B 大模型\n4. 🔧 OpenVGLab 开源动画生成模型 OmniLottie\n5. 🚀 OpenAI 发布代码安全工具 Codex Security\n6. 📈 OpenAI 启动开源维护者支持计划\n7. 🔧 Claude Code 桌面版新增本地定时任务功能\n8. 🚀 飞书升级免费版 API 额度并推 OpenClaw 插件\n9. 🔧 阿里发布纯 JavaScript GUI Agent Page Agent\n10. 🔧 OpenAI 发布 GPT-5.4 提示词工程指南\n11. 🔧 小米测试移动端系统智能体 Xiaomi miclaw\n12. 🚀 OpenAI 发布 ChatGPT for Excel 测试版及金融数据集成\n13. 🚀 Anthropic 推出企业级 Claude Marketplace\n14. 📈 Anthropic 发布 AI 劳动力市场影响研究报告\n15. 🔧 Anthropic 发现 AI 存在“评估感知”现象\n16. 🔧 OpenAI 称前沿模型推理可控性显著偏低\n17. 🚀 OpenAI 发布教育成果测量套件",
-      "is_voice_generated": false
     }
   ],
   "page": 1,
   "total_pages": 8,
-  "total_count": 148,
-  "generated_time": "2026-03-29 08:40:10"
+  "total_count": 149,
+  "generated_time": "2026-03-30 08:40:33"
 }

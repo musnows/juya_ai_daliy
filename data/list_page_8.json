@@ -1,6 +1,15 @@
 {
   "newspapers": [
     {
+      "title": "绞杀 Claude Code，Kilo Code 与 Cline 推出 CLI 工具！【AI 早报 2025-10-23】",
+      "publish_date": "2025-10-23",
+      "bv_id": "BV1XusqzMEGr",
+      "organize_time": "2025-11-23 15:27:50",
+      "news_count": 16,
+      "overview": "1. 🚀 百川发布M2 Plus医疗大模型\n2. 🚀 腾讯开源HunyuanWorld-Mirror模型\n3. 🚀 OpenRouter上线andromeda-alpha隐身模型\n4. 🔧 Soniox发布v3语音识别ASR模型\n5. 🚀 Liquid AI发布LFM2-VL-3B边缘视觉模型\n6. 🚀 Ai2发布olmOCR-2-7B-1025文档识别模型\n7. 🚀 Pokee AI发布PokeeResearch-7B研究模型\n8. 🔧 Grok Imagine推出视频超分辨率功能\n9. 🔧 OpenRouter推出Exacto提升工具调用精度\n10. 🚀 Claude Desktop应用正式版发布\n11. 🔧 Gemini CLI发布v0.10.0版本\n12. 🚀 Kilo Code发布CLI编程工具\n13. 🚀 Cline发布Cline CLI预览版\n14. 🚀 快手上线CodeFlicker编程工具\n15. 🔧 豆包编程推出全新创作模式\n16. 🚀 Genspark AI推出AI Developer 2.0",
+      "is_voice_generated": false
+    },
+    {
       "title": "资深AI博主自用哪些编程工具和装备？",
       "publish_date": "2025-10-22",
       "bv_id": "BV1cRs4zZELb",
@@ -75,6 +84,6 @@
   ],
   "page": 8,
   "total_pages": 8,
-  "total_count": 148,
-  "generated_time": "2026-03-29 08:40:10"
+  "total_count": 149,
+  "generated_time": "2026-03-30 08:40:33"
 }
